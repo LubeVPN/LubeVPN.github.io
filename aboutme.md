@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About Us / 關於我們me
-subtitle: Circumventive Surfing / 繞越上網Why you'd want to go on a date with me
+title: About Us
+subtitle: Anonymously Circumventive Surfing<br>匿名地繞越上網
 ---
 
 My name is Inigo Montoya. I have the following qualities:
