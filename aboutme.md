@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About Us / 關於我們
-subtitle: Circumventive Surfing<br>繞越上網
+subtitle: Circumventive Surfing / 繞越上網
 ---
 
 My name is Inigo Montoya. I have the following qualities:
