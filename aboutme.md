@@ -1,19 +1,19 @@
 ---
 layout: page
-title: About Us
+title: About RUT
 subtitle: Anonymously Circumventive Surfing<br>匿名地繞越上網
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+- Rainbow Unicorn Team (RUT, the developers of LubeVPN).
+- Rainbow Unicorn Team (RUT) is a distributed workforce from Berlin, Frankfurt, Kyiv and Thailand.
+- RUT members research and develop anonymously and collaboratively on ZeroNet.
+- Pygmy Marmoset (PM) is the sole representative for licensing LubeVPN commercially.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- 彩虹獨角獸團隊(RUT)，是項目開發團隊。
+- RUT成員於世界各地分佈式辦公，已知地區包括都柏林、法蘭克福、德克蘭、基輔與泰國。
+- RUT主力成員之間在零网（ZeroNet）匿名迭代協作研開。
+- 侏狨猴(PM)是其唯一商務代表處理證書分發的業務處置者。
 
-What else do you need?
-
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbMTU5Nzk5ODgxN119
 -->
