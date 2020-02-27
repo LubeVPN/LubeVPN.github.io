@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About RUT
-subtitle: Safer Browsing - Anonymity Circumvention<br>匿名地繞越上網
+subtitle: Safer Browsing - Anonymity & Circumvention<br>更安全地上網上網
 ---
 
 - Rainbow Unicorn Team (RUT, the developers of LubeVPN).
@@ -15,5 +15,5 @@ subtitle: Safer Browsing - Anonymity Circumvention<br>匿名地繞越上網
 - 侏狨猴(PM)是其唯一商務代表處理證書分發的業務處置者。
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwMzE2MDY3NiwxNTk3OTk4ODE3XX0=
+eyJoaXN0b3J5IjpbLTE0ODcyNjcxMDcsMTU5Nzk5ODgxN119
 -->
