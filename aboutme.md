@@ -1,11 +1,11 @@
 ---
 layout: page
 title: About RUT
-subtitle: Anonymously Circumventive Surfing<br>匿名地繞越上網
+subtitle: Safer Browsing - Anonymity Circumvention<br>匿名地繞越上網
 ---
 
 - Rainbow Unicorn Team (RUT, the developers of LubeVPN).
-- Rainbow Unicorn Team (RUT) is a distributed workforce from Berlin, Frankfurt, Kyiv and Thailand.
+- Rainbow Unicorn Team (RUT) is a distributed workforce with members working from Berlin, Frankfurt, Kyiv and Thailand.
 - RUT members research and develop anonymously and collaboratively on ZeroNet.
 - Pygmy Marmoset (PM) is the sole representative for licensing LubeVPN commercially.
 
@@ -15,5 +15,5 @@ subtitle: Anonymously Circumventive Surfing<br>匿名地繞越上網
 - 侏狨猴(PM)是其唯一商務代表處理證書分發的業務處置者。
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5Nzk5ODgxN119
+eyJoaXN0b3J5IjpbMTYwMzE2MDY3NiwxNTk3OTk4ODE3XX0=
 -->
