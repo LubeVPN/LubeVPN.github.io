@@ -11,7 +11,9 @@ tags: [personal, self help, finance]
 - RUT members research and develop this proejct anonymously.
 - Pygmy Marmoset (PM) is the sole representative its commercial operation.
 
+<div align="center">
 ## 安全上網：匿名 與 穿透審查
+</div>
 
 - 彩虹獨角獸團隊(RUT)，是項目開發團隊。
 - RUT成員来自世界各地分佈式地辦公：
