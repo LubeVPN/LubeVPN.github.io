@@ -1,12 +1,8 @@
 ---
 layout: post
-image: /img/hello_world.jpeg
-bigimg: /img/path.jpg
 title: LubeVPN: Anonymity & Circumvention
 subtitle: Surf with LubeVPN or Unplug your Internet
-gh-repo: daattali/beautiful-jekyll
-gh-badge: [star, fork, follow]
-tags: [Intro][VPN][LubeVPN][Description][Information]
+tags: [Intro][VPN][LubeVPN]
 comments: true
 ---
 
