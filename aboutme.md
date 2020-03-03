@@ -2,6 +2,7 @@
 layout: page
 title: RUT
 subtitle: Distributed Workforce
+googlefonts: ["Noto Sans HK"]
 ---
 
 - Rainbow Unicorn Team (RUT) develop LubeVPN.
