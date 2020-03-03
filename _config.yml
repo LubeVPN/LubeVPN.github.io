@@ -20,9 +20,9 @@ description: Proxy Service Based on Fully Decentralized Citium Net
 
 # List of links in the navigation bar
 navbar-links:
-  About Us<br>關於我們: "aboutme"
-  LubeVPN<br>順道VPN:
-    - Circumvention<br>越過網審: "circumvention"
+  越過網審<br>Circumvention: "circumvention"
+  關於我們<br>About Us: "aboutme"
+
 #    - Learn markdown: "http://www.markdowntutorial.com/"
 #  Author's home: "http://deanattali.com"
 ###############################################################################
