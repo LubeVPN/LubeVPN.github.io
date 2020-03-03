@@ -20,8 +20,11 @@ description: Proxy Service Based on Fully Decentralized Citium Net
 
 # List of links in the navigation bar
 navbar-links:
-  越過網審<br>Circumvention: "circumvention"
-  關於我們<br>About Us: "aboutme"
+  繞過萬里網審<br>Circumvention: "circumvention"
+  不寫Log政策<br>No Log Policy: "no_log_policy"
+  開發團隊<br>About Us: "aboutme"
+
+
 
 #    - Learn markdown: "http://www.markdowntutorial.com/"
 #  Author's home: "http://deanattali.com"

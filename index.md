@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 顺道VPN / LubeVPN
+title: 顺道VPN
 subtitle: Anonymity & Circumvention
 googlefonts: ["Noto Sans HK"]
 ---
