@@ -1,10 +1,12 @@
 ---
 layout: post
-title: Test markdown
-subtitle: Each post also has a subtitle
-gh-repo: daattali/beautiful-jekyll
-gh-badge: [star, fork, follow]
-tags: [test]
+image: /img/hello_world.jpeg # Insert image on top replacing the logo
+bigimg: /img/path.jpg # Image behind title, subtitle and date
+title: LubeVPN: Anonymity & Circumvention
+subtitle: Surf with LubeVPN or Unplug your Internet
+# gh-repo: daattali/beautiful-jekyll
+# gh-badge: [star, fork, follow]
+tags: [Intro][VPN][LubeVPN][Description][Information]
 comments: true
 ---
 
@@ -59,7 +61,7 @@ var foo = function(x) {
 foo(3)
 {% endhighlight %}
 
-## Boxes
+##
 You can add notification, warning and error boxes like this:
 
 ### Notification
