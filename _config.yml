@@ -146,7 +146,7 @@ staticman:
 
 # Excerpt Word Length
 # Truncates the excerpt to the specified number of words on the index page
-excerpt_length: 50000
+excerpt_length: 10
 
 # Character used to separate site title and description in HTML document title
 # and RSS feed title
@@ -163,6 +163,7 @@ markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
 paginate: 5
+paginate_path: "/blog/page:num/"
 
 kramdown:
   input: GFM
