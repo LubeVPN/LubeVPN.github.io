@@ -8,7 +8,7 @@ googlefonts: ["Noto Sans HK"]
 /* --- General --- */
 
 body {
-  font-family: 'Noto Sans HK', 'Times New Roman', serif;
+  font-family: 'Noto Sans HK', 'Microsoft YaHei', '微软雅黑', 'Open Sans', 'Helvetica Neue', 'Times New Roman', serif;
   font-size: 18px;
   color: #404040;
   position: relative;
