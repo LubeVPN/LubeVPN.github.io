@@ -1,6 +1,6 @@
 ---
 layout: page
-title: RUT
+title: Rainbow Unicorn Team
 subtitle: Distributed Workforce
 googlefonts: ["Noto Sans HK"]
 ---
