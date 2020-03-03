@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About RUT
-subtitle: Safer Browsing - Anonymity & Circumvention<br>更安全地上網上網
+subtitle: Safer Browsing - Anonymity & Circumvention
 ---
 
 - Rainbow Unicorn Team (RUT, the developers of LubeVPN).
