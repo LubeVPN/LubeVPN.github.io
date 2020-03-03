@@ -21,10 +21,8 @@ description: Proxy Service Based on Fully Decentralized Citium Net
 # List of links in the navigation bar
 navbar-links:
   About Us<br>關於我們: "aboutme"
+  LubeVPN<br>順道VPN:
     - Circumvention<br>越過網審: "circumvention"
-###############################################################################
-#  Resources:
-#    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
 #    - Learn markdown: "http://www.markdowntutorial.com/"
 #  Author's home: "http://deanattali.com"
 ###############################################################################
