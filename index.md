@@ -25,7 +25,9 @@ LubeVPN is proprietorially built based on __an open and fully decentralized tech
 | $57.45 | 180 | 110 GB † |
 | $86.15 | 360 | 120 GB † |
 
-†每個流量封頂越期不補：激活起每30天一個週期限流，用不完的流量不能補償到下一個週期。
+{: .box-note}
+**†** 每個流量封頂越期不補：激活起每30天一個週期限流，用不完的流量不能補償到下一個週期。
+
 
 ## 安裝與試用<br>Installation & Trial Run
 
