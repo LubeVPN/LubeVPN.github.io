@@ -470,11 +470,11 @@ footer .theme-by {
   text-shadow: 1px 1px 3px #000;
 }
 .intro-header .page-heading h1 {
-  margin-top: 10px;
+  margin-top: 10;
   font-size: 46px;
 }
 .intro-header .post-heading h1 {
-  margin-top: 10px;
+  margin-top: 10;
   font-size: 28px;
 }
 .intro-header .page-heading .page-subheading,
@@ -482,7 +482,7 @@ footer .theme-by {
   font-size: 24px;
   line-height: 1.1;
   display: block;
-  font-family: 'Noto Sans HK', 'Microsoft YaHei', '微软雅黑', 'Roboto', 'Open Sans', 'Helvetica Neue', 'Times New Roman', serif;
+  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-weight: 300;
   margin: 10px 0 0;
 }
