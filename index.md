@@ -20,7 +20,7 @@ LubeVPN is proprietorially built based on __an open and fully decentralized tech
 
 {: style="color: navy; font-size: 120%; table-align: center;"}
 | 套餐<br>價格<br>(美元) | 享用<br>時長<br>(日)  | 流量<br>封頂<br>(/30日) |
-|--|--:|--|
+|:--:|--:|:--:|
 | $12.95 | 30 | 100 GB † |
 | $57.45 | 180 | 110 GB † |
 | $86.15 | 360 | 120 GB † |
