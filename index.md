@@ -5,10 +5,10 @@ subtitle: Anonymity & Circumvention
 googlefonts: ["Noto Sans HK"]
 ---
 
-{: .box-error}
-**溫馨提醒:** 《順道VPN》服務，只供口碑相傳用戶使用！敬請體諒！
-
 ![LubeVPN](/img/ads.png "Groundbreaking VPN Tech"){: .center-block :}
+
+{: .box-warning}
+**溫馨提醒:** 《順道VPN》服務只供口碑相傳用戶使用。如有不便，敬請原諒！
 
 《順道VPN》(Lube VPN) 是基於開源及完全去中心化的 Citium Net (Citium Net) 開發的互聯網隱私及信息加速商業服務應用。它把坊間流行的VPN系統作出了比較重大的改良和升級。下載並安裝 CNC (Citium Net Client) Citium客戶端 ，便可以開始試用《順道VPN》。
 
@@ -17,6 +17,7 @@ LubeVPN is proprietorially built based on an open and fully decentralized techno
 ## 順道VPN費率<br>LubeVPN Fee
 
 推廣活動期間，按使用付款購買時長收費。一次性購買優惠套餐時間越長，折扣優惠越大。每個流量封頂越期不補：激活起每30天一個週期限流，用不完的流量不能補償到下一個週期。
+
 
 | 套餐<br>價格<br>(美元) | 享用<br>時長<br>(日)  | 流量<br>封頂<br>(/30日) |
 |--|--|--|
