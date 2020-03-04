@@ -7,11 +7,11 @@ googlefonts: ["Noto Sans HK"]
 
 ![LubeVPN](/img/ads.png "Groundbreaking VPN Tech"){: .center-block :}
 
-LubeVPN is proprietorially built based on an open and fully decentralized technology: Citium Net. It is also a showcase dApp on CNC (Citium Net Client). LubeVPN is a radical departure and upgrade from all the popular VPN systems in the open marketspace.
-
 《順道VPN》(Lube VPN) 是基於開源及完全去中心化的Citium Net (Citium Net) 開發的互聯網隱私及信息加速商業服務應用。它把坊間流行的VPN系統作出了比較重大的改良和升級。下載並安裝 CNC (Citium Net Client) Citium客戶端 ，便可以開始試用《順道VPN》。
 
-## Installation & Trial Run<br>安裝與試用
+LubeVPN is proprietorially built based on an open and fully decentralized technology: Citium Net. It is also a showcase dApp on CNC (Citium Net Client). LubeVPN is a radical departure and upgrade from all the popular VPN systems in the open marketspace.
+
+## 安裝與試用<br>Installation & Trial Run
 
 《順道VPN》只以口碑相傳，**不供未經口碑介紹的陌生用戶使用**。雖然任何人都可以自由安裝得到 CNC (Citium Net Client) 安卓客戶端，但**必須獲取推薦人的授權，才可以開始試用《順道VPN》。
 
@@ -24,7 +24,7 @@ LubeVPN is proprietorially built based on an open and fully decentralized techno
  5. 在 CIM 的聯絡人聊天中，接收被激活的授權證書
  6. 正式開始試用 LubeVPN（順道VPN）。
 
-## LubeVPN Fee<br>順道VPN費率
+## 順道VPN費率<br>LubeVPN Fee
 
 推廣活動期間，按使用付款購買時長收費。一次性購買優惠套餐時間越長，折扣優惠越大。每個流量封頂越期不補：激活起每30天一個週期限流，用不完的流量不能補償到下一個週期。
 
@@ -33,24 +33,3 @@ LubeVPN is proprietorially built based on an open and fully decentralized techno
 | $9.95 | 30 | 100 GB |
 | $39.95 | 180 | 110 GB |
 | $49.95 | 360 | 120 GB |
-
-# Glossary 詞彙
-
-- CNC / Citium客戶端：Citium Net Client
-- CIM / Citium即時通訊軟體： Citium Instant Messenger
-- Referrer / 推薦人：CIM的邀請者(Inviter)
-- Friend / 好友：CIM中未才成為「聯絡人」的應邀者(Invitee)
-- Contact List / 聯絡人列表：CIM的聯絡人列表
-- Contact / 聯絡人：聯絡人列表名單上的推薦人和其他應邀了的好友的統稱。
-- Cert Signing Allowance (CSA) / 證書簽發上限
-- Cert Maximum Validation (CMV) / 證書激活上限
-- LubeVPN Trial Acceleration Cert (TAC) / 順道VPN試用加速證書
-- LubeVPN Paid Acceleration Cert (PAC) / 順道VPN付費加速證書
-- Friend Invitation Code (FIC) / 好友邀請碼
-- Cert Signing Code (CSC) / 證書簽名碼
-- White Labeling (WL) / 白標商合作模式
-- Affiliate (AF) / 推廣商合作模式
-- Rainbow Unicorn Team (RUT) / 彩虹獨角獸團隊
-- Rainbow Unicorn Team (PM) / 侏狨猴
-- Sower (SW) / 播種天使
-- Sprout Trunk Fruit (STF) 苗芽樹幹果子賬戶
