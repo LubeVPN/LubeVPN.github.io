@@ -7,7 +7,7 @@ googlefonts: ["Noto Sans HK"]
 
 ![LubeVPN](/img/ads.png "Groundbreaking VPN Tech"){: .center-block :}
 
-《順道VPN》(Lube VPN) 是基於開源及完全去中心化的Citium Net (Citium Net) 開發的互聯網隱私及信息加速商業服務應用。它把坊間流行的VPN系統作出了比較重大的改良和升級。下載並安裝 CNC (Citium Net Client) Citium客戶端 ，便可以開始試用《順道VPN》。
+《順道VPN》(Lube VPN) 是基於開源及完全去中心化的 Citium Net (Citium Net) 開發的互聯網隱私及信息加速商業服務應用。它把坊間流行的VPN系統作出了比較重大的改良和升級。下載並安裝 CNC (Citium Net Client) Citium客戶端 ，便可以開始試用《順道VPN》。
 
 LubeVPN is proprietorially built based on an open and fully decentralized technology: Citium Net. It is also a showcase dApp on CNC (Citium Net Client). LubeVPN is a radical departure and upgrade from all the popular VPN systems in the open marketspace.
 
