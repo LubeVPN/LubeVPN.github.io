@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 不同凡響技術
+title: 開天闢地的技術
 subtitle: Ground-Breaking Technology
 googlefonts: ["Noto Sans HK"]
 ---
