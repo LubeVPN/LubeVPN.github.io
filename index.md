@@ -23,7 +23,7 @@ LubeVPN is proprietorially built based on __an open and fully decentralized tech
 | $12.95 | 30 | 100 GB |
 | $57.45 | 180 | 110 GB |
 | $86.15 | 360 | 120 GB |
-{: style="color:gray; font-size: 80%; text-align: center;"}
+{: style="color:gray; font-size: 180%; text-align: center;"}
 
 ## 安裝與試用<br>Installation & Trial Run
 
