@@ -13,6 +13,9 @@ LubeVPN is proprietorially built based on an open and fully decentralized techno
 
 ## 安裝與試用<br>Installation & Trial Run
 
+{: .box-note}
+**溫馨提示:** 只供口碑相傳用戶使用
+
 《順道VPN》只以口碑相傳，**不供未經口碑介紹的陌生用戶使用**。雖然任何人都可以自由安裝得到 CNC (Citium Net Client) 安卓客戶端，但**必須獲取推薦人的授權，才可以開始試用《順道VPN》。
 
 留意：ZNC 暫時只兼容安卓系統。安裝 ZNC 與開始試用《順道VPN》辦法如下：
