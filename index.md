@@ -18,12 +18,12 @@ LubeVPN is proprietorially built based on __an open and fully decentralized tech
 
 推廣活動期間，按使用付款購買時長收費。一次性購買優惠套餐時間越長，折扣優惠越大。每個流量封頂越期不補：激活起每30天一個週期限流，用不完的流量不能補償到下一個週期。
 
+{: style="color: navy; font-size: 120%; text-align: center;"}
 | 套餐<br>價格<br>(美元) | 享用<br>時長<br>(日)  | 流量<br>封頂<br>(/30日) |
 |--|--|--|
 | $12.95 | 30 | 100 GB |
 | $57.45 | 180 | 110 GB |
 | $86.15 | 360 | 120 GB |
-{: style="color:gray; font-size: 180%; text-align: center;"}
 
 ## 安裝與試用<br>Installation & Trial Run
 
