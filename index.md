@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 顺道VPN
+title: 順道VPN
 subtitle: Anonymity & Circumvention
 googlefonts: ["Noto Sans HK"]
 ---
