@@ -39,10 +39,10 @@ LubeVPN is proprietorially built based on __an open and fully decentralized tech
 
  1. 下載 ZNC 的 apk 文件，安裝在你的手機上
  2. 讓推薦人添加你為 CIM 的聯絡人
- 3. 請推薦人在 CIM 中給你「試用加速證書」
- 4. 在 CIM 中，接收與激活「試用加速證書」
- 6. 去 ZNC 設定界面中撥亮 LubeVPN 切換鍵
- 7. 愉快地開始試用 LubeVPN（順道VPN）！
+ 3. 請推薦人在 CIM 中發給你「試用加速證書」
+ 4. 在聊天對話中點激接受「試用加速證書」
+ 5. 去 ZNC 設定界面中撥亮 LubeVPN 切換鍵
+ 6. 愉快地開始試用 LubeVPN（順道VPN）！
 
  {: .box-error}
  **防止被殺後台：** 由於手機存在運行內存回收機制，若後台同時運行進程較多，系統會自動將優先級較低的應用進行關閉（俗稱：「被殺後台」）以保證後續啟動的應用正常運行。為了讓CIM及時收到信息或授權證書，請在網上搜索一下您的手機型號該如何防止app被殺後台，並且按著辦，防止Citium客戶端（ZNC）開啟之後被殺後台。
