@@ -2,6 +2,7 @@
 layout: page
 title: 開天闢地的技術
 subtitle: Ground-Breaking Technology
+bigimg: /img/inno.jpg
 googlefonts: ["Noto Sans HK"]
 ---
 
