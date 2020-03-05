@@ -43,9 +43,9 @@ LubeVPN is proprietorially built based on __an open and fully decentralized tech
 - 開始試用 LubeVPN 上網
 - 感覺好用，付費使用！
 
-## 順道VPN費率<br>LubeVPN Fee
+## 順道VPN 會員費<br>LubeVPN Membership Fee
 
- 推廣活動期間，按使用付款購買時長收費。一次性購買優惠套餐時間越長，折扣優惠越大。
+會員開戶推廣活動期間，按時長收費。一次性購買時間越長，則折扣優惠越大。
 
  {: style="color: navy; font-size: 120%; table-align: center;"}
  | 套餐<br>價格<br>(美元) | 享用<br>時長<br>(日)  | 流量<br>封頂<br>(/30日) |
