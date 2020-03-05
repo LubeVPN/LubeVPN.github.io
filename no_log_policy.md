@@ -2,6 +2,7 @@
 layout: page
 title: 不寫Log政策
 subtitle: No Log Policy
+bigimg: /img/circle.jpg
 googlefonts: ["Noto Sans HK"]
 ---
 
