@@ -28,10 +28,11 @@ LubeVPN is proprietorially built based on __an open and fully decentralized tech
 {: .box-note}
 **†** 每個流量封頂越期不補：激活起每30天一個週期限流，用不完的流量不能補償到下一個週期。
 
+<br>
 
 ## 安裝與試用<br>Installation & Trial Run
 
-《順道VPN》只以口碑相傳，**不供未經口碑介紹的陌生用戶使用**。雖然任何人都可以自由安裝得到 CNC (Citium Net Client) 安卓客戶端，但僅僅可以用軟體內的《Citium即時通訊軟體》 (CIM) 。任何人都必須獲取推薦人的授權才可以開始試用《順道VPN》。
+《順道VPN》只以口碑相傳，**不供未經口碑介紹的陌生用戶使用**。雖然任何人都可以下載和安裝得到 CNC (Citium Net Client) 安卓客戶端，但陌生用戶僅僅可以用軟體內的《Citium即時通訊軟體》 (CIM) 。任何人都必須獲取推薦人的授權才可以開始試用《順道VPN》。
 
 留意：ZNC 暫時只兼容安卓系統。安裝 ZNC 與開始試用《順道VPN》辦法如下：
 
