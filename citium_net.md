@@ -2,6 +2,7 @@
 layout: page
 title: 完全去中心化網絡
 subtitle: 100% Decentralized Citium Net
+bigimg: /img/web.jpg
 googlefonts: ["Noto Sans HK"]
 ---
 
