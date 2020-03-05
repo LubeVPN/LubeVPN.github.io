@@ -2,7 +2,7 @@
 layout: page
 title: 繞過萬里網審
 subtitle: Censorship Circumvention
-bigimg: /img/Barriers.jpg
+bigimg: /img/ccc.jfif
 googlefonts: ["Noto Sans HK"]
 ---
 
