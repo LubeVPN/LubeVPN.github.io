@@ -2,7 +2,7 @@
 layout: page
 title: 順道VPN
 subtitle: Anonymity & Circumvention
-bigimg: /img/portal.jpg
+bigimg: /img/front.png
 googlefonts: ["Noto Sans HK"]
 ---
 
