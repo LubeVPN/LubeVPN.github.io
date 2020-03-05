@@ -2,7 +2,7 @@
 layout: page
 title: 彩虹獨角獸團隊
 subtitle: Rainbow Unicorn Team
-bigimg: /img/Rainbow_Unicorn_Baby.png
+bigimg: /img/rainbow.jpg
 googlefonts: ["Noto Sans HK"]
 ---
 
