@@ -27,10 +27,10 @@ LubeVPN is proprietorially built based on __an open and fully decentralized tech
  {: .box-error}
  **防止被殺後台：** 由於手機存在運行內存回收機制，若後台同時運行進程較多，系統會自動將優先級較低的應用進行關閉（俗稱：「被殺後台」）以保證後續啟動的應用正常運行。為了讓 CNC 內的 Citium 即時聊天工具及時收到信息與授權證書，請在網上搜索一下您的手機型號該如何防止app被殺後台，並且按著辦，防止 Citium Net 客戶端（CNC）開啟之後被殺後台。
 
-### 添加好友成為聯絡人
+### 添加好友成為 CIM 聯絡人
 
 - 推薦人添加你為 Citium IM 聯絡人
-- 例如用其他通信辦法交換好友授權
+- 可以用其他通信辦法交換好友授權
 
 ### 順道VPN試用激活
 
