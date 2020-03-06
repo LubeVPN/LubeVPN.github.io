@@ -30,7 +30,7 @@ h2 {
   color: #4682B4;
 }
 h3 {
-  color: #8B0000;
+  color: #cc7000;
 }
 a {
   color: {{ site.link-col }};
