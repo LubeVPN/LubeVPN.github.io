@@ -20,13 +20,21 @@ description: Proxy Service Based on Fully Decentralized Citium Net
 
 # List of links in the navigation bar
 navbar-links:
-  常見疑問<br>FAQ: "faq"
-  服務和特色<br>Service & Features:
-    - 繞過萬里網審<br>Circumvention: "circumvention"
-    - 絕不寫Log政策<br>No Log Policy: "no_log_policy"
-    - 開天闢地的技術<br>Technology: "technology"
-    - 去中心化網絡<br>Citium Net: "citium_net"
+  常見疑問<br>FAQ:
+    - 如何確保匿私？<br>Anonymity & Privacy: "anonymity_privacy"
+  繞過萬里網審<br>Circumvention: "circumvention"
+  絕不寫Log政策<br>No Log Policy: "no_log_policy"
+  開天闢地的技術<br>Technology: "technology"
+  去中心化網絡<br>Citium Net: "citium_net"
   開發團隊<br>About Us: "about_us"
+
+
+#  服務和特色<br>Service & Features:
+#  - 繞過萬里網審<br>Circumvention: "circumvention"
+#  - 絕不寫Log政策<br>No Log Policy: "no_log_policy"
+#  - 開天闢地的技術<br>Technology: "technology"
+#  - 去中心化網絡<br>Citium Net: "citium_net"
+#  開發團隊<br>About Us: "about_us"
 
 
 
