@@ -2,7 +2,6 @@
 layout: page
 title: 常見疑問
 subtitle: Frequently Asked Question
-bigimg: /img/rain3.jpg
 googlefonts: ["Noto Sans HK"]
 ---
 
