@@ -6,13 +6,13 @@ bigimg: /img/imrs.jfif
 googlefonts: ["Noto Sans HK"]
 ---
 
-## 如何確保我享用VPN服務的隱匿性？
+## 順道VPN隱匿性
 
 順道VPN 是用了最新的去中心化網絡加密技術西蒂姆（Citium）管理用戶和會員的。每個用戶都靠「用戶證書」去證明自己的身份，而該證書是用戶自己生成的，是自我證明的。
 
-## 私鑰和公鑰
+### 私鑰和公鑰
 
-每個用戶都有 私鑰（private key）和 公鑰（public key）。
+每個順道VPN用戶都有 私鑰（private key）和 公鑰（public key）。
 
 私鑰和公鑰彼此是對應關係。公鑰是從私鑰派生出來的；而要從公鑰出發找到私鑰，「在計算上是不可行的」（computationally infeasible）。在正規術語中，這被稱為「陷門函數」（trapdoor function）——在一個方向上很容易處理、但在反方向上執行起來極具挑戰性。
 
