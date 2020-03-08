@@ -20,7 +20,7 @@ description: Proxy Service Based on Fully Decentralized Citium Net
 
 # List of links in the navigation bar
 navbar-links:
-  匿名和隱私<br>Anonymity & Privacy: "anonymity_privacy"
+  匿名和隱私<br>Anonymity: "anonymity_privacy"
   繞過萬里網審<br>Circumvention: "circumvention"
   絕不寫Log政策<br>No Log Policy: "no_log_policy"
   開天闢地的技術<br>Technology: "technology"
