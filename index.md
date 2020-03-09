@@ -3,7 +3,6 @@ layout: page
 title: 順道VPN
 subtitle: Anonymity & Circumvention
 bigimg: /img/rain3.jpg
-googlefonts: ["Noto Sans HK"]
 ---
 
 ![LubeVPN](/img/ads.png "Groundbreaking VPN Tech"){: .center-block :}
