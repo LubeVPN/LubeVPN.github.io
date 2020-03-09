@@ -3,12 +3,12 @@ layout: page
 title: 匿名和隱私
 subtitle: Anonymity & Privacy
 bigimg: /img/imrs.jfif
-googlefonts: ["Noto Sans HK"]
+googlefonts: ["Roboto Condensed"]
 ---
 
 ## 順道VPN隱匿性
 
-順道VPN 是用了最新的去中心化網絡加密技術 [西蒂姆(Citium)](citium) 管理用戶和會員的。每個用戶都靠「用戶證書」去證明自己的身份，而該證書是用戶自己生成的，是自我證明的。
+順道VPN 是用了最新的去中心化網絡加密技術 [西蒂姆(Citium)](../citium) 管理用戶和會員的。每個用戶都靠「用戶證書」去證明自己的身份，而該證書是用戶自己生成的，是自我證明的。
 
 ### 私鑰和公鑰
 
