@@ -28,9 +28,8 @@ Non-repudiation: The receiver can prove that the sender actually sent the messag
 | 3 | ✓ | Availability | Denial of Service |
 | 4 | ✓ | Authorization | Privilege Escalation |
 | 5 | ✓ | Authentication | Spoofing |
-| 6 | ✗ | Non-Repudiation | Repudiation |
-| 7 | ✓ | Deniability | Forced Disclosure |
-| 8 | ✓ | Permissionless | Censorship |
+| 6 | ✓<br><sub>✗<sup> | Deniability<br><sub>Non-Repudiation<sup> | Forced Disclosure<br><sub>Repudiation<sup> |
+| 7 | ✓ | Permissionless | Censorship |
 
 Authentication is verifying the identity of a person or process. It is a technical construct.
 
