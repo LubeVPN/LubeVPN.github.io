@@ -7,7 +7,7 @@ bigimg: /img/web.jpg
 
 ## 西蒂姆<br>Citium
 
-西蒂姆（Citium）是一個「開源的」(open-sourced)、「無需准入許可的」（permissionless）與「可推諉的」（deniable）去中心化網絡技術。使用西蒂姆（Citium）建造的去中心化應用程序（dApp）和其數據（例如文字、音像、視像和即時音訊）能比任何其他形式設計的系統都要享有更優越的安全性。
+西蒂姆（Citium）是一個「開源的」（open-sourced）、「無需准入許可的」（permissionless）與「可推諉的」（deniable）去中心化網絡技術。使用西蒂姆（Citium）建造的去中心化應用程序（dApp）和其數據（例如文字、音像、視像和即時音訊）能比任何其他形式設計的系統都要享有更優越的安全性。
 
 decentralized, uncensorable, permissionless, resilient
 
