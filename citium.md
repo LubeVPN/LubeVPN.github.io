@@ -13,6 +13,10 @@ Citium is an open-sourced, deniable and permissionless decentralized network tec
 
 ### 資訊安全功能<br>InfoSec Features
 
+1. Confidentiality: No unauthorized party can access appropriate messages.
+2. Integrity: Messages cannot be changed during transit without being discovered.
+3. Availability:
+
 | # | · | Feature | Guards Against |
 |:--:|:--:|:--:|:--|
 | 1 | ✓ | Confidentiality | Information Disclosure |
@@ -23,9 +27,7 @@ Citium is an open-sourced, deniable and permissionless decentralized network tec
 | 6 | ✓<br><sub>✗<sup> | Deniability<br><sub>Non-Repudiation<sup> | Forced Disclosure<br><sub>Repudiation<sup> |
 | 7 | ✓ | Permissionless | Censorship |
 
-1. Confidentiality: No unauthorized party can access appropriate messages.
-2. Integrity: Messages cannot be changed during transit without being discovered.
-3. Availability:
+
 
 Authentication: The message needs to be sent by the person/machine who claims to have sent it.
 4. Access control: Only those users enabled can access the data.
