@@ -25,35 +25,30 @@ Citium is an open-sourced, zero-knowledge proof (ZKP), deniable decentralized ne
 
 ## 三元組視角<br>CIA Triad Perspective
 
-傳統上來說，大部分資訊安全架構師著眼點擺在「CIA三元組」，它們是：
-
-- __機密性 (Confidentiality)__
-- __完整性 (Integrity)__
-- __可用性 (Availability)__
-
-在這三個基礎上，西蒂姆（Citium）同時著重多一個安全概念：__推诿性 (Deniability)__ †。它的重要性只會比「CIA三元組」有過之亦無不及，因為它是用戶當被 「__强制性披露__」 (__force disclosure__) 時候的最後一道防線。
+傳統上來說，大部分資訊安全架構師著眼點擺在「CIA三元組」，它們是：__機密性 (Confidentiality)__, __完整性 (Integrity)__ 和 __可用性 (Availability)__。在這三個基礎上，西蒂姆（Citium）同時著重多一個安全概念：__推诿性 (Deniability)__ †。它的重要性只會比「CIA三元組」有過之亦無不及，因為它是用戶當被 「__强制性披露__」 (__force disclosure__) 時候的最後一道防線。
 
  {: .box-note}
  **†** __推诿性 (Deniability)__ 一般會被稱為「合理的可推諉性」(Plausible Deniability), 但不要與另外兩個加密安全領域的概念「可否認性」(Repudiability) 和「無法認領性」(Unclaimability) 混淆了。
 
-Traditionally, most InfoSec architects pay attention only to the famous CIA triad:
-
-- __Confidentiality__
-- __Integrity__
-- __Availability__
-
-Citium deals with one more issue: __Deniability__†. which is not one bit less important than the CIA triad because it is users' last defense against __forced disclosure__ or [__mandatory key disclosure__](https://en.wikipedia.org/wiki/Key_disclosure_law).
+Traditionally, most InfoSec architects pay attention only to the famous CIA triad: __Confidentiality__, __Integrity__ and __Availability__. Citium deals with one more issue: __Deniability__†. which is not one bit less important than the CIA triad because it is users' last defense against __forced disclosure__ or [__mandatory key disclosure__](https://en.wikipedia.org/wiki/Key_disclosure_law).
 
  {: .box-note}
  **†** Deniability, often referred as Plausible Deniability, is not to be confused with two other cryptography concepts: "repudiability" and "unclaimability".
 
 ### 推诿性<br>Deniability
 
-西蒂姆 (Citium) 中最創新的安全功能實現辦法是受到了「大型多人線上角色扮演遊戲」(MMORPG) 與「反洗錢」(AML) 啟發設計而成，與去中心化加密安全網絡技術結合後，能提供近乎完美的可推諉性 (Deniability) 效果。首先，「大型多人線上角色扮演遊戲」(MMORPG) 提供的啟發，是在它們的聊天系統的「公共頻道」(public channel)。玩過 MMORPG 的人會發現，在「公共頻道」中發言的人非常多而且話題雜亂不堪，難以辨認誰對誰發言或發言的目的是什麼。
+西蒂姆 (Citium) 中最創新的安全功能實現辦法是受到了「__大型多人線上角色扮演遊戲__」(MMORPG)、「__反洗錢__」(AML) 和「__分散式阻斷服務攻擊__」(DDoS Attack) 啟發設計而成。它們與去中心化加密安全網絡技術結合後，能提供近乎完美的可推諉性 (Deniability) 效果。首先，MMORPG 提供的啟發，是在它們的「公共頻道」(public channel) 聊天系統。玩過 MMORPG 的人會發現，在「公共頻道」中發言的人非常多而且話題雜亂不堪，難以辨認誰對誰發言或發言的目的是什麼。
 
-- data smurfing
-- account smurfing
+西蒂姆 (Citium) 用了兩種圈套型機制：
 
+- 數據分散化
+- 小號化
+
+Citum uses two decoying mechanisms:
+
+- Smurf all data transmission
+- Sockpuppetize every contact
+-
 
 ## STRIDE視角<br>STRIDE Perspective
 
