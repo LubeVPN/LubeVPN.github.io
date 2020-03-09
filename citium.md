@@ -8,13 +8,13 @@ googlefonts: ["Roboto Condensed"]
 
 ## 西蒂姆<br>Citium
 
-西蒂姆（Citium）是一個開源的（open-sourced）、無需准入許可的（permissionless）、分身帳號的/馬甲的（sockpuppeting）、多點廣播的（multicasting/smurfing）、去中心化（decentralized）網絡技術。使用西蒂姆（Citium）建造的去中心化應用程序（dApp）和其數據（例如文字、音像、視像和即時音訊）能比任何其他形式設計的系統都要享有更優越的安全性。
+西蒂姆（Citium）是一個免費的、開源代碼的、無需准入許可的（permissionless）、分身帳號的/馬甲的（sockpuppeting）、多點廣播的（multicasting/smurfing）、去中心化（decentralized）網絡技術。使用西蒂姆（Citium）建造的去中心化應用程序（dApp）和其數據（例如文字、音像、視像和即時音訊）能比任何其他形式設計的系統都要享有更優越的安全性。
 
-Citium is an open-sourced, permissionless, sockpuppeting, multicasting/smurfing, decentralized network technology. Its decentralized Apps (dApps) and their data (e.g., text, image, video and real-time voice) enjoy far superior security than any other systems that are designed differently.
+Citium is a free, open-sourced, permissionless, sockpuppeting, multicasting/smurfing, decentralized network technology. Its decentralized Apps (dApps) and their data (e.g., text, image, video and real-time voice) enjoy far superior security than any other systems that are designed differently.
 
 ### 資訊安全功能<br>InfoSec Features
 
-
+Information security, sometimes shortened to InfoSec, is the practice of protecting information by mitigating information risks. It is part of information risk management. It typically involves preventing or at least reducing the probability of unauthorized/inappropriate access, use, disclosure, disruption, deletion/destruction, corruption, modification, inspection, recording or devaluation, although it may also involve reducing the adverse impacts of incidents. Here are a list of features that Citium may offer
 
 1. __Confidentiality__: No unauthorized party can access to an appropriate message because it is randomly multicasted/smurfed to many nodes. Unless the entire network is hijacked, no partial message intercepted at any individual nodes may leak the entirety of the appropriate message.
 2. __Integrity__: Message cannot be changed during transit without being discovered because any individual partial message tempered will always result in unreadable message when combined back together at the receiver.
@@ -25,11 +25,11 @@ Citium is an open-sourced, permissionless, sockpuppeting, multicasting/smurfing,
 | # | · | Feature | Guards Against |
 |:--:|:--:|:--:|:--|
 | 1 | ✓ | Confidentiality | Information Disclosure |
-| 2 | ✗ | Integrity | Tampering |
+| 2 | ✓ | Integrity | Tampering |
 | 3 | ✓ | Availability | DDoS Attack |
 | 4 | ✓ | Authorization | Privilege Escalation |
 | 5 | ✓ | Authentication | Spoofing |
-| 6 | ✓<br>✗ | Deniability<br><sub>Non-Repudiation<sup> | Forced Disclosure<br><sub>Repudiation<sup> |
+| 6 | ✓<br>✗ | Deniability<br>Non-Repudiation | Forced Disclosure<br>Repudiation |
 | 7 | ✓ | Permissionless | Censorship |
 
 
