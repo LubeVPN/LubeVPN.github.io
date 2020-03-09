@@ -23,7 +23,7 @@ Citium is an open-sourced, zero-knowledge proof (ZKP), deniable decentralized ne
 - Anyone can publish / 任何人都可發佈
   - Full deniability / 全然可否認
 
-## 三元組視角<br>CIA Triad Perspective
+## CIA三元組視角<br>CIA Triad Perspective
 
 傳統上來說，大部分資訊安全架構師著眼點擺在「CIA三元組」，它們是：__機密性 (Confidentiality)__, __完整性 (Integrity)__ 和 __可用性 (Availability)__。在這三個基礎上，西蒂姆（Citium）同時著重多一個安全概念：__推诿性 (Deniability)__ †。它的重要性只會比「CIA三元組」有過之亦無不及，因為它是用戶當被 「__强制性披露__」 (__force disclosure__) 時候的最後一道防線。
 
@@ -48,9 +48,8 @@ Citum uses two decoying mechanisms:
 
 - Smurf all data transmission
 - Sockpuppetize every contact
--
 
-## STRIDE視角<br>STRIDE Perspective
+## 微軟安全分型視角<br>STRIDE Perspective
 
 這整套設計辦法不單撇除了數據對任何個別中轉通訊服務商的依賴，更能杜絕監聽、攔截、追蹤的風險和它們萬一發生了之後的後患。
 
