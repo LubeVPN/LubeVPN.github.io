@@ -3,6 +3,7 @@ layout: page
 title: 不寫Log政策
 subtitle: No Log Policy
 bigimg: /img/circle.jpg
+googlefonts: ["Roboto Condensed"]
 ---
 
 《順道VPN》不記錄任何接來自用戶的網絡接駁來源的信息。《順道VPN》也不記錄任何用戶個人信息。《順道VPN》僅記錄流量信息，用以確保服務質量，及預防服務被濫用。

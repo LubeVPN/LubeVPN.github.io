@@ -22,12 +22,13 @@ Citium is an open-sourced, deniable and permissionless decentralized network tec
 
 | # | · | Feature | Guards Against |
 |:--:|:--:|:--:|:--|
-| 1 | ✓<br>✗ | Confidentiality<br>Integrity | Information Disclosure<br>Tampering |
-| 2 | ✓ | Availability | DDoS Attack |
-| 3 | ✓ | Authorization | Privilege Escalation |
-| 4 | ✓ | Authentication | Spoofing |
-| 5 | ✓<br>✗ | Deniability<br><sub>Non-Repudiation<sup> | Forced Disclosure<br><sub>Repudiation<sup> |
-| 6 | ✓ | Permissionless | Censorship |
+| 1 | ✓ | Confidentiality | Information Disclosure |
+| 2 | ✗ | Integrity | Tampering |
+| 3 | ✓ | Availability | DDoS Attack |
+| 4 | ✓ | Authorization | Privilege Escalation |
+| 5 | ✓ | Authentication | Spoofing |
+| 6 | ✓<br>✗ | Deniability<br><sub>Non-Repudiation<sup> | Forced Disclosure<br><sub>Repudiation<sup> |
+| 7 | ✓ | Permissionless | Censorship |
 
 
 
