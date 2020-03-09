@@ -19,7 +19,7 @@ LubeVPN is proprietorially built based on __an open and fully decentralized tech
 
 《順道VPN》只以口碑相傳，**不供未經口碑介紹的陌生用戶使用**。任何人都必須獲取推薦人的授權才可以開始試用《順道VPN》。
 
-### 1. 安裝西蒂姆（Citium）客戶端軟體
+### 1. 安裝 Citium 客戶端軟體
 
 - 下載 Citium 的 apk 文件
 - 安裝上你的安卓手機上
