@@ -3,6 +3,7 @@ layout: page
 title: 完全去中心化網絡
 subtitle: 100% Decentralized Citium
 bigimg: /img/web.jpg
+googlefonts: ["Roboto Condensed"]
 ---
 
 ## 西蒂姆<br>Citium
@@ -13,19 +14,20 @@ Citium is an open-sourced, deniable and permissionless decentralized network tec
 
 ### 資訊安全功能<br>InfoSec Features
 
-1. Confidentiality: No unauthorized party can access appropriate messages.
-2. Integrity: Messages cannot be changed during transit without being discovered.
-3. Availability:
+1. __Confidentiality__: No unauthorized party can access appropriate messages.
+2. __Integrity__: Data can be changed during transit without being discovered.
+3. __Availability__: Decentralized network offers many nodes for data transfer so that data and network services available at all time.
+4. __Authorization__: Network-wide peer-to-peer relationship assume no privilege but only those users enabled can read the actual data.
+5. __Authentication__:
 
 | # | · | Feature | Guards Against |
 |:--:|:--:|:--:|:--|
-| 1 | ✓ | Confidentiality | Information Disclosure |
-| 2 | ✓ | Integrity | Tampering |
-| 3 | ✓ | Availability | DDoS Attack, system upgrade, single point of failure |
-| 4 | ✓ | Authorization | Privilege Escalation |
-| 5 | ✓ | Authentication | Spoofing |
-| 6 | ✓<br><sub>✗<sup> | Deniability<br><sub>Non-Repudiation<sup> | Forced Disclosure<br><sub>Repudiation<sup> |
-| 7 | ✓ | Permissionless | Censorship |
+| 1 | ✓<br>✗ | Confidentiality<br>Integrity | Information Disclosure<br>Tampering |
+| 2 | ✓ | Availability | DDoS Attack |
+| 3 | ✓ | Authorization | Privilege Escalation |
+| 4 | ✓ | Authentication | Spoofing |
+| 5 | ✓<br>✗ | Deniability<br><sub>Non-Repudiation<sup> | Forced Disclosure<br><sub>Repudiation<sup> |
+| 6 | ✓ | Permissionless | Censorship |
 
 
 
