@@ -22,9 +22,9 @@ Authentication: The message needs to be sent by the person/machine who claims to
 Access control: Only those users enabled can access the data.
 Non-repudiation: The receiver can prove that the sender actually sent the message.[3]
 
-| · | <h6> Feature </h6> | Against<br>Threat |
+| · | <sub> Feature </sub> | Against<br>Threat |
 |:--:|:--:|:--|
-| ✓ | <h6> Confidentiality </h6> | Information Disclosure |
+| ✓ | <sub> Confidentiality </sub> | Information Disclosure |
 | ✓ | Integrity | Tampering |
 | ✓ | Availability | Denial of Service |
 | ✓ | Authorization | Privilege Escalation |
