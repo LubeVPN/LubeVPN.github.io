@@ -5,11 +5,11 @@ googlefonts: ["Noto Sans HK"]
 
 @import url("pygment_highlights.css");
 
-/* --- General --- */
+/* --- General ---  'Noto Sans HK', 'Microsoft YaHei', '微软雅黑',  */
 
 body {
-  font-family: 'Microsoft YaHei', '微软雅黑', 'Roboto', 'Open Sans', 'Helvetica Neue', 'Times New Roman', serif;
-  font-size: 18px;
+  font-family: 'Roboto', 'Open Sans', 'Helvetica Neue', 'Times New Roman', serif;
+  font-size: 14px;
   color: #404040;
   position: relative;
   background-color: {{ site.page-col }};
