@@ -3,7 +3,6 @@ layout: page
 title: 完全去中心化網絡
 subtitle: 100% Decentralized Citium
 bigimg: /img/web.jpg
-googlefonts: ["Noto Sans HK"]
 ---
 
 ## 西蒂姆<br>Citium
