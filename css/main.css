@@ -32,6 +32,28 @@ h2 {
 h3 {
   color: #cc7000;
 }
+h5 {
+  font-family: 'Noto Sans HK', 'Microsoft YaHei', '微软雅黑', 'Roboto', 'Open Sans', 'Helvetica Neue', 'Times New Roman', serif;
+  font-size: 12px;
+  color: #404040;
+  position: relative;
+  background-color: {{ site.page-col }};
+  {% if site.page-img %}
+  background-image: url({{ site.page-img | relative_url }});
+  background-attachment: fixed;
+  {% endif %}
+}
+h6 {
+  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-size: 12px;
+  color: #404040;
+  position: relative;
+  background-color: {{ site.page-col }};
+  {% if site.page-img %}
+  background-image: url({{ site.page-img | relative_url }});
+  background-attachment: fixed;
+  {% endif %}
+}
 a {
   color: {{ site.link-col }};
 }
