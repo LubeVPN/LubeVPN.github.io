@@ -8,13 +8,13 @@ googlefonts: ["Noto Sans HK"]
 
 ## 西蒂姆<br>Citium
 
-西蒂姆（Citium）是一個開源、零知識證明（ZKP）、無需准入許可的（permissionless）、可推諉的（deniable）去中心化網絡技術。使用西蒂姆（Citium）建造的去中心化應用程序（dApp）和其數據（例如文字、音像、視像和即時音訊）能比任何其他形式設計的系統都要享有更優越的安全性。
+西蒂姆（Citium）是一個「開源的」(open-sourced)、「無需准入許可的」（permissionless）與「可推諉的」（deniable）去中心化網絡技術。使用西蒂姆（Citium）建造的去中心化應用程序（dApp）和其數據（例如文字、音像、視像和即時音訊）能比任何其他形式設計的系統都要享有更優越的安全性。
 
 decentralized, uncensorable, permissionless, resilient
 
-Citium is an open-sourced, zero-knowledge proof (ZKP), permissionless, deniable decentralized network technology. Its decentralized Apps (dApps) and their data (e.g., text, image, video and real-time voice) enjoy far superior security than any other systems that are designed differently.
+Citium is an open-sourced, deniable and permissionless decentralized network technology. Its decentralized Apps (dApps) and their data (e.g., text, image, video and real-time voice) enjoy far superior security than any other systems that are designed differently.
 
-### 功能亮點<br>Feature Highlights
+### 八大亮點<br>Eight Noteworthy
 
 Confidentiality: No unauthorized party can access appropriate messages.
 Integrity: Messages cannot be changed during transit without being discovered.
@@ -22,16 +22,16 @@ Authentication: The message needs to be sent by the person/machine who claims to
 Access control: Only those users enabled can access the data.
 Non-repudiation: The receiver can prove that the sender actually sent the message.[3]
 
-| · | <sub> Feature <sup> | Against<br>Threat |
-|:--:|:--:|:--|
-| ✓ | <sub> Confidentiality <sup> | Information Disclosure |
-| ✓ | Integrity | Tampering |
-| ✓ | Availability | Denial of Service |
-| ✓ | Authorization | Privilege Escalation |
-| ✓ | Authentication | Spoofing |
-| ✗ | Non-Repudiation | Repudiation |
-| ✓ | Deniability | Forced Disclosure |
-
+| # | · | Feature | Against |
+|:--:|:--:|:--:|:--|
+| 1 | ✓ | Confidentiality | Information Disclosure |
+| 2 | ✓ | Integrity | Tampering |
+| 3 | ✓ | Availability | Denial of Service |
+| 4 | ✓ | Authorization | Privilege Escalation |
+| 5 | ✓ | Authentication | Spoofing |
+| 6 | ✗ | Non-Repudiation | Repudiation |
+| 7 | ✓ | Deniability | Forced Disclosure |
+| 8 | ✓ | Permissionless | Censorship |
 
 Authentication is verifying the identity of a person or process. It is a technical construct.
 
