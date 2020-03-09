@@ -25,7 +25,7 @@ Citium is an open-sourced, free, fully decentralized, zero-knowledge proof (ZKP)
 
 ## 三元安全角度<br>CIA Triad Perspective
 
-使用西蒂姆（Citium）建造的去中心化應用程序（dApp）不單可以比起坊間其他系統更高效地保障數據（例如文字、音像、視像和即時音訊）的傳統資訊安全最重要的三大組成元素 __機密性__、__完整性__、__可用性__ （CIA），與坊間其他系統不同的，是西蒂姆（Citium）上數據傳輸的 __可推诿性__ 元素（不要與「可否認性」或「無法認領性」混淆了）。這整套設計辦法不單撇除了數據對任何個別中轉通訊服務商的依賴，更能杜絕監聽、攔截、追蹤的風險和它們萬一發生了之後的後患。
+使用西蒂姆（Citium）建造的去中心化應用程序（dApp）不單可以比起坊間其他系統更高效地保障數據（例如文字、音像、視像和即時音訊）的傳統資訊安全最重要的三大組成元素 __機密性 (Confidentiality)__、__完整性 (Integrity)__、__可用性 (Availability)__ （CIA），與坊間其他系統不同的，是西蒂姆（Citium）上數據傳輸的 __可推诿性 (Deniability)__ 元素（不要與「可否認性」(Repudiability) 或「無法認領性」(Unclaimability) 混淆了）。這整套設計辦法不單撇除了數據對任何個別中轉通訊服務商的依賴，更能杜絕監聽、攔截、追蹤的風險和它們萬一發生了之後的後患。
 
 Traditionally, most InfoSec architects pay attention only to the famous CIA triad: __confidentiality__, __integrity__, and __availability__. Citium deals with one more issue: __deniability__ (not to be confused with repudiability or unclaimability). which is not one bit less important than the CIA triad. In fact, it is the last defense mechanism against privacy intrusion.
 
