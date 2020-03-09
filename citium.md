@@ -9,38 +9,34 @@ bigimg: /img/web.jpg
 
 西蒂姆（Citium）是一個開源的（open-sourced）、無需准入許可的（permissionless）、可推諉的（deniable）去中心化網絡技術。使用西蒂姆（Citium）建造的去中心化應用程序（dApp）和其數據（例如文字、音像、視像和即時音訊）能比任何其他形式設計的系統都要享有更優越的安全性。
 
-decentralized, uncensorable, permissionless, resilient
-
 Citium is an open-sourced, deniable and permissionless decentralized network technology. Its decentralized Apps (dApps) and their data (e.g., text, image, video and real-time voice) enjoy far superior security than any other systems that are designed differently.
 
-### 八大亮點<br>Eight Noteworthy
+### 資訊安全功能<br>InfoSec Features
 
-Confidentiality: No unauthorized party can access appropriate messages.
-Integrity: Messages cannot be changed during transit without being discovered.
-Authentication: The message needs to be sent by the person/machine who claims to have sent it.
-Access control: Only those users enabled can access the data.
-Non-repudiation: The receiver can prove that the sender actually sent the message.[3]
-
-| # | · | Feature | Against |
+| # | · | Feature | Guards Against |
 |:--:|:--:|:--:|:--|
 | 1 | ✓ | Confidentiality | Information Disclosure |
 | 2 | ✓ | Integrity | Tampering |
-| 3 | ✓ | Availability | Denial of Service |
+| 3 | ✓ | Availability | DDoS Attack, system upgrade, single point of failure |
 | 4 | ✓ | Authorization | Privilege Escalation |
 | 5 | ✓ | Authentication | Spoofing |
 | 6 | ✓<br><sub>✗<sup> | Deniability<br><sub>Non-Repudiation<sup> | Forced Disclosure<br><sub>Repudiation<sup> |
 | 7 | ✓ | Permissionless | Censorship |
 
+1. Confidentiality: No unauthorized party can access appropriate messages.
+2. Integrity: Messages cannot be changed during transit without being discovered.
+3. Availability:
+
+Authentication: The message needs to be sent by the person/machine who claims to have sent it.
+4. Access control: Only those users enabled can access the data.
+5. Non-repudiation: The receiver can prove that the sender actually sent the message.[3]
+6.
+7.
+8.
+
 Authentication is verifying the identity of a person or process. It is a technical construct.
 
 Non-repudiation is being able to assure that an action cannot be denied; being able to prove that someone did something, for example. It is a legal construct.
-
-Spoofing	Authenticity
-Tampering	Integrity
-Repudiation	Non-repudiability
-Information disclosure	Confidentiality
-Denial of Service	Availability
-Elevation of Privilege	Authorization
 
 ## CIA三元組視角<br>CIA Triad Perspective
 
