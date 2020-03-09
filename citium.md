@@ -10,6 +10,8 @@ googlefonts: ["Noto Sans HK"]
 
 西蒂姆（Citium）是一個開源、零知識證明（ZKP）、可推諉的（deniable）去中心化網絡技術。使用西蒂姆（Citium）建造的去中心化應用程序（dApp）和其數據（例如文字、音像、視像和即時音訊）能比任何其他形式設計的系統都要享有更優越的安全性。
 
+decentralized, uncensorable, permissionless, resilient
+
 Citium is an open-sourced, zero-knowledge proof (ZKP), deniable decentralized network technology. Its decentralized Apps (dApps) and their data (e.g., text, image, video and real-time voice) enjoy far superior security than any other systems that are designed differently.
 
 ### 功能亮點<br>Feature Highlights
@@ -23,9 +25,38 @@ Citium is an open-sourced, zero-knowledge proof (ZKP), deniable decentralized ne
 - Anyone can publish / 任何人都可發佈
   - Full deniability / 全然可否認
 
+
+Confidentiality: No unauthorized party can access appropriate messages.
+Integrity: Messages cannot be changed during transit without being discovered.
+Authentication: The message needs to be sent by the person/machine who claims to have sent it.
+Access control: Only those users enabled can access the data.
+Non-repudiation: The receiver can prove that the sender actually sent the message.[3]
+
+| ☑<br>/<br>☒ | Feature | Against Threat |
+|:--:|:--:|:--|
+| ☑ | Confidentiality | Information Disclosure |
+| ☑ | Integrity | Tampering |
+| ☑ | Availability | Denial of Service |
+| ☑ | Authorization | Privilege Escalation |
+| ☑ | Authentication | Spoofing |
+| ☒ | Non-Repudiation | Repudiation |
+| ☑ | Deniability | Forced Disclosure |
+
+
+Authentication is verifying the identity of a person or process. It is a technical construct.
+
+Non-repudiation is being able to assure that an action cannot be denied; being able to prove that someone did something, for example. It is a legal construct.
+
+Spoofing	Authenticity
+Tampering	Integrity
+Repudiation	Non-repudiability
+Information disclosure	Confidentiality
+Denial of Service	Availability
+Elevation of Privilege	Authorization
+
 ## CIA三元組視角<br>CIA Triad Perspective
 
-傳統上來說，大部分資訊安全架構師著眼點擺在「CIA三元組」，它們是：__機密性 (Confidentiality)__, __完整性 (Integrity)__ 和 __可用性 (Availability)__。在這三個基礎上，西蒂姆（Citium）同時著重多一個安全概念：__推诿性 (Deniability)__ †。它的重要性只會比「CIA三元組」有過之亦無不及，因為與它相關的機制是用戶當被 「__强制性披露__」 (__force disclosure__) / 「__強制性批量密鑰__」 ([__mandatory key disclosure__](https://en.wikipedia.org/wiki/Key_disclosure_law)) 時候的最後一道防線。
+傳統上來說，大部分資訊安全架構師著眼點擺在「CIA三元組」，它們是：__機密性 (Confidentiality)__, __完整性 (Integrity)__ 和 __可用性 (Availability)__。在這三個基礎上，西蒂姆（Citium）同時著重多一個安全概念：__推诿性 (Deniability)__ †。它的重要性只會比「CIA三元組」有過之亦無不及，因為與它相關的機制是用戶當被 「__强制性披露__」 (__force disclosure__) / 「__強制性密鑰披露__」 ([__mandatory key disclosure__](https://en.wikipedia.org/wiki/Key_disclosure_law)) 時候的最後一道防線。
 
  {: .box-note}
  **†** __推诿性 (Deniability)__ 一般會被稱為「合理的可推諉性」(Plausible Deniability), 但不要與另外兩個加密安全領域的概念「可否認性」(Repudiability) 和「無法認領性」(Unclaimability) 混淆了。
