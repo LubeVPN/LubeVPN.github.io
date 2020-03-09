@@ -8,9 +8,9 @@ googlefonts: ["Noto Sans HK"]
 
 ## 西蒂姆<br>Citium
 
-西蒂姆（Citium）是一個開源、免費、完全去中心化、零知識證明（ZKP）、可否認加密（deniable encryption）網絡技術。
+西蒂姆（Citium）是一個開源、零知識證明（ZKP）、可推諉的（deniable）去中心化網絡技術。使用西蒂姆（Citium）建造的去中心化應用程序（dApp）和其數據（例如文字、音像、視像和即時音訊）能比任何其他形式設計的系統都要享有更優越的安全性。
 
-Citium is an open-sourced, free, fully decentralized, zero-knowledge proof (ZKP), deniable encryption network technology. Its decentralized Apps (dApps) and their data (e.g., text, image, video and real-time voice) enjoy far superior security than any other systems that are designed differently.
+Citium is an open-sourced, zero-knowledge proof (ZKP), deniable decentralized network technology. Its decentralized Apps (dApps) and their data (e.g., text, image, video and real-time voice) enjoy far superior security than any other systems that are designed differently.
 
 ### 功能亮點<br>Feature Highlights
 
@@ -23,13 +23,41 @@ Citium is an open-sourced, free, fully decentralized, zero-knowledge proof (ZKP)
 - Anyone can publish / 任何人都可發佈
   - Full deniability / 全然可否認
 
-## 三元安全角度<br>CIA Triad Perspective
+## 三元組視角<br>CIA Triad Perspective
 
-使用西蒂姆（Citium）建造的去中心化應用程序（dApp）不單可以比起坊間其他系統更高效地保障數據（例如文字、音像、視像和即時音訊）的傳統資訊安全最重要的三大組成元素 __機密性 (Confidentiality)__、__完整性 (Integrity)__、__可用性 (Availability)__ （CIA），與坊間其他系統不同的，是西蒂姆（Citium）上數據傳輸的 __可推诿性 (Deniability)__ 元素（不要與「可否認性」(Repudiability) 或「無法認領性」(Unclaimability) 混淆了）。這整套設計辦法不單撇除了數據對任何個別中轉通訊服務商的依賴，更能杜絕監聽、攔截、追蹤的風險和它們萬一發生了之後的後患。
+傳統上，大部分傳統資訊安全架構師只會重視著名的「CIA三元組」，它們是：
 
-Traditionally, most InfoSec architects pay attention only to the famous CIA triad: __confidentiality__, __integrity__, and __availability__. Citium deals with one more issue: __deniability__ (not to be confused with repudiability or unclaimability). which is not one bit less important than the CIA triad. In fact, it is the last defense mechanism against privacy intrusion.
+- __機密性 (Confidentiality)__
+- __完整性 (Integrity)__
+- __可用性 (Availability)__
 
-## 六元安全角度<br>STRIDE Perspective
+在這三個基礎上，西蒂姆（Citium）同時著重多一條：__推诿性 (Deniability)__ †。它的重要性只會比「CIA三元組」有過之亦無不及。 實際上，它是用戶當被 「__强制性披露__」 (__force disclosure__) 時候的最後一道防線。
+
+ {: .box-note}
+ **†** __推诿性 (Deniability)__ 一般會被稱為「合理的可推諉性」(Plausible Deniability), 但不要與另外兩個加密安全領域的概念「可否認性」(Repudiability) 和「無法認領性」(Unclaimability) 混淆了。
+
+Traditionally, most InfoSec architects pay attention only to the famous CIA triad:
+
+- __Confidentiality__
+- __Integrity__
+- __Availability__
+
+Citium deals with one more issue: __Deniability__†. which is not one bit less important than the CIA triad. In fact, it is users' last defense against __forced disclosure__ or [__mandatory key disclosure__](https://en.wikipedia.org/wiki/Key_disclosure_law).
+
+ {: .box-note}
+ **†** Deniability, often referred as Plausible Deniability, is not to be confused with two other cryptography concepts: "repudiability" and "unclaimability".
+
+### 推诿性<br>Deniability
+
+西蒂姆 (Citium) 中最創新的安全功能實現辦法是受到了「大型多人線上角色扮演遊戲」(MMORPG) 與「反洗錢」(AML) 啟發設計而成，與去中心化加密安全網絡技術結合後，能提供近乎完美的可推諉性 (Deniability) 效果。首先，「大型多人線上角色扮演遊戲」(MMORPG) 提供的啟發，是在它們的聊天系統的「公共頻道」(public channel)。玩過 MMORPG 的人會發現，在「公共頻道」中發言的人非常多而且話題雜亂不堪，難以辨認誰對誰發言或發言的目的是什麼。
+
+- data smurfing
+- account smurfing
+
+
+## STRIDE視角<br>STRIDE Perspective
+
+這整套設計辦法不單撇除了數據對任何個別中轉通訊服務商的依賴，更能杜絕監聽、攔截、追蹤的風險和它們萬一發生了之後的後患。
 
 Data transfers on Citium not only can avoid the reliance on any particular intermediary service provider, but also can effectively eliminate three major [STRIDE](https://en.wikipedia.org/wiki/STRIDE_(security)) threats, namely, 1. Spoofing; 2. Tampering and 3. Denial-of-service attack (DoS attack)), as well as mitigating the possible repercussions of the rest of the threats.
 
