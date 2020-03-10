@@ -8,29 +8,35 @@ googlefonts: ["Roboto Condensed"]
 
 ## 西蒂姆<br>Citium
 
-西蒂姆（Citium）是一個免費的、開源代碼的、無需准入許可的（permissionless）、分身帳號的/馬甲的（sockpuppeting）、多點廣播的（multicasting/smurfing）、去中心化（decentralized）網絡技術。使用西蒂姆（Citium）建造的去中心化應用程序（dApp）和其數據（例如文字、音像、視像和即時音訊）能比任何其他形式設計的系統都要享有更優越的安全性。
+西蒂姆（Citium）是一個免費的、開源代碼的、無需准入許可的（permissionless）、分身帳號的/馬甲的（sockpuppeting）、網樹狀多點廣佈的（mesh-tree multicasting）、去中心化（decentralized）網絡技術。使用西蒂姆（Citium）建造的去中心化應用程序（dApp）和其數據（例如文字、音像、視像和即時音訊）能比任何其他形式設計的系統都要享有更優越的安全性。
 
 Citium is a free, open-source, permissionless, sockpuppeting, multicasting/smurfing, decentralized network technology. Its decentralized Apps (dApps) and their data (e.g., text, image, video and real-time voice) enjoy far superior security than any other systems that are designed differently.
 
+化整為零  化零為整这个过程，中文有没有更精炼的表达办法？
+
 ### 資訊安全功能<br>InfoSec Features
 
-Information security, sometimes shortened to InfoSec, is the practice of protecting information by mitigating information risks. It is part of information risk management. It typically involves preventing or at least reducing the probability of unauthorized/inappropriate access, use, disclosure, disruption, deletion/destruction, corruption, modification, inspection, recording or devaluation, although it may also involve reducing the adverse impacts of incidents. Here are a list of InfoSec features that any two users (e.g., Joe & Jane) who have established trusted relationship between themselves on Citium may enjoy:
+Information security, sometimes shortened to InfoSec, is the practice of protecting information by mitigating information risks. It is part of information risk management. It typically involves preventing or at least reducing the probability of unauthorized/inappropriate access, use, disclosure, disruption, deletion/destruction, corruption, modification, inspection, recording or devaluation, although it may also involve reducing the adverse impacts of incidents.
 
-1. __Confidentiality__: No unauthorized party can access an appropriate message (e.g., sent from Joe to Jane) because it is randomly multicasted/smurfed (broken into parts and sent) to many nodes. Unless every nodes in the entire Citium network is hijacked, no single part intercepted at any individual nodes may leak the appropriate message.
-2. __Integrity__: An appropriate message cannot be changed during transit because Citium uses [ECDSA (Elliptic Curve Digital Signature Algorithm)](https://en.wikipedia.org/wiki/Elliptic_Curve_Digital_Signature_Algorithm) to secure every part of the appropriate message. ECDSA is time-tested by many open-source projects, such as [Bitcoin](https://en.wikipedia.org/wiki/Bitcoin).
-3. __Availability__: Decentralized network offers many nodes for an appropriate message as transit point so that data and network services are available at all time. No [single point of failure (SPOF)](https://en.wikipedia.org/wiki/Single_point_of_failure) could impact the uptime of Citium.
-4. __Authorization__: Network-wide peer-to-peer relationship assume no higher or lower privilege but only those appropriated to receive is authorized. Thus, neither [horizontal privilege escalation](https://en.wikipedia.org/wiki/Privilege_escalation#Horizontal) nor vertical [privilege escalation](https://en.wikipedia.org/wiki/Privilege_escalation#Vertical) may occur.
+| · | Feature | Guards Against |
+|:--:|:--:|:--|
+| ✓ | Confidentiality | Information Disclosure |
+| ✓ | Integrity | Tampering |
+| ✓ | Availability | DDoS Attack |
+| ✓ | Authorization | Privilege Escalation |
+| ✓ / ✗ | Authentication | Spoofing |
+| ✓<br>✗ | Deniability<br>Non-Repudiation | Forced Disclosure<br>Repudiation |
+| ✓ | Permissionless | Censorship |
+
+Here are a list of InfoSec features that any two users (e.g., Joe & Jane) who have established trusted relationship between themselves on Citium may enjoy:
+
+1. __Confidentiality__: No unauthorized third party can access an appropriate message (e.g., sent from Joe to Jane) on Citium because the message is randomly smurfed (broken) down into packets, which in turn are distributed to as many nodes as possible by mesh-tree multicasting. Unless every nodes in the entire Citium network is hijacked and the pertaining packets deciphered, no single part intercepted at any individual nodes may leak the appropriate message.
+2. __Integrity__: An appropriate message or its packets cannot be changed during transit on Citium because they are encrypted by [ECDSA (Elliptic Curve Digital Signature Algorithm)](https://en.wikipedia.org/wiki/Elliptic_Curve_Digital_Signature_Algorithm), which is time-tested by many open-source projects, such as [Bitcoin](https://en.wikipedia.org/wiki/Bitcoin).
+3. __Availability__: Decentralized network offers many nodes for an appropriate message as server and transit points so that data delivery services are available at all time. No [single point of failure (SPOF)](https://en.wikipedia.org/wiki/Single_point_of_failure) could impact the uptime of Citium.
+4. __Authorization__: Network-wide peer-to-peer relationship assume no higher or lower privilege but only those appropriated to receive is authorized. Thus, neither [horizontal privilege escalation](https://en.wikipedia.org/wiki/Privilege_escalation#Horizontal) nor [vertical privilege escalation](https://en.wikipedia.org/wiki/Privilege_escalation#Vertical) may occur.
 5. __Authentication__:
 
-| # | · | Feature | Guards Against |
-|:--:|:--:|:--:|:--|
-| 1 | ✓ | Confidentiality | Information Disclosure |
-| 2 | ✓ | Integrity | Tampering |
-| 3 | ✓ | Availability | DDoS Attack |
-| 4 | ✓ | Authorization | Privilege Escalation |
-| 5 | ✓ | Authentication | Spoofing |
-| 6 | ✓<br>✗ | Deniability<br>Non-Repudiation | Forced Disclosure<br>Repudiation |
-| 7 | ✓ | Permissionless | Censorship |
+
 
 
 
