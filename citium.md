@@ -18,18 +18,19 @@ Citium is a free, open-source, permissionless, sockpuppeting, multicasting/smurf
 
 Information security, sometimes shortened to InfoSec, is the practice of protecting information by mitigating information risks. It is part of information risk management. It typically involves preventing or at least reducing the probability of unauthorized/inappropriate access, use, disclosure, disruption, deletion/destruction, corruption, modification, inspection, recording or devaluation, although it may also involve reducing the adverse impacts of incidents.
 
-| △ | Feature | Guards Against |
+| :closed_lock_with_key: | Feature | Guards Against |
 |:--:|:--:|:--|
+| ✓ | Permissionless | Censorship |
 | ✓ | Confidentiality | Information Disclosure |
 | ✓ | Integrity | Tampering |
 | ✓ | Availability | DDoS Attack |
 | ✓ | Authorization | Privilege Escalation |
-|  / ✗ | Authentication | Spoofing |
-| ✓<br>✗ | Deniability<br>Non-Repudiation | Forced Disclosure<br>Repudiation |
-| ✓ | Permissionless | Censorship |
+| ✓ | Authentication | Spoofing |
+| ✓ | Deniability | Forced Disclosure |
+| ✗ | Non-Repudiation | Repudiation |
 
- {: .box-note}
- **△** ✓ means available. :full_moon:
+{: .box-note}
+:closed_lock_with_key: ✓ means available feature; ✗ means unavailable feature.
 
 Here are a list of InfoSec features that any two users (e.g., Joe & Jane) who have established trusted relationship between themselves on Citium may enjoy:
 
