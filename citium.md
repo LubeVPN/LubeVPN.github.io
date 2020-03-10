@@ -30,14 +30,15 @@ Information security, sometimes shortened to InfoSec, is the practice of protect
 
 Here are a list of InfoSec features that any two users (e.g., Joe & Jane) who have established trusted relationship between themselves on Citium may enjoy:
 
-1. __Confidentiality__: No unauthorized third party can access an appropriate message (e.g., sent from Joe to Jane) on Citium because the message is randomly smurfed (broken) down into packets, which in turn are distributed to as many nodes as possible by mesh-tree multicasting. Unless every nodes in the entire Citium network is hijacked and the pertaining packets deciphered, no single part intercepted at any individual nodes may leak the appropriate message.
-2. __Integrity__: An appropriate message or its packets cannot be changed during transit on Citium because they are encrypted by [ECDSA (Elliptic Curve Digital Signature Algorithm)](https://en.wikipedia.org/wiki/Elliptic_Curve_Digital_Signature_Algorithm), which is time-tested by many open-source projects, such as [Bitcoin](https://en.wikipedia.org/wiki/Bitcoin).
-3. __Availability__: Decentralized network offers many nodes for an appropriate message as server and transit points so that data delivery services are available at all time. No [single point of failure (SPOF)](https://en.wikipedia.org/wiki/Single_point_of_failure) could impact the uptime of Citium.
-4. __Authorization__: Network-wide peer-to-peer relationship assume no higher or lower privilege but only those appropriated to receive is authorized. Thus, neither [horizontal privilege escalation](https://en.wikipedia.org/wiki/Privilege_escalation#Horizontal) nor [vertical privilege escalation](https://en.wikipedia.org/wiki/Privilege_escalation#Vertical) may occur.
-5. __Authentication__:
+#### Confidentiality
+No unauthorized third party can access an appropriate message (e.g., sent from Joe to Jane) on Citium because the message is randomly smurfed (broken) down into packets, which in turn are distributed to as many nodes as possible by mesh-tree multicasting. Unless every nodes in the entire Citium network is hijacked and the pertaining packets deciphered, no single part intercepted at any individual nodes may leak the appropriate message.
 
+#### Integrity
+An appropriate message or its packets cannot be changed during transit on Citium because they are encrypted by [ECDSA (Elliptic Curve Digital Signature Algorithm)](https://en.wikipedia.org/wiki/Elliptic_Curve_Digital_Signature_Algorithm), which is time-tested by many open-source projects, such as [Bitcoin](https://en.wikipedia.org/wiki/Bitcoin).
 
-
+__Availability__: Decentralized network offers many nodes for an appropriate message as server and transit points so that data delivery services are available at all time. No [single point of failure (SPOF)](https://en.wikipedia.org/wiki/Single_point_of_failure) could impact the uptime of Citium.
+__Authorization__: Network-wide peer-to-peer relationship assume no higher or lower privilege but only those appropriated to receive is authorized. Thus, neither [horizontal privilege escalation](https://en.wikipedia.org/wiki/Privilege_escalation#Horizontal) nor [vertical privilege escalation](https://en.wikipedia.org/wiki/Privilege_escalation#Vertical) may occur.
+5. __Authentication__: Anyone can pretend to be someone else because nickname in Citium is non-exclusive. No one knows for sure who is who from an aerial perspective. Identification and authentication are done once only during the initial engagement between two users (e.g., Joe & Jane) to be joined in a trusted relationship. Once "wedded," spoofing by any third party is impossible, i.e., Joe can always identify the one and only Jane whom he "wedded" even though many other users pretend to be Jane; and Jane can always identify the one and only Joe whom she "wedded" even though many other users pretend to be Joe.
 
 
 Authentication: The message needs to be sent by the person/machine who claims to have sent it.
