@@ -8,7 +8,7 @@ googlefonts: ["Roboto Condensed"]
 
 ## 西蒂姆<br>Citium
 
-西蒂姆（Citium）是一個免費的、開源代碼的、無需准入許可的區塊鏈系統，並採用了獨特安全系統設計，例「__分身帳號__（馬甲）」和「__網樹多點廣佈__」。使用西蒂姆（Citium）建造的去中心化應用程序（dApp）能享有與別不同的數據（例如文字、音像、視像和即時音訊）傳輸安全性，例如「可推诿性」。
+西蒂姆（Citium）是一個免費的、開源代碼的、無需准入許可的區塊鏈系統，並採用了獨特安全系統設計，例「__分身帳號__（馬甲）」和「__網樹多點廣佈__」。使用西蒂姆（Citium）建造的去中心化應用程序（dApp）能享有與別不同的數據（例如文字、音像、視像和即時音訊）傳輸安全性，例如「__可推诿性__」。
 
 Citium is a free, open-source, permissionless blockchain that features unique InfoSec designs (e.g., _sockpuppeting_ and _mesh-tree multicasting_). Decentralized Apps (dApps) built on Citium enjoy notable data (e.g., text, image, video and real-time voice) security features (e.g., _deniability_).
 
@@ -18,7 +18,7 @@ Citium is a free, open-source, permissionless blockchain that features unique In
 
 Information security, sometimes shortened to InfoSec, is the practice of protecting information by mitigating information risks. It is part of information risk management. It typically involves preventing or at least reducing the probability of unauthorized/inappropriate access, use, disclosure, disruption, deletion/destruction, corruption, modification, inspection, recording or devaluation, although it may also involve reducing the adverse impacts of incidents.
 
-| :closed_lock_with_key: | InfoSec<br>Feature | Guard Against<br>Threat |
+| :closed_lock_with_key: | InfoSec Feature | Risk & Threat |
 |:--:|:--:|:--|
 | ✓ | Permissionless | Censorship |
 | ✓ | Confidentiality | Information Disclosure |
