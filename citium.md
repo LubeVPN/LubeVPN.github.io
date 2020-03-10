@@ -8,17 +8,17 @@ googlefonts: ["Roboto Condensed"]
 
 ## 西蒂姆<br>Citium
 
-西蒂姆（Citium）是一個免費的、開源代碼的、無需准入許可的（permissionless）、分身帳號的/馬甲的（sockpuppeting）、網樹狀多點廣佈的（mesh-tree multicasting）、去中心化（decentralized）網絡技術。使用西蒂姆（Citium）建造的去中心化應用程序（dApp）和其數據（例如文字、音像、視像和即時音訊）能比任何其他形式設計的系統都要享有更優越的安全性。
+西蒂姆（Citium）是一個免費的、開源代碼的、無需准入許可的區塊鏈系統，並採用了獨特安全系統設計，例「__分身帳號__（馬甲）」和「__網樹多點廣佈__」。使用西蒂姆（Citium）建造的去中心化應用程序（dApp）能享有與別不同的數據（例如文字、音像、視像和即時音訊）傳輸安全性，例如「可推诿性」。
 
-Citium is a free, open-source, permissionless, sockpuppeting, multicasting/smurfing, decentralized network technology. Its decentralized Apps (dApps) and their data (e.g., text, image, video and real-time voice) enjoy far superior security than any other systems that are designed differently.
+Citium is a free, open-source, permissionless blockchain that features unique InfoSec designs (e.g., _sockpuppeting_ and _mesh-tree multicasting_). Decentralized Apps (dApps) built on Citium enjoy notable data (e.g., text, image, video and real-time voice) security features (e.g., _deniability_).
 
-化整為零  化零為整这个过程，中文有没有更精炼的表达办法？
+化整為零  化零為整
 
 ### 資訊安全功能<br>InfoSec Features
 
 Information security, sometimes shortened to InfoSec, is the practice of protecting information by mitigating information risks. It is part of information risk management. It typically involves preventing or at least reducing the probability of unauthorized/inappropriate access, use, disclosure, disruption, deletion/destruction, corruption, modification, inspection, recording or devaluation, although it may also involve reducing the adverse impacts of incidents.
 
-| :closed_lock_with_key: | Feature | Guards Against |
+| :closed_lock_with_key: | InfoSec<br>Feature | Guard Against<br>Threat |
 |:--:|:--:|:--|
 | ✓ | Permissionless | Censorship |
 | ✓ | Confidentiality | Information Disclosure |
@@ -30,14 +30,16 @@ Information security, sometimes shortened to InfoSec, is the practice of protect
 | ✗ | Non-Repudiation | Repudiation |
 
 {: .box-note}
-:closed_lock_with_key: ✓ means available feature; ✗ means unavailable feature.
+:closed_lock_with_key:: ✓ means available feature; ✗ means unavailable feature.
 
 Here are a list of InfoSec features that any two users (e.g., Joe & Jane) who have established trusted relationship between themselves on Citium may enjoy:
 
+#### Permissionless
+The main benefit of Citium being a permissionless blockchain is censorship-resistance. No one can be banned from running nodes and multicasting data (e.g., text, image, video and real-time voice) onto Citium.
 #### Confidentiality
 No unauthorized third party can access an appropriate message (e.g., sent from Joe to Jane) on Citium because the message is randomly smurfed (broken) down into packets, which in turn are distributed to as many nodes as possible by mesh-tree multicasting. Unless every nodes in the entire Citium network is hijacked and the pertaining packets deciphered, no single part intercepted at any individual nodes may leak the appropriate message.
 #### Integrity
-An appropriate message or its packets cannot be changed during transit on Citium because they are encrypted by [ECDSA (Elliptic Curve Digital Signature Algorithm)](https://en.wikipedia.org/wiki/Elliptic_Curve_Digital_Signature_Algorithm), which is time-tested by many open-source projects, such as [Bitcoin](https://en.wikipedia.org/wiki/Bitcoin).
+An appropriate message or its packets cannot be changed during transit on Citium because they are encrypted by [ECDSA (Elliptic Curve Digital Signature Algorithm)](https://en.wikipedia.org/wiki/Elliptic_Curve_Digital_Signature_Algorithm). It has enjoyed almost two decades of usage in open-source projects, such as [Bitcoin](https://en.wikipedia.org/wiki/Bitcoin). A successfully hack (deciphering it without private key) would allow any would-be attacker to make a tremendous amount of profit. The fact that this appears to have never happened is good empirical evidence for its security.
 #### Availability
 Decentralized network offers many nodes for an appropriate message as server and transit points so that data delivery services are available at all time. No [single point of failure (SPOF)](https://en.wikipedia.org/wiki/Single_point_of_failure) could impact the uptime of Citium.
 #### Authorization
