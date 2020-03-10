@@ -35,7 +35,7 @@ Information security, sometimes shortened to InfoSec, is the practice of protect
 Here are a list of InfoSec features that any two users (e.g., Joe & Jane) who have established trusted relationship between themselves on Citium may enjoy:
 
 #### Permissionless
-The main benefit of Citium being a permissionless blockchain is censorship-resistance. No one can be banned from running nodes and multicasting data (e.g., text, image, video and real-time voice) onto Citium.
+The main benefit of Citium being a [permissionless](https://en.wikipedia.org/wiki/Blockchain#Permissionless) blockchain is censorship-resistance. No one can be banned from running nodes and multicasting data (e.g., text, image, video and real-time voice) onto Citium.
 #### Confidentiality
 No unauthorized third party can access an appropriate message (e.g., sent from Joe to Jane) on Citium because the message is randomly smurfed (broken) down into packets, which in turn are distributed to as many nodes as possible by mesh-tree multicasting. Unless every nodes in the entire Citium network is hijacked and the pertaining packets deciphered, no single part intercepted at any individual nodes may leak the appropriate message.
 #### Integrity
