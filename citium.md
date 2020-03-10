@@ -10,15 +10,15 @@ googlefonts: ["Roboto Condensed"]
 
 西蒂姆（Citium）是一個免費的、開源代碼的、無需准入許可的（permissionless）、分身帳號的/馬甲的（sockpuppeting）、多點廣播的（multicasting/smurfing）、去中心化（decentralized）網絡技術。使用西蒂姆（Citium）建造的去中心化應用程序（dApp）和其數據（例如文字、音像、視像和即時音訊）能比任何其他形式設計的系統都要享有更優越的安全性。
 
-Citium is a free, open-sourced, permissionless, sockpuppeting, multicasting/smurfing, decentralized network technology. Its decentralized Apps (dApps) and their data (e.g., text, image, video and real-time voice) enjoy far superior security than any other systems that are designed differently.
+Citium is a free, open-source, permissionless, sockpuppeting, multicasting/smurfing, decentralized network technology. Its decentralized Apps (dApps) and their data (e.g., text, image, video and real-time voice) enjoy far superior security than any other systems that are designed differently.
 
 ### 資訊安全功能<br>InfoSec Features
 
-Information security, sometimes shortened to InfoSec, is the practice of protecting information by mitigating information risks. It is part of information risk management. It typically involves preventing or at least reducing the probability of unauthorized/inappropriate access, use, disclosure, disruption, deletion/destruction, corruption, modification, inspection, recording or devaluation, although it may also involve reducing the adverse impacts of incidents. Here are a list of features that Citium may offer
+Information security, sometimes shortened to InfoSec, is the practice of protecting information by mitigating information risks. It is part of information risk management. It typically involves preventing or at least reducing the probability of unauthorized/inappropriate access, use, disclosure, disruption, deletion/destruction, corruption, modification, inspection, recording or devaluation, although it may also involve reducing the adverse impacts of incidents. Here are a list of InfoSec features that any two users (e.g., Joe & Jane) who have established trusted relationship between themselves on Citium may enjoy:
 
-1. __Confidentiality__: No unauthorized party can access to an appropriate message because it is randomly multicasted/smurfed to many nodes. Unless the entire network is hijacked, no partial message intercepted at any individual nodes may leak the entirety of the appropriate message.
-2. __Integrity__: Message cannot be changed during transit without being discovered because any individual partial message tempered will always result in unreadable message when combined back together at the receiver.
-3. __Availability__: Decentralized network offers many nodes for data transfer so that data and network services available at all time.
+1. __Confidentiality__: No unauthorized party can access an appropriate message (e.g., sent from Joe to Jane) because it is randomly multicasted/smurfed (broken into parts and sent) to many nodes. Unless every nodes in the entire Citium network is hijacked, no single part intercepted at any individual nodes may leak the appropriate message.
+2. __Integrity__: An appropriate message cannot be changed during transit without being discovered because any individual part of the message tempered during transit will always result in error.
+3. __Availability__: Decentralized network offers many nodes for an appropriate message as transit point so that data and network services are available at all time. No single point of failure
 4. __Authorization__: Network-wide peer-to-peer relationship assume no privilege but only those users enabled can read the actual data.
 5. __Authentication__:
 
