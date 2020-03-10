@@ -24,9 +24,12 @@ Information security, sometimes shortened to InfoSec, is the practice of protect
 | ✓ | Integrity | Tampering |
 | ✓ | Availability | DDoS Attack |
 | ✓ | Authorization | Privilege Escalation |
-| ✓ / ✗ | Authentication | Spoofing |
+|  / ✗ | Authentication | Spoofing |
 | ✓<br>✗ | Deniability<br>Non-Repudiation | Forced Disclosure<br>Repudiation |
 | ✓ | Permissionless | Censorship |
+
+ {: .box-note}
+ **△** ✓ means available. :full_moon:
 
 Here are a list of InfoSec features that any two users (e.g., Joe & Jane) who have established trusted relationship between themselves on Citium may enjoy:
 
@@ -41,7 +44,7 @@ Network-wide peer-to-peer relationship assume no higher or lower privilege but o
 #### Authentication
 Anyone can pretend to be someone else because nickname in Citium is non-exclusive. No one knows for sure who is who from an aerial perspective. Identification and authentication are done once only during the initial engagement between two users (e.g., Joe & Jane) to be joined in a trusted relationship. Once "wedded," spoofing by any third party is impossible, i.e., Joe can always identify the one and only Jane whom he "wedded" even though many other users pretend to be Jane; and Jane can always identify the one and only Joe whom she "wedded" even though many other users pretend to be Joe.
 #### Deniability / Non-Repudiation
- 
+
 
 
 Authentication: The message needs to be sent by the person/machine who claims to have sent it.
