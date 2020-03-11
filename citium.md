@@ -1,7 +1,7 @@
 ---
 layout: page
-title: 完全去中心化網絡
-subtitle: 100% Decentralized Citium
+title: 可推诿性匿名網絡
+subtitle: More Than Anonymity
 bigimg: /img/web.jpg
 googlefonts: ["Roboto Condensed"]
 ---
@@ -36,20 +36,21 @@ The main benefit of Citium being a [permissionless](https://en.wikipedia.org/wik
 #### 2. Confidentiality ✓
 No unauthorized third party can access an appropriate message (e.g., sent from Joe to Jane) on Citium because Citium use a _mesh-tree multicast content delivery network_ (MTMCDN) mechanism. That is, __the message is randomly split into packets__, which in turn are distributed to as many nodes as possible by mesh-tree multicasting. The nodes that hold the encrypted packets act as content delivery network (CDN) for the message. __Only the receiver (Jane) can decrypt and reunite all packets back to the appropriate message__. Unless some hackers can hijack every node that hold the pertaining packets and decipher them all with a quantum computer that only exist in theory, nothing during transit of the pertaining packets can threat the confidentiality of the message.
 #### 3. Integrity ✓
-An appropriate message or its packets cannot be changed during transit on Citium because they are __encrypted by [ECDSA (Elliptic Curve Digital Signature Algorithm)](https://en.wikipedia.org/wiki/Elliptic_Curve_Digital_Signature_Algorithm)__. It has enjoyed almost two decades of usage in open-source projects, such as [Bitcoin](https://en.wikipedia.org/wiki/Bitcoin). A successfully hack (deciphering it without private key) would allow any would-be attacker to make a tremendous amount of profit. The fact that this appears to have never happened is good empirical evidence for its security.
+An appropriate message or its packets cannot be changed during transit on Citium because they are __encrypted by [ECDSA (Elliptic Curve Digital Signature Algorithm)](https://en.wikipedia.org/wiki/Elliptic_Curve_Digital_Signature_Algorithm)__. It is not only mathematically impractical to break but also has enjoyed almost two decades of usage in open-source projects, such as [Bitcoin](https://en.wikipedia.org/wiki/Bitcoin). A successfully hack (deciphering it without private key) would allow any would-be attacker to make a tremendous amount of profit. The fact that this appears to have never happened is good empirical evidence for its security.
 #### 4. Availability ✓
-__Decentralized network offers many nodes__ for an appropriate message as server and transit points so that data delivery services are available at all time. No [single point of failure (SPOF)](https://en.wikipedia.org/wiki/Single_point_of_failure) could impact the uptime of Citium.
+__Decentralized network offers many nodes__ for the packets of an appropriate message (e.g., sent from Joe to Jane) as points of transits and content delivery servers so that services are available at all time. No [single point of failure (SPOF)](https://en.wikipedia.org/wiki/Single_point_of_failure) could impact the uptime of Citium.
 #### 5. Authorization ✓
 __Network-wide peer-to-peer (P2P) relationship__ assume no higher or lower privilege but only those appropriated to receive is authorized. Thus, neither [horizontal privilege escalation](https://en.wikipedia.org/wiki/Privilege_escalation#Horizontal) nor [vertical privilege escalation](https://en.wikipedia.org/wiki/Privilege_escalation#Vertical) may occur.
 #### 6. Authentication ✓
 __Aanyone can pretend to be someone else__ because nickname in Citium is non-exclusive. No one knows for sure who is who from an aerial perspective. Two users (e.g., Joe & Jane) can be joined cryptographically in a trusted relationship only once. Once "wedded," spoofing by any third party is impossible, i.e., Joe can always identify the one and only Jane whom he "wedded" even though many other users pretend to be Jane; and Jane can always identify the one and only Joe whom she "wedded" even though many other users pretend to be Joe.
 #### 7. Deniability ✓ | Non-Repudiation ✗
-Some centralized communication systems have non-repudiation as one of their main InfoSec feature because their users purposely want to hold their counterparties accountable. Citium does not cater for that purpose. In fact, Citium offers the complete opposite: Deniability. When two users decide to communicate through Citium with each other, they have to become each other's authenticated contact in Citium first before they can communicate. They do so by establishing dedicated new sockpuppeting account for each other.
+Some centralized communication systems have non-repudiation as one of their main InfoSec feature because their users purposely want to hold their counterparties accountable. Citium does not cater for that purpose. In fact, Citium offers the complete opposite: Deniability. When two users decide to communicate through Citium with each other, although they have to become each other's authenticated contact in Citium first before they can communicate, no one (not even themselves) can prove their trusted and authenticated relationship.
+
+{: .box-note}
+:ghost: & :loudspeaker:
 
 {: .box-note}
 :bomb: & :alarm_clock: To further maximize deniability, Packet has a limited lifespan on node. For example, messages sitting on mobile node are set to self-destruct in 24 hours.
-
-
 
 Authentication: The message needs to be sent by the person/machine who claims to have sent it.
 4. Access control: Only those users enabled can access the data.
