@@ -9,8 +9,11 @@ googlefonts: ["Roboto Condensed"]
 ## 西蒂姆<br>Citium
 
 西蒂姆（Citium）是一個免費的、開源代碼的、完全去中心化的、無需准入許可的區塊鏈系統，並採用了创新和獨特的安全机制，例如 __網樹內容傳遞網路__（MTMCDN）和 __分身馬甲帳號__。西蒂姆（Citium）能服務得到 __文字__、__音像__、__視像__ 和 __即時音訊__ 的數據。使用西蒂姆（Citium）建造的去中心化應用程序（dApp）能享有與別不同的數據傳輸安全性，例如 __可推诿性__。
-
+<br>
 Citium is a free, open-source, fully decentralized, permissionless blockchain that features innovative and unique InfoSec mechanisms (e.g., _mesh-tree multicast content delivery network_ (MTMCDN) and _sock puppetry_). Citium is capable of serving _text_, _image_, _video_ and _real-time voice_ data. Decentralized Apps (dApps) built on Citium can enjoy many data security features (e.g., _deniability_).
+
+{: .box-note}
+大多數現代在線應用程序服務提供商在使用某種形式的中心化方法（例如，託管于數據中心的服務器）來構建其用戶管理系統。這意味著監視。因為無論服務提供者斷言他們如何有效地保護用戶信息（例如電子郵件，IP，用戶名和密碼）免受惡意管理或黑客攻擊，從理論上講，他們都擁有修改或刪除信息的權力。因此，去中心化是絕對必要的，因為這樣才可以排除任何不幸事故發生，即使只是理論上可能會發生的事故。<br>Majority of the contemporary online application service providers are using some forms of centralized methods (e.g., servers hosted in a datacenter) to structure their user management systems. It means monitoring. Because no matter how vigorously the service providers assert that they are effectively guarding the user information (e.g., email, IPs, username & password) from maladministration or hack, theoretically, they hold the power to modify or delete the information. Therefore, decentralization is absolutely necessary to achieve the level of confidence that one can rule out even theoretical mishaps from happening.
 
 ### 資訊安全功能<br>InfoSec Features
 
@@ -44,7 +47,7 @@ __Network-wide peer-to-peer (P2P) relationship__ assume no higher or lower privi
 #### 6. Authentication ✓
 __Aanyone can pretend to be someone else__ because nickname in Citium is non-exclusive. No one knows for sure who is who from an aerial perspective. Two users (e.g., Joe & Jane) can be joined cryptographically in a trusted relationship only once. Once "wedded," spoofing by any third party is impossible, i.e., Joe can always identify the one and only Jane whom he "wedded" even though many other users pretend to be Jane; and Jane can always identify the one and only Joe whom she "wedded" even though many other users pretend to be Joe.
 #### 7. Deniability ✓ | Non-Repudiation ✗
-Some centralized communication systems are said to be non-repudiable because their users purposely want to hold their counterparties legally accountable. Citium does not cater for that purpose. In fact, Citium offers the complete opposite: deniability, which is the last line of defense against _forced disclosure_ or [_mandatory key disclosure_](https://en.wikipedia.org/wiki/Key_disclosure_law). When two users decide to communicate through Citium with each other, they have to become each other's authenticated users ("Contacts") in Citium first. But as ironic as it may sound, no one, not even themselves, can prove their authenticated Contact relationship afterward and even during the course of their communication. This is achieved by an innovative and unique InfoSec mechanism called _sockpuppetry_: Every user has multiple [sockpuppets](https://en.wikipedia.org/wiki/Sockpuppet_(Internet)) as designated proxies to talk to their Contacts' sockpuppets. The users themselves do not talk directly to anyone else but their own sockpuppets. From an aerial perspective, all users look alike, including the sockpuppets. No one can tell the difference from human-control users from sockpupeted ones, except their own. 
+Some centralized communication systems are said to be non-repudiable because their users purposely want to hold their counterparties legally accountable. Citium does not cater for that purpose. In fact, Citium offers the complete opposite: deniability, which is the last line of defense against _forced disclosure_ or [_mandatory key disclosure_](https://en.wikipedia.org/wiki/Key_disclosure_law). When two users decide to communicate through Citium with each other, they have to become each other's authenticated users ("Contacts") in Citium first. But as ironic as it may sound, no one, not even themselves, can prove their authenticated Contact relationship afterward and even during the course of their communication. This is achieved by an innovative and unique InfoSec mechanism called _sockpuppetry_: Every user has multiple [sockpuppets](https://en.wikipedia.org/wiki/Sockpuppet_(Internet)) as designated proxies to talk to their Contacts' sockpuppets. The users themselves do not talk directly to anyone else but their own sockpuppets. From an aerial perspective, all users look alike, including the sockpuppets. No one can tell the difference from human-control users from sockpupeted ones, except their own.
 
 {: .box-note}
 :ghost: & :loudspeaker:
@@ -72,19 +75,12 @@ Traditionally, most InfoSec architects pay attention only to the famous CIA tria
 - 數據分散化
 - 小號化
 
-## 微軟安全分型視角<br>STRIDE Perspective
-
-這整套設計辦法不單撇除了數據對任何個別中轉通訊服務商的依賴，更能杜絕監聽、攔截、追蹤的風險和它們萬一發生了之後的後患。
-
-Data transfers on Citium not only can avoid the reliance on any particular intermediary service provider, but also can effectively eliminate three major [STRIDE](https://en.wikipedia.org/wiki/STRIDE_(security)) threats, namely, 1. Spoofing; 2. Tampering and 3. Denial-of-service attack (DoS attack)), as well as mitigating the possible repercussions of the rest of the threats.
 
 ### 1. 完全去中心化<br>Fully Decentralization
 
-大多數現代在線應用程序服務提供商在使用某種形式的中心化方法（例如，託管于數據中心的服務器）來構建其用戶管理系統。這意味著監視。因為無論服務提供者斷言他們如何有效地保護用戶信息（例如電子郵件，IP，用戶名和密碼）免受惡意管理或黑客攻擊，從理論上講，他們都擁有修改或刪除信息的權力。因此，去中心化是絕對必要的，因為這樣才可以排除任何不幸事故發生，即使只是理論上可能會發生的事故。
+
 
 Citium 在開源節點上運行，任何人都可以不受限制地構建它們。這符合比特幣節點的本質。完全去中心化的設計可以防止單點故障。
-
-Majority of the contemporary online application service providers are using some forms of centralized methods (e.g., servers hosted in a datacenter) to structure their user management systems. It means monitoring. Because no matter how vigorously the service providers assert that they are effectively guarding the user information (e.g., email, IPs, username & password) from maladministration or hack, theoretically, they hold the power to modify or delete the information. Therefore, decentralization is absolutely necessary to achieve the level of confidence that one can rule out even theoretical mishaps from happening.
 
 Citium runs on open source nodes, and anyone can build them without restrictions. This aligns with the nature of Bitcoin's nodes. Full decentralization essentially guard against single point of failure.
 
