@@ -50,21 +50,13 @@ __Aanyone can pretend to be someone else__ because nickname in Citium is non-exc
 Some centralized communication systems are said to be non-repudiable because their users purposely want to hold their counterparties legally accountable. Citium does not cater for that purpose. In fact, Citium offers the complete opposite: deniability, which is the last line of defense against _forced disclosure_ or [_mandatory key disclosure_](https://en.wikipedia.org/wiki/Key_disclosure_law). When two users decide to communicate through Citium with each other, they have to become each other's authenticated users ("Contacts") in Citium first. But as ironic as it may sound, no one, not even themselves, can prove their authenticated Contact relationship afterward and even during the course of their communication. This is achieved by an innovative and unique InfoSec mechanism called _sockpuppetry_: Every user has multiple [sockpuppets](https://en.wikipedia.org/wiki/Sockpuppet_(Internet)) as designated proxies to talk to their Contacts' sockpuppets. The users themselves do not talk directly to anyone else but their own sockpuppets. From an aerial perspective, all users look alike, including the sockpuppets. No one can tell the difference from human-control users from sockpupeted ones, except their own.
 
 {: .box-note}
-:ghost: & :loudspeaker:
-:bomb: & :alarm_clock: To further maximize deniability, all packets have limited life expectancy on Citium nodes. For example, packets sitting on a mobile node are set to __self-destruct countdown__ of 24 hours.
+:bomb:: To further maximize deniability, all packets have limited life expectancy on Citium nodes. For example, packets sitting on a mobile node are set to __self-destruct countdown__ of 24 hours.
 
 
 ## 为什么要做<br>CIA Triad Perspective
 
 傳統上來說，大部分資訊安全架構師著眼點擺在「CIA三元組」，它們是：__機密性 (Confidentiality)__, __完整性 (Integrity)__ 和 __可用性 (Availability)__。在這三個基礎上，西蒂姆（Citium）同時著重多一個安全概念：__推诿性 (Deniability)__ †。它的重要性只會比「CIA三元組」有過之亦無不及，因為與它相關的機制是用戶當被 「__强制性披露__」 (__force disclosure__) / 「__強制性密鑰披露__」 ([__mandatory key disclosure__](https://en.wikipedia.org/wiki/Key_disclosure_law)) 時候的最後一道防線。
 
- {: .box-note}
- **†** __推诿性 (Deniability)__ 一般會被稱為「合理的可推諉性」(Plausible Deniability), 但不要與另外兩個加密安全領域的概念「可否認性」(Repudiability) 和「無法認領性」(Unclaimability) 混淆了。
-
-Traditionally, most InfoSec architects pay attention only to the famous CIA triad: __Confidentiality__, __Integrity__ and __Availability__. Citium deals with one more issue: __Deniability__†. which is not one bit less important than the CIA triad because its associated mechanisms are the users' last line of defense against __forced disclosure__ or [__mandatory key disclosure__](https://en.wikipedia.org/wiki/Key_disclosure_law).
-
- {: .box-note}
- **†** Deniability, often referred as Plausible Deniability, is not to be confused with two other cryptography concepts: "repudiability" and "unclaimability".
 
 ### 2. 無對象收發
 
