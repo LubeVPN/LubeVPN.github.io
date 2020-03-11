@@ -13,7 +13,7 @@ googlefonts: ["Roboto Condensed"]
 Citium is a free, open-source, fully decentralized, permissionless blockchain that features innovative and unique InfoSec mechanisms (e.g., _mesh-tree multicast content delivery network_ (MTMCDN) and _sock puppetry_). Citium is capable of serving _text_, _image_, _video_ and _real-time voice_ data. Decentralized Apps (dApps) built on Citium can enjoy many data security features (e.g., _deniability_).
 
 {: .box-note}
-大多數現代在線應用程序服務提供商在使用某種形式的中心化方法（例如，託管于數據中心的服務器）來構建其用戶管理系統。這意味著監視。因為無論服務提供者斷言他們如何有效地保護用戶信息（例如電子郵件，IP，用戶名和密碼）免受惡意管理或黑客攻擊，從理論上講，他們都擁有修改或刪除信息的權力。因此，去中心化是絕對必要的，因為這樣才可以排除任何不幸事故發生，即使只是理論上可能會發生的事故。<br>Majority of the contemporary online application service providers are using some forms of centralized methods (e.g., servers hosted in a datacenter) to structure their user management systems. It means monitoring. Because no matter how vigorously the service providers assert that they are effectively guarding the user information (e.g., email, IPs, username & password) from maladministration or hack, theoretically, they hold the power to modify or delete the information. Therefore, decentralization is absolutely necessary to achieve the level of confidence that one can rule out even theoretical mishaps from happening.
+__完全去中心化__：大多數現代在線應用程序服務提供商在使用某種形式的中心化方法（例如，託管于數據中心的服務器）來構建其用戶管理系統。這意味著監視。因為無論服務提供者斷言他們如何有效地保護用戶信息（例如電子郵件，IP，用戶名和密碼）免受惡意管理或黑客攻擊，從理論上講，他們都擁有修改或刪除信息的權力。因此，去中心化是絕對必要的，因為這樣才可以排除任何不幸事故發生，即使只是理論上可能會發生的事故。<br>__Fully Decentralization__: Majority of the contemporary online application service providers are using some forms of centralized methods (e.g., servers hosted in a datacenter) to structure their user management systems. It means monitoring. Because no matter how vigorously the service providers assert that they are effectively guarding the user information (e.g., email, IPs, username & password) from maladministration or hack, theoretically, they hold the power to modify or delete the information. Therefore, decentralization is absolutely necessary to achieve the level of confidence that one can rule out even theoretical mishaps from happening.
 
 ### 資訊安全功能<br>InfoSec Features
 
@@ -65,24 +65,6 @@ Traditionally, most InfoSec architects pay attention only to the famous CIA tria
 
  {: .box-note}
  **†** Deniability, often referred as Plausible Deniability, is not to be confused with two other cryptography concepts: "repudiability" and "unclaimability".
-
-### 推诿性<br>Deniability
-
-西蒂姆 (Citium) 中最創新的安全功能實現辦法是受到了「__大型多人線上角色扮演遊戲__」(MMORPG)、「__反洗錢__」(AML) 和「__分散式阻斷服務攻擊__」(DDoS Attack) 啟發設計而成。它們與去中心化加密安全網絡技術結合後，能提供近乎完美的可推諉性 (Deniability) 效果。首先，MMORPG 提供的啟發，是在它們的「公共頻道」(public channel) 聊天系統。玩過 MMORPG 的人會發現，在「公共頻道」中發言的人非常多而且話題雜亂不堪，難以辨認誰對誰發言或發言的目的是什麼。
-
-西蒂姆 (Citium) 用了兩種圈套型機制：
-
-- 數據分散化
-- 小號化
-
-
-### 1. 完全去中心化<br>Fully Decentralization
-
-
-
-Citium 在開源節點上運行，任何人都可以不受限制地構建它們。這符合比特幣節點的本質。完全去中心化的設計可以防止單點故障。
-
-Citium runs on open source nodes, and anyone can build them without restrictions. This aligns with the nature of Bitcoin's nodes. Full decentralization essentially guard against single point of failure.
 
 ### 2. 無對象收發
 
