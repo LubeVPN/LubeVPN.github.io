@@ -10,7 +10,7 @@ googlefonts: ["Roboto Condensed"]
 
 西蒂姆（Citium）是一個免費的、開源代碼的、完全去中心化的、無需准入許可的區塊鏈系統，並採用了创新和獨特的安全机制，例如 __網樹內容傳遞網路__（MTMCDN）和 __分身馬甲帳號__。西蒂姆（Citium）能服務得到 __文字__、__音像__、__視像__ 和 __即時音訊__ 的數據。使用西蒂姆（Citium）建造的去中心化應用程序（dApp）能享有與別不同的數據傳輸安全性，例如 __可推诿性__。
 
-Citium is a free, open-source, fully decentralized, permissionless blockchain that features innovative and unique InfoSec mechanisms (e.g., _mesh-tree multicast content delivery network_ (MTMCDN) and _sockpuppeting_). Citium is capable of serving _text_, _image_, _video_ and _real-time voice_ data. Decentralized Apps (dApps) built on Citium can enjoy many data security features (e.g., _deniability_).
+Citium is a free, open-source, fully decentralized, permissionless blockchain that features innovative and unique InfoSec mechanisms (e.g., _mesh-tree multicast content delivery network_ (MTMCDN) and _sock puppetry_). Citium is capable of serving _text_, _image_, _video_ and _real-time voice_ data. Decentralized Apps (dApps) built on Citium can enjoy many data security features (e.g., _deniability_).
 
 ### 資訊安全功能<br>InfoSec Features
 
@@ -44,24 +44,14 @@ __Network-wide peer-to-peer (P2P) relationship__ assume no higher or lower privi
 #### 6. Authentication ✓
 __Aanyone can pretend to be someone else__ because nickname in Citium is non-exclusive. No one knows for sure who is who from an aerial perspective. Two users (e.g., Joe & Jane) can be joined cryptographically in a trusted relationship only once. Once "wedded," spoofing by any third party is impossible, i.e., Joe can always identify the one and only Jane whom he "wedded" even though many other users pretend to be Jane; and Jane can always identify the one and only Joe whom she "wedded" even though many other users pretend to be Joe.
 #### 7. Deniability ✓ | Non-Repudiation ✗
-Some centralized communication systems are said to be non-repudiable because their users purposely want to hold their counterparties legally accountable. Citium does not cater for that purpose. In fact, Citium offers the complete opposite: Deniability. When two users decide to communicate through Citium with each other, although they have to become each other's authenticated contact in Citium first before they can communicate, no one (not even themselves) can prove their trusted and authenticated relationship.
+Some centralized communication systems are said to be non-repudiable because their users purposely want to hold their counterparties legally accountable. Citium does not cater for that purpose. In fact, Citium offers the complete opposite: deniability, which is the last line of defense against _forced disclosure_ or [_mandatory key disclosure_](https://en.wikipedia.org/wiki/Key_disclosure_law). When two users decide to communicate through Citium with each other, they have to become each other's authenticated users ("Contacts") in Citium first. But as ironic as it may sound, no one, not even themselves, can prove their authenticated Contact relationship afterward and even during the course of their communication. This is achieved by an innovative and unique InfoSec mechanism called _sockpuppetry_: Every user has multiple [sockpuppets](https://en.wikipedia.org/wiki/Sockpuppet_(Internet)) as designated proxies to talk to their Contacts' sockpuppets. The users themselves do not talk directly to anyone else but their own sockpuppets. From an aerial perspective, all users look alike, including the sockpuppets. No one can tell the difference from human-control users from sockpupeted ones, except their own. 
 
 {: .box-note}
 :ghost: & :loudspeaker:
 :bomb: & :alarm_clock: To further maximize deniability, all packets have limited life expectancy on Citium nodes. For example, packets sitting on a mobile node are set to __self-destruct countdown__ of 24 hours.
 
-Authentication: The message needs to be sent by the person/machine who claims to have sent it.
-4. Access control: Only those users enabled can access the data.
-5. Non-repudiation: The receiver can prove that the sender actually sent the message.[3]
-6.
-7.
-8.
 
-Authentication is verifying the identity of a person or process. It is a technical construct.
-
-Non-repudiation is being able to assure that an action cannot be denied; being able to prove that someone did something, for example. It is a legal construct.
-
-## CIA三元組視角<br>CIA Triad Perspective
+## 为什么要做<br>CIA Triad Perspective
 
 傳統上來說，大部分資訊安全架構師著眼點擺在「CIA三元組」，它們是：__機密性 (Confidentiality)__, __完整性 (Integrity)__ 和 __可用性 (Availability)__。在這三個基礎上，西蒂姆（Citium）同時著重多一個安全概念：__推诿性 (Deniability)__ †。它的重要性只會比「CIA三元組」有過之亦無不及，因為與它相關的機制是用戶當被 「__强制性披露__」 (__force disclosure__) / 「__強制性密鑰披露__」 ([__mandatory key disclosure__](https://en.wikipedia.org/wiki/Key_disclosure_law)) 時候的最後一道防線。
 
@@ -81,11 +71,6 @@ Traditionally, most InfoSec architects pay attention only to the famous CIA tria
 
 - 數據分散化
 - 小號化
-
-Citum uses two decoying mechanisms:
-
-- Smurf all data transmission
-- Sockpuppetize every contact
 
 ## 微軟安全分型視角<br>STRIDE Perspective
 
