@@ -8,9 +8,9 @@ googlefonts: ["Roboto Condensed"]
 
 ## 西蒂姆<br>Citium
 
-西蒂姆（Citium）是一個免費的、開源代碼的、無需准入許可的區塊鏈系統，並採用了獨特安全系統設計，例如 __網樹內容傳遞網路__（MTCDM）和 __分身馬甲帳號__。西蒂姆（Citium）能服務得到 __文字__、__音像__、__視像__ 和 __即時音訊__ 的數據。使用西蒂姆（Citium）建造的去中心化應用程序（dApp）能享有與別不同的數據傳輸安全性，例如 __可推诿性__。
+西蒂姆（Citium）是一個免費的、開源代碼的、完全去中心化的、無需准入許可的區塊鏈系統，並採用了创新和獨特的安全机制，例如 __網樹內容傳遞網路__（MTMCDN）和 __分身馬甲帳號__。西蒂姆（Citium）能服務得到 __文字__、__音像__、__視像__ 和 __即時音訊__ 的數據。使用西蒂姆（Citium）建造的去中心化應用程序（dApp）能享有與別不同的數據傳輸安全性，例如 __可推诿性__。
 
-Citium is a free, open-source, permissionless blockchain that features unique InfoSec mechanisms (e.g., _mesh-tree multicast content delivery network_ (MTMCDN) and _sockpuppeting_). Citium is capable of serving _text_, _image_, _video_ and _real-time voice_ data. Decentralized Apps (dApps) built on Citium can enjoy many data security features (e.g., _deniability_).
+Citium is a free, open-source, fully decentralized, permissionless blockchain that features innovative and unique InfoSec mechanisms (e.g., _mesh-tree multicast content delivery network_ (MTMCDN) and _sockpuppeting_). Citium is capable of serving _text_, _image_, _video_ and _real-time voice_ data. Decentralized Apps (dApps) built on Citium can enjoy many data security features (e.g., _deniability_).
 
 化整為零  化零為整
 
@@ -33,20 +33,23 @@ Information security, sometimes shortened to InfoSec, is the practice of protect
 :closed_lock_with_key:: ✓ means available feature; ✗ means unavailable feature.
 
 Here are a list of InfoSec features that any two users (e.g., Joe & Jane) who have established trusted relationship between themselves on Citium may enjoy:
-#### Permissionless
-The main benefit of Citium being a [permissionless](https://en.wikipedia.org/wiki/Blockchain#Permissionless) blockchain is censorship-resistance. No one can be banned from running nodes. Every node can multicast/retrieve data (e.g., text, image, video and real-time voice) to/from Citium. Any two users (e.g., Joe & Jane) who decide to communicate securely may hop on Citium at any time without the need to ask anyone else for permission.
-#### Confidentiality
-No unauthorized third party can access an appropriate message (e.g., sent from Joe to Jane) on Citium because Citium use a _mesh-tree multicast content delivery network_ (MTMCDN) mechanism. That is, the message is randomly smurfed (broken) down into packets, which in turn are distributed to as many nodes as possible by mesh-tree multicasting. Unless every nodes in the entire Citium CDN network is hijacked and the pertaining packets deciphered, no single packet intercepted at any individual node could do any good in deciphering the appropriate message.
-#### Integrity
-An appropriate message or its packets cannot be changed during transit on Citium because they are encrypted by [ECDSA (Elliptic Curve Digital Signature Algorithm)](https://en.wikipedia.org/wiki/Elliptic_Curve_Digital_Signature_Algorithm). It has enjoyed almost two decades of usage in open-source projects, such as [Bitcoin](https://en.wikipedia.org/wiki/Bitcoin). A successfully hack (deciphering it without private key) would allow any would-be attacker to make a tremendous amount of profit. The fact that this appears to have never happened is good empirical evidence for its security.
-#### Availability
-Decentralized network offers many nodes for an appropriate message as server and transit points so that data delivery services are available at all time. No [single point of failure (SPOF)](https://en.wikipedia.org/wiki/Single_point_of_failure) could impact the uptime of Citium.
-#### Authorization
-Network-wide peer-to-peer relationship assume no higher or lower privilege but only those appropriated to receive is authorized. Thus, neither [horizontal privilege escalation](https://en.wikipedia.org/wiki/Privilege_escalation#Horizontal) nor [vertical privilege escalation](https://en.wikipedia.org/wiki/Privilege_escalation#Vertical) may occur.
-#### Authentication
-Anyone can pretend to be someone else because nickname in Citium is non-exclusive. No one knows for sure who is who from an aerial perspective. Two users (e.g., Joe & Jane) can be joined cryptographically in a trusted relationship only once. Once "wedded," spoofing by any third party is impossible, i.e., Joe can always identify the one and only Jane whom he "wedded" even though many other users pretend to be Jane; and Jane can always identify the one and only Joe whom she "wedded" even though many other users pretend to be Joe.
-#### Deniability / Non-Repudiation
-When two users decide to communicate through Citium. They first would have to become each other's contact in Citium.
+#### 1. Permissionless ✓
+The main benefit of Citium being a [permissionless](https://en.wikipedia.org/wiki/Blockchain#Permissionless) blockchain is __censorship-resistance__. No one can be banned from running nodes. Every node can multicast/retrieve data (e.g., text, image, video and real-time voice) to/from Citium. Any two users (e.g., Joe & Jane) who decide to communicate securely may hop on Citium at any time without the need to ask anyone else for permission.
+#### 2. Confidentiality ✓
+No unauthorized third party can access an appropriate message (e.g., sent from Joe to Jane) on Citium because Citium use a _mesh-tree multicast content delivery network_ (MTMCDN) mechanism. That is, __the message is randomly split into packets__, which in turn are distributed to as many nodes as possible by mesh-tree multicasting. The nodes that hold the encrypted packets act as content delivery network (CDN) for the message. __Only the receiver (Jane) can decrypt and reunite all packets back to the appropriate message__. Unless some hackers can hijack every node that hold the pertaining packets and decipher them all with a quantum computer that only exist in theory, nothing during transit of the pertaining packets can threat the confidentiality of the message.
+#### 3. Integrity ✓
+An appropriate message or its packets cannot be changed during transit on Citium because they are __encrypted by [ECDSA (Elliptic Curve Digital Signature Algorithm)](https://en.wikipedia.org/wiki/Elliptic_Curve_Digital_Signature_Algorithm)__. It has enjoyed almost two decades of usage in open-source projects, such as [Bitcoin](https://en.wikipedia.org/wiki/Bitcoin). A successfully hack (deciphering it without private key) would allow any would-be attacker to make a tremendous amount of profit. The fact that this appears to have never happened is good empirical evidence for its security.
+#### 4. Availability ✓
+__Decentralized network offers many nodes__ for an appropriate message as server and transit points so that data delivery services are available at all time. No [single point of failure (SPOF)](https://en.wikipedia.org/wiki/Single_point_of_failure) could impact the uptime of Citium.
+#### 5. Authorization ✓
+__Network-wide peer-to-peer (P2P) relationship__ assume no higher or lower privilege but only those appropriated to receive is authorized. Thus, neither [horizontal privilege escalation](https://en.wikipedia.org/wiki/Privilege_escalation#Horizontal) nor [vertical privilege escalation](https://en.wikipedia.org/wiki/Privilege_escalation#Vertical) may occur.
+#### 6. Authentication ✓
+__Aanyone can pretend to be someone else__ because nickname in Citium is non-exclusive. No one knows for sure who is who from an aerial perspective. Two users (e.g., Joe & Jane) can be joined cryptographically in a trusted relationship only once. Once "wedded," spoofing by any third party is impossible, i.e., Joe can always identify the one and only Jane whom he "wedded" even though many other users pretend to be Jane; and Jane can always identify the one and only Joe whom she "wedded" even though many other users pretend to be Joe.
+#### 7. Deniability ✓ | Non-Repudiation ✗
+Some centralized communication systems have non-repudiation as one of their main InfoSec feature because their users purposely want to hold their counterparties accountable. Citium does not cater for that purpose. In fact, Citium offers the complete opposite: Deniability. When two users decide to communicate through Citium with each other, they have to become each other's authenticated contact in Citium first before they can communicate. They do so by establishing dedicated new sockpuppeting account for each other.
+
+{: .box-note}
+:bomb: & :alarm_clock: To further maximize deniability, Packet has a limited lifespan on node. For example, messages sitting on mobile node are set to self-destruct in 24 hours.
 
 
 
