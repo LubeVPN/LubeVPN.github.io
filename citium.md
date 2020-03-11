@@ -12,8 +12,6 @@ googlefonts: ["Roboto Condensed"]
 
 Citium is a free, open-source, fully decentralized, permissionless blockchain that features innovative and unique InfoSec mechanisms (e.g., _mesh-tree multicast content delivery network_ (MTMCDN) and _sockpuppeting_). Citium is capable of serving _text_, _image_, _video_ and _real-time voice_ data. Decentralized Apps (dApps) built on Citium can enjoy many data security features (e.g., _deniability_).
 
-化整為零  化零為整
-
 ### 資訊安全功能<br>InfoSec Features
 
 Information security, sometimes shortened to InfoSec, is the practice of protecting information by mitigating information risks. It is part of information risk management. It typically involves preventing or at least reducing the probability of unauthorized/inappropriate access, use, disclosure, disruption, deletion/destruction, corruption, modification, inspection, recording or devaluation, although it may also involve reducing the adverse impacts of incidents.
