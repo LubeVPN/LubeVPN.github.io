@@ -8,9 +8,9 @@ googlefonts: ["Roboto Condensed"]
 
 ## 西蒂姆<br>Citium
 
-西蒂姆（Citium）是一個免費的、開源代碼的、無需准入許可的區塊鏈系統，並採用了獨特安全系統設計，例「__分身帳號__（馬甲）」和「__網樹多點廣佈__」。使用西蒂姆（Citium）建造的去中心化應用程序（dApp）能享有與別不同的數據（例如文字、音像、視像和即時音訊）傳輸安全性，例如「__可推诿性__」。
+西蒂姆（Citium）是一個免費的、開源代碼的、無需准入許可的區塊鏈系統，並採用了獨特安全系統設計，例如 __網樹內容傳遞網路__（MTCDM）和 __分身馬甲帳號__。使用西蒂姆（Citium）建造的去中心化應用程序（dApp）能享有與別不同的數據（例如文字、音像、視像和即時音訊）傳輸安全性，例如 __可推诿性__。
 
-Citium is a free, open-source, permissionless blockchain that features unique InfoSec designs (e.g., _sockpuppeting_ and _mesh-tree multicasting_). Decentralized Apps (dApps) built on Citium enjoy notable data (e.g., text, image, video and real-time voice) security features (e.g., _deniability_).
+Citium is a free, open-source, permissionless blockchain that features unique InfoSec mechanisms (e.g., _mesh-tree multicast content delivery network_ (MTMCDN) and _sockpuppeting_). Decentralized Apps (dApps) built on Citium enjoy notable data (e.g., text, image, video and real-time voice) security features (e.g., _deniability_).
 
 化整為零  化零為整
 
@@ -37,7 +37,7 @@ Here are a list of InfoSec features that any two users (e.g., Joe & Jane) who ha
 #### Permissionless
 The main benefit of Citium being a [permissionless](https://en.wikipedia.org/wiki/Blockchain#Permissionless) blockchain is censorship-resistance. No one can be banned from running nodes and multicasting data (e.g., text, image, video and real-time voice) onto Citium.
 #### Confidentiality
-No unauthorized third party can access an appropriate message (e.g., sent from Joe to Jane) on Citium because the message is randomly smurfed (broken) down into packets, which in turn are distributed to as many nodes as possible by mesh-tree multicasting. Unless every nodes in the entire Citium network is hijacked and the pertaining packets deciphered, no single part intercepted at any individual nodes may leak the appropriate message.
+No unauthorized third party can access an appropriate message (e.g., sent from Joe to Jane) on Citium because Citium use a _mesh-tree multicast content delivery network_ (MTMCDN) mechanism. That is, the message is randomly smurfed (broken) down into packets, which in turn are distributed to as many nodes as possible by mesh-tree multicasting. Unless every nodes in the entire Citium CDN network is hijacked and the pertaining packets deciphered, no single packet intercepted at any individual node could do any good in deciphering the appropriate message.
 #### Integrity
 An appropriate message or its packets cannot be changed during transit on Citium because they are encrypted by [ECDSA (Elliptic Curve Digital Signature Algorithm)](https://en.wikipedia.org/wiki/Elliptic_Curve_Digital_Signature_Algorithm). It has enjoyed almost two decades of usage in open-source projects, such as [Bitcoin](https://en.wikipedia.org/wiki/Bitcoin). A successfully hack (deciphering it without private key) would allow any would-be attacker to make a tremendous amount of profit. The fact that this appears to have never happened is good empirical evidence for its security.
 #### Availability
