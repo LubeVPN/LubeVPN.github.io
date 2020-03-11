@@ -44,13 +44,11 @@ __Network-wide peer-to-peer (P2P) relationship__ assume no higher or lower privi
 #### 6. Authentication ✓
 __Aanyone can pretend to be someone else__ because nickname in Citium is non-exclusive. No one knows for sure who is who from an aerial perspective. Two users (e.g., Joe & Jane) can be joined cryptographically in a trusted relationship only once. Once "wedded," spoofing by any third party is impossible, i.e., Joe can always identify the one and only Jane whom he "wedded" even though many other users pretend to be Jane; and Jane can always identify the one and only Joe whom she "wedded" even though many other users pretend to be Joe.
 #### 7. Deniability ✓ | Non-Repudiation ✗
-Some centralized communication systems have non-repudiation as one of their main InfoSec feature because their users purposely want to hold their counterparties accountable. Citium does not cater for that purpose. In fact, Citium offers the complete opposite: Deniability. When two users decide to communicate through Citium with each other, although they have to become each other's authenticated contact in Citium first before they can communicate, no one (not even themselves) can prove their trusted and authenticated relationship.
+Some centralized communication systems are said to be non-repudiable because their users purposely want to hold their counterparties legally accountable. Citium does not cater for that purpose. In fact, Citium offers the complete opposite: Deniability. When two users decide to communicate through Citium with each other, although they have to become each other's authenticated contact in Citium first before they can communicate, no one (not even themselves) can prove their trusted and authenticated relationship.
 
 {: .box-note}
 :ghost: & :loudspeaker:
-
-{: .box-note}
-:bomb: & :alarm_clock: To further maximize deniability, Packet has a limited lifespan on node. For example, messages sitting on mobile node are set to self-destruct in 24 hours.
+:bomb: & :alarm_clock: To further maximize deniability, all packets have limited life expectancy on Citium nodes. For example, packets sitting on a mobile node are set to __self-destruct countdown__ of 24 hours.
 
 Authentication: The message needs to be sent by the person/machine who claims to have sent it.
 4. Access control: Only those users enabled can access the data.
