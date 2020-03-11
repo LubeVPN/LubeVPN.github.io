@@ -44,8 +44,9 @@ Decentralized network offers many nodes for an appropriate message as server and
 #### Authorization
 Network-wide peer-to-peer relationship assume no higher or lower privilege but only those appropriated to receive is authorized. Thus, neither [horizontal privilege escalation](https://en.wikipedia.org/wiki/Privilege_escalation#Horizontal) nor [vertical privilege escalation](https://en.wikipedia.org/wiki/Privilege_escalation#Vertical) may occur.
 #### Authentication
-Anyone can pretend to be someone else because nickname in Citium is non-exclusive. No one knows for sure who is who from an aerial perspective. Identification and authentication are done once only during the initial engagement between two users (e.g., Joe & Jane) to be joined in a trusted relationship. Once "wedded," spoofing by any third party is impossible, i.e., Joe can always identify the one and only Jane whom he "wedded" even though many other users pretend to be Jane; and Jane can always identify the one and only Joe whom she "wedded" even though many other users pretend to be Joe.
+Anyone can pretend to be someone else because nickname in Citium is non-exclusive. No one knows for sure who is who from an aerial perspective. Two users (e.g., Joe & Jane) can be joined cryptographically in a trusted relationship only once. Once "wedded," spoofing by any third party is impossible, i.e., Joe can always identify the one and only Jane whom he "wedded" even though many other users pretend to be Jane; and Jane can always identify the one and only Joe whom she "wedded" even though many other users pretend to be Joe.
 #### Deniability / Non-Repudiation
+When two users decide to communicate through Citium. They first would have to become each other's contact in Citium.
 
 
 
