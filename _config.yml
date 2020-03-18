@@ -4,7 +4,7 @@
 title: LubeVPN
 
 # Short description of your site
-description: Proxy Service Based on Fully Decentralized Citium Net
+description: Proxy Service Based on Fully Decentralized Citium
 
 # --- Local development options ---
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
@@ -20,19 +20,20 @@ description: Proxy Service Based on Fully Decentralized Citium Net
 
 # List of links in the navigation bar
 navbar-links:
-  匿名和隱私<br>Anonymity: "anonymity_privacy"
-  繞過萬里網審<br>Circumvention: "circumvention"
-  絕不寫Log政策<br>No Log Policy: "no_log_policy"
-  開天闢地的技術<br>Technology: "technology"
-  去中心化網絡<br>Citium: "citium"
-  開發團隊<br>About Us: "about_us"
-
-#  服務和特色<br>Service & Features:
-#  - 繞過萬里網審<br>Circumvention: "circumvention"
-#  - 絕不寫Log政策<br>No Log Policy: "no_log_policy"
-#  - 開天闢地的技術<br>Technology: "technology"
-#  - 去中心化網絡<br>Citium Net: "citium_net"
+#  繞過萬里網審<br>Circumvention: "circumvention"
+#  絕不寫Log政策<br>No Log Policy: "no_log_policy"
+#  開天闢地的技術<br>Technology: "technology"
+#  去中心化網絡<br>Citium: "citium"
 #  開發團隊<br>About Us: "about_us"
+
+服務和特色<br>Service & Features:
+  - 繞過萬里網審<br>Circumvention: "circumvention"
+  - 匿名和隱私<br>Anonymity: "anonymity_privacy"
+  - 開天闢地的技術<br>Technology: "technology"
+  - 絕不寫Log政策<br>No Log Policy: "no_log_policy"
+付款辦法<br>Payment Method: "payment"
+去中心化網絡<br>Citium: "citium"
+開發團隊<br>About Us: "about_us"
 
 
 
