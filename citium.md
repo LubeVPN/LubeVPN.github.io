@@ -8,7 +8,7 @@ googlefonts: ["Roboto Condensed"]
 
 ## 西蒂姆<br>Citium
 
-西蒂姆（Citium）是一個免費的、開源代碼的、完全去中心化的、無需准入許可的區塊鏈系統，並採用了密碼學上堅不可摧的信息安全机制，例如 __PGP__, __網樹哈希傳遞網路__（MTMHDN）和 __分身馬甲帳號__。西蒂姆（Citium）能服務得到 __文字__、__音像__、__視像__ 和 __即時音訊__ 的數據。使用西蒂姆（Citium）建造的去中心化應用程序（dApp）能享有與別不同的數據傳輸安全性，例如 __可推诿性__。
+西蒂姆（Citium）是一個免費的、開源代碼的、完全去中心化的、無需准入許可的區塊鏈系統，並採用了密碼學上堅不可摧的信息安全机制，例如 __網樹哈希傳遞網路__（MTMHDN）和 __分身馬甲帳號__。西蒂姆（Citium）能服務得到 __文字__、__音像__、__視像__ 和 __即時音訊__ 的數據。使用西蒂姆（Citium）建造的去中心化應用程序（dApp）能享有與別不同的數據傳輸安全性，例如 __可推诿性__。
 <br>
 Citium is a free, open-source, fully decentralized, permissionless blockchain that features cryptanalytically unbreakable InfoSec mechanisms (e.g., _mesh-tree multicast hash delivery network_ (MTMHDN) and _sockpuppetry_). Citium is capable of serving _text_, _image_, _video_ and _real-time voice_ data. Decentralized Apps (dApps) built on Citium can enjoy many data security features (e.g., _deniability_).
 
