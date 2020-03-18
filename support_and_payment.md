@@ -1,10 +1,12 @@
 ---
 layout: page
-title: 付款辦法
-subtitle: Payment Method
+title: 客服與付款
+subtitle: Support & Payment
 # bigimg: /img/web.jpg
 googlefonts: ["Roboto Condensed"]
 ---
+
+順道VPN（LubeVPN）付費會員可以通過多個途徑付款，例如電子和實體卡、加密電子貨幣等方法。順道VPN（LubeVPN）官方只經由西蒂姆（Citium）即時聊天工具提供客戶服務。
 
 ## 電子和實體卡劵抵值月費
 
