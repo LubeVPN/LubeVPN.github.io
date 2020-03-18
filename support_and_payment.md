@@ -2,7 +2,7 @@
 layout: page
 title: 客服與付款
 subtitle: Support & Payment
-# bigimg: /img/web.jpg
+bigimg: /img/ring.jpg
 googlefonts: ["Roboto Condensed"]
 ---
 
