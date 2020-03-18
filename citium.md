@@ -25,28 +25,36 @@ Most instant messenger system providers (IMSPs) in the marketplace require prosp
 
 #### 傳統辦法<br>Traditional Regime
 傳統上，即時通訊系統提供商（IMSP）通過以下身份驗證和授權機制為其用戶提供服務：
+
 1. 用戶向IMSP提交他/她的用戶信息（例如，帳戶ID和密碼）。
 2. IMSP驗證用戶信息。
 3. IMSP授權用戶使用其服務。
+
 由於IMSP擁有所有用戶信息，因此傳統的方式在密碼分析上並不安全，因此從理論上講IMSP可能會偽造用戶行為。 此外，IMSP有時無法確保免受第三方黑客和惡意攻擊的侵害。 最後但並非最不重要的一點是，[社交黑客](https://en.wikipedia.org/wiki/Social_hacking) 會攻擊粗心的用戶，這些粗心的用戶會在不同的IMSP上應用未區分的用戶個人資料信息（例如，用戶名，性別，年齡）。 僅一個IMSP的[安全漏洞](https://en.wikipedia.org/wiki/List_of_data_breaches) 可能會導致用戶在整個互聯網上遭受隱私洩露。
-<br>
+
 Traditionally, instant messenger system providers (IMSPs) provide service to their users through the following authentication and authorization regime:
+
 1. A user submits his/her user info (e.g., account ID and password) to the IMSP.
 2. IMSP authenticates the user info.
 3. IMSP authorizes the user to use its service.
+
 The traditional regime is not cryptanalytically secure, because IMSP holds all user info so that it is theoretically possible for the IMSP to falsify user behavior. Moreover, IMSP sometimes fail to secure against third party hacks and malicious attacks. Last but not least, [social hacking](https://en.wikipedia.org/wiki/Social_hacking) preys on careless users who apply undifferentiated user profile information (e.g., username, gender, age) at different IMSPs. [Security breach](https://en.wikipedia.org/wiki/List_of_data_breaches) at just one IMSP may cause Internet-wide privacy leak for the users.
 
 #### 西蒂姆辦法<br>Citium Regime
 西蒂姆與傳統的身份驗證和授權機制不同。西蒂姆無需提交用戶信息，其工作方式如下：
+
 1. 用戶將僅與適用服務會話有關的用戶簽名提交給IMSP。
 2. IMSP驗證簽名。
 3. IMSP授權用戶使用其服務。
+
 西蒂姆體制在密碼分析上是安全的，因為在西蒂姆的體制中IMSP從理論上講不可能偽造用戶行為。即使IMSP被黑，從理論上講，攻擊者也無法偽造用戶的簽名或行為。最重要的是，因為西蒂姆機制的設計類似於[黑匣子](https://en.wikipedia.org/wiki/Black_box)，所以即使是最粗心的用戶也無法洩漏個人信息。有人將這種方法稱為[零知識證明](https://en.wikipedia.org/wiki/Zero-knowledge_proof)。 IMSP可以對用戶進行身份驗證並授權通信服務，而無需獲取任何用戶隱私信息。此外，由於在西蒂姆體制中任何IMSP或不懷好意的黑客都不再可能選擇性地延遲或拒絕服務，因此無法對用戶的行為進行未經授權的分析。
-<br>
+
 Citium is different from the traditional authentication and authorization regime. Instead of submitting user info, Citium works as follows:
+
 1. A user submits his/her user signature pertaining only to the applicable service session to the IMSP.
 2. IMSP authenticates the signature.
 3. IMSP authorizes the user to use its service.
+
 The Citium regime is cryptanalytically secure because IMSPs are theoretically impossible to falsify user behavior. Even if the IMSP is hacked, the attacker is also theoretically unable to falsify the user’s signature or behavior. Most importantly, even the most careless users are unable to leak personal information because the Citium regime is designed like a [black-box](https://en.wikipedia.org/wiki/Black_box). Some call such an approach as [zero-knowledge proof](https://en.wikipedia.org/wiki/Zero-knowledge_proof). IMSPs can authenticate users and authorize communication services without the need to obtain any user privacy information. Since any IMSP or unscrupulous hacker in the Citium regime can no longer be able to selectively delay or deny service, it is impossible to perform unauthorized analysis of user behavior.
 
 ### 資訊安全功能<br>InfoSec Features
