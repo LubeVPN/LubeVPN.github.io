@@ -15,3 +15,22 @@ Lube VPN does not record network routing information, such as originating IP and
 Why is No Log Policy important? Please take a look at the following articles:<br>
 [Five Eyes, Nine Eyes, 14 Eyes – Explained](https://restoreprivacy.com/5-eyes-9-eyes-14-eyes/), FEBRUARY 5, 2020, Sven Taylor<br>
 [5 Eyes, 9 Eyes, 14 Eyes Alliances – Protectors from Terror or Invaders of Privacy?](https://www.bestvpn.co/guides/5-9-14-eyes-alliances/), May 13, 2019, Muhammad Hamza Shahid
+
+## 情報共享國<br>Surveillance Alliance
+
+| 美國 | USA |
+| 英國 | UK |
+| 加拿大 | Canada |
+| 紐西蘭 | New Zealand |
+| 丹麥 | Denmark |
+| 荷蘭 | Holland |
+| 法國 | Norway |
+| 德國 | Germany |
+| 比利時 | Belgium |
+| 意大利 | Italy |
+| 瑞典 | Sweden |
+| 西班牙 | Spain |
+| 以色列 | Israel |
+| 日本 | Japan |
+| 新加波 | Singapore |
+| 南韓 |  South Korea |
