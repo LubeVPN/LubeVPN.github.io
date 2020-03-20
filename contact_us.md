@@ -11,14 +11,14 @@ googlefonts: ["Roboto Condensed"]
 - 星期一至六，下午2時至5時（GMT+8）
 - 星期一至五，早上10時至12時（GMT-7）
 
-日後我們將考慮延長客戶服務時間，但暫時請見諒。
+在實時服務期間，你可以通過西蒂姆（Citium）安全地與我們當值的客戶服務代表作語音和文字溝通。我們的客戶服務代表精通中文和英文。日後我們將考慮延長客戶服務時間，但暫時請見諒。
 
 You can contact us anonymously through Citium Instant Messenger and leave us a message and we'll get back to you during our office hours:
 
 - Monday to Saturday: 14:00 - 17:00 (GMT+8)
 - Monday to Friday: 10:00 - 12:00 (GMT-7)
 
-We will try to expend our service hour in the future. Bear with us for the time being.
+During service hour, you can securely communicate with our representatives through voice or text through Citium. We will try to expend our service hour in the future. Bear with us for the time being.
 
 ## 開發團隊 About Us
 
