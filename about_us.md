@@ -10,6 +10,6 @@ googlefonts: ["Roboto Condensed"]
 
 RUT主力成員之間匿名地協作研開。侏狨猴(PM)是其唯一商務代表處理證書分發的業務處置者。
 
-Rainbow Unicorn Team (RUT) develop LubeVPN. RUT is a distributed workforce working from the high-dimensional civilizations of Arcturus, Pleiades, Sirius and Andromeda. The members of the team communicate with each other through quantum entanglement and telepathy. In the spirit of universal love, RUT bring extraterrestrial technology to the solar system, and free the minds of the earthlings from [thought broadcasting](https://en.wikipedia.org/wiki/Thought_broadcasting) and [thought insertion](https://en.wikipedia.org/wiki/Thought_insertion).
+Rainbow Unicorn Team (RUT) develop LubeVPN. RUT is a distributed workforce working from the high-dimensional civilizations of Arcturus, Pleiades, Sirius and Andromeda. The members of the team communicate with each other through [telepathy](https://en.wikipedia.org/wiki/Telepathy). In the spirit of [universal love](https://en.wikipedia.org/wiki/Agape), RUT bring extraterrestrial technology to the solar system, and free the minds of the earthlings from [thought broadcasting](https://en.wikipedia.org/wiki/Thought_broadcasting) and [thought insertion](https://en.wikipedia.org/wiki/Thought_insertion).
 
 RUT members research and develop this project anonymously. Pygmy Marmoset (PM) is the sole representative its commercial operation.
