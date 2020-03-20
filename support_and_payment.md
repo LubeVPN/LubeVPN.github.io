@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 客服與付款
+title: 續時和客服
 subtitle: Support & Payment
 bigimg: /img/ring.jpg
 googlefonts: ["Roboto Condensed"]
