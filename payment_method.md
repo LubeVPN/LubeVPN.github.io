@@ -37,7 +37,7 @@ __其他品種的卡__
 
 順道VPN（LubeVPN）用戶選擇三款分別是 __30日__、__180日__、__360日__ 的服務套餐去 __續時__（延長服務週期）。順道VPN 接受中國大陸電子和實體卡劵抵值任何一款 __續時套餐__。
 
-{: style="color: navy; font-size: 80%; table-align: center;"}
+{: style="color: navy; font-size: 100%; table-align: center;"}
 | 套餐<br>價格<br>(美元) | 續時<br>週期<br>(日)  | 流量<br>封頂<br>(/30日) | 卡抵值<br>需RMB
 |:--:|--:|:--:|:--|
 | $12.95 | 30 | 100 GB † | ¥100 |
