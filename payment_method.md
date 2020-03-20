@@ -8,7 +8,7 @@ googlefonts: ["Roboto Condensed"]
 
 ## 抵值續時形式
 
-順道VPN（LubeVPN）用戶可以通過多種 __抵值形式__ 來 __續時__ （延長接受服務的週期）。暫時提供給用戶續時的抵值形式有：
+順道VPN（LubeVPN）用戶可以通過多種 __抵值形式__ 來 __續時__（延長接受服務的週期）。暫時提供給用戶續時的抵值形式有：
 
 {: style="color: DarkRed; font-size: 80%;"}
 | 抵值形式 | 優點 | 缺點 |
