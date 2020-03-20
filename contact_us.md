@@ -6,14 +6,14 @@ bigimg: /img/rainbow_cr.jpg
 googlefonts: ["Roboto Condensed"]
 ---
 
-你可以隨時通過西蒂姆（Citium）即時聊天工具聯絡官方客戶服務。我們的在線實時服務時間：
+為了匿名溝通，請你時通過西蒂姆（Citium）即時聊天工具聯絡官方客戶服務。我們的在線實時服務時間：
 
 - 星期一至六，下午2時至5時（GMT+8）
 - 星期一至五，早上10時至12時（GMT-7）
 
 日後我們將考慮延長客戶服務時間，但暫時請見諒。
 
-You can contact us through Citium Instant Messenger and leave us a message and we'll get back to you during our office hours:
+You can contact us anonymously through Citium Instant Messenger and leave us a message and we'll get back to you during our office hours:
 
 - Monday to Saturday: 14:00 - 17:00 (GMT+8)
 - Monday to Friday: 10:00 - 12:00 (GMT-7)
