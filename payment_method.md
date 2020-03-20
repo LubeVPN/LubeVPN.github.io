@@ -1,7 +1,7 @@
 ---
 layout: page
-title: 抵值續時和客服
-subtitle: Support & Payment
+title: 抵值續時辦法
+subtitle: Payment Methods
 bigimg: /img/ring.jpg
 googlefonts: ["Roboto Condensed"]
 ---
