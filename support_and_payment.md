@@ -10,7 +10,7 @@ googlefonts: ["Roboto Condensed"]
 
 順道VPN（LubeVPN）用戶可以通過多種 __採購形式__ 來 __續時__ （延長接受服務的週期）。暫時提供給用戶續時的採購形式有：
 
-{: style="color: DarkRed; font-size: 120%;"}
+{: style="color: DarkRed; font-size: 80%;"}
 | 採購形式 | 優點 | 缺點 |
 |:--:|:--|:--|
 | 傳加密電子幣 | 快捷和匿名 | 用戶需懂操作加密電子貨幣交易 |
