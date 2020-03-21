@@ -8,9 +8,9 @@ googlefonts: ["Roboto Condensed"]
 
 ## 西蒂姆<br>Citium
 
-西蒂姆（Citium）是一個免費的、開源代碼的、完全去中心化的、無需准入許可的區塊鏈系統，並採用了密碼學上堅不可摧的信息安全机制，例如 __無差別網樹多點傳送__（IMTM）__哈希傳遞網路__（HDN） 和 __分身馬甲帳號__。西蒂姆（Citium）能服務得到 __文字__、__音像__、__視像__ 和 __即時音訊__ 的數據。使用西蒂姆（Citium）建造的去中心化應用程序（dApp）能享有與別不同的數據傳輸安全性，例如 __可推诿性__。
+西蒂姆（Citium）是一個免費的、開源代碼的、完全去中心化的、無需准入許可的區塊鏈系統，並採用了密碼學上堅不可摧的信息安全机制，例如 __無差別網樹多點傳送__（IMTM）__哈希傳遞網路__（HDN） 和 __分身馬甲帳號__。西蒂姆（Citium）能服務得到 __文字__、__音像__、__視像__ 和 __即時音訊__ 的數據。使用西蒂姆（Citium）建造的去中心化應用程序（dApp）能享有與別不同的數據傳輸安全性，例如 __可推诿性__。西蒂姆（Citium）當前的版本最適合 **即時通訊系統** 和 **服務器IP地址混淆**（SIPO）。 SIPO是西蒂姆（Citium）的獨特功能，僅與基於HTML的內容兼容。 SIPO可以向訪問者無縫隱藏內容服務器的原始IP地址。
 <br>
-Citium is a free, open-source, fully decentralized, permissionless blockchain that features cryptanalytically unbreakable InfoSec mechanisms (e.g., _indiscriminate mesh-tree multicast_(IMTM) _hash delivery network_(HDN) and _sockpuppetry_). Citium is capable of serving _text_, _image_, _video_ and _real-time voice_ data. Decentralized Apps (dApps) built on Citium can enjoy many data security features (e.g., _deniability_).
+Citium is a free, open-source, fully decentralized, permissionless blockchain that features cryptanalytically unbreakable InfoSec mechanisms (e.g., _indiscriminate mesh-tree multicast_(IMTM) _hash delivery network_(HDN) and _sockpuppetry_). Citium is capable of serving _text_, _image_, _video_ and _real-time voice_ data. Decentralized Apps (dApps) built on Citium can enjoy many data security features (e.g., _deniability_). Citium's current build is most suitable for *instant messenger system* and *server IP address obfuscation*(SIPO). SIPO is a unique feature of Citium and is only compatible with HTML-based content. SIPO can seamlessly hide a content server's originating IP address from its visitors.
 
 {: .box-note}
 {: style="color: grey; font-size: 70%;"}
@@ -60,7 +60,9 @@ The Citium regime is cryptanalytically secure because IMSPs are theoretically im
 
 ### 資訊安全功能<br>InfoSec Features
 
-Information security, sometimes shortened to InfoSec, is the practice of protecting information by mitigating information risks. It is part of information risk management. It typically involves preventing or at least reducing the probability of unauthorized/inappropriate access, use, disclosure, disruption, deletion/destruction, corruption, modification, inspection, recording or devaluation, although it may also involve reducing the adverse impacts of incidents.
+Information security, sometimes shortened to InfoSec, is the practice of protecting information by mitigating information risks. It is part of information risk management. It typically involves preventing or at least reducing the probability of unauthorized/inappropriate access, use, disclosure, disruption, deletion/destruction, corruption, modification, inspection, recording or devaluation, although it may also involve reducing the adverse impacts of incidents (e.g., __force disclosure__ / [__mandatory key disclosure__](https://en.wikipedia.org/wiki/Key_disclosure_law)).
+<br>
+信息安全（有時簡稱為InfoSec）是一種通過減輕信息風險來保護信息的應用功能實踐。 它是信息風險管理的一部分。 它通常涉及防止或至少減少未經授權/不當訪問，使用，披露、破壞、刪除/銷毀、損壞、修改、檢查、記錄或貶值的可能性，也可能涉及減少事件如果不幸發生後的不利影響，例如「__强制性披露__」 (__force disclosure__) / 「__強制性密鑰披露__」 ([__mandatory key disclosure__](https://en.wikipedia.org/wiki/Key_disclosure_law))。
 
 | :closed_lock_with_key: | 資訊安全功能<br>InfoSec Feature | 風險與威脅<br>Risk & Threat |
 |:--:|:--:|:--|
