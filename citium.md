@@ -58,7 +58,7 @@ Information security, sometimes shortened to InfoSec, is the practice of protect
 <br>
 信息安全（有時簡稱為InfoSec）是一種通過減輕信息風險來保護信息的應用功能實踐。 它是信息風險管理的一部分。 它通常涉及防止或至少減少未經授權/不當訪問，使用，披露、破壞、刪除/銷毀、損壞、修改、檢查、記錄或貶值的可能性，也可能涉及減少事件如果不幸發生後的不利影響，例如「__强制性披露__」 (__force disclosure__) / 「__強制性密鑰披露__」 ([__mandatory key disclosure__](https://en.wikipedia.org/wiki/Key_disclosure_law))。
 
-| :closed_lock_with_key: | 資訊安全功能<br>InfoSec Feature | 風險與威脅<br>Risk & Threat |
+| :closed_lock_with_key: | 資訊安全功能<br>InfoSec | 風險與威脅<br>Risk & Threat |
 |:--:|:--:|:--|
 | ✓ | 無需許可<br>Permissionless | 審查<br>Censorship |
 | ✓ | 機密性<br>Confidentiality | 信息洩露<br>Information Disclosure |
