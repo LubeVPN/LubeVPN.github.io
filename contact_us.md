@@ -13,7 +13,7 @@ googlefonts: ["Roboto Condensed"]
 - GMT-7，太平洋夏令时間、洛杉磯、溫哥華
   - 星期一至五，10時15分 至 11時45分
 
-很抱歉，目前辦公時間有限；我們將在以後嘗試延長服務時間。
+很抱歉，目前辦公時間比較短；我們將在以後嘗試延長辦公時間。
 
 During service hour, you can securely and anonymously communicate with our representatives through voice or text in Citium Instant Messenger (CIM). Leave us a message and we'll get back to you during our office hours:
 
