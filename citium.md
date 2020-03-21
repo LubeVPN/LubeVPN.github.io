@@ -8,17 +8,17 @@ googlefonts: ["Roboto Condensed"]
 
 ## 西蒂姆<br>Citium
 
-西蒂姆（Citium）是一個免費的、開源代碼的、完全去中心化的、無需准入許可的區塊鏈系統，並採用了密碼學上堅不可摧的信息安全机制，例如 __無差別網樹多點傳送__（IMTM）__哈希傳遞網路__（HDN） 和 __分身馬甲帳號__。西蒂姆（Citium）當前的版本能兼容 __文字__、__音像__、__視像__ 和 __即時音訊__ 的數據。使用西蒂姆（Citium）建造的去中心化應用程序（dApp）能享有與別不同的數據傳輸安全性，例如 __可推诿性__。西蒂姆（Citium）非常適合用於 **匿名化即時通訊系統**（AIMS） 和 **服務器IP地址混淆**（SIPO）。 SIPO是西蒂姆（Citium）的獨特功能，可以讓HTML5的內容訪問者既可以訪問到內容但無從得知其服務器的來源IP地址，有效防止互聯網服務器拆卸和扣押。
+西蒂姆（Citium）是一個免費的、開源代碼的、完全去中心化的、無需准入許可的區塊鏈系統，並採用了密碼學上堅不可摧的信息安全机制，例如 __無差別網樹多點傳送__（IMTM）__哈希傳遞網路__（HDN） 和 __分身馬甲帳號__。西蒂姆（Citium）當前的版本能兼容 __文字__、__音像__、__視像__ 和 __即時音訊__ 的數據。使用西蒂姆（Citium）建造的去中心化應用程序（dApp）能享有與別不同的數據傳輸安全性，例如 __可推诿性__。西蒂姆（Citium）非常適合用於 **匿名化即時通訊系統**（AIMS） 和 **服務器IP地址混淆**（SIPO）。 SIPO是西蒂姆（Citium）的獨特功能，可以讓HTML5的內容訪問者既可以訪問到內容但無從得知其服務器的來源IP地址，有效防止分散式阻斷服務攻擊（DDoS）、與及互聯網服務器拆卸和扣押。
 <br>
-Citium is a free, open-source, fully decentralized, permissionless blockchain that features cryptanalytically unbreakable InfoSec mechanisms (e.g., **indiscriminate mesh-tree multicast** (IMTM) **hash delivery network** (HDN) and **sockpuppetry**). Citium's current build is capable of serving **text**, **image**, **video** and **real-time voice** data. Decentralized Apps (dApps) built on Citium can enjoy many data security features (e.g., **deniability**). Citium is best suited for **anonymized instant messenger system** (AIMS) and **server IP address obfuscation** (SIPO). SIPO is a unique feature of Citium. SIPO can enable visitors to visit HTML5-based content while seamlessly hide the content hosting server's originating IP address from its visitors, effectively preventing web server takedown and seizure.
+Citium is a free, open-source, fully decentralized, permissionless blockchain that features cryptanalytically unbreakable InfoSec mechanisms (e.g., **indiscriminate mesh-tree multicast** (IMTM) **hash delivery network** (HDN) and **sockpuppetry**). Citium's current build is capable of serving **text**, **image**, **video** and **real-time voice** data. Decentralized Apps (dApps) built on Citium can enjoy many data security features (e.g., **deniability**). Citium is best suited for **anonymized instant messenger system** (AIMS) and **server IP address obfuscation** (SIPO). SIPO is a unique feature of Citium. SIPO can enable visitors to visit HTML5-based content while seamlessly hide the content hosting server's originating IP address from its visitors, effectively preventing distributed denial-of-service (DDoS) attacks, web server takedown and seizure.
 
-### 解決疼點<br>Resolve Pain Point
+## 解決疼點<br>Resolve Pain Point
 
 市場上的大多數即時通訊系統提供商（IMSP）都要求準用戶發送其個人信息（例如電子郵件，用戶名和密碼）以在提供商的中央服務器上進行註冊。只有這樣做，用戶才能在以後嘗試登錄訪問服務時使用該信息向集中式服務器進行身份驗證。一些潛在的用戶可能會錯誤地認為他們的個人信息是唯一的，並且他們的通信是安全的，因為IMSP聲稱已針對現有用戶檢查了該個人信息是否存在潛在的重複。但是實際上，創建帳戶的是IMSP，他們總是可以偽造任何用戶信息以達到不道德的目的。為了解決這個問題，西蒂姆（Citium）使用一種獨特的身份驗證機制來更好地檢查和平衡用戶與IMSP：**一個用戶的個人身份驗證信息完全由用戶自己本人生成，而不依靠其他人生成。 IMSP仍然擁有授予授權用戶訪問其服務的權利。**
 <br>
 Most instant messenger system providers (IMSPs) in the marketplace require prospective users to send in their personal information (e.g., email, username and password) to register at the providers' centralized servers. Only in doing so, the users can use the info to authenticate themselves to the centralized servers when they try to login to access the service in the future. Some prospective users may mistakenly believe that their personal information is unique and that their correspondence is secure because IMSP claims that the personal information is checked against existing users for potential duplicates. But in fact, it is the IMSPs who create the account and they can always forge any user information for unethical ends. To tackle that, Citium use a unique authentication mechanism for better checks and balances between users and IMSP: **A user authentication info is entirely generated by the user but no one else. IMSPs still own the rights to grant authorized users to access their services.**
 
-#### 傳統方案<br>Traditional Solution
+### 傳統方案<br>Traditional Solution
 傳統上，即時通訊系統提供商（IMSP）通過以下身份驗證和授權機制為其用戶提供服務：
 
 1. 用戶向IMSP提交他/她的用戶信息（例如，帳戶ID和密碼）。
@@ -35,7 +35,7 @@ Traditionally, **instant messenger system providers** (IMSPs) provide service to
 
 The traditional regime is not cryptanalytically secure, because IMSP holds all user info so that it is theoretically possible for the IMSP to falsify user behavior. Moreover, IMSP sometimes fail to secure against hacks and malicious attacks. Last but not least, [social hacking](https://en.wikipedia.org/wiki/Social_hacking) preys on careless users who apply same set of profile (e.g., same username, gender and age) at different IMSPs. [Security breach](https://en.wikipedia.org/wiki/List_of_data_breaches) at one of these IMSPs may cause Internet-wide privacy leak for the users.
 
-#### 西蒂姆方案<br>Citium Solution
+### 西蒂姆方案<br>Citium Solution
 西蒂姆與傳統的身份驗證和授權機制不同。西蒂姆無需提交用戶信息，其工作方式如下：
 
 1. 用戶將僅與適用服務會話有關的用戶簽名提交給IMSP。
@@ -52,7 +52,7 @@ Citium is different from the traditional authentication and authorization regime
 
 The Citium regime is cryptanalytically secure because IMSPs are theoretically impossible to falsify user behavior. Even if the IMSP is hacked, the attacker is also theoretically unable to falsify the user’s signature or behavior. Most importantly, even the most careless users are unable to leak personal information because the Citium regime is designed like a [black-box](https://en.wikipedia.org/wiki/Black_box). Some call such an approach as [zero-knowledge proof](https://en.wikipedia.org/wiki/Zero-knowledge_proof). IMSPs can authenticate users and authorize communication services without the need to obtain any user privacy information. Since any IMSP or unscrupulous hacker in the Citium regime can no longer be able to selectively delay or deny service, it is impossible to perform unauthorized analysis of user behavior.
 
-### 資訊安全功能<br>InfoSec Features
+## 資訊安全功能<br>InfoSec Features
 
 Information security, sometimes shortened to InfoSec, is the practice of protecting information by mitigating information risks. It is part of information risk management. It typically involves preventing or at least reducing the probability of unauthorized/inappropriate access, use, disclosure, disruption, deletion/destruction, corruption, modification, inspection, recording or devaluation, although it may also involve reducing the adverse impacts of incidents (e.g., __force disclosure__ / [__mandatory key disclosure__](https://en.wikipedia.org/wiki/Key_disclosure_law)).
 <br>
@@ -76,15 +76,21 @@ Information security, sometimes shortened to InfoSec, is the practice of protect
 
 
 Here are a list of InfoSec features that any two users (e.g., Joe & Jane) who have established trusted relationship between themselves on Citium may enjoy:
-#### 1. 無需許可 | Permissionless ✓
+### 1. 無需許可 | Permissionless ✓
 西蒂姆（Citium）的服務節點是開源開放的，任何人可以成爲服務節點中的一個！做節點的好處是你可以無限制的向使用該節點服務的人提供廣告服務。當然，用戶選擇使用哪些節點的服務，是用戶的權利。用戶可以拒絕選擇作惡的節點，節點也可以拒絕作惡的用戶，這是自由公平的選擇。
 <br>
+西蒂姆（Citium）的服務節點是開源開放的，任何人可以成爲服務節點中的一個！做節點的好處是你可以無限制的向使用該節點服務的人提供廣告服務。當然，用戶選擇使用哪些節點的服務，是用戶的權利。用戶可以拒絕選擇作惡的節點，節點也可以拒絕作惡的用戶，這是自由公平的選擇。
+<br>
+外部看到西蒂姆（Citium）網絡中傳輸的數據是無法辨識真僞的數據，《比特訊》採用SDTP技術，其核心就是數據人人可僞造，人人篡改，除非發起人自己證明。其實這與比特幣的理念一致，沒有打包入塊的數據，亦無法被證明真僞。《比特訊》認爲，私有數據無需要被其他人偷窺，那麼最好的保護方式就是海量的僞造且無法被證明。
+<br>
 The main benefit of Citium being a [permissionless](https://en.wikipedia.org/wiki/Blockchain#Permissionless) blockchain is __censorship-resistance__. No one can be banned from running nodes. Operators of nodes may advertise their own material to those who access Citium through their nodes. Every node can multicast/retrieve data (e.g., text, image, video and real-time voice) to/from Citium. Any two users (e.g., Joe & Jane) who decide to communicate securely may hop on Citium at any time without the need to ask anyone else for permission.
-#### 2. 機密性 | Confidentiality ✓
+### 2. 機密性 | Confidentiality ✓
+隱私保護得靠機密性，包括加密和保密兩重意義。加密的等級很明顯要低於保密的等級。首先來說，加密很重要，然而西蒂姆（Citium）採用的SDTP是屬於更高的保密級別。非技術性的表述是：你可以冒充成爲世界上的任何人，任何人也可以冒充你；只有你自己能證明你的存在，你的真僞。一段需要保密的數據，只有被你的授權確認的才能看見，那麼只要不是被你授權的數據則都是假的。
+<br>
 No unauthorized third party can read an appropriate message (e.g., sent from Joe to Jane) hosted on Citium IMSP servers because Citium use a **indiscriminate mesh-tree multicast** (IMTM) **hash delivery network** (HDN) mechanism to protect the designated private key that can decrypt it. That is, __the message is algorithmically split into multiple hash keys__, which in turn are distributed indiscriminately to as many nodes as possible by mesh-tree multicasting. The Citium nodes that hold the encrypted hash keys act as hash delivery network (HDN) for the receiver (Jane). __Only the receiver (Jane) can reunite and decrypt all hash keys back to their valid private key to unlock the encrypted message__. Unless some hackers can hijack every node that hold the pertaining hash keys and decipher them all with a quantum computer that only exist in theory, nothing during transit of the pertaining hash keys can threat the confidentiality of the message.
-#### 3. 完整性 | Integrity ✓
+### 3. 完整性 | Integrity ✓
 An appropriate message or its hash keys cannot be changed during transit on Citium because they are __encrypted by [ECDSA (Elliptic Curve Digital Signature Algorithm)](https://en.wikipedia.org/wiki/Elliptic_Curve_Digital_Signature_Algorithm)__. It is not only mathematically impractical to break but also has enjoyed almost two decades of usage in open-source projects, such as [Bitcoin](https://en.wikipedia.org/wiki/Bitcoin). A successfully hack (deciphering it without private key) would allow any would-be attacker to make a tremendous amount of profit. The fact that this appears to have never happened is good empirical evidence for its security.
-#### 4. 可用性 | Availability ✓
+### 4. 可用性 | Availability ✓
 __Decentralized network offers many nodes__ for the hash keys of an appropriate message (e.g., sent from Joe to Jane) as points of transits and hash delivery nodes so that services are available at all time. No [single point of failure (SPOF)](https://en.wikipedia.org/wiki/Single_point_of_failure) could impact the uptime of Citium.
 
 {: .box-note}
@@ -93,35 +99,14 @@ __完全去中心化__：大多數現代在線應用程序服務提供商在使�
 <br>
 __Fully Decentralization__: Majority of the contemporary online application service providers are using some forms of centralized methods (e.g., servers hosted in a datacenter) to structure their user management systems. It means monitoring. Because no matter how vigorously the service providers assert that they are effectively guarding the user information (e.g., email, IPs, username & password) from maladministration or hack, theoretically, they hold the power to modify or delete the information. Therefore, decentralization is absolutely necessary to achieve the level of confidence that one can rule out even theoretical mishaps from happening.
 
-#### 5. 授權性 | Authorization ✓
+### 5. 授權性 | Authorization ✓
 __Network-wide peer-to-peer (P2P) relationship__ assume no higher or lower privilege but only those appropriated to receive is authorized. Thus, neither [horizontal privilege escalation](https://en.wikipedia.org/wiki/Privilege_escalation#Horizontal) nor [vertical privilege escalation](https://en.wikipedia.org/wiki/Privilege_escalation#Vertical) may occur.
-#### 6. 驗證性 | Authentication ✓
+### 6. 驗證性 | Authentication ✓
 __Aanyone can pretend to be someone else__ because nickname in Citium is non-exclusive. No one knows for sure who is who from an aerial perspective. Two users (e.g., Joe & Jane) can be joined cryptographically in a trusted relationship, called "Contacts". Once authenticated, Contacts cannot be spoofed by any third party, i.e., Joe can always identify the one and only Jane whom he has authenticated even though many other users may pretend to be Jane; and Jane can always identify the one and only Joe whom she has authenticated even though many other users may pretend to be Joe.
-#### 7. 可推诿性 | Deniability ✓<br>8. 不可否認性 | Non-Repudiation ✗
-__可推诿性__ 是用戶當被 「__强制性披露__」 (__force disclosure__) / 「__強制性密鑰披露__」 ([__mandatory key disclosure__](https://en.wikipedia.org/wiki/Key_disclosure_law)) 時候的最後一道防線。
+### 7. 可推诿性 | Deniability ✓<br>8. 不可否認性 | Non-Repudiation ✗
+無對象收發點對點等於公開是必須的，因為互聯網的點對點離不開接線員。接線員想幫你點對誰，就點對誰，反正這個黑箱操作，用戶是看不見的。所以，點對點私密，其實是完全被偷窺攝像頭錄影的。西蒂姆（Citium）收發無對象，其核心是信息人人可僞造，基於零知識證明，收發雙方心知肚明。當然，無對象收發消息到達會慢些，但其優勢是無法被追溯、備份和收回。
 <br>
 Some centralized communication systems are said to be non-repudiable because their users purposely want to hold their counterparties legally accountable. Citium does not cater for that purpose. In fact, Citium offers the complete opposite: **deniability**, which is the last line of defense against **forced disclosure** or [_mandatory key disclosure_](https://en.wikipedia.org/wiki/Key_disclosure_law). When two users decide to communicate through Citium with each other, they have to become each other's authenticated users ("Contacts") in Citium first. But as ironic as it may sound, no one, not even themselves, can prove their authenticated Contact relationship afterward and even during the course of their communication. This is achieved by two innovative and unique InfoSec mechanisms: **sockpuppetry** and **indiscriminate mesh-tree multicast** (IMTM). [Sockpuppets](https://en.wikipedia.org/wiki/Sockpuppet_(Internet)) is a concept popular in the online community for someone to have a decoy identity. Citium's sockpuppet mechanism expand that idea so that no user can send message directly to another user but through the sea of sockpuppets in Citium. From an aerial perspective, all users look like yet another sockpuppets. Everyone looks like a decoy. No third party, even the communicating counterparty (Joe or Jane) can tell the difference except his/her own. In order for the receiver (Jane) to decrypt the message from the sender (Joe), Jane has to obtain the designated private key to decrypt the message. Jane has to ping as many nodes as she can through **indiscriminate mesh-tree multicast** (IMTM) until she collect all the hash keys necessary to form the designated private key.
 
 {: .box-note}
 :bomb:: To further maximize deniability, all hash keys have limited life expectancy on Citium nodes. For example, hash keys sitting on a mobile node are set to **self-destruct countdown** of 24 hours.
-
-
-### 2. 無對象收發
-
-點對點等於公開是必須的，因為互聯網的點對點離不開接線員。接線員想幫你點對誰，就點對誰，反正這個黑箱操作，用戶是看不見的。所以，點對點私密，其實是完全被偷窺攝像頭錄影的。西蒂姆（Citium）收發無對象，其核心是信息人人可僞造，基於零知識證明，收發雙方心知肚明。當然，無對象收發消息到達會慢些，也無法被收回。“快，你想死的有多快”。
-
-### 3. 保密 VS 加密
-
-隱私保護得靠保密，加密的等級很明顯要低於保密的等級。首先來說，加密很重要，然而西蒂姆（Citium）採用的SDTP是屬於更高的保密級別。非技術性的表述是：你可以冒充成爲世界上的任何人，任何人也可以冒充你；只有你自己能證明你的存在，你的真僞。一段需要保密的數據，只有被你的授權確認的才能看見，那麼只要不是被你授權的數據則都是假的。
-
-### 4. 抗大數據分析
-
-外部看到西蒂姆（Citium）網絡中傳輸的數據是無法辨識真僞的數據，《比特訊》採用SDTP技術，其核心就是數據人人可僞造，人人篡改，除非發起人自己證明。其實這與比特幣的理念一致，沒有打包入塊的數據，亦無法被證明真僞。《比特訊》認爲，私有數據無需要被其他人偷窺，那麼最好的保護方式就是海量的僞造且無法被證明。
-
-### 5. 人人可節點
-
-西蒂姆（Citium）的服務節點是開源開放的，任何人可以成爲服務節點中的一個！做節點的好處是你可以無限制的向使用該節點服務的人提供廣告服務。當然，用戶選擇使用哪些節點的服務，是用戶的權利。用戶可以拒絕選擇作惡的節點，節點也可以拒絕作惡的用戶，這是自由公平的選擇。
-
-### 6. 應用服務保護
-
-爲應用服務提供保護，不只是保護用戶隱私安全。西蒂姆（Citium）會讓衆多的參與者去分擔攻擊，無論攻擊是流量形式的還是其他形式的。當然，這不是免費的，你需要《比特訊》區塊鏈的礦工去頒發保護證書，幫你的服務分發數據資源(CDN)，確認服務身份(DNS)，抗擊各種網絡攻擊(高防)。它基於智能合約，遠比機構承諾靠譜、高效。
