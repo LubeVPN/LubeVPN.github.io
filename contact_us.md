@@ -18,9 +18,9 @@ googlefonts: ["Roboto Condensed"]
 During service hour, you can securely and anonymously communicate with our representatives through voice or text in Citium Instant Messenger (CIM). Leave us a message and we'll get back to you during our office hours:
 
 - GMT+8, CT, Shanghai, Hong Kong, Taipei
-  - Monday to Saturday: 14:15 - 16:45 (GMT+8)
+  - Monday to Saturday: 14:15 to 16:45
 - GMT-7, PDT, Los Angeles, Vancouver
-  - Monday to Friday: 10:15 - 11:45 (GMT-7)
+  - Monday to Friday: 10:15 to 11:45
 
 We apologize that the office hour is limited for the time being. We will try to expend our service hour in the future.
 
