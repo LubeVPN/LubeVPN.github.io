@@ -2,7 +2,7 @@
 layout: page
 title: 不可靠的中心化
 subtitle: Fallibility
-bigimg: /img/web.jpg
+bigimg: /img/green.jpg
 googlefonts: ["Roboto Condensed"]
 ---
 
