@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 不可靠的中心化
-subtitle: Fallibility
+subtitle: Fallible IMSP
 bigimg: /img/green.jpg
 googlefonts: ["Roboto Condensed"]
 ---
