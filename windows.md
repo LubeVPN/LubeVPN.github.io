@@ -37,7 +37,7 @@ Recommend using Google Chrome and its plugin [Proxy SwitchyOmega](https://chrome
 <br>
 Enter Proxy SwitchyOmega to finish the basic setup for using Socks5 auto-switching mechanism:
 
-- "SwitchyOmega" > "Options" > "SETTINGS" > "Import/Export" > "Settings"
+> "SwitchyOmega" > "Options" > "SETTINGS" > "Import/Export" > "Settings"
 
 ## 6
 在 "Restore from online" 欄目中填入:<br>
@@ -52,7 +52,7 @@ Then, press the "Restore" button on the right.
 進入：<br>
 Go to:
 
-- "PROFILES" > "自動切換" > "Rule List Config"
+> "PROFILES" > "自動切換" > "Rule List Config"
 
 然後選擇 "AutoProxy"（而非"Switchy"）
 <br>
@@ -69,5 +69,5 @@ https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt
 Click "Download Profile Now" button.
 
 ## 9
-完成設置！可以開始通過順道VPN暢快地上網！
+完成設置！可以開始通過順道VPN暢快地上網！<br>
 All done! You can start surfing the web with LubeVPN!
