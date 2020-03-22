@@ -4,12 +4,6 @@ title: PC版本安裝辦法
 subtitle: Windows PC Version Installation
 # bigimg: /img/ring.jpg
 googlefonts: ["Roboto Condensed"]
-
-accordion:
-  - title: this is item 1
-    content: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-  - title: this is item 2
-    content: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 ---
 
 ## 1
@@ -77,5 +71,3 @@ Click "Download Profile Now" button.
 ## 9
 完成設置！可以開始通過順道VPN暢快地上網！<br>
 All done! You can start surfing the web with LubeVPN!
-
-{% include accordion.html %}
