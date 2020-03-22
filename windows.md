@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Windows版本安裝辦法
-subtitle: Windows Version
+subtitle: Windows Version Installation
 # bigimg: /img/ring.jpg
 googlefonts: ["Roboto Condensed"]
 ---
