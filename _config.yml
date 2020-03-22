@@ -30,7 +30,9 @@ navbar-links:
     - 匿名和隱私<br>Anonymity: "anonymity_privacy"
     - 開天闢地的技術<br>Technology: "technology"
     - 絕不寫Log政策<br>No Log Policy: "no_log_policy"
-  抵值續時辦法<br>Payment: "payment_method"
+  產品服務支持<br>Support:
+    - Windows版本安裝<br>Windows Version: "windows"  
+    - 抵值續時辦法<br>Payment: "payment_method"
   西蒂姆<br>Citium:
     - 訊息安全兩點<br>InfoSec: "citium_infosec"
     - 不可靠的中心化<br>Fallibility: "fallible_providers"
