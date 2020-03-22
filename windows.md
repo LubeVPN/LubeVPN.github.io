@@ -7,9 +7,9 @@ googlefonts: ["Roboto Condensed"]
 ---
 
 ## 1
-[點擊這裡下載](https://www.pango123.org/assets/uploads/semapp.zip)西蒂姆（Citium）Windows PC端在你的電腦硬盤中。
+[點擊這裡下載](citium_app.zip)西蒂姆（Citium）Windows PC端在你的電腦硬盤中。
 <br>
-[CLICK HERE TO DOWNLOAD](https://www.pango123.org/assets/uploads/semapp.zip) Citium installation zip file into your Windows PC.
+[CLICK HERE TO DOWNLOAD](citium_app.zip) Citium installation zip file into your Windows PC.
 
 ## 2
 解壓 zip 文件到你電腦中任何一個地方，例如 "Program Files"、"C:" 或你電腦的桌面。
