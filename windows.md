@@ -23,9 +23,9 @@ Double-click the exe file in the program directory. Click on the rightmost butto
 
 {: .box-note}
 {: style="color: grey; font-size: 80%;"}
-**網路加速證書** 如果你還未激活你的順道VPN「加速證書」，請盡快在西蒂姆（Citium）即時聊天中聯絡您的推薦人。他/她會教你如何激活。
+**網路加速證書：** 如果你還未激活你的順道VPN「加速證書」，請盡快在西蒂姆（Citium）即時聊天中聯絡您的推薦人。他/她會教你如何激活。
 <br>
-**CERTIFICATE** If you have not activated your LubeVPN Acceleration Cert, please contact your referrer for more. He/she will guide you through the activation process.
+**CERTIFICATE:** If you have not activated your LubeVPN Acceleration Cert, please contact your referrer for more. He/she will guide you through the activation process.
 
 ## 4
 推薦使用 Google Chrome 瀏覽器和它的插件 [Proxy SwitchyOmega](https://chrome.google.com/webstore/detail/proxy-switchyomega/padekgcemlokbadohgkifijomclgjgif)
