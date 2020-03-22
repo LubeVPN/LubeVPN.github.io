@@ -27,11 +27,11 @@ Unzip the Windows Citium installation zip file into any directory (e.g., "Progra
 <br>
 Double-click the exe file in the program directory. Click on the rightmost button on the navigation to "General Settings". Switch on the LubeVPN Service.
 
-{: .box-note}
-{: style="color: grey; font-size: 80%;"}
-**網路加速證書：** 如果你還未激活你的順道VPN「加速證書」，請盡快在西蒂姆（Citium）即時聊天中聯絡您的推薦人。他/她會教你如何激活。
+{: .box-warning}
+{: style="color: grey; font-size: 100%;"}
+**網路加速證書：** 如果你還未激活你的順道VPN「試用加速證書」（TAC），請盡快在西蒂姆（Citium）即時聊天中向推薦人發出申請試用的代碼（在「設置」的順道VPN 版面中獲取）。您的推薦人會幫提供會接受您的申請並提供授權。
 <br>
-**CERTIFICATE:** If you have not activated your LubeVPN Acceleration Cert, please contact your referrer for more. He/she will guide you through the activation process.
+**CERTIFICATE:** If you have not activated your LubeVPN Trial Acceleration Cert (TAC), please send the TAC request code to your referrer in Citium Instant Messenger. Your referrer will guide you through the activation process.
 
 ## 4
 推薦使用 Google Chrome 瀏覽器和它的插件 [Proxy SwitchyOmega](https://chrome.google.com/webstore/detail/proxy-switchyomega/padekgcemlokbadohgkifijomclgjgif)
