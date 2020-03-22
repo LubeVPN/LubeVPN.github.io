@@ -15,7 +15,7 @@ Citium is a free, open-source, fully decentralized, permissionless blockchain th
 <br>
 Some centralized communication systems are said to be *non-repudiable* because their users purposely want to systematically hold their communication counterparties legally accountable. Citium does not cater for that purpose. In fact, Citium offers the complete opposite: **deniability**, which is the last line of defense against **forced disclosure** or [mandatory key disclosure](https://en.wikipedia.org/wiki/Key_disclosure_law). When two users (e.g., Joe and Jane) decide to communicate through Citium with each other, they have to become each other's authenticated users ("Contacts") in Citium from the outset. This is the only moment in the authentication lifecycle that the two users know for sure that the communicating counterparty (Joe or Jane) is whom they believe to be. But after that, as ironic as it may sound, no one, not even the two users themselves, can irrefutably prove their authenticated Contact relationship even during the course of their communication. This is achieved by a unique InfoSec mechanisms: **sockpuppetry**.
 
-### Sockpuppetry<br>分身馬甲帳號
+### 分身馬甲帳號<br>Sockpuppetry
 [Sockpuppets](https://en.wikipedia.org/wiki/Sockpuppet_(Internet))是一個 **反監控的軟件對策** / [software measure of countersurveillance](https://en.wikipedia.org/wiki/Countersurveillance#Software_countermeasures)。西蒂姆（Citium）的「分身馬甲帳號」機制規定一個用戶賬戶 **不可以直接** 與另一位用戶賬戶溝通，而只能通過西蒂姆（Citium）中的「分身馬甲帳號」間接溝通。不論從任何視角看，所有用戶賬號都是「分身馬甲帳號」，而每個帳號都貌似是一個反監控的誘餌。一個賬戶在替持賬用戶通訊或僅僅只是在替其他用戶扮演「分身馬甲帳號」去通訊，除了持賬用戶本人之外，任何其他人都無從推敲亦無法證明。
 <br>
 [Sockpuppet](https://en.wikipedia.org/wiki/Sockpuppet_(Internet)) is a [software measures of countersurveillance](https://en.wikipedia.org/wiki/Countersurveillance#Software_countermeasures). Sockpuppetry dictates that a user **cannot communicate directly** to another user but only indirectly through the sea of sockpuppeted user account in Citium. From any perspective, all user accounts are sockpuppets and everyone looks like an anti-surveillance decoy. An account can be communicating on behalf of the account holder or simply just sockpuppetting (communicating on behalf of other accounts). No one else can scrutinize or prove which account is communicating on hehalf of whom except for the account holder him/herself.
@@ -23,6 +23,9 @@ Some centralized communication systems are said to be *non-repudiable* because t
 {: .box-note}
 {: style="color: grey; font-size: 80%;"}
 :bomb:: To further maximize deniability, all data have limited life expectancy on Citium nodes. For example, hash keys sitting on a mobile node are set to **self-destruct countdown** of 24 hours.
+
+## 驗證性 | Authentication ✓
+In Citium, sockpuppetry dictates that __anyone can pretend to be someone else__. User account nickname is non-exclusive, too! No user knows for sure which account belongs to whom from an aerial perspective, except their own. This does not mean that the traditional sense of user authentication (i.e., irrefutably identifying a user) fails because authentication in the Citium universe is no longer bounded by user account alone but every cryptographically signed message. Two users (e.g., Joe & Jane) can be joined cryptographically in a trusted relationship, called "Contacts". Once authenticated, message sent from Contacts cannot be spoofed by any third party, i.e., Jane can always identify the cryptographically bound message sent from Joe whom she has authenticated from the outset even though many other users may pretend to be Joe and send her messages.
 
 ## 機密性 | Confidentiality ✓
 隱私保護得靠機密性，包括加密和保密兩重意義。加密的等級很明顯要低於保密的等級。首先來說，加密很重要，然而西蒂姆（Citium）採用的SDTP是屬於更高的保密級別。非技術性的表述是：你可以冒充成爲世界上的任何人，任何人也可以冒充你；只有你自己能證明你的存在，你的真僞。一段需要保密的數據，只有被你的授權確認的才能看見，那麼只要不是被你授權的數據則都是假的。
@@ -81,5 +84,3 @@ __Fully Decentralization__: Majority of the contemporary online application serv
 
 ### 4. 授權性 | Authorization ✓
 __Network-wide peer-to-peer (P2P) relationship__ assume no higher or lower privilege but only those appropriated to receive is authorized. Thus, neither [horizontal privilege escalation](https://en.wikipedia.org/wiki/Privilege_escalation#Horizontal) nor [vertical privilege escalation](https://en.wikipedia.org/wiki/Privilege_escalation#Vertical) may occur.
-### 5. 驗證性 | Authentication ✓
-__Aanyone can pretend to be someone else__ because nickname in Citium is non-exclusive. No one knows for sure who is who from an aerial perspective. Two users (e.g., Joe & Jane) can be joined cryptographically in a trusted relationship, called "Contacts". Once authenticated, Contacts cannot be spoofed by any third party, i.e., Joe can always identify the one and only Jane whom he has authenticated even though many other users may pretend to be Jane; and Jane can always identify the one and only Joe whom she has authenticated even though many other users may pretend to be Joe.
