@@ -65,7 +65,7 @@ __其他品種的卡__
 
 {% include accordion.html %}
 
-如果還有什麼搞不清楚，你可以隨時通過西蒂姆（Citium）即時聊天工具[聯絡官方客戶服務咨詢](contact_us)。
+如果還有什麼搞不清楚，你可以隨時通過西蒂姆（Citium）即時聊天工具[聯絡官方客戶服務咨詢](../contact_us)。
 
 ## 實體卡 :mailbox:
 
