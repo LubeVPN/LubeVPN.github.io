@@ -7,7 +7,7 @@ googlefonts: ["Roboto Condensed"]
 ---
 
 ## 1
-[點擊這裡下載]((https://www.pango123.org/assets/uploads/semapp.zip)西蒂姆（Citium）Windows PC端在你的電腦硬盤中。
+[點擊這裡下載](https://www.pango123.org/assets/uploads/semapp.zip)西蒂姆（Citium）Windows PC端在你的電腦硬盤中。
 <br>
 [CLICK HERE TO DOWNLOAD](https://www.pango123.org/assets/uploads/semapp.zip) Citium installation zip file into your Windows PC.
 
