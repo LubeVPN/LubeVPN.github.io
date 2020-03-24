@@ -6,13 +6,17 @@ bigimg: /img/web.jpg
 googlefonts: ["Roboto Condensed"]
 ---
 
-西蒂姆（Citium）是一個免費的、開源代碼的、完全去中心化的、[無需准入許可的區塊鏈系統](https://en.wikipedia.org/wiki/Blockchain#Permissionless)，並採用了密碼學上堅不可摧的信息安全机制，例如 __無差別網樹多點傳送__（IMTM）__哈希傳遞網路__（HDN） 和 __分身馬甲帳號__。西蒂姆（Citium）當前的版本能兼容 __文字__、__音像__、__視像__ 和 __即時音訊__ 的數據。使用西蒂姆（Citium）建造的去中心化應用程序（dApp）能享有與別不同的數據傳輸安全性，例如 __可推诿性__。西蒂姆（Citium）非常適合用於 **匿名化即時通訊系統**（AIMS） 和 **服務器IP地址混淆**（SIPO）。 SIPO是西蒂姆（Citium）的獨特功能，可以讓HTML5的內容訪問者既可以訪問到內容但無從得知其服務器的來源IP地址，不單能有效 **防止分散式阻斷服務攻擊（DDoS）**，更可以從IP地理情報層面杜絕情報收集，有效 **防止網絡服務器被拆卸和扣押**。
+西蒂姆（Citium）是一個免費的、開源代碼的、完全去中心化的、[無需准入許可的區塊鏈系統](https://en.wikipedia.org/wiki/Blockchain#Permissionless)，並採用了密碼學上堅不可摧的信息安全机制，例如 __無差別網樹多點傳送__（IMTM）__哈希傳遞網路__（HDN） 和 __分身馬甲帳號__。西蒂姆（Citium）當前的版本能兼容 __文字__、__音像__、__視像__ 和 __即時音訊__ 的數據。使用西蒂姆（Citium）建造的去中心化應用程序（dApp）能享有與別不同的數據傳輸安全性，例如 __可推诿性__。西蒂姆（Citium）非常適合用於 **匿名化即時通訊系統**（AIMS） 和 **服務器IP地址混淆**（SIPO）。
 
-接下來，為了方便讓讀者較為高效地理解西蒂姆（Citium）的獨特性，我們只以 **匿名化即時通訊系統**（AIMS）為應用範本介紹西蒂姆（Citium）相關訊息安全功能。
+SIPO是西蒂姆（Citium）的獨特功能，可以讓HTML5的內容訪問者既可以訪問到內容但無從得知其服務器的來源IP地址，不單能有效 **防止分散式阻斷服務攻擊（DDoS）**，更可以從IP地理情報層面杜絕情報收集，有效 **防止網絡服務器被拆卸和扣押**。
 
-Citium is a free, open-source, fully decentralized, [permissionless blockchain](https://en.wikipedia.org/wiki/Blockchain#Permissionless) that features cryptanalytically unbreakable InfoSec mechanisms (e.g., **indiscriminate mesh-tree multicast** (IMTM) **hash delivery network** (HDN) and **sockpuppetry**). Citium's current build is capable of serving **text**, **image**, **video** and **real-time voice** data. Decentralized Apps (dApps) built on Citium can enjoy many data security features (e.g., **deniability**). Citium is best suited for **anonymized instant messenger system** (AIMS) and **server IP address obfuscation** (SIPO). SIPO is a unique feature of Citium. SIPO can enable visitors to visit HTML5-based content while seamlessly hide the content hosting server's originating IP address from its visitors. Not only can SIPO effectively **prevent distributed denial-of-service (DDoS) attacks**, but it can also curtail IP intelligence gathering (e.g., geolocation lookup), effectively **preventing web server takedown and seizure**.
+但鑒於篇幅，接下來，為了方便讓您較為高效地理解西蒂姆（Citium）的獨特性，我們只以 **匿名化即時通訊系統**（AIMS）為應用範本介紹西蒂姆（Citium）相關訊息安全功能。
 
-In the following, to help you effectively understand the unique infosec features of Citium, we focus on depicting only the application of **anonymized instant messenger system** (AIMS).
+Citium is a free, open-source, fully decentralized, [permissionless blockchain](https://en.wikipedia.org/wiki/Blockchain#Permissionless) that features cryptanalytically unbreakable InfoSec mechanisms (e.g., **indiscriminate mesh-tree multicast** (IMTM) **hash delivery network** (HDN) and **sockpuppetry**). Citium's current build is capable of serving **text**, **image**, **video** and **real-time voice** data. Decentralized Apps (dApps) built on Citium can enjoy many data security features (e.g., **deniability**). Citium is best suited for **anonymized instant messenger system** (AIMS) and **server IP address obfuscation** (SIPO). SIPO is a unique feature of Citium. 
+
+SIPO can enable visitors to visit HTML5-based content while seamlessly hide the content hosting server's originating IP address from its visitors. Not only can SIPO effectively **prevent distributed denial-of-service (DDoS) attacks**, but it can also curtail IP intelligence gathering (e.g., geolocation lookup), effectively **preventing web server takedown and seizure**.
+
+Given the limited space, however, in the following, to help you effectively understand the unique infosec features of Citium, we focus on depicting only the application of **anonymized instant messenger system** (AIMS).
 
 ## 可推诿性 | Deniability ✓<br>不可否認性 | Non-Repudiation ✗
 某些中心化通信系統被稱為 *不可否認的*，因為其用戶的目標是系統化地讓其溝通對象承擔法律責任。西蒂姆（Citium）不是為這種目標而設計的，而是提供了完全相反的信息安全功能：**可推諉性**。「可推諉性」是針對 **強制披露** 或 [強制性秘鑰披露](https://en.wikipedia.org/wiki/Key_disclosure_law)的最後一道防線。不公開的、私下的電子通訊一直是個人和企業通訊中的關注點。發訊者（或接訊者）需要能夠[合理地推諉](https://zh.wikipedia.org/wiki/%E5%90%88%E7%90%86%E6%8E%A8%E8%AF%BF)他或她發送過訊息（或就被指定的接訊者）。當兩個用戶（例如Alice和Bob）決定通過西蒂姆（Citium）通信，他們必須首先成為西蒂姆（Citium）中彼此認證的用戶（“聯絡人”）。添加聯絡人這個認證行為也是唯一次時機他們倆（Alice和Bob）可以彼此確認身份。因為在此之後，即使在他們倆通信過程中，任何人都無法無可辯駁地證明他們兩個的聯絡人關係。這是通過三個訊息安全機制實現：1、**無需准入許可**；2、**可推諉驗證**；3、**分身馬甲帳號**。
