@@ -31,8 +31,8 @@ The main benefit of Citium being a free, open-source, fully decentralized, [perm
 
 {: .box-note}
 {: style="color: grey; font-size: 90%;"}
-**從西蒂姆（Citium）世界觀：** 為了讓通訊數據不被第三者窺探得到，最佳的安保辦法就是同場允許任何人參與偽造且無法被第三者證明哪些為真、哪些為假的數據。
-**Citium's Worldview:** In order to prevent communication data from being snooped by third parties, the best security practice is to permit anyone to forge and no third party can differentiate genuine from forged data. 
+**從西蒂姆（Citium）世界觀：** 為了讓通訊數據不被第三者窺探得到，最佳的安保辦法就是同場允許任何人參與偽造且無法被第三者證明哪些為真、哪些為假的數據。<br>
+**Citium's Worldview:** In order to prevent communication data from being snooped by third parties, the best security practice is to permit anyone to forge and no third party can differentiate genuine from forged data.
 
 ### 2. 驗證性 | Authentication ✓
 When two users (e.g., Alice and Bob) decide to communicate through Citium with each other, they have to become each other's authenticated users ("Contacts") in Citium from the outset — i.e. exercising an out-of-band key exchange. This is the only moment in the authentication lifecycle that the two users know for sure that the communicating counterparty (Alice or Bob) is whom they believe to be. But after that, as ironic as it may sound, no one, not even the two users themselves, can irrefutably prove their authenticated Contact relationship even during the course of their communication.
