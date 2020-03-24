@@ -6,11 +6,11 @@ bigimg: /img/web.jpg
 googlefonts: ["Roboto Condensed"]
 ---
 
-西蒂姆（Citium）是一個免費的、開源代碼的、完全去中心化的、[無需准入許可的區塊鏈系統](https://en.wikipedia.org/wiki/Blockchain#Permissionless)，並採用了密碼學上堅不可摧的信息安全机制，例如 __無差別網樹多點傳送__（IMTM）__哈希傳遞網路__（HDN） 和 __分身馬甲帳號__。西蒂姆（Citium）當前的版本能兼容 __文字__、__音像__、__視像__ 和 __即時音訊__ 的數據。使用西蒂姆（Citium）建造的去中心化應用程序（dApp）能享有與別不同的數據傳輸安全性，例如 __可推诿性__。西蒂姆（Citium）非常適合用於 **匿名化即時通訊系統**（AIMS） 和 **服務器IP地址混淆**（SIPO）。
+西蒂姆（Citium）是一個免費的、開源代碼的、完全去中心化的、[無需准入許可的區塊鏈系統](https://en.wikipedia.org/wiki/Blockchain#Permissionless)，並採用了密碼學上堅不可摧的信息安全机制，例如 __無差別網樹多點傳送__（IMTM）__哈希傳遞網路__（HDN） 和 __分身馬甲帳號__。西蒂姆（Citium）當前的版本能兼容 __文字__、__音像__、__視像__ 和 __即時音訊__ 的數據。使用西蒂姆（Citium）建造的去中心化應用程序（dApp）能享有與別不同的數據傳輸安全性，例如 __可推诿性__。西蒂姆（Citium）非常適合用於 **[OTS無記錄通訊](https://en.wikipedia.org/wiki/Off-the-Record_Messaging)即時通訊系統**（OTS-IMS） 和 **服務器IP地址混淆**（SIPO）。
 
 SIPO是西蒂姆（Citium）的獨特功能，可以讓HTML5的內容訪問者既可以訪問到內容但無從得知其服務器的來源IP地址，不單能有效 **防止分散式阻斷服務攻擊（DDoS）**，更可以從IP地理情報層面杜絕情報收集，有效 **防止網絡服務器被拆卸和扣押**。
 
-但鑒於篇幅，接下來，為了方便讓您較為高效地理解西蒂姆（Citium）的獨特性，我們只以 [**OTR無記錄通訊**](https://en.wikipedia.org/wiki/Off-the-Record_Messaging) 為應用範本介紹西蒂姆（Citium）相關訊息安全功能。
+但鑒於篇幅，接下來，為了方便讓您較為高效地理解西蒂姆（Citium）的獨特性，我們只以 **[OTS無記錄通訊](https://en.wikipedia.org/wiki/Off-the-Record_Messaging)即時通訊系統**（OTS-IMS）為應用範本介紹西蒂姆（Citium）相關訊息安全功能。
 
 Citium is a free, open-source, fully decentralized, [permissionless blockchain](https://en.wikipedia.org/wiki/Blockchain#Permissionless) that features cryptanalytically unbreakable InfoSec mechanisms (e.g., **indiscriminate mesh-tree multicast** (IMTM) **hash delivery network** (HDN) and **sockpuppetry**). Citium's current build is capable of serving **text**, **image**, **video** and **real-time voice** data. Decentralized Apps (dApps) built on Citium can enjoy many data security features (e.g., **deniability**). Citium is best suited for [**Off-the-Record Messaging (OTR)**](https://en.wikipedia.org/wiki/Off-the-Record_Messaging) **Instant Messenger System** and **server IP address obfuscation** (SIPO). SIPO is a unique feature of Citium.
 
