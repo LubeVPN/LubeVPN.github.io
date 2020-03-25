@@ -19,17 +19,17 @@ SIPO can enable visitors to visit HTML5-based content while seamlessly hide the 
 Given the limited space, however, in the following, to help you effectively understand the unique infosec features of Citium, we focus on depicting only the application of [**Off-the-Record Messaging (OTR)**](https://en.wikipedia.org/wiki/Off-the-Record_Messaging) **Instant Messenger System**.
 
 ## 可推诿性 | Deniability ✓<br>不可否認性 | Non-Repudiation ✗
-某些中心化通信系統被稱為 *不可否認的*，因為其用戶的目標是系統化地讓其溝通方承擔法律責任。西蒂姆（Citium）不是為這種目標而設計的，而是提供了完全相反的信息安全功能：**可推諉性**。「可推諉性」是針對[**強制披露**](https://en.wikipedia.org/wiki/Key_disclosure_law)和其後患的最後一道防線。不公開的、私下的電子通訊一直是個人和企業通訊中的關注點。發件人（或預期收件人）需要能夠[合理地推諉](https://zh.wikipedia.org/wiki/%E5%90%88%E7%90%86%E6%8E%A8%E8%AF%BF)他發送過的訊息（或，是預期收件人）。西蒂姆（Citium）中的「可推諉性」是通過三個訊息安全機制實現的：
+某些中心化通信系統被稱為 *不可否認的*，因為其用戶的目標是系統化地讓其溝通方承擔法律責任。西蒂姆（Citium）不是為這種目標而設計的，而是提供了完全相反的信息安全功能：**可推諉性**。「可推諉性」是針對[**強制披露**](https://en.wikipedia.org/wiki/Key_disclosure_law)和其後患的最後一道防線。不公開的、私下的電子通訊一直是個人和企業通訊中的關注點。發件人（或預期收件人）需要能夠[合理地推諉](https://zh.wikipedia.org/wiki/%E5%90%88%E7%90%86%E6%8E%A8%E8%AF%BF)他發送過的訊息（或，是被指定的預期收件人）。西蒂姆（Citium）中的「可推諉性」是通過三個訊息安全機制實現的：
 
 1. [**無需准入許可**](#1-%E7%84%A1%E9%9C%80%E8%A8%B1%E5%8F%AF--permissionless-)
-2. **可推諉驗證**
-3. **分身馬甲帳號**
+2. [**可推諉驗證**](#2-%E9%A9%97%E8%AD%89%E6%80%A7--authentication-)
+3. [**分身馬甲帳號**](#3-%E5%88%86%E8%BA%AB%E9%A6%AC%E7%94%B2%E5%B8%B3%E8%99%9Fsockpuppetry)
 
-Some centralized communication systems are said to be *non-repudiable* because their users purposely want to systematically hold their communicating parties legally accountable. Citium does not cater for that purpose. In fact, Citium offers the complete opposite: **deniability**, which is the last line of defense against [**forced disclosure**](https://en.wikipedia.org/wiki/Key_disclosure_law) and its repercussions. Off-the-record electronic communication has always been a concern in personal and business communications. The sender (or the intended recipient) of a message want to [plausibly deny](https://en.wikipedia.org/wiki/Plausible_deniability) that he or she has sent that message (or being the intended recipient). Deniability in Citium is achieved through three InfoSec mechanisms:
+Some centralized communication systems are said to be *non-repudiable* because their users purposely want to systematically hold their communicating parties legally accountable. Citium does not cater for that purpose. In fact, Citium offers the complete opposite: **deniability**, which is the last line of defense against [**forced disclosure**](https://en.wikipedia.org/wiki/Key_disclosure_law) and its repercussions. Off-the-record electronic communication has always been a concern in personal and business communications. The sender (or the intended recipient) of a message want to [plausibly deny](https://en.wikipedia.org/wiki/Plausible_deniability) that he or she has sent that message (or being targeted as the intended recipient). Deniability in Citium is achieved through three InfoSec mechanisms:
 
 1. [**Permissionless**](#1-%E7%84%A1%E9%9C%80%E8%A8%B1%E5%8F%AF--permissionless-)
-2. [**Deniable Authentication**](https://en.wikipedia.org/wiki/Deniable_authentication)
-3. **Sockpuppetry**
+2. [**Deniable Authentication**](#2-%E9%A9%97%E8%AD%89%E6%80%A7--authentication-)
+3. [**Sockpuppetry**](#3-%E5%88%86%E8%BA%AB%E9%A6%AC%E7%94%B2%E5%B8%B3%E8%99%9Fsockpuppetry)
 
 {: .box-note}
 {: style="color: grey; font-size: 90%;"}
