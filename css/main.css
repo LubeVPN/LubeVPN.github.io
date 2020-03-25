@@ -9,7 +9,7 @@ googlefonts: ["Roboto Condensed"]
 
 body {
   font-family: 'Roboto Condensed', 'Open Sans', 'Helvetica Neue', 'Times New Roman', serif;
-  font-size: 18px;
+  font-size: 16px;
   color: #404040;
   margin-top:-20px;
   position: relative;
