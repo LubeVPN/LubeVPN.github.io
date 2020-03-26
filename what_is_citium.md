@@ -16,7 +16,7 @@ Citium is a free, open-source, fully decentralized, [permissionless blockchain](
 
 SIPO can enable visitors to visit HTML5-based content while seamlessly hide the content hosting server's originating IP address from its visitors. Not only can SIPO effectively **prevent distributed denial-of-service (DDoS) attacks**, but it can also curtail IP intelligence gathering (e.g. geolocation lookup), effectively **preventing web server takedown and seizure**.
 
-Given the limited space, however, in the following, to help you effectively understand the unique infosec features of Citium, we focus on depicting only the application of [**Off-the-Record Messaging (OTR)**](https://en.wikipedia.org/wiki/Off-the-Record_Messaging) **Instant Messenger System**.
+For we wish to plainly present the unique infosec features of Citium, we focus on depicting only the application of [**Off-the-Record Messaging (OTR)**](https://en.wikipedia.org/wiki/Off-the-Record_Messaging) **Instant Messenger System** on this website.
 
 {: .box-note}
 {: style="color: grey; font-size: 100%;"}
