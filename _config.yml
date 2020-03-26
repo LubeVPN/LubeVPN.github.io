@@ -34,7 +34,11 @@ navbar-links:
     - Windows版本安裝<br>Windows Version: "windows"
     - 抵值續時辦法<br>Payment: "payment_method"
   西蒂姆<br>Citium:
-    - 訊息安全功能<br>InfoSec: "citium_infosec"
+    - 什麼是西蒂姆？<br>What is Citium?: "what_is_citium"
+    - 可抵賴可推诿<br>Deniability: "deniability"
+    - 無需准入或許可<br>Permissionless: "permissionless"
+    - 身份驗證性悖論<br>Authentication: "authentication"
+    - 分身馬甲帳號<br>Sockpuppetry: "sockpuppetry"
     - 不可靠的中心化<br>Fallibility: "fallible_providers"
   聯繫我們<br>Contact Us: "contact_us"
 
