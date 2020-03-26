@@ -1,12 +1,11 @@
 ---
 layout: page
 title: 可抵賴可推诿
-subtitle: Deniability
+subtitle: Deniability ✓<br>Non-Repudiation ✗
 # bigimg: /img/web.jpg
 googlefonts: ["Roboto Condensed"]
 ---
 
-## 可推诿性 | Deniability ✓<br>不可否認性 | Non-Repudiation ✗
 某些中心化通信系統被稱為 *不可否認的*，因為其用戶的目標是系統化地讓其溝通方承擔法律責任。西蒂姆（Citium）不是為這種目標而設計的，而是提供了完全相反的信息安全功能：**可推諉性**。「可推諉性」是針對[**強制披露**](https://en.wikipedia.org/wiki/Key_disclosure_law)和其後患的最後一道防線。不公開的、私下的電子通訊一直是個人和企業通訊中的關注點。發件人（或預期收件人）需要能夠[合理地推諉](https://zh.wikipedia.org/wiki/%E5%90%88%E7%90%86%E6%8E%A8%E8%AF%BF)他發送過的訊息（或，是被指定的預期收件人）。西蒂姆（Citium）中的「可推諉性」是通過三個訊息安全機制實現的：
 
 1. [**無需准入許可**](#1-%E7%84%A1%E9%9C%80%E8%A8%B1%E5%8F%AF--permissionless-)
