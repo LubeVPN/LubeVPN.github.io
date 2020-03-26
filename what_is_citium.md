@@ -12,8 +12,9 @@ SIPO是西蒂姆（Citium）的獨特功能，可以讓HTML5的內容訪問者�
 
 接下來，為了更簡明地闡述西蒂姆（Citium）的獨特性，我們只以 **[OTS無記錄通訊](https://en.wikipedia.org/wiki/Off-the-Record_Messaging)即時通訊系統**（OTS-IMS）為應用範本介紹西蒂姆（Citium）相關訊息安全功能。
 
-**下一章：**{: .center-block :}
-[可推诿性 和 不可否認性](../deniability){: .center-block :}
+**下一章：**
+[**可推诿性 和 不可否認性**](../deniability)
+{: style="color: orange; font-size: 100%; text-align: center;"}
 
 {: .box-note}
 {: style="color: grey; font-size: 100%;"}
@@ -26,8 +27,9 @@ SIPO can enable visitors to visit HTML5-based content while seamlessly hide the 
 
 For we wish to plainly present the unique infosec features of Citium, we focus on depicting only the application of [**Off-the-Record Messaging (OTR)**](https://en.wikipedia.org/wiki/Off-the-Record_Messaging) **Instant Messenger System** on this website.
 
-**NEXT CHAPTER:**{: .center-block :}
-[Deniability and Non-Repudiation](../deniability){: .center-block :}
+**NEXT CHAPTER:**
+[**Deniability and Non-Repudiation**](../deniability)
+{: style="color: orange; font-size: 100%; text-align: center;"}
 
 {: .box-note}
 {: style="color: grey; font-size: 100%;"}
