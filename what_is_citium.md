@@ -12,6 +12,10 @@ SIPO是西蒂姆（Citium）的獨特功能，可以讓HTML5的內容訪問者�
 
 但鑒於篇幅，接下來，為了方便讓您較為高效地理解西蒂姆（Citium）的獨特性，我們只以 **[OTS無記錄通訊](https://en.wikipedia.org/wiki/Off-the-Record_Messaging)即時通訊系統**（OTS-IMS）為應用範本介紹西蒂姆（Citium）相關訊息安全功能。
 
+{: .center-block :}
+**下一章：**
+[可推诿性 和 不可否認性](../deniability)
+
 {: .box-note}
 {: style="color: grey; font-size: 100%;"}
 **從西蒂姆（Citium）世界觀：** 訴諸新穎性和權威性是謬誤的思維。但不幸地，常規的網絡安全一直專注於由自詡的專家和看似值得信賴的管理機構所兜售的更新穎技術。這些技術都屢屢令人失望，歷來有被詳盡記載和被檢討，例如[瑞士Crypto公司的安全漏洞機器](https://en.wikipedia.org/wiki/Crypto_AG#Compromised_machines)，[Skype的竊聽後門](https：//en.wikipedia。 org / wiki / Skype_security＃Eavesdropping_by_design)和[其他臭名昭著的數據洩露](https://en.wikipedia.org/wiki/List_of_data_breaches)。西蒂姆（Citium）與常規的網絡安全辦法形成了鮮明的對比。 西蒂姆（Citium）假定任何中央管理機構或任何單個持份權益關係者（用戶節點和服務節點）本質上都是邪惡的。<br>
@@ -22,6 +26,10 @@ Citium is a free, open-source, fully decentralized, [permissionless blockchain](
 SIPO can enable visitors to visit HTML5-based content while seamlessly hide the content hosting server's originating IP address from its visitors. Not only can SIPO effectively **prevent distributed denial-of-service (DDoS) attacks**, but it can also curtail IP intelligence gathering (e.g. geolocation lookup), effectively **preventing web server takedown and seizure**.
 
 For we wish to plainly present the unique infosec features of Citium, we focus on depicting only the application of [**Off-the-Record Messaging (OTR)**](https://en.wikipedia.org/wiki/Off-the-Record_Messaging) **Instant Messenger System** on this website.
+
+{: .center-block :}
+**NEXT CHAPTER:**
+[Deniability and Non-Repudiation](../deniability)
 
 {: .box-note}
 {: style="color: grey; font-size: 100%;"}
