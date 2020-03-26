@@ -17,10 +17,10 @@ SIPO是西蒂姆（Citium）的獨特功能，可以讓HTML5的內容訪問者�
 訴諸新穎性和權威性是謬誤的思維。但不幸地，常規的網絡安全一直專注於由自詡的專家和看似值得信賴的管理機構所兜售的更新穎技術。這些技術都屢屢令人失望，歷來有被詳盡記載和被檢討，例如[瑞士Crypto公司的安全漏洞機器](https://en.wikipedia.org/wiki/Crypto_AG#Compromised_machines)，[Skype的竊聽後門](https：//en.wikipedia。 org / wiki / Skype_security＃Eavesdropping_by_design)和[其他臭名昭著的數據洩露](https://en.wikipedia.org/wiki/List_of_data_breaches)。西蒂姆（Citium）與常規的網絡安全辦法形成了鮮明的對比。 西蒂姆（Citium）假定任何中央管理機構或任何單個持份權益關係者（用戶節點和服務節點）本質上都是邪惡的。<br>
 持份權益關係者持有的任何權力都可能對某些人產生不利影響，因此，西蒂姆（Citium）剝削了持份權益關係者傳統來說持有的功能，例如授權的權利，以及持有用戶帳戶ID、密碼和個人信息的權利。
 
-**下一章**<br>
-[**可推诿性 和 不可否認性**](../deniability)
 {: .myButton}
 {: style="text-align: center;"}
+**下一章**<br>[**可推诿性 和 不可否認性**](../deniability)
+
 
 Citium is a free, open-source, fully decentralized, [permissionless blockchain](https://en.wikipedia.org/wiki/Blockchain#Permissionless) that features cryptanalytically unbreakable InfoSec mechanisms (e.g. **indiscriminate mesh-tree multicast** (IMTM) **message digests delivery network** (MDDN) and **sockpuppetry**). Citium's current build is capable of serving **text**, **image**, **video** and **real-time voice** data. Decentralized Apps (dApps) built on Citium can enjoy many data security features (e.g. **deniability**). Citium is best suited for [**Off-the-Record Messaging (OTR)**](https://en.wikipedia.org/wiki/Off-the-Record_Messaging) **Instant Messenger System** and **server IP address obfuscation** (SIPO). SIPO is a unique feature of Citium.
 
@@ -32,7 +32,6 @@ SIPO can enable visitors to visit HTML5-based content while seamlessly hide the 
 It is fallacious thinking to appeal to novelty and authority. But unfortunately, conventional cybersecurity has been focusing on ever fancier technologies peddled by self-proclaimed experts and seemingly trustworthy governing bodies. Laundry list of disappointments has been documented and reviewed, such as [Swiss Crypto AG's compromised machines](https://en.wikipedia.org/wiki/Crypto_AG#Compromised_machines), [Skype's eavesdropping by design](https://en.wikipedia.org/wiki/Skype_security#Eavesdropping_by_design) and [other infamous data breaches](https://en.wikipedia.org/wiki/List_of_data_breaches). Citium is a stark contrast to the conventional approach. Citium assumes that any centralized governing body or any single stakeholder (i.e. user node & service node) is evil by nature.<br>
 Whatever power a stakeholder holds may adversely affect someone; therefore, Citium mutilates the power that is conventionally available to stakeholders, such as the rights to authorize, and to hold users' account ID, password, and personal information.
 
-**NEXT CHAPTER**<br>
-[**Deniability & Non-Repudiation**](../deniability)
 {: .myButton}
 {: style="text-align: center;"}
+**NEXT CHAPTER**<br>[**Deniability & Non-Repudiation**](../deniability)
