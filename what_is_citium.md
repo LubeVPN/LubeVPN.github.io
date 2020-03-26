@@ -31,6 +31,6 @@ SIPO can enable visitors to visit HTML5-based content while seamlessly hide the 
 It is fallacious thinking to appeal to novelty and authority. But unfortunately, conventional cybersecurity has been focusing on ever fancier technologies peddled by self-proclaimed experts and seemingly trustworthy governing bodies. Laundry list of disappointments has been documented and reviewed, such as [Swiss Crypto AG's compromised machines](https://en.wikipedia.org/wiki/Crypto_AG#Compromised_machines), [Skype's eavesdropping by design](https://en.wikipedia.org/wiki/Skype_security#Eavesdropping_by_design) and [other infamous data breaches](https://en.wikipedia.org/wiki/List_of_data_breaches). Citium is a stark contrast to the conventional approach. Citium assumes that any centralized governing body or any single stakeholder (i.e. user node & service node) is evil by nature.<br>
 Whatever power a stakeholder holds may adversely affect someone; therefore, Citium mutilates the power that is conventionally available to stakeholders, such as the rights to authorize, and to hold users' account ID, password, and personal information.
 
-##### NEXT CHAPTER
+**NEXT CHAPTER**<br>
 [**Deniability and Non-Repudiation**](../deniability)
 {: style="color: black; font-size: 100%; text-align: center;"}
