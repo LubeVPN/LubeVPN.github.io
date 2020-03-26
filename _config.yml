@@ -34,7 +34,7 @@ navbar-links:
     - Windows版本安裝<br>Windows Version: "windows"
     - 抵值續時辦法<br>Payment: "payment_method"
   西蒂姆<br>Citium:
-    - 訊息安全兩點<br>InfoSec: "citium_infosec"
+    - 訊息安全功能<br>InfoSec: "citium_infosec"
     - 不可靠的中心化<br>Fallibility: "fallible_providers"
   聯繫我們<br>Contact Us: "contact_us"
 
