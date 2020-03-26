@@ -34,4 +34,4 @@ Whatever power a stakeholder holds may adversely affect someone; therefore, Citi
 **NEXT CHAPTER**<br>
 [**Deniability and Non-Repudiation**](../deniability)
 {: .myButton}
-{: text-align: center;"}
+{: style="text-align: center;"}
