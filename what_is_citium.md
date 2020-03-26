@@ -10,7 +10,7 @@ googlefonts: ["Roboto Condensed"]
 
 SIPO是西蒂姆（Citium）的獨特功能，可以讓HTML5的內容訪問者既可以訪問到內容但無從得知其服務器的來源IP地址，不單能有效 **防止分散式阻斷服務攻擊（DDoS）**，更可以從IP地理情報層面杜絕情報收集，有效 **防止網絡服務器被拆卸和扣押**。
 
-但鑒於篇幅，接下來，為了方便讓您較為高效地理解西蒂姆（Citium）的獨特性，我們只以 **[OTS無記錄通訊](https://en.wikipedia.org/wiki/Off-the-Record_Messaging)即時通訊系統**（OTS-IMS）為應用範本介紹西蒂姆（Citium）相關訊息安全功能。
+接下來，為了更簡明地闡述西蒂姆（Citium）的獨特性，我們只以 **[OTS無記錄通訊](https://en.wikipedia.org/wiki/Off-the-Record_Messaging)即時通訊系統**（OTS-IMS）為應用範本介紹西蒂姆（Citium）相關訊息安全功能。
 
 {: .center-block :}
 **下一章：**
