@@ -19,7 +19,8 @@ SIPO是西蒂姆（Citium）的獨特功能，可以讓HTML5的內容訪問者�
 
 **下一章**<br>
 [**可推诿性 和 不可否認性**](../deniability)
-{: style="color: black; font-size: 100%; text-align: center;"}
+{: .myButton}
+{: style="text-align: center;"}
 
 Citium is a free, open-source, fully decentralized, [permissionless blockchain](https://en.wikipedia.org/wiki/Blockchain#Permissionless) that features cryptanalytically unbreakable InfoSec mechanisms (e.g. **indiscriminate mesh-tree multicast** (IMTM) **message digests delivery network** (MDDN) and **sockpuppetry**). Citium's current build is capable of serving **text**, **image**, **video** and **real-time voice** data. Decentralized Apps (dApps) built on Citium can enjoy many data security features (e.g. **deniability**). Citium is best suited for [**Off-the-Record Messaging (OTR)**](https://en.wikipedia.org/wiki/Off-the-Record_Messaging) **Instant Messenger System** and **server IP address obfuscation** (SIPO). SIPO is a unique feature of Citium.
 
@@ -32,6 +33,6 @@ It is fallacious thinking to appeal to novelty and authority. But unfortunately,
 Whatever power a stakeholder holds may adversely affect someone; therefore, Citium mutilates the power that is conventionally available to stakeholders, such as the rights to authorize, and to hold users' account ID, password, and personal information.
 
 **NEXT CHAPTER**<br>
-[**Deniability and Non-Repudiation**](../deniability)
+[**Deniability & Non-Repudiation**](../deniability)
 {: .myButton}
 {: style="text-align: center;"}
