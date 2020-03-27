@@ -19,6 +19,7 @@ Note on the authorization mechanism of Citium. Since Citium adopt a __network-wi
 **從西蒂姆（Citium）世界觀：** 為了打消惡意方窺探數據或抓住數據為把柄的念頭，西蒂姆（Citium）認為最佳的保安辦法就是公開地允許任何人都可以參與偽造和篡改數據，那麼便沒有任何一方能夠分辨數據真偽和是否有被偽造或篡改過的可能。<br><br>
 **Citium's Worldview:** In order to discourage malicious parties from snooping data or holding data as evidence against others, Citium believes that the best security practice is to openly permit everyone to forge and tamper with data so that and no party can possibly differentiate genuine from forged or tampered data.
 
+### 下一章 / NEXT CHAPTER
+[**身份驗證性悖論**](../authentication)<br>
+[**Authentication**](../authentication)
 {: .myButton}
-{: style="text-align: center;"}
-**下一章** | **NEXT CHAPTER**<br>[**身份驗證性悖論**<br>**Authentication**](../authentication)
