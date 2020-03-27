@@ -10,10 +10,12 @@ googlefonts: ["Roboto Condensed"]
 
 {: .box-warning}
 **溫馨提醒:** 《順道VPN》服務只供口碑相傳用戶使用。如有不便，敬請原諒！
+<br><br>
+**GENTLE REMINDER:** LubeVPN serves word-of-mouth users who are referred by existing users only. Sorry for any inconvenience that might have caused you!
 
-《順道VPN》(Lube VPN) 是基於開源及完全去中心化的 [西蒂姆(Citium)](citium) 開發的互聯網隱私及信息加速商業服務應用。它把坊間流行的VPN系統作出了比較重大的改良和升級。__下載並安裝 Citium__ ，便可以開始試用《順道VPN》。
+《順道VPN》(Lube VPN) 是基於開源及完全去中心化的 [西蒂姆(Citium)](what_is_citium) 開發的互聯網隱私及信息加速商業服務應用。它把坊間流行的VPN系統作出了比較重大的改良和升級。__下載並安裝 Citium__ ，便可以開始試用《順道VPN》。
 
-LubeVPN is proprietorially built based on __an open and fully decentralized technology__: [__Citium__](citium). LubeVPN is a radical departure and upgrade from all the popular VPN systems in the open marketspace. Download and install Citium to start using LubeVPN.
+LubeVPN is proprietorially built based on __an open and fully decentralized technology__: [__Citium__](what_is_citium). LubeVPN is a radical departure and upgrade from all the popular VPN systems in the open marketspace. Download and install Citium to start using LubeVPN.
 
 ## 安裝與試用<br>Installation & Trial
 
