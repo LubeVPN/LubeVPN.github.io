@@ -47,8 +47,7 @@ Information security, sometimes shortened to InfoSec, is the practice of protect
 <br>
 :closed_lock_with_key:: ✓ available feature; ✗ unavailable feature
 
-**下一章** / **NEXT CHAPTER**
-
+##### 下一章 / NEXT CHAPTER
 [**可推诿性和不可否認性**](../deniability)<br>
 [**Deniability & Non-Repudiation**](../deniability)
 {: .myButton}
