@@ -14,6 +14,7 @@ Citium uses [deniable authentication](https://en.wikipedia.org/wiki/Deniable_aut
 
 Despite what has just been said, the traditional sense of user authentication (i.e. irrefutably identifying a user) is still preserved because authentication in the Citium universe is no longer bounded by user account alone but by every cryptographically signed message. Any two communicating parties (i.e. the Contacts: Alice & Bob) who communicate with each other must perform [out-of-band key verification](https://ssd.eff.org/en/module/key-verification) from the outset. Once verified, messages sent between Alice and Bob cannot be spoofed by any third party. Although the permissionless nature of Citium dictates that no conventional measure (e.g., [anti-spam techniques](https://en.wikipedia.org/wiki/Anti-spam_techniques)) is in place to prevent [spoofing attack](https://en.wikipedia.org/wiki/Spoofing_attack) and [phishing](https://en.wikipedia.org/wiki/Phishing), Citium is a counterintuitively pristine communication environment from the perspectives of Alice and Bob. Bob can always correctly identify the cryptographically bounded message sent from Alice whom he has authenticated from the outset in spite of many other users pretending to be Alice, and Alice can always be certain that only the one true Bob can correctly decrypt the messages she sends in spite of many other users pretending to be Bob trying to decrypt the message.
 
+### 下一章 / NEXT CHAPTER
+[**分身馬甲帳號**](../sockpuppetry)<br>
+[**Sockpuppetry**](../sockpuppetry)
 {: .myButton}
-{: style="text-align: center;"}
-**下一章** | **NEXT CHAPTER**<br>[**分身馬甲帳號**<br>**Sockpuppetry**](../sockpuppetry)
