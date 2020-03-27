@@ -14,6 +14,7 @@ googlefonts: ["Roboto Condensed"]
 {: style="color: grey; font-size: 100%;"}
 :bomb:: To further maximize deniability, all data have limited life expectancy on Citium nodes. For example, message digests sitting on a mobile node are set to **self-destruct countdown** of 24 hours.
 
+### 下一章 / NEXT CHAPTER
+[**機密和完整性**](../confidentiality)<br>
+[**Confidentiality & Integrity**](../confidentiality)
 {: .myButton}
-{: style="text-align: center;"}
-**下一章** | **NEXT CHAPTER**<br>[**機密和完整性**<br>**Confidentiality**<br>**Integrity**](../confidentiality)
