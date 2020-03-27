@@ -33,6 +33,7 @@ navbar-links:
   產品服務支持<br>Support:
     - Windows版本安裝<br>Windows Version: "windows"
     - 抵值續時辦法<br>Payment: "payment_method"
+    - 聯繫我們<br>Contact Us: "contact_us"
   西蒂姆<br>Citium:
     - 什麼是西蒂姆？<br>What is Citium?: "what_is_citium"
     - 可抵賴可推诿<br>Deniability: "deniability"
@@ -42,7 +43,7 @@ navbar-links:
     - 機密和完整性<br>Conf. & Inty.: "confidentiality"
     - 可用性<br>Availability: "availability"
     - 不可靠的中心化<br>Fallibility: "fallible_providers"
-  聯繫我們<br>Contact Us: "contact_us"
+
 
 #    - Learn markdown: "http://www.markdowntutorial.com/"
 #  Author's home: "http://deanattali.com"
