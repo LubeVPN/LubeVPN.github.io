@@ -39,7 +39,7 @@ navbar-links:
     - 無需准入或許可<br>Permissionless: "permissionless"
     - 身份驗證性悖論<br>Authentication: "authentication"
     - 分身馬甲帳號<br>Sockpuppetry: "sockpuppetry"
-    - 機密和完整性<br>Confidentiality<br>Integrity: "confidentiality"
+    - 機密和完整性<br>Conf. & Inty.: "confidentiality"
     - 可用性<br>Availability: "availability"
     - 不可靠的中心化<br>Fallibility: "fallible_providers"
   聯繫我們<br>Contact Us: "contact_us"
