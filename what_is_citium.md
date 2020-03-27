@@ -50,4 +50,6 @@ Information security, sometimes shortened to InfoSec, is the practice of protect
 Here are a list of InfoSec features that any two users (e.g. Alice & Bob) who have established trusted relationship between themselves on Citium may enjoy:
 
 {: .myButton}
-[**下一章** | **NEXT CHAPTER**<br>**可推诿性和不可否認性<br>Deniability & Non-Repudiation**](../deniability)
+**下一章** | **NEXT CHAPTER**<br>
+**可推诿性和不可否認性**<br>
+[**Deniability & Non-Repudiation**](../deniability)
