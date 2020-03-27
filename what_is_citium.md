@@ -27,7 +27,7 @@ Whatever power a stakeholder holds may adversely affect someone; therefore, Citi
 ## 資訊安全功能<br>InfoSec Features
 
 信息安全（有時簡稱為InfoSec）是一種通過減輕信息風險來保護信息的應用功能實踐。 它是信息風險管理的一部分。 它通常涉及防止或至少減少未經授權/不當訪問，使用，披露、破壞、刪除/銷毀、損壞、修改、檢查、記錄或貶值的可能性，也可能涉及減少事件如果不幸發生後的不利影響，例如「__强制性披露__」 (__force disclosure__) / 「__強制性密鑰披露__」 ([__mandatory key disclosure__](https://en.wikipedia.org/wiki/Key_disclosure_law))。
-<br>
+
 Information security, sometimes shortened to InfoSec, is the practice of protecting information by mitigating information risks. It is part of information risk management. It typically involves preventing or at least reducing the probability of unauthorized/inappropriate access, use, disclosure, disruption, deletion/destruction, corruption, modification, inspection, recording or devaluation, although it may also involve reducing the adverse impacts of incidents (e.g. __force disclosure__ / [__mandatory key disclosure__](https://en.wikipedia.org/wiki/Key_disclosure_law)).
 
 | :closed_lock_with_key: | 資訊安全功能<br>InfoSec | 風險與威脅<br>Risk & Threat |
@@ -47,7 +47,7 @@ Information security, sometimes shortened to InfoSec, is the practice of protect
 <br>
 :closed_lock_with_key:: ✓ available feature; ✗ unavailable feature
 
-**下一章** | **NEXT CHAPTER**
+**下一章** / **NEXT CHAPTER**
 
 [**可推诿性和不可否認性**](../deniability)<br>
 [**Deniability & Non-Repudiation**](../deniability)
