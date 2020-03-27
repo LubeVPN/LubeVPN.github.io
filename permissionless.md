@@ -12,7 +12,9 @@ The main benefit of Citium being a free, open-source, fully decentralized, [perm
 
 ### 授權性 | Authorization ✓
 
-Note on the authorization mechanism of Citium. Since Citium adopt a __network-wide peer-to-peer (P2P) relationship__, there is no higher or lower privilege to access service. Thus, inforsec exploits, such as [horizontal privilege escalation](https://en.wikipedia.org/wiki/Privilege_escalation#Horizontal) and [vertical privilege escalation](https://en.wikipedia.org/wiki/Privilege_escalation#Vertical) does not exist in Citium.
+西蒂姆（Citium）採取了 **全網P2P關係模型**，所以並沒更高或更低的服務權限之別。每個節點都有同等的權利和義務。所以，訊息安全漏洞，例如是 [橫向權限提升](https://en.wikipedia.org/wiki/Privilege_escalation#Horizontal) 和 [縱向權限提升](https://en.wikipedia.org/wiki/Privilege_escalation#Vertical)，在西蒂姆（Citium）中都不可能存在。
+
+Since Citium adopts a __network-wide peer-to-peer (P2P) relationship model__, there is no higher or lower privilege to access service. Every node is equal in rights and responsibilities. Thus, inforsec exploits, such as [horizontal privilege escalation](https://en.wikipedia.org/wiki/Privilege_escalation#Horizontal) and [vertical privilege escalation](https://en.wikipedia.org/wiki/Privilege_escalation#Vertical), are impossible to exist in Citium.
 
 {: .box-note}
 {: style="color: grey; font-size: 100%;"}
