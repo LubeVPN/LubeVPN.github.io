@@ -59,7 +59,7 @@ hr.small {
 .main-content {
   padding-top: 80px;
 }
-@media only screen and (min-width: 1818px) {
+@media only screen and (min-width: 1097px) {
   .main-content {
     padding-top: 130px;
   }
@@ -101,7 +101,7 @@ img {
   margin-top: 30px;
 }
 
-@media only screen and (min-width: 1818px) {
+@media only screen and (min-width: 1097px) {
   .disqus-comments {
     margin-top: 40px;
   }
@@ -162,7 +162,7 @@ img {
   height: 40px;
 }
 
-@media only screen and (min-width: 1818px) {
+@media only screen and (min-width: 1097px) {
   .navbar-custom {
     padding: 20px 0;
     -webkit-transition: background .5s ease-in-out,padding .5s ease-in-out;
@@ -200,7 +200,7 @@ img {
   display: none;
 }
 
-@media only screen and (min-width: 1818px) {
+@media only screen and (min-width: 1097px) {
   .navbar-custom .avatar-container {
     width: 100px;
     margin-top: -50px;
@@ -247,7 +247,7 @@ img {
     display: block;
   }
 }
-@media only screen and (min-width: 1818px) {
+@media only screen and (min-width: 1097px) {
   .navbar-custom .nav .navlinks-container {
     text-align: center;
   }
@@ -303,7 +303,7 @@ footer .theme-by {
   margin: 10px 0 0;
 }
 
-@media only screen and (min-width: 1818px) {
+@media only screen and (min-width: 1097px) {
   footer {
     padding: 50px 0;
   }
@@ -322,7 +322,7 @@ footer .theme-by {
   border-bottom: 1px solid #eee;
 }
 
-@media only screen and (min-width: 1818px) {
+@media only screen and (min-width: 1097px) {
   .post-preview {
     padding: 35px 0;
   }
@@ -388,7 +388,7 @@ footer .theme-by {
   font-weight: 800;
 }
 
-@media only screen and (min-width: 1818px) {
+@media only screen and (min-width: 1097px) {
   .post-preview .post-title {
     font-size: 36px;
   }
@@ -420,7 +420,7 @@ footer .theme-by {
   margin-bottom: 0;
 }
 
-@media only screen and (min-width: 1818px) {
+@media only screen and (min-width: 1097px) {
   .post-preview .blog-tags {
     margin-top: 10px;
   }
@@ -520,7 +520,7 @@ footer .theme-by {
   bottom: 0;
   display: none;
 }
-@media only screen and (min-width: 1818px) {
+@media only screen and (min-width: 1097px) {
   .intro-header {
     margin-top: 130px;
   }
@@ -609,7 +609,7 @@ footer .theme-by {
   border-radius: 0;
   color: #404040;
 }
-@media only screen and (min-width: 1818px) {
+@media only screen and (min-width: 1097px) {
   .pager li a {
     padding: 15px 25px;
   }
@@ -629,7 +629,7 @@ footer .theme-by {
   margin-top: 0;
 }
 
-@media only screen and (min-width: 1818px) {
+@media only screen and (min-width: 1097px) {
   .pager.blog-pager {
     margin-top: 10px;
   }
