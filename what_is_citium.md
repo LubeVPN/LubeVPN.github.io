@@ -52,4 +52,4 @@ Here are a list of InfoSec features that any two users (e.g. Alice & Bob) who ha
 
 {: .myButton}
 {: style="text-align: center;"}
-**下一章** | **NEXT CHAPTER**<br>[**可推诿性 和 不可否認性**<br>**Deniability & Non-Repudiation**](../deniability)
+**下一章** | **NEXT CHAPTER**<br>[**可推诿性和不可否認性<br>Deniability & Non-Repudiation**](../deniability)
