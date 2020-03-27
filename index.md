@@ -15,7 +15,7 @@ googlefonts: ["Roboto Condensed"]
 
 LubeVPN is proprietorially built based on __an open and fully decentralized technology__: [__Citium__](citium). LubeVPN is a radical departure and upgrade from all the popular VPN systems in the open marketspace. Download and install Citium to start using LubeVPN.
 
-## 安裝與試用<br>Installation & Trial Run
+## 安裝與試用<br>Installation & Trial
 
 《順道VPN》只以口碑相傳，**不供未經口碑介紹的陌生用戶使用**。任何人都必須獲取推薦人的授權才可以開始試用《順道VPN》。
 
