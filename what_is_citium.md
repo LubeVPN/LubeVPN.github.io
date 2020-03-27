@@ -51,5 +51,5 @@ Here are a list of InfoSec features that any two users (e.g. Alice & Bob) who ha
 
 **下一章** | **NEXT CHAPTER**<br>
 **可推诿性和不可否認性**<br>
-{: .myButton}
 [**Deniability & Non-Repudiation**](../deniability)
+{: .myButton}
