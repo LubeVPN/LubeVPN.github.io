@@ -45,12 +45,18 @@ __其他品種的卡__
 ## Cryptocurrency<br>加密電子幣
 順道VPN（LubeVPN）通過國際知名的 Coinbase Commerce 加密幣充值接口和錢包接受抵值。接受幣種有 Bitcoin、Bitcoin Cash、Dai、Ethereum、Litecoin 和 USD Coin。
 
-[LubeVPN 30日續時套餐](https://commerce.coinbase.com/checkout/d3b2abdd-a42d-4636-a020-977df3348813)
+30日加密電子幣抵值購買鏈接：
+
+[30日續時套餐](https://commerce.coinbase.com/checkout/d3b2abdd-a42d-4636-a020-977df3348813)
 {: .myButton}
+
+180日加密電子幣抵值購買鏈接：
 
 [LubeVPN 180日續時套餐](https://commerce.coinbase.com/checkout/44e644c9-1704-4c3a-9469-3a9ce073f577
 )
 {: .myButton}
+
+360日加密電子幣抵值購買鏈接：
 
 [LubeVPN 360日續時套餐](https://commerce.coinbase.com/checkout/d3b2abdd-a42d-4636-a020-977df3348813)
 {: .myButton}
