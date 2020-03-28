@@ -42,6 +42,19 @@ __其他品種的卡__
 美食出行 星巴克電子劵抵值
 
 
+## Cryptocurrency<br>加密電子幣
+順道VPN（LubeVPN）通過國際知名的 Coinbase Commerce 加密幣充值接口和錢包接受抵值。接受幣種有 Bitcoin、Bitcoin Cash、Dai、Ethereum、Litecoin 和 USD Coin。
+
+[LubeVPN 30日續時套餐](https://commerce.coinbase.com/checkout/d3b2abdd-a42d-4636-a020-977df3348813)
+{: .myButton}
+
+[LubeVPN 180日續時套餐](https://commerce.coinbase.com/checkout/44e644c9-1704-4c3a-9469-3a9ce073f577
+)
+{: .myButton}
+
+[LubeVPN 360日續時套餐](https://commerce.coinbase.com/checkout/d3b2abdd-a42d-4636-a020-977df3348813)
+{: .myButton}
+
 ## 卡密或卡劵抵值
 
 順道VPN（LubeVPN）用戶選擇三款分別是 __30日__、__180日__、__360日__ 的服務套餐去 __續時__（延長服務週期）。順道VPN 接受中國大陸電子和實體卡劵抵值任何一款 __續時套餐__。
