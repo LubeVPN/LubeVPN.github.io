@@ -79,9 +79,8 @@ LubeVPN is proprietorially built based on __an open and fully decentralized tech
 [30日續時需$12.95 USD抵值](https://commerce.coinbase.com/checkout/d3b2abdd-a42d-4636-a020-977df3348813)
 {: .myButton}
 
-[180日續時需$57.45 USD抵值](https://commerce.coinbase.com/checkout/44e644c9-1704-4c3a-9469-3a9ce073f577
-)
+[180日續時需$57.45 USD抵值](https://commerce.coinbase.com/checkout/44e644c9-1704-4c3a-9469-3a9ce073f577)
 {: .myButton}
 
-[360日續時需$86.15 USD抵值](https://commerce.coinbase.com/checkout/d3b2abdd-a42d-4636-a020-977df3348813)
+[360日續時需$86.15 USD抵值](https://commerce.coinbase.com/checkout/752a5a80-2f06-44e3-954a-d25c10dacf18)
 {: .myButton}
