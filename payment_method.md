@@ -38,17 +38,17 @@ accordion:
 
 用戶先自行選擇一種抵值形式（不允許多種形式混合 **†**），採購足夠額度的抵值商品。採購成功後，請隨時通過西蒂姆（Citium）即時聊天工具[聯絡官方客戶服務](../contact_us)，請求續時使用 順道VPN（LubeVPN）服務。注：順道VPN（LubeVPN）官方客服只經由西蒂姆（Citium）的即時聊天工具提供客戶的咨詢和抵值服務。
 
-## 1. Cryptocurrency<br>1、加密電子幣
+## 1. Cryptocurrency<br>1、加密電子幣抵值
 順道VPN（LubeVPN）通過國際知名的 Coinbase Commerce 加密幣充值接口和錢包接受抵值。接受幣種有 Bitcoin、Bitcoin Cash、Dai、Ethereum、Litecoin 和 USD Coin。請按您希望抵值的週期點擊進入 Coinbase Commerce 進行交易。完成後，[聯繫客服](../contact_us)。
 
-[順道VPN（LubeVPN）30日抵值續時套餐](https://commerce.coinbase.com/checkout/d3b2abdd-a42d-4636-a020-977df3348813)
+[順道VPN：30日抵值續時套餐](https://commerce.coinbase.com/checkout/d3b2abdd-a42d-4636-a020-977df3348813)
 {: .myButton}
 
-[順道VPN（LubeVPN）180日抵值續時套餐](https://commerce.coinbase.com/checkout/44e644c9-1704-4c3a-9469-3a9ce073f577
+[順道VPN：180日抵值續時套餐](https://commerce.coinbase.com/checkout/44e644c9-1704-4c3a-9469-3a9ce073f577
 )
 {: .myButton}
 
-[順道VPN（LubeVPN）360日抵值續時套餐](https://commerce.coinbase.com/checkout/d3b2abdd-a42d-4636-a020-977df3348813)
+[順道VPN：360日抵值續時套餐](https://commerce.coinbase.com/checkout/d3b2abdd-a42d-4636-a020-977df3348813)
 {: .myButton}
 
 ## Card Redemption<br>卡密或卡劵抵值
@@ -81,7 +81,7 @@ __加油充值卡__
 __其他品種的卡__
 美食出行 星巴克電子劵抵值
 
-## 2. Virtual Card Redemption<br>2、卡密付費舉例說明
+## 2. Virtual Card<br>2、卡密抵值舉例說明
 
 用戶有多種續時抵值形式供選擇，如果用戶選擇了虛擬卡卡密的抵值形式，而又比方說，當中選擇了購買虛擬电信卡，採購虛擬電信卡「卡密」的辦法，根據不同省市可能存在些許差異，但是購買「卡密」方式大體相同，大致分三步，如下：
 
@@ -89,7 +89,7 @@ __其他品種的卡__
 
 如果還有什麼搞不清楚，你可以隨時通過西蒂姆（Citium）即時聊天工具[聯絡官方客戶服務咨詢](../contact_us)。
 
-## 3. Physical Card Redemption<br>3、實體卡抵值 :mailbox:
+## 3. Physical Card<br>3、實體卡抵值 :mailbox:
 
 實體卡抵值請將用戶名及實體卡以快遞或郵政寄至以下地址:
 
