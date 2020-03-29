@@ -6,13 +6,25 @@ subtitle: Deniability ✓<br>Non-Repudiation ✗
 googlefonts: ["Roboto Condensed"]
 ---
 
-某些中心化通信系統被稱為 *不可否認的*，因為其用戶的目標是系統化地讓其溝通方承擔法律責任。西蒂姆（Citium）不是為這種目標而設計的，而是提供了完全相反的信息安全功能：**可推諉性**。「可推諉性」是針對[**強制披露**](https://en.wikipedia.org/wiki/Key_disclosure_law)和其後患的最後一道防線。不公開的、私下的電子通訊一直是個人和企業通訊中的關注點。發件人（或預期收件人）需要能夠[合理地推諉](https://zh.wikipedia.org/wiki/%E5%90%88%E7%90%86%E6%8E%A8%E8%AF%BF)他發送過的訊息（或，是被指定的預期收件人）。西蒂姆（Citium）中的「可推諉性」是通過三個訊息安全機制實現的：
+某些中心化通訊系統被稱為 *不可否認的*，因為其用戶的目標是系統化地讓其溝通方承擔法律責任。西蒂姆（Citium）不是為這種目標而設計的，而是提供了完全相反的信息安全功能：**可推諉性**。「可推諉性」是針對[**強制披露**](https://en.wikipedia.org/wiki/Key_disclosure_law)和其後患的最後一道防線。
+
+發件人需要能夠[合理地推諉](https://zh.wikipedia.org/wiki/%E5%90%88%E7%90%86%E6%8E%A8%E8%AF%BF)他發送過的訊息；預期收件人需要能夠[合理地推諉](https://zh.wikipedia.org/wiki/%E5%90%88%E7%90%86%E6%8E%A8%E8%AF%BF)他是被指定的預期收件人。
+
+西蒂姆（Citium）去中心化系統協議背後的主要動機是為對話參與者提供可推諉的身份驗證，同時保持對話的機密性，例如現實生活中的私人對話，或新聞採購中的記錄。 與之相反的是，某些中心化通訊系統卻輸出可以稍後用作通訊事件和參與者身份的可驗證記錄。
+
+西蒂姆（Citium）中的「可推諉性」是通過三個訊息安全機制實現的：
 
 1. **無需准入許可**
 2. **可推諉驗證**
 3. **分身馬甲帳號**
 
-Some centralized communication systems are said to be *non-repudiable* because their users purposely want to systematically hold their communicating parties legally accountable. Citium does not cater for that purpose. In fact, Citium offers the complete opposite: **deniability**, which is the last line of defense against [**forced disclosure**](https://en.wikipedia.org/wiki/Key_disclosure_law) and its repercussions. Off-the-record electronic communication has always been a concern in personal and business communications. The sender (or the intended recipient) of a message want to [plausibly deny](https://en.wikipedia.org/wiki/Plausible_deniability) that he or she has sent that message (or being targeted as the intended recipient). Deniability in Citium is achieved through three InfoSec mechanisms:
+Some centralized communication systems are said to be *non-repudiable* because their users purposely want to systematically hold their communicating parties legally accountable. Citium does not cater for that purpose. In fact, Citium offers the complete opposite: **deniability**, which is the last line of defense against [**forced disclosure**](https://en.wikipedia.org/wiki/Key_disclosure_law) and its repercussions.
+
+The sender of a message want to [plausibly deny](https://en.wikipedia.org/wiki/Plausible_deniability) that he or she has sent that message. Deniability in Citium is achieved through three InfoSec mechanisms; the intended recipient of a message want to [plausibly deny](https://en.wikipedia.org/wiki/Plausible_deniability) that he or she has received that message.
+
+The primary motivation behind Citium decentralized system protocol was providing deniable authentication for the conversation participants while keeping conversations confidential, like a private conversation in real life, or off the record in journalism sourcing. This is in contrast with some other centralized communication systems that produce output which can be later used as a verifiable record of the communication event and the identities of the participants.
+
+Deniability in Citium is achieved through three InfoSec mechanisms:
 
 1. **Permissionless**
 2. **Deniable Authentication**
