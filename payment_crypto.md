@@ -2,7 +2,7 @@
 layout: page
 title: 續時抵值：加密幣
 subtitle: Payment by Crypto
-bigimg: /img/ring.jpg
+# bigimg: /img/ring.jpg
 googlefonts: ["Roboto Condensed"]
 ---
 

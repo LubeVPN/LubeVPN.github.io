@@ -1,8 +1,8 @@
 ---
 layout: page
-title: 續時抵值辦法
-subtitle: Payment Methods
-bigimg: /img/ring.jpg
+title: 續時抵值：卡密/卡劵
+subtitle: Payment by Cards
+# bigimg: /img/ring.jpg
 googlefonts: ["Roboto Condensed"]
 
 accordion:
