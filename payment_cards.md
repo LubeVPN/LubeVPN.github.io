@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 抵值續時辦法
+title: 續時抵值辦法
 subtitle: Payment Methods
 bigimg: /img/ring.jpg
 googlefonts: ["Roboto Condensed"]
