@@ -32,7 +32,8 @@ navbar-links:
     - 絕不寫Log政策<br>No Log Policy: "no_log_policy"
   產品服務支持<br>Support:
     - Windows版本安裝<br>Windows Version: "windows"
-    - 抵值續時辦法<br>Payment: "payment_method"
+    - 抵值續時：加密幣<br>Payment by Crypto: "payment_crypto"
+    - 抵值續時：卡密/卡劵<br>Payment by Cards: "payment_crypto"
     - 聯繫我們<br>Contact Us: "contact_us"
   西蒂姆P2P網絡<br>Citium:
     - 怎用西蒂姆？<br>Citium's for?: "citium_what_for"
