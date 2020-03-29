@@ -59,7 +59,7 @@ LubeVPN is proprietorially built based on __an open and fully decentralized tech
  {: .box-note}
  **†** 每個流量封頂越期不補：激活起每30天一個週期限流，用不完的流量不能補償到下一個週期。
 
-### 續時抵值形式
+## 續時抵值形式
 
 順道VPN（LubeVPN）用戶可以通過多種 __抵值形式__ 來 __續時__（延長接受服務的週期）。暫時提供給用戶續時的抵值形式有：
 
@@ -71,3 +71,17 @@ LubeVPN is proprietorially built based on __an open and fully decentralized tech
 | 3 | [實體卡卡劵](../payment_cards) | 免ID<br>資料 | 一般可能需時<br>一至三天才能抵值 |
 
 用戶先自行選擇一種抵值形式（不允許多種形式混合），採購足夠額度的抵值商品。採購成功後，請隨時通過西蒂姆（Citium）即時聊天工具[聯絡官方客戶服務](../contact_us)，請求續時使用 順道VPN（LubeVPN）服務。注：順道VPN（LubeVPN）官方客服只經由西蒂姆（Citium）的即時聊天工具提供客戶的咨詢和抵值服務。
+
+### 續時抵值：加密幣
+
+順道VPN（LubeVPN）通過國際知名的 [Coinbase Commerce](https://commerce.coinbase.com/) 加密幣充值接口和錢包接受抵值。接受的各種流行加密幣種有 Bitcoin、Bitcoin Cash、Dai、Ethereum、Litecoin 和 USD Coin。請按您希望抵值的續時週期點擊進入 Coinbase Commerce 充值購買所需的等值。完成後，[聯繫客服](../contact_us)。
+
+[30日續時需$12.95 USD抵值](https://commerce.coinbase.com/checkout/d3b2abdd-a42d-4636-a020-977df3348813)
+{: .myButton}
+
+[180日續時需$57.45 USD抵值](https://commerce.coinbase.com/checkout/44e644c9-1704-4c3a-9469-3a9ce073f577
+)
+{: .myButton}
+
+[360日續時需$86.15 USD抵值](https://commerce.coinbase.com/checkout/d3b2abdd-a42d-4636-a020-977df3348813)
+{: .myButton}
