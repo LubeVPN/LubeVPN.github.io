@@ -29,7 +29,7 @@ googlefonts: ["Roboto Condensed"]
 
 用戶先自行選擇一種抵值形式（不允許多種形式混合），採購足夠額度的抵值商品。採購成功後，請隨時通過西蒂姆（Citium）即時聊天工具[聯絡官方客戶服務](../contact_us)，請求續時使用 順道VPN（LubeVPN）服務。注：順道VPN（LubeVPN）官方客服只經由西蒂姆（Citium）的即時聊天工具提供客戶的咨詢和抵值服務。
 
-## 1. Cryptocurrency<br>1、加密電子幣抵值
+## 1. Cryptocurrency<br>1. 加密電子幣抵值
 順道VPN（LubeVPN）通過國際知名的 [Coinbase Commerce](https://commerce.coinbase.com/) 加密幣充值接口和錢包接受抵值。接受的各種流行加密幣種有 Bitcoin、Bitcoin Cash、Dai、Ethereum、Litecoin 和 USD Coin。請按您希望抵值的續時週期點擊進入 Coinbase Commerce 充值購買所需的等值。完成後，[聯繫客服](../contact_us)。
 
 [30日續時需$12.95 USD抵值](https://commerce.coinbase.com/checkout/d3b2abdd-a42d-4636-a020-977df3348813)
