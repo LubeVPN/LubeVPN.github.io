@@ -20,15 +20,15 @@ googlefonts: ["Roboto Condensed"]
 
 Some centralized communication systems are said to be *non-repudiable* because their users purposely want to systematically hold their communicating parties legally accountable. Citium does not cater for that purpose. In fact, Citium offers the complete opposite: **deniability**, which is the last line of defense against [**forced disclosure**](https://en.wikipedia.org/wiki/Key_disclosure_law) and its repercussions.
 
-The sender of a message want to [plausibly deny](https://en.wikipedia.org/wiki/Plausible_deniability) that he or she has sent that message. Deniability in Citium is achieved through three InfoSec mechanisms; the intended recipient of a message want to [plausibly deny](https://en.wikipedia.org/wiki/Plausible_deniability) that he or she has received that message.
+The sender of a message want to [plausibly deny](https://en.wikipedia.org/wiki/Plausible_deniability) that he or she has sent that message; the intended recipient of a message want to [plausibly deny](https://en.wikipedia.org/wiki/Plausible_deniability) that he or she has received that message.
 
-The primary motivation behind Citium decentralized system protocol was providing deniable authentication for the conversation participants while keeping conversations confidential, like a private conversation in real life, or off the record in journalism sourcing. This is in contrast with some other centralized communication systems that produce output which can be later used as a verifiable record of the communication event and the identities of the participants.
+The primary motivation behind Citium decentralized system protocol is to provide deniable authentication for the conversation participants while keeping conversations confidential, like a private conversation in real life, or off the record in journalism sourcing. This is in contrast with some other centralized communication systems that produce output which can be later used as a verifiable record of the communication event and the identities of the participants.
 
 Deniability in Citium is achieved through three InfoSec mechanisms:
 
 1. **Permissionless**
 2. **Deniable Authentication**
-3. **Sockpuppetry**
+3. **Sockpuppetry**<br>
 
 {: .box-note}
 {: style="color: grey; font-size: 100%;"}
