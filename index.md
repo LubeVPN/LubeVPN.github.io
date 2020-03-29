@@ -66,7 +66,7 @@ LubeVPN is proprietorially built based on __an open and fully decentralized tech
 {: style="color: DarkRed; font-size: 80%;"}
 | # | 抵值形式 | 優點 | 缺點 |
 |:--:|:--:|:--|:--|
-| 1 | [加密電子幣](../payment_crypto) | 快捷<br>匿名 | 用戶需懂操作<br>加密電子貨幣交易 |
+| 1 | [加密電子幣] | 快捷<br>匿名 | 用戶需懂操作<br>加密電子貨幣交易 |
 | 2 | [虛擬卡卡密](../payment_cards) | 快捷<br>簡便 | 卡銷售方可能<br>需索個人身份資料 |
 | 3 | [實體卡卡劵](../payment_cards) | 免ID<br>資料 | 一般可能需時<br>一至三天才能抵值 |
 
