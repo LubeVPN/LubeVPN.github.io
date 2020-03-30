@@ -28,7 +28,7 @@ Deniability in Citium is achieved through three InfoSec mechanisms:
 
 1. **Permissionless**
 2. **Deniable Authentication**
-3. **Sockpuppetry**<br>
+3. **Sockpuppetry**<br><br><br>
 
 {: .box-note}
 {: style="color: grey; font-size: 100%;"}
