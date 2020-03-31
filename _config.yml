@@ -36,7 +36,7 @@ navbar-links:
     - 續時抵值：卡密卡劵<br>Payment by Cards: "payment_cards"
     - 聯繫我們<br>Contact Us: "contact_us"
   西蒂姆P2P網絡<br>Citium:
-    - 怎用西蒂姆？<br>Citium's for?: "citium_what_for"
+    - 為何用西蒂姆？<br>Citium's for?: "citium_what_for"
     - 可抵賴可推诿<br>Deniability: "deniability"
     - 無需准入或許可<br>Permissionless: "permissionless"
     - 身份驗證性悖論<br>Authentication: "authentication"

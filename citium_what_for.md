@@ -1,7 +1,7 @@
 ---
 layout: page
-title: 什麼是西蒂姆？
-subtitle: What is Citium?
+title: 為何用西蒂姆？
+subtitle: Why use Citium?
 bigimg: /img/web.jpg
 googlefonts: ["Roboto Condensed"]
 ---
