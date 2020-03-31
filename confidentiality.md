@@ -6,7 +6,7 @@ subtitle: Confidentiality ✓<br>Integrity ✓
 googlefonts: ["Roboto Condensed"]
 ---
 
-傳統即時通訊系統（IMS）是基於中心化身份驗證和授權機制去確保信息安全的，可惜任何中央化的系統都無可避免地需要承擔[數據洩露](https://en.wikipedia.org/wiki/Data_breach)的風險。（[詳述](../ fallible_providers)）
+傳統即時通訊系統（IMS）是基於中心化身份驗證和授權機制去確保信息安全的，可惜任何中央化的系統都無可避免地需要承擔[數據洩露](https://en.wikipedia.org/wiki/Data_breach)的風險。（[詳述](../fallible_providers)）
 
 對比起來，西蒂姆（Citium）是由眾多節點網絡鋪墊出來的去中心化系統，在它的基礎上面搭建的IMS就不再需要承擔這種風險。舉例，假設兩個用戶試圖在西蒂姆（Citium）通訊。發件人是 Alice，預期收件人是 Bob。第三者是無法正確地解密得到 Alice 給 Bob 的訊息的，因為西蒂姆（Citium）用了以下的安全機制：
 
