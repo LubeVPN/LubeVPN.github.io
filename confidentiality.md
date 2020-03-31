@@ -11,7 +11,7 @@ googlefonts: ["Roboto Condensed"]
 對比起來，西蒂姆（Citium）是由眾多節點網絡鋪墊出來的去中心化系統，在它的基礎上面搭建的IMS就不再需要承擔這種風險。舉例，假設兩個用戶試圖在西蒂姆（Citium）通訊。發件人是 Alice，預期收件人是 Bob。第三者是無法正確地解密得到 Alice 給 Bob 的訊息的，因為西蒂姆（Citium）用了以下的安全機制：
 
 1. [**端到端加密（E2EE）**](https://zh.wikipedia.org/zh-tw/%E7%AB%AF%E5%88%B0%E7%AB%AF%E5%8A%A0%E5%AF%86)
-2. [**非對稱式密碼學**](https://zh.wikipedia.org/wiki/%E5%85%AC%E5%BC%80%E5%AF%86%E9%92%A5%E5%8A%A0%E5%AF%86)。
+2. [**非對稱式密碼學**](https://zh.wikipedia.org/wiki/%E5%85%AC%E5%BC%80%E5%AF%86%E9%92%A5%E5%8A%A0%E5%AF%86)
 3. __無差別網樹多點傳送（IMTM）消息摘要傳遞網路（MDDN）__
 
 Conventional Instant Messenger System (IMS) is built on centralized authentication and authorization regime. Unfortunately, any centralized system is inherently susceptible to [data breach](https://en.wikipedia.org/wiki/Data_breach). ([More info here.](../fallible_providers))
