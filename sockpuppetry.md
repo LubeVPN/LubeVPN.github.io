@@ -2,7 +2,7 @@
 layout: page
 title: 分身馬甲帳號
 subtitle: Sockpuppetry
-# bigimg: /img/web.jpg
+bigimg: /img/crowded.jpg
 googlefonts: ["Roboto Condensed"]
 ---
 
