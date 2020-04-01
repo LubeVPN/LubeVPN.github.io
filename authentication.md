@@ -24,19 +24,24 @@ In order for Alice and Bob to become Contacts, one has to initiate an out-of-ban
 {"MSG":"Hi, I'm Alice. This is a Friend Invitation Code (FIC). it is valid for 24 hours. ","APPNAME":"SEMAIL","NICKNAME":"e99bbbe885a6e6b8ace8a9a6","TID":"322","HOST":"68747470733a2f2f7777772e70616e676f3132332e6f7267","MAJOR":"03c86ebf41b02f379823173aafd7bd873efb9b59e06375dac7793342db8b3d9ee7","MINOR":"02307396c7f6ac576544991285b016283fbe2e08f5013f41cf984734ed2bfc814e","SIGNATURE":"304402204ddf9ae16a14dfc70c94c83eb6735419e4e8eb2019853c54336c9af84d425c480220394b6181eccb2df743f78f848f6f2ba9f153e6d5b2a3322e646f4f320666c85531"}
 ```
 
-從西蒂姆（Citium）的聯絡人系統邏輯來說，Alice 可以給 Bob，也可以給其他人例如 Charlie 和 Chuck。至於該 FIC 由 Bob、Charlie 和/或 Chuck 使用了，只有 Alice 知道，但 Bob、Charlie 和 Chuck 都不知道的。換言之， Alice 甚至可以把該 FIC 公開發佈過，相當於任何人都可以發訊給 Alice，所以無人能證明到底哪個信息是 Alice 真心願意接收的信息。
+從西蒂姆（Citium）的聯絡人系統邏輯來說，Alice 可以給 Bob，也可以給其他人例如 Charlie 和 Chuck。至於該 FIC 由 Bob、Charlie 和/或 Chuck 使用了，只有 Alice 知道，但 Bob、Charlie 和 Chuck 都不知道的。
 
-Alice can give it to Bob, or to others such as Charlie and Chuck. As for the FIC used by Bob, Charlie, and / or Chuck, only Alice knows, but neither Bob, Charlie, or Chuck knows. In other words, Alice can send the FIC to countless people, and anyone can send messages to Alice, so no one can prove which information Alice really wants to receive, because if Alice has publicly disclosed the FIC, it means a lot Anyone can leave a message for her, not in him
+In the Citium Contacts mechanism, Alice can send the FIC only to Bob but she can also send it to multiple persons, such as Charlie and Chuck. Only Alice herself knows if it is Bob being the only one who have received the FIC or not.
 
-| 聯絡人發起人<br>Contacts Initiator | 聯絡人應邀<br>Contacts Invitee |
+| 聯絡發起人<br>Contacts Initiator | 應邀聯絡人<br>Contacts Invitee |
 | Alice | Bob |
 | Alice | Charlie |
 | Alice | Chuck |
+| Alice | 隨機陌生人D<br>a random person D |
+| Alice | 隨機陌生人E<br>a random person E |
+| Alice | 隨機陌生人F<br>a random person F |
 | Alice | ... |
 | Alice | ... |
 | Alice | ... |
 
+換言之， Alice 甚至可能把該 FIC 公開發佈過，相當於任何人都可以發訊給 Alice，所以無人能證明她的聯絡人中哪位是 Alice 自始至終都認識的，而不是一些隨機陌生人試圖留言給她。
 
+In other words, Alice could have publicly display the FIC, so that anyone could have it, and no one could prove irrefutably that which of her Contacts were someone that she have known personally instead of some random person trying to leave her messages. 
 
 
 
