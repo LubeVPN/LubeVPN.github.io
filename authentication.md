@@ -1,7 +1,7 @@
 ---
 layout: page
-title: 身份驗證性悖論
-subtitle: Authentication ✓
+title: 可推諉身份驗證性
+subtitle: Deniable Authentication ✓
 # bigimg: /img/web.jpg
 googlefonts: ["Roboto Condensed"]
 ---
