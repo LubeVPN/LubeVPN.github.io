@@ -39,9 +39,9 @@ In the Citium Contacts mechanism, Alice can send the FIC only to Bob but she can
 | Alice | ... |
 | Alice | ... |
 
-換言之， Alice 甚至可能把該 FIC 公開發佈過，相當於任何人都可以發訊給 Alice，所以無人能證明她的聯絡人中哪位是 Alice 自始至終都認識的，而不是一些隨機陌生人試圖留言給她。
+換言之， Alice 甚至可能把該 FIC 公開發佈過，相當於任何人都可以發訊給 Alice，所以無人能證明她的聯絡人中哪位是 Alice 自始至終都認識的，而不是一些隨機陌生人試圖留言給她。如此一來，Alice 便可以[合理地推諉](https://zh.wikipedia.org/wiki/%E5%90%88%E7%90%86%E6%8E%A8%E8%AF%BF)她與任何信息的關係。
 
-In other words, Alice could have publicly display the FIC, so that anyone could have it, and no one could prove irrefutably that which of her Contacts were someone that she have known personally instead of some random person trying to leave her messages. 
+In other words, Alice could have publicly display the FIC, so that anyone could have it, and no one could prove irrefutably that which of her Contacts were someone that she have known personally instead of some random person trying to leave her messages. Therefore, Alice can [plausibly deny](https://en.wikipedia.org/wiki/Plausible_deniability) her relationship with any message.
 
 
 
