@@ -20,7 +20,18 @@ Despite what has just been said, the traditional sense of user authentication (i
 
 In order for Alice and Bob to become Contacts, one has to initiate an out-of-band key authentication/verification (OOBA). Assuming Alice initiates the OOBA with Bob, she has to send Bob a Friend Invitation Code (FIC), which looks like this:
 
->{"MSG":"Hi, I'm Alice. This is a Friend Invitation Code (FIC). it is valid for 24 hours. ","APPNAME":"SEMAIL","NICKNAME":"e99bbbe885a6e6b8ace8a9a6","TID":"322","HOST":"68747470733a2f2f7777772e70616e676f3132332e6f7267","MAJOR":"03c86ebf41b02f379823173aafd7bd873efb9b59e06375dac7793342db8b3d9ee7","MINOR":"02307396c7f6ac576544991285b016283fbe2e08f5013f41cf984734ed2bfc814e","SIGNATURE":"304402204ddf9ae16a14dfc70c94c83eb6735419e4e8eb2019853c54336c9af84d425c480220394b6181eccb2df743f78f848f6f2ba9f153e6d5b2a3322e646f4f320666c85531"}
+```python
+{"MSG":"Hi, I'm Alice. This is a Friend Invitation Code (FIC). it is valid for 24 hours. ","APPNAME":"SEMAIL","NICKNAME":"e99bbbe885a6e6b8ace8a9a6","TID":"322","HOST":"68747470733a2f2f7777772e70616e676f3132332e6f7267","MAJOR":"03c86ebf41b02f379823173aafd7bd873efb9b59e06375dac7793342db8b3d9ee7","MINOR":"02307396c7f6ac576544991285b016283fbe2e08f5013f41cf984734ed2bfc814e","SIGNATURE":"304402204ddf9ae16a14dfc70c94c83eb6735419e4e8eb2019853c54336c9af84d425c480220394b6181eccb2df743f78f848f6f2ba9f153e6d5b2a3322e646f4f320666c85531"}
+```
+
+```javascript
+{"MSG":"Hi, I'm Alice. This is a Friend Invitation Code (FIC). it is valid for 24 hours. ","APPNAME":"SEMAIL","NICKNAME":"e99bbbe885a6e6b8ace8a9a6","TID":"322","HOST":"68747470733a2f2f7777772e70616e676f3132332e6f7267","MAJOR":"03c86ebf41b02f379823173aafd7bd873efb9b59e06375dac7793342db8b3d9ee7","MINOR":"02307396c7f6ac576544991285b016283fbe2e08f5013f41cf984734ed2bfc814e","SIGNATURE":"304402204ddf9ae16a14dfc70c94c83eb6735419e4e8eb2019853c54336c9af84d425c480220394b6181eccb2df743f78f848f6f2ba9f153e6d5b2a3322e646f4f320666c85531"}
+```
+
+```json
+{"MSG":"Hi, I'm Alice. This is a Friend Invitation Code (FIC). it is valid for 24 hours. ","APPNAME":"SEMAIL","NICKNAME":"e99bbbe885a6e6b8ace8a9a6","TID":"322","HOST":"68747470733a2f2f7777772e70616e676f3132332e6f7267","MAJOR":"03c86ebf41b02f379823173aafd7bd873efb9b59e06375dac7793342db8b3d9ee7","MINOR":"02307396c7f6ac576544991285b016283fbe2e08f5013f41cf984734ed2bfc814e","SIGNATURE":"304402204ddf9ae16a14dfc70c94c83eb6735419e4e8eb2019853c54336c9af84d425c480220394b6181eccb2df743f78f848f6f2ba9f153e6d5b2a3322e646f4f320666c85531"}
+```
+
 
 從西蒂姆（Citium）的聯絡人系統邏輯來說，Alice 可以給 Bob，也可以給其他人例如 Charlie 和 Chuck。至於該 FIC 由 Bob、Charlie 和/或 Chuck 使用了，只有 Alice 知道，但 Bob、Charlie 和 Chuck 都不知道的。換言之， Alice 可以把該 FIC 發過給無數人，而任何人都可以發訊給 Alice，所以無人能證明到底哪個信息是 Alice 真心願意接收的信息，因為假如 Alice 曾經公開過該 FIC，則說明很多人都可以留言給她這個，並不在他
 
