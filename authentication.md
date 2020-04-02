@@ -28,7 +28,9 @@ In order for Alice and Bob to become Contacts, one has to initiate an out-of-ban
 
 **MSG** is a friendly readable text for anyone who sees this message to know what it about. **APPNAME** is "SEMAIL" by default with is the marker that signals compatibility with other services that use Safe Data Transfer Protocol (SDTP). **NICKNAME** is the ciphertext of the nickname that Alice wants to be known by whoever adds her through this FIC. **TID** is Alice's corresponding identifier issued by her service node. **HOST** is the cyphertext of the host or IP address of Alice's service node. **MAJOR** and **MINOR** are the two public keys. **MAJOR** the service node to authenticate Alice, and **MINOR** is used to authorize others to post her messages. **SIGNATURE** is the digital signature for all the above information to ensure their integrity.
 
-從西蒂姆（Citium）的聯絡人機制來說，Alice 可以給 Bob，也可以給其他人例如 Charlie 和 Chuck。至於該 FIC 由 Bob、Charlie 和/或 Chuck 使用了，只有 Alice 知道，但 Bob、Charlie 和 Chuck 都不知道的。換言之， Alice 甚至可能把該 FIC 公開發佈過，相當於任何人都可以獲取該 FIC 然後留言給 Alice。
+### 可推諉性<br>Deniability
+
+從西蒂姆（Citium）的聯絡人機制來說，Alice 可以只把 FIC 發給了 Bob，但她也可以發給其他人的，例如 Charlie 和 Chuck。只有 Alice 她自己才能完全確鑿地知道是否 Bob 一個人接收過 FIC 或其他都有接收過。換言之， Alice 甚至可能曾經把該 FIC 公開發佈過，相當於任何人都可以獲取該 FIC 然後留言給 Alice。
 
 In the Citium Contacts mechanism, Alice can send the FIC not only to Bob but also to other people, such as Charlie and Chuck. Only Alice herself knows for sure if it is Bob being the only one who has received the FIC or not. In other words, Alice could have publicly displayed the FIC, so that anyone could have it and post messages to Alice.
 
@@ -43,9 +45,9 @@ In the Citium Contacts mechanism, Alice can send the FIC not only to Bob but als
 | Alice | ... |
 | Alice | ... |
 
-所以無人能證明她的聯絡人中哪位是 Alice 自始至終都認識的，而不是一些隨機陌生人試圖留言給她。如此一來，Alice 便可以[合理地推諉](https://zh.wikipedia.org/wiki/%E5%90%88%E7%90%86%E6%8E%A8%E8%AF%BF)她與任何信息的關係。
+由此可見，無人能證明她的聯絡人中哪位是 Alice 自始至終都認識的，而不是一些隨機陌生人試圖留言給她。如此一來，Alice 便可以[合理地推諉](https://zh.wikipedia.org/wiki/%E5%90%88%E7%90%86%E6%8E%A8%E8%AF%BF)她與任何信息的關係。
 
-No one could prove irrefutably that which of her Contacts was someone that she has known personally instead of some random person trying to leave her messages. Therefore, Alice can [plausibly deny](https://en.wikipedia.org/wiki/Plausible_deniability) her relationship with any message.
+As you can see, no one could prove irrefutably that which of her Contacts was someone that she has known personally instead of some random person trying to leave her messages. Therefore, Alice can [plausibly deny](https://en.wikipedia.org/wiki/Plausible_deniability) her relationship with any message.
 
 
 
