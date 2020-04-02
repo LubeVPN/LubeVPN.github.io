@@ -10,23 +10,21 @@ googlefonts: ["Roboto Condensed"]
 
 對比起來，西蒂姆（Citium）是由眾多節點網絡鋪墊出來的去中心化系統，在它的基礎上面搭建的IMS就不再需要承擔這種風險。舉例，假設兩個用戶試圖在西蒂姆（Citium）通訊。發件人是 Alice，預期收件人是 Bob。第三者是無法確認得知自己是否已經正確地解密得到 Alice 給 Bob 的訊息的，因為西蒂姆（Citium）用了以下的安全機制：
 
-1. [**非對稱式密碼學**](https://zh.wikipedia.org/wiki/%E5%85%AC%E5%BC%80%E5%AF%86%E9%92%A5%E5%8A%A0%E5%AF%86)
-2. [**門限加密系統**](https://en.wikipedia.org/wiki/Threshold_cryptosystem)
-3. __無差別網樹多點傳送（IMTM）消息摘要傳遞網路（MDDN）__
+1. [**PGP加密**](https://zh.wikipedia.org/zh-tw/PGP)
+2. __無差別網樹多點傳送（IMTM）__[**門限加密系統**](https://en.wikipedia.org/wiki/Threshold_cryptosystem)
 
 Conventional Instant Messenger System (IMS) is built on centralized authentication and authorization regime. Unfortunately, any centralized system is inherently susceptible to [data breach](https://en.wikipedia.org/wiki/Data_breach). ([More info here.](../fallible_providers))
 
 In contract, IMS built on top of Citium, serviced by a network of decentralized nodes, is not at risk. For example, suppose that two users are trying to communicate with each other on Citium. Sender is Alice and the intended recipient is Bob. No third party can know for sure if he or she has been correctly deciphering a message from Alice to Bob because Citium utilizes the following security mechanisms:
 
-1. [**非對稱式密碼學**](https://zh.wikipedia.org/wiki/%E5%85%AC%E5%BC%80%E5%AF%86%E9%92%A5%E5%8A%A0%E5%AF%86)<br>[**Asymmetric (public key) cryptography**](https://en.wikipedia.org/wiki/Public-key_cryptography)
-2. [**Threshold cryptosystem**](https://en.wikipedia.org/wiki/Threshold_cryptosystem)
-3. **indiscriminate mesh-tree multicast (IMTM) message digests delivery network (MDDN)**
+1. [**Pretty Good Privacy (PGP) Encryption**](https://en.wikipedia.org/wiki/Pretty_Good_Privacy)
+2. **indiscriminate mesh-tree multicast (IMTM)** [**threshold cryptosystem**](https://en.wikipedia.org/wiki/Threshold_cryptosystem)
 
-### IMTM-MDDN
+### IMTM門限加密系統<br>IMTM Threshold Cryptosystem
 
-IMTM-HDN 意味著 __消息是被加密算法劃分成多個密鑰__，這些密鑰又通過網狀樹多點傳送、不加選擇地分佈到盡可能多的節點上。存放加密的消息摘要密鑰的西蒂姆（Citium）節點充當收件人（Bob）的「消息摘要傳遞網絡」（HDN）。為了使預期收件人（Bob）解密來自發件人（Alice）的消息，Bob必須獲取指定的私鑰來解密消息。 Bob必須通過 __無差別網樹多點傳送__（IMTM）來盡可能多的節點作請求，直到她收集形成指定的專用密鑰所需的所有的消息摘要密鑰為止。__只有接訊者（Bob）才能將所有消息摘要密鑰重新統一併起來才能生成有效的私鑰，成功解鎖Alice留給她的加密的信息__。
+**IMTM門限加密系統** 意味著 __消息是被加密算法劃分成多個密鑰__，這些密鑰又通過網狀樹多點傳送、不加選擇地分佈到盡可能多的節點上。為了使預期收件人（Bob）解密來自發件人（Alice）的消息，Bob必須獲取指定的私鑰來解密消息。 Bob必須通過 __無差別網樹多點傳送__（IMTM）來盡可能多的節點作請求，直到收集齊全消息摘要密鑰為止。__只有接訊者（Bob）才能將所有消息摘要密鑰重新統一併起來才能生成有效的私鑰，成功解鎖Alice留給她的加密的信息__。
 <br>
-**Indiscriminate mesh-tree multicast** (IMTM) **message digests delivery network** (MDDN) means that __the message is cryptographically split into multiple message digests__, which in turn are distributed indiscriminately to as many nodes as possible by mesh-tree multicasting. The Citium nodes that hold the message digests act as **message digests delivery network** (MDDN) for the intended recipient (Bob). In order for the intended recipient (Bob) to decrypt the message from the sender (Alice), Bob has to obtain the designated private key to decrypt the message. Bob has to make request to as many nodes as he can through **indiscriminate mesh-tree multicast** (IMTM) until he collects all the message digests necessary to form the designated private key. _Only the intended recipient (Bob) can reunite and decrypt all message digests back to the original plaintext_.
+**Indiscriminate mesh-tree multicast (IMTM) threshold cryptosystem** means that __the message digest is cryptographically split into multiple parts__, which in turn are distributed indiscriminately to as many nodes as possible by mesh-tree multicasting. Anyone can decrypt the parts or any combination of the parts by any key but the resulting plaintext will not be the original message unless all parts are decrypted by the right keys. Therefore, in order for the intended recipient (Bob) to correctly decrypt the message from the sender (Alice), Bob has to obtain all parts of the message digest and to decrypt it with the right key. Bob has to make request to as many nodes as he can through **indiscriminate mesh-tree multicast** (IMTM) until he collects all the parts. _Only the intended recipient (Bob) can correctly reunite and decrypt all parts of the message digest_.
 
 {: .box-warning}
 {: style="color: grey; font-size: 80%;"}

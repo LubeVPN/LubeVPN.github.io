@@ -17,11 +17,11 @@ SIPO can enable visitors to visit HTML5-based content while seamlessly hide the 
 
 ## 西蒂姆的世界觀<br>Citium's Worldview
 
-訴諸新穎性和權威性是謬誤的思維。但不幸地，常規的網絡安全一直專注於由自詡的專家和看似值得信賴的管理機構所兜售的更新穎技術。這些技術都屢屢令人失望，歷來有被詳盡記載和被檢討，例如[瑞士Crypto公司的安全漏洞機器](https://en.wikipedia.org/wiki/Crypto_AG#Compromised_machines)，[Skype的竊聽後門](https：//en.wikipedia。 org / wiki / Skype_security＃Eavesdropping_by_design)和[其他臭名昭著的數據洩露](https://en.wikipedia.org/wiki/List_of_data_breaches)。
+訴諸新穎性和權威性是謬誤的思維。但不幸地，常規的網絡安全一直專注於由自詡的專家和看似值得信賴的管理機構所兜售的更新穎技術。這些技術都屢屢令人失望，歷來有被詳盡記載和被檢討，例如[瑞士Crypto公司的安全漏洞機器](https://en.wikipedia.org/wiki/Crypto_AG#Compromised_machines)，[Skype的竊聽後門](https://en.wikipedia.org/wiki/Skype_security#Eavesdropping_by_design)和[其他臭名昭著的數據洩露](https://en.wikipedia.org/wiki/List_of_data_breaches)。
 
 西蒂姆（Citium）與常規的網絡安全辦法形成了鮮明的對比。 西蒂姆（Citium）假定任何中央管理機構或任何「單個權益持份者」（單個用戶節點或單個服務節點）本質上都是邪惡的。單個權益持份者把持任何的權力都可能對某些人產生不利影響，因此，西蒂姆（Citium）剝削了權益持份者傳統來說持有的功能，例如授權的權利，以及持有用戶帳戶ID、密碼和個人信息的權利。
 
-It is fallacious thinking to appeal to novelty and authority. But unfortunately, conventional cybersecurity has been focusing on ever fancier technologies peddled by self-proclaimed experts and seemingly trustworthy governing bodies. Laundry list of disappointments has been documented and reviewed, such as [Swiss Crypto AG's compromised machines](https://en.wikipedia.org/wiki/Crypto_AG#Compromised_machines), [Skype's eavesdropping by design](https://en.wikipedia.org/wiki/Skype_security#Eavesdropping_by_design) and [other infamous data breaches](https://en.wikipedia.org/wiki/List_of_data_breaches).
+It is fallacious thinking to appeal to novelty and authority. But unfortunately, conventional cybersecurity has been focusing on ever fancier technologies peddled by self-proclaimed experts and seemingly trustworthy governing bodies. A laundry list of disappointments has been documented and reviewed, such as [Swiss Crypto AG's compromised machines](https://en.wikipedia.org/wiki/Crypto_AG#Compromised_machines), [Skype's eavesdropping by design](https://en.wikipedia.org/wiki/Skype_security#Eavesdropping_by_design) and [other infamous data breaches](https://en.wikipedia.org/wiki/List_of_data_breaches).
 
 Citium is in stark contrast to the conventional approach. Citium assumes that any single stakeholder (i.e. user node & service node) is evil by nature. Whatever power a stakeholder holds may adversely affect someone; therefore, Citium mutilates the power that is conventionally available to stakeholders, such as the rights to authorize, and to hold users' account ID, password, and personal information.
 
