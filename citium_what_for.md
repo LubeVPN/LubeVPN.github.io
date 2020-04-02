@@ -35,7 +35,7 @@ CIM和SafeMail都使用的通信機制是「安全數據傳輸協議」 [SDTP](h
 
 Citium is inherited from the open-source project [SafeMail](https://github.com/maikejonne/safeemail). Although the Citium Instant Messenger project is fully compatible with SafeMail protocol, we decide to call it Citium Instant Messenger (CIM) instead of Citium Mail because the user interface and the actual usage feel like most of the instant messengers in the marketplace.
 
-The communication mechanism used by both CIM and SafeMail is the "Safe Data Transfer Protocol" [(Safe Data Transfer Protocol)] (https://en.wikiversity.org/zh-tw/SDTP). SDTP dictates that all forms of communication push the same generic notification to the intended recipients. Once notified, the intended recipients are required to retrieve the messages on their own.
+The communication mechanism used by both CIM and SafeMail is the "Safe Data Transfer Protocol" [(Safe Data Transfer Protocol)](https://en.wikiversity.org/zh-tw/SDTP). SDTP dictates that all forms of communication push the same generic notification to the intended recipients. Once notified, the intended recipients are required to retrieve the messages on their own.
 
 Most instant messenger systems are designed that messages are directly pushed onto the client apps of the intended recipients. However, in CIM, push notifications are limited to a generic text reminder (e.g. "You have a new message.") sent to the intended recipients. The intended recipients are required to fetch the messages on their own.
 
