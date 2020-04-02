@@ -47,7 +47,29 @@ In the Citium Contacts mechanism, Alice can send the FIC not only to Bob but als
 
 由此可見，無人能證明她的聯絡人中哪位是 Alice 自始至終都認識的，而不是一些隨機陌生人試圖留言給她。如此一來，Alice 便可以[合理地推諉](https://zh.wikipedia.org/wiki/%E5%90%88%E7%90%86%E6%8E%A8%E8%AF%BF)她與任何信息的關係。
 
-As you can see, no one could prove irrefutably that which of her Contacts was someone that she has known personally instead of some random person trying to leave her messages. Therefore, Alice can [plausibly deny](https://en.wikipedia.org/wiki/Plausible_deniability) her relationship with any message.
+As you can see, no one could prove irrefutably that which of her Contacts was someone that she has known personally instead of some random person trying to post messages to her. Therefore, Alice can [plausibly deny](https://en.wikipedia.org/wiki/Plausible_deniability) her relationship with any message.
+
+{: .box-success}
+Citium IM 原身來自開源項目 [SafeMail](https://github.com/maikejonne/safeemail) 。
+Citium IM 項目完全兼容 SafeMail 但因為應用界面和實時性都都感覺和一般坊間常見的即時聊天工具無差異，所以才稱之為即時聊天系統了，但實際上底層運行的原理不含訊息「推送」（Push）的，也就是說，信息不會被主動推送到預期收件人的客戶端，而是好像傳統電子郵件的客戶端，需要預期收件人去主動索取的。
+Citium IM（SafeMail）採用的通訊機制是「安全數據傳輸協議」[（Safe Data Transfer Protocol）](https://zh.wikiversity.org/zh-tw/SDTP)，SDTP 的特色是借用公開節點去通知預期收件人。而預期收件人則要自己滿大街去找回屬於自己的留言訊息。
+而其 FIC 的 authentication 邏輯做了檢測機制，只要有一個好友接受身份驗證了之後，該 FIC 就作廢了。所以在 Citium 中，大家都可能有看到過有一條「等待對方授權」的信息。該信息代表兩次試圖身份驗證均未成功。如果 Bob 見到了這種情況，有兩種可能：1、Charlie 或 Chuck 使用了；2、網絡出問題了。
+但因為 Ctium 的客戶端代碼開源的，任何持有 Citium IM 客戶端的人都可以修改掉這個一對一的 authentication 限制，包括客戶端和節點代碼都可以任意修改好友身份驗證邏輯。
+逢場作戲
+
+This information can be given to Bob by Alice or by others Charlie and Chuck
+As for who is used (Bob, Charlie or Chuck), Alice knows, but neither Bob, Charlie nor Chuck knows.
+
+Citium IM originally came from the open source project [SafeMail] (https://github.com/maikejonne/safeemail).
+
+The Citium IM project is fully compatible with SafeMail, but because the application interface and real-time feel are no different from those of common live chat tools in general, it is called a live chat system, but the principle of the underlying operation does not include the message "push" (Push), that is, the information will not be actively pushed to the client of the intended recipient, but it is like a traditional email client, which needs the intended recipient to actively request.
+
+The communication mechanism used by Citium IM (SafeMail) is "Safe Data Transfer Protocol" [(Safe Data Transfer Protocol)] (https://en.wikiversity.org/zh-tw/SDTP). The feature of SDTP is to borrow open nodes to Notify the intended recipient. The intended recipients will have to fill the streets to retrieve their own messages.
+
+The FIC's authentication logic has a detection mechanism. As long as a friend accepts the identity verification, the FIC is invalidated. So in Citium, everyone may have seen a message "waiting for authorization from the other party". This message indicates that two attempts to authenticate were unsuccessful. If Bob sees this, there are two possibilities: 1. Charlie or Chuck is used; 2. There is a problem with the network.
+
+But because the client code of Ctium is open source, anyone with a Citium IM client can modify this one-to-one authentication restriction, including the client and node code can modify the friend authentication logic at will.
+
 
 
 

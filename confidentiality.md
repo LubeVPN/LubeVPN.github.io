@@ -6,19 +6,12 @@ subtitle: Confidentiality ✓<br>Integrity ✓
 googlefonts: ["Roboto Condensed"]
 ---
 
-傳統即時通訊系統（IMS）是基於中心化身份驗證和授權機制去確保信息安全的，可惜任何中央化的系統都無可避免地需要承擔[數據洩露](https://en.wikipedia.org/wiki/Data_breach)的風險。（[詳述](../fallible_providers)）
+傳統即時通訊系統（IMS）是基於中心化身份驗證和授權機制去確保信息安全的，可惜任何中央化的系統都無可避免地需要承擔[數據洩露](https://en.wikipedia.org/wiki/Data_breach)的風險。（[詳述](../fallible_providers)）對比起來，西蒂姆（Citium）是由眾多節點網絡鋪墊出來的去中心化系統，在它的基礎上面搭建的IMS就不再需要承擔這種風險。舉例，假設兩個用戶試圖在西蒂姆（Citium）通訊。發件人是 Alice，預期收件人是 Bob。第三者是無法確認得知自己是否已經正確地解密得到 Alice 給 Bob 的訊息的，因為西蒂姆（Citium）用了以下的安全機制：
 
-對比起來，西蒂姆（Citium）是由眾多節點網絡鋪墊出來的去中心化系統，在它的基礎上面搭建的IMS就不再需要承擔這種風險。舉例，假設兩個用戶試圖在西蒂姆（Citium）通訊。發件人是 Alice，預期收件人是 Bob。第三者是無法確認得知自己是否已經正確地解密得到 Alice 給 Bob 的訊息的，因為西蒂姆（Citium）用了以下的安全機制：
+Conventional Instant Messenger System (IMS) is built on centralized authentication and authorization regime. Unfortunately, any centralized system is inherently susceptible to [data breach](https://en.wikipedia.org/wiki/Data_breach). ([More info here.](../fallible_providers)) In contract, IMS built on top of Citium, serviced by a network of decentralized nodes, is not at risk. For example, suppose that two users are trying to communicate with each other on Citium. Sender is Alice and the intended recipient is Bob. No third party can know for sure if he or she has been correctly deciphering a message from Alice to Bob because Citium utilizes the following security mechanisms:
 
-1. [**PGP加密**](https://zh.wikipedia.org/zh-tw/PGP)
-2. __無差別網樹多點傳送（IMTM）__[**門限加密系統**](https://en.wikipedia.org/wiki/Threshold_cryptosystem)
-
-Conventional Instant Messenger System (IMS) is built on centralized authentication and authorization regime. Unfortunately, any centralized system is inherently susceptible to [data breach](https://en.wikipedia.org/wiki/Data_breach). ([More info here.](../fallible_providers))
-
-In contract, IMS built on top of Citium, serviced by a network of decentralized nodes, is not at risk. For example, suppose that two users are trying to communicate with each other on Citium. Sender is Alice and the intended recipient is Bob. No third party can know for sure if he or she has been correctly deciphering a message from Alice to Bob because Citium utilizes the following security mechanisms:
-
-1. [**Pretty Good Privacy (PGP) Encryption**](https://en.wikipedia.org/wiki/Pretty_Good_Privacy)
-2. **indiscriminate mesh-tree multicast (IMTM)** [**threshold cryptosystem**](https://en.wikipedia.org/wiki/Threshold_cryptosystem)
+1. [**Pretty Good Privacy (PGP) Encryption**](https://en.wikipedia.org/wiki/Pretty_Good_Privacy)<br>[**PGP加密**](https://zh.wikipedia.org/zh-tw/PGP)
+2. **indiscriminate mesh-tree multicast (IMTM)** [**threshold cryptosystem**](https://en.wikipedia.org/wiki/Threshold_cryptosystem)<br>__無差別網樹多點傳送（IMTM）__[**門限加密系統**](https://en.wikipedia.org/wiki/Threshold_cryptosystem)
 
 ### IMTM門限加密系統<br>IMTM Threshold Cryptosystem
 
