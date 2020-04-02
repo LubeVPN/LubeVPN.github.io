@@ -25,6 +25,21 @@ It is fallacious thinking to appeal to novelty and authority. But unfortunately,
 
 Citium is in stark contrast to the conventional approach. Citium assumes that any single stakeholder (i.e. user node & service node) is evil by nature. Whatever power a stakeholder holds may adversely affect someone; therefore, Citium mutilates the power that is conventionally available to stakeholders, such as the rights to authorize, and to hold users' account ID, password, and personal information.
 
+## SafeMail & SDTP
+
+西蒂姆（Citium）繼承自開源項目[SafeMail](https://github.com/maikejonne/safeemail)。儘管西蒂姆（Citium）即時通訊系統項目與 SafeMail 協議完全兼容，但我們還是決定將其稱為 Citium Instant Messenger（CIM）而不是Citium Mail，因為用戶界面和實際使用感覺就像市場上的大多數即時通訊程序。
+
+CIM和SafeMail都使用的通信機制是「安全數據傳輸協議」 [SDTP](https://en.wikiversity.org/zh-tw/SDTP)。 SDTP規定，所有形式的通信都將相同的通用通知推送給預期的接收者。收到通知後，要求預期的收件人自己檢索消息。
+
+大多數即時通訊系統都設計為將通訊信息直接推送到預期收件人的客戶端應用程序上。但是，在CIM中，推送通知僅限於發送給預期的收件人的通用文本提醒（例如「您有一個新的消息」）。預期的收件人需要自己獲取消息。
+
+Citium is inherited from the open-source project [SafeMail](https://github.com/maikejonne/safeemail). Although the Citium Instant Messenger project is fully compatible with SafeMail protocol, we decide to call it Citium Instant Messenger (CIM) instead of Citium Mail because the user interface and the actual usage feel like most of the instant messengers in the marketplace.
+
+The communication mechanism used by both CIM and SafeMail is the "Safe Data Transfer Protocol" [(Safe Data Transfer Protocol)] (https://en.wikiversity.org/zh-tw/SDTP). SDTP dictates that all forms of communication push the same generic notification to the intended recipients. Once notified, the intended recipients are required to retrieve the messages on their own.
+
+Most instant messenger systems are designed that messages are directly pushed onto the client apps of the intended recipients. However, in CIM, push notifications are limited to a generic text reminder (e.g. "You have a new message.") sent to the intended recipients. The intended recipients are required to fetch the messages on their own.
+
+
 ## 資訊安全功能<br>InfoSec Features
 
 以下是一個西蒂姆（Citium）的信息安全（有時簡稱為InfoSec）功能列表。信息安全是一種通過減輕信息風險來保護信息的應用功能實踐。 它是信息風險管理的一部分。 它通常涉及防止或至少減少未經授權/不當訪問，使用，披露、破壞、刪除/銷毀、損壞、修改、檢查、記錄或貶值的可能性，也可能涉及減少事件如果不幸發生後的不利影響，例如「__强制性披露__」 (__force disclosure__) / 「__強制性密鑰披露__」 ([__mandatory key disclosure__](https://en.wikipedia.org/wiki/Key_disclosure_law))。
