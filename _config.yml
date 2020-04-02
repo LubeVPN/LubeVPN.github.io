@@ -39,7 +39,7 @@ navbar-links:
     - 為何用西蒂姆？<br>Citium's for?: "citium_what_for"
     - 可抵賴可推诿<br>Deniability: "deniability"
     - 無需准入或許可<br>Permissionless: "permissionless"
-    - 可推諉身份驗證性<br>Deniable Authentication: "authentication"
+    - 可推諉身份驗證性<br>Authentication: "authentication"
     - 分身馬甲帳號<br>Sockpuppetry: "sockpuppetry"
     - 機密和完整性<br>Conf. & Inty.: "confidentiality"
     - 可用性<br>Availability: "availability"
