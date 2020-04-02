@@ -50,9 +50,10 @@ In the Citium Contacts mechanism, Alice can send the FIC not only to Bob but als
 As you can see, no one could prove irrefutably that which of her Contacts was someone that she has known personally instead of some random person trying to post messages to her. Therefore, Alice can [plausibly deny](https://en.wikipedia.org/wiki/Plausible_deniability) her relationship with any message.
 
 {: .box-success}
-而其 FIC 的身份驗證邏輯做了檢測機制，只要有一個好友接受身份驗證了之後，該 FIC 就作廢了。所以在西蒂姆（Citium）中，大家都可能有看到過有一條「等待對方授權」的系統信息。該系統信息代表兩次試圖身份驗證均未成功。如果 Bob 見到了這種情況，有兩種可能：1、Charlie、Chuck或一個隨機陌生人使用了；2、網絡出問題了。因為西蒂姆（Citium）的客戶端代碼開源的，任何持有 Citium IM 客戶端的人都可以修改掉這個一對一的 FIC 身份認證限制。可推諉性依然成立。
+為求用戶體驗和使用便捷性，默認的 FIC 身份驗證邏輯做了檢測機制，只要有一個好友接受身份驗證了之後，該 FIC 就作廢了。所以在西蒂姆（Citium）中，大家都可能有看到過有一條「等待對方授權」的系統信息。該系統信息代表兩次試圖身份驗證均未成功。如果 Bob 見到了這種情況，有兩種可能：1、Charlie、Chuck或一個隨機陌生人使用了；2、網絡出問題了。因為西蒂姆（Citium）的客戶端代碼開源的，任何持有 Citium IM 客戶端的人都可以修改掉這個一對一的 FIC 身份認證限制。可推諉性依然成立。
 <br><br>
 For simplicity's sake, the default FIC's authentication has a detection mechanism. As long as a friend accepts the out-of-band verification, the FIC is invalidated. You may see a system message popped up in Citium Instant Messenger saying "Awaiting authorization from communicating party". This message indicates that two attempts to authenticate were unsuccessful. If Bob sees this, there are two possibilities: 1. Charlie, Chuck or some random person has used the FIC; 2. There is a problem with the network. However, since CIM is open-source, anyone can modify this one-to-one authentication restriction of FIC. Deniability still holds.
+
 
 
 ### 下一章 / NEXT CHAPTER
