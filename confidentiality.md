@@ -16,7 +16,7 @@ Conventional Instant Messenger System (IMS) is built on centralized authenticati
 ### IMTM門限加密系統<br>IMTM Threshold Cryptosystem
 
 **IMTM門限加密系統** 意味著 __消息是被加密算法劃分成多個密鑰__，這些密鑰又通過網狀樹多點傳送、不加選擇地分佈到盡可能多的節點上。為了使預期收件人（Bob）解密來自發件人（Alice）的消息，Bob必須獲取指定的私鑰來解密消息。 Bob必須通過 __無差別網樹多點傳送__（IMTM）來盡可能多的節點作請求，直到收集齊全消息摘要密鑰為止。__只有接訊者（Bob）才能將所有消息摘要密鑰重新統一併起來才能生成有效的私鑰，成功解鎖Alice留給她的加密的信息__。
-<br>
+
 **Indiscriminate mesh-tree multicast (IMTM) threshold cryptosystem** means that __the message digest is cryptographically split into multiple parts__, which in turn are distributed indiscriminately to as many nodes as possible by mesh-tree multicasting. Anyone can decrypt the parts or any combination of the parts by any key but the resulting plaintext will not be the original message unless all parts are decrypted by the right keys. Therefore, in order for the intended recipient (Bob) to correctly decrypt the message from the sender (Alice), Bob has to obtain all parts of the message digest and to decrypt it with the right key. Bob has to make request to as many nodes as he can through **indiscriminate mesh-tree multicast** (IMTM) until he collects all the parts. _Only the intended recipient (Bob) can correctly reunite and decrypt all parts of the message digest_.
 
 {: .box-warning}
