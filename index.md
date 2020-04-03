@@ -50,7 +50,7 @@ LubeVPN is proprietorially built based on __an open and fully decentralized tech
 會員開戶推廣活動期間，按續時週期收費。一次性續時週期越長，則折扣優惠越大 和 可享受流量封頂越大。
 
  {: style="color: navy; font-size: 120%; table-align: center;"}
- | 套餐<br>價格<br>(美元) | 享用<br>時長<br>(日)  | 流量<br>封頂<br>(/30日) | 流媒體<br>時長<br>(/30日) |
+ | 套餐<br>價格<br>(美元) | 享用<br>時長<br>(日)  | 流量<br>封頂<br>(/30日) | 相當於<br>流媒體<br>(/30日) |
  |:--:|--:|:--:|:--:|
  | $12.95 | 30 | 100 GB † | 380 hr ‡ |
  | $57.45 | 180 | 110 GB † | 417 hr ‡ |
