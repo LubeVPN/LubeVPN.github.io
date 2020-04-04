@@ -6,14 +6,15 @@ bigimg: /img/web.jpg
 googlefonts: ["Roboto Condensed"]
 ---
 
-西蒂姆（Citium）是一個免費的、開源代碼的、完全去中心化的、[無需准入許可的區塊鏈系統](https://en.wikipedia.org/wiki/Blockchain#Permissionless)，並採用了密碼學上堅不可摧的信息安全机制，例如 __無差別網樹多點傳送__（IMTM）__門限加密系統__ 和 __分身馬甲帳號__。西蒂姆（Citium）當前的版本能兼容 __文字__、__音像__、__視像__ 和 __即時音訊__ 的數據。使用西蒂姆（Citium）建造的去中心化應用程序（dApp）能享有與別不同的數據傳輸安全性，例如 __可推诿性__。西蒂姆（Citium）非常適合用於 **[OTS無記錄通訊](https://en.wikipedia.org/wiki/Off-the-Record_Messaging)即時通訊系統**（OTS-IMS） 和 **服務器IP地址混淆**（SIPO）。
+西蒂姆（Citium）是一個免費的、開源代碼的、完全去中心化的、[無需准入許可的區塊鏈系統](https://en.wikipedia.org/wiki/Blockchain#Permissionless)，並採用了密碼學上堅不可摧的信息安全机制，例如 __無差別網樹多點傳送__（IMTM）__門限加密系統__ 和 __分身馬甲帳號__。西蒂姆（Citium）當前的版本能兼容 __文字__、__音像__、__視像__ 和 __即時音訊__ 的數據。使用西蒂姆（Citium）建造的去中心化應用程序（dApp）能享有非凡的數據安全功能，例如 __可推诿性__，非常適合用於建造 **[OTS無記錄通訊](https://en.wikipedia.org/wiki/Off-the-Record_Messaging)即時通訊系統**（OTS-IMS）。
 
-Citium is a free, open-source, fully decentralized, [permissionless blockchain](https://en.wikipedia.org/wiki/Blockchain#Permissionless) that features cryptanalytically unbreakable InfoSec mechanisms (e.g. **indiscriminate mesh-tree multicast** (IMTM) [**threshold cryptosystem**](https://en.wikipedia.org/wiki/Threshold_cryptosystem) and **sockpuppetry**). Citium's current build is capable of serving **text**, **image**, **video** and **real-time voice** data. Decentralized Apps (dApps) built on Citium can enjoy many data security features (e.g. **deniability**). Citium is best suited for [**Off-the-Record Messaging (OTR)**](https://en.wikipedia.org/wiki/Off-the-Record_Messaging) **Instant Messenger System** and **server IP address obfuscation** (SIPO). SIPO is a unique feature of Citium.
+Citium is a free, open-source, fully decentralized, [permissionless blockchain](https://en.wikipedia.org/wiki/Blockchain#Permissionless) that features cryptanalytically unbreakable InfoSec mechanisms (e.g. **indiscriminate mesh-tree multicast** (IMTM) [**threshold cryptosystem**](https://en.wikipedia.org/wiki/Threshold_cryptosystem) and **sockpuppetry**). Citium's current build is capable of serving **text**, **image**, **video** and **real-time voice** data. Decentralized Apps (dApps) built on Citium can enjoy extraordinary data security features, such as **deniability**, which is well-suited to build [**Off-the-Record Messaging (OTR)**](https://en.wikipedia.org/wiki/Off-the-Record_Messaging) **Instant Messenger System**.
 
-{: .box-success}
-SIPO是西蒂姆（Citium）的獨特功能，可以讓HTML5的內容訪問者既可以訪問到內容但無從得知其服務器的來源IP地址，不單能有效 **防止分散式阻斷服務攻擊（DDoS）**，更可以從IP地理情報層面杜絕情報收集，有效 **防止網絡服務器被拆卸和扣押**。
-<br><br>
-SIPO can enable visitors to visit HTML5-based content while seamlessly hide the content hosting server's originating IP address from its visitors. Not only can SIPO effectively **prevent distributed denial-of-service (DDoS) attacks**, but it can also curtail IP intelligence gathering (e.g. geolocation lookup), effectively **preventing web server takedown and seizure**.
+### 服務器IP地址混淆<br>Server IP Obfuscation
+
+服務器IP地址混淆（SIPO）是西蒂姆（Citium）的獨特功能，可以讓HTML5的內容訪問者既可以訪問到內容但無從得知其服務器的來源IP地址，不單能有效 **防止分散式阻斷服務攻擊（DDoS）**，更可以從IP地理情報層面杜絕情報收集，有效 **防止網絡服務器被拆卸和扣押**。
+
+Server IP Obfuscation (SIPO) is a unique feature of Citium. It can hide a server's originating IP address from its visitors while letting them visit HTML5-based content on the server seamlessly. Not only can SIPO effectively **prevent distributed denial-of-service (DDoS) attacks**, but it can also curtail IP intelligence gathering (e.g. geolocation lookup), effectively **preventing web server takedown and seizure**.
 
 ## 西蒂姆的世界觀<br>Citium's Worldview
 
