@@ -46,11 +46,11 @@ Most instant messenger systems are designed that messages are directly pushed on
 
 在任何密碼系統中，將純文本訊息轉換為密文再轉換回來的最重要組成部分是密鑰。 密鑰是密碼學整體安全性的基礎，這意味著密鑰的保護也已成為重要的命題。 可以減少密鑰洩露風險的一種方法是門限加密。 門限加密學的基本思想是，在將密鑰分發給相關節點之前，將其分為 N 個份額。 為了再次生成密鑰，不需要所有共享。 相反，一個實體只能組合 K 個份額（稱為門限）來重建密鑰。 換句話說，即使將密鑰分為 N 個份額，也僅需要 K 個份額即可重建密鑰。
 
-西蒂姆（Citium）的門限加密方案是確保密鑰安全並防止密鑰被洩露的額外步驟。這是因為對手將需要攻擊 K 個節點以便獲得 K 個份額來生成密鑰，而不是損害一個節點則可來獲取密鑰。這使得攻擊難度大增。歷來只有具有非常有價值的秘密（例如證書頒發機構，軍隊和政府所隱藏的）才使用門限加密系統技術。
-
 In any cryptographic system, the most important component of transforming plaintext message to ciphertext and back is the key. The key is the foundation of the overall security of cryptography, which means that the protection of the key has also become an important issue. One of the methods that can reduce the risk of the key being compromised is threshold cryptography. The basic idea of threshold cryptography is that the key is divided into n shares before being distributed to the involved entities. In order to generate the key again, not all the shares are needed. Instead, an entity can combine only k shares (known as the threshold value) to reconstruct the key. In other words, even though the key is divided into n shares, only k out of shares is needed to reconstruct the key.
 
 ### 作為額外安全措施<br>As Extra Security
+
+西蒂姆（Citium）的門限加密方案是確保密鑰安全並防止密鑰被洩露的額外步驟。這是因為對手將需要攻擊 K 個節點以便獲得 K 個份額來生成密鑰，而不是損害一個節點則可來獲取密鑰。這使得攻擊難度大增。歷來只有具有非常有價值的秘密（例如證書頒發機構，軍隊和政府所隱藏的）才使用門限加密系統技術。
 
 Threshold cryptography scheme in Citium is an advanced and extra step to securing the key and to preventing the key from being compromised. This is because an adversary will need to attack k entities in order to obtain k shares to generate the key, rather than compromising one entity to obtain the key. This makes it more difficult for an attacker. Historically, only organizations with very valuable secrets, such as certificate authorities, the military, and governments made use of threshold cryptosystem technology.
 
