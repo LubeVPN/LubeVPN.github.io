@@ -32,23 +32,27 @@ Citium is in stark contrast to the conventional approach. Citium assumes that an
 
 CIM和SafeMail都使用的通信機制是「安全數據傳輸協議」 [SDTP](https://en.wikiversity.org/zh-tw/SDTP)。 SDTP規定，所有形式的通信都將相同的通用通知推送給預期的接收者。收到通知後，要求預期的收件人自己檢索消息。
 
-大多數即時通訊系統都設計為將通訊信息直接推送到預期收件人的客戶端應用程序上。但是，在CIM中，推送通知僅限於發送給預期的收件人的通用文本提醒（例如「您有一個新的消息」）。預期的收件人需要自己獲取消息。
-
 Citium is inherited from the open-source project [SafeMail](https://github.com/maikejonne/safeemail). Although the Citium Instant Messenger project is fully compatible with SafeMail protocol, we decide to call it Citium Instant Messenger (CIM) instead of Citium Mail because the user interface and the actual usage feel like most of the instant messengers in the marketplace.
 
 The communication mechanism used by both CIM and SafeMail is the "Safe Data Transfer Protocol" [(Safe Data Transfer Protocol)](https://en.wikiversity.org/zh-tw/SDTP). SDTP dictates that all forms of communication push the same generic notification to the intended recipients. Once notified, the intended recipients are required to retrieve the messages on their own.
 
-Most instant messenger systems are designed that messages are directly pushed onto the client apps of the intended recipients. However, in CIM, push notifications are limited to a generic text reminder (e.g. "You have a new message.") sent to the intended recipients. The intended recipients are required to fetch the messages on their own.
+### Push & Pull<br>推播與拉取
+
+大多數即時通訊系統都設計為將通訊信息主動推播到預期收件人的客戶端應用程序上。但是，在西蒂姆（Citium）即時聊天系統中，主動推播通知僅限於發送給預期的收件人的通用文本提醒（例如「您有一個新的消息」）。預期的收件人需要自己去拉取消息。
+
+Most instant messenger systems are designed that messages are directly pushed onto the client apps of the intended recipients. However, in Citium Instant Messenger system, push notifications are limited to a generic text reminder (e.g. "You have a new message.") sent to the intended recipients. The intended recipients are required to fetch the messages on their own.
 
 ## 門限加密系統<br>Threshold Cryptography
 
-在任何密碼系統中，將純文本轉換為密文再轉換回來的最重要組成部分是密鑰。 密鑰是密碼學整體安全性的基礎，這意味著密鑰的保護也已成為重要的命題。 可以減少密鑰洩露風險的一種方法是門限加密。 門限加密學的基本思想是，在將密鑰分發給相關節點之前，將其分為 N 個份額。 為了再次生成密鑰，不需要所有共享。 相反，一個實體只能組合 K 個份額（稱為門限）來重建密鑰。 換句話說，即使將密鑰分為 N 個份額，也僅需要 K 個份額即可重建密鑰。
+在任何密碼系統中，將純文本訊息轉換為密文再轉換回來的最重要組成部分是密鑰。 密鑰是密碼學整體安全性的基礎，這意味著密鑰的保護也已成為重要的命題。 可以減少密鑰洩露風險的一種方法是門限加密。 門限加密學的基本思想是，在將密鑰分發給相關節點之前，將其分為 N 個份額。 為了再次生成密鑰，不需要所有共享。 相反，一個實體只能組合 K 個份額（稱為門限）來重建密鑰。 換句話說，即使將密鑰分為 N 個份額，也僅需要 K 個份額即可重建密鑰。
 
-此門限加密方案是確保密鑰安全並防止密鑰被洩露的額外步驟。這是因為對手將需要攻擊 K 個節點以便獲得 K 個份額來生成密鑰，而不是損害一個節點則可來獲取密鑰。這使得攻擊難度大增。歷來只有具有非常有價值的秘密（例如證書頒發機構，軍隊和政府所隱藏的）才使用門限加密系統技術。
+西蒂姆（Citium）的門限加密方案是確保密鑰安全並防止密鑰被洩露的額外步驟。這是因為對手將需要攻擊 K 個節點以便獲得 K 個份額來生成密鑰，而不是損害一個節點則可來獲取密鑰。這使得攻擊難度大增。歷來只有具有非常有價值的秘密（例如證書頒發機構，軍隊和政府所隱藏的）才使用門限加密系統技術。
 
-In any cryptographic system, the most important component of transforming plaintext to ciphertext and back is the key. The key is the foundation of the overall security of cryptography, which means that the protection of the key has also become an important issue. One of the methods that can reduce the risk of the key being compromised is threshold cryptography. The basic idea of threshold cryptography is that the key is divided into n shares before being distributed to the involved entities. In order to generate the key again, not all the shares are needed. Instead, an entity can combine only k shares (known as the threshold value) to reconstruct the key. In other words, even though the key is divided into n shares, only k out of shares is needed to reconstruct the key.
+In any cryptographic system, the most important component of transforming plaintext message to ciphertext and back is the key. The key is the foundation of the overall security of cryptography, which means that the protection of the key has also become an important issue. One of the methods that can reduce the risk of the key being compromised is threshold cryptography. The basic idea of threshold cryptography is that the key is divided into n shares before being distributed to the involved entities. In order to generate the key again, not all the shares are needed. Instead, an entity can combine only k shares (known as the threshold value) to reconstruct the key. In other words, even though the key is divided into n shares, only k out of shares is needed to reconstruct the key.
 
-This threshold cryptography scheme is an advanced step to securing the key and to preventing the key from being compromised. This is because an adversary will need to attack k entities in order to obtain k shares to generate the key, rather than compromising one entity to obtain the key. This makes it more difficult for an attacker. Historically, only organizations with very valuable secrets, such as certificate authorities, the military, and governments made use of threshold Cryptosystem technology.
+### 作為額外安全措施<br>As Extra Security
+
+Threshold cryptography scheme in Citium is an advanced and extra step to securing the key and to preventing the key from being compromised. This is because an adversary will need to attack k entities in order to obtain k shares to generate the key, rather than compromising one entity to obtain the key. This makes it more difficult for an attacker. Historically, only organizations with very valuable secrets, such as certificate authorities, the military, and governments made use of threshold cryptosystem technology.
 
 ## 資訊安全功能<br>InfoSec Features
 
