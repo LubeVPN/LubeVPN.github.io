@@ -30,9 +30,9 @@ In practice, deniable communication has been sought by users whose legitimate ac
 
 When two parties want to communicate on a system with deniability as one of the main infosec features, the sender of a message want to [plausibly deny](https://en.wikipedia.org/wiki/Plausible_deniability) that he or she has sent that message, i.e.,  sender-deniable scheme; the intended recipient of a message wants to [plausibly deny](https://en.wikipedia.org/wiki/Plausible_deniability) that he or she has received that message, i.e.,  receiver-deniable scheme.
 
-### 防範于未然<br>Preempt Coercion
+### 將脅迫防範於未然<br>Preempt Coercion
 
-西蒂姆（Citium）可否認性的設計原則不是要「說服」脅迫者溝通雙方繳出來的通話記錄都是真實的。 因為眾所周知通話記錄很容易被偽造。 相反，我們的目標是 **將脅迫防範於未然**，讓脅逼者理解到在西蒂姆（Citium）上的通信記錄是枉費心機的。只要溝通雙方堅持按原定的措辭去說明溝通的辦法在西蒂姆（Citium）進行，讓脅逼者理解西蒂姆（Citium）的系統原理後，則不可能被脅逼者找到真實的溝通信息。
+西蒂姆（Citium）可否認性的設計原則不是要「說服」脅迫者溝通雙方繳出來的通話記錄都是真實的。 因為眾所周知通話記錄很容易被偽造。相反，我們的目標是 **將脅迫防範於未然**，讓脅逼者理解到在西蒂姆（Citium）上的通信記錄是枉費心機的。只要溝通雙方堅持按原定的措辭去說明溝通的辦法在西蒂姆（Citium）進行，讓脅逼者理解西蒂姆（Citium）的系統原理後，則不可能被脅逼者找到真實的溝通信息。
 
 The purpose of deniability is not at all to "convince" the coercer that any surrendered transcript is real; indeed, it is common knowledge that transcript can easily be faked. Instead, the goal is to **preempt coercion** in the first place by making it useless. Parties who "stick to their stories" explaining to the coercer how Citium works can never be pinned down to the real message.
 
