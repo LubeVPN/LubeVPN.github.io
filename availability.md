@@ -2,7 +2,7 @@
 layout: page
 title: 可用性
 subtitle: Availability ✓
-bigimg: /img/green-water.jpg
+bigimg: /img/availability.jpg
 googlefonts: ["Roboto Condensed"]
 ---
 
