@@ -2,7 +2,7 @@
 layout: page
 title: 可推諉身份驗證性
 subtitle: Deniable Authentication ✓
-# bigimg: /img/web.jpg
+bigimg: /img/auth.jpg
 googlefonts: ["Roboto Condensed"]
 ---
 
