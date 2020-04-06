@@ -2,7 +2,7 @@
 layout: page
 title: 機密和完整性
 subtitle: Confidentiality ✓<br>Integrity ✓
-# bigimg: /img/web.jpg
+bigimg: /img/conf.jpg
 googlefonts: ["Roboto Condensed"]
 ---
 
