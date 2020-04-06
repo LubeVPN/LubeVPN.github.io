@@ -2,7 +2,7 @@
 layout: page
 title: PC版本安裝辦法
 subtitle: Windows PC Version Installation
-# bigimg: /img/ring.jpg
+bigimg: /img/windows.jpg
 googlefonts: ["Roboto Condensed"]
 ---
 
