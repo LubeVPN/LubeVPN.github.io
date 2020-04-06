@@ -93,5 +93,5 @@ LubeVPN is proprietorially built based on __an open and fully decentralized tech
 
 中港台常用抵值辦法，由「易電票」（[https://etickets.hk/](https://etickets.hk/)）提供，敬請在支付完成後，[聯繫客服](../contact_us)，讓我們協助您完成續時抵值的餘下手續。注：順道VPN（LubeVPN）官方客服只經由西蒂姆（Citium）的即時聊天工具提供客戶的咨詢和抵值服務。
 
-[30日/180日/360日抵值](https://etickets.hk/en/project/lubevpn)
+[30日/180日/360日續時抵值](https://etickets.hk/en/project/lubevpn)
 {: .myButton}
