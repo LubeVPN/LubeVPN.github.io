@@ -15,6 +15,7 @@ __完全去中心化__：大多數現代在線應用程序服務提供商在使�
 __Fully Decentralization__: The majority of the contemporary online application service providers are using some forms of centralized methods (e.g. servers hosted in a datacenter) to structure their user management systems. It means monitoring. Because no matter how vigorously the service providers assert that they are effectively guarding the user information (e.g. email, IPs, username & password) against maladministration or hack, theoretically, they hold the power to modify or delete the information. Therefore, decentralization is absolutely necessary to achieve the level of confidence that one can rule out even theoretical mishaps from happening.
 
 ### 下一章 / NEXT CHAPTER
+
 [**不可靠的中心化**](../fallible_providers)<br>
 [**Fallibility**](../fallible_providers)
 {: .myButton}
