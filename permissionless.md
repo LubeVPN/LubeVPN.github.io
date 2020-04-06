@@ -2,7 +2,7 @@
 layout: page
 title: 無需准入或許可
 subtitle: Permissionless ✓
-# bigimg: /img/web.jpg
+bigimg: /img/permissionless.jpg
 googlefonts: ["Roboto Condensed"]
 ---
 
