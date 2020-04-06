@@ -2,7 +2,7 @@
 layout: page
 title: 續時抵值：卡密、卡劵
 subtitle: Payment by Cards
-# bigimg: /img/ring.jpg
+bigimg: /img/cards.jpg
 googlefonts: ["Roboto Condensed"]
 
 accordion:
