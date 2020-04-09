@@ -14,7 +14,7 @@ Most of the conventional instant messenger systems (IMS) are built on a centrali
 
 In the Citium cryptosystem, there is always a chance of an enemy hacker or a cryptanalyst intercepting a ciphertext (C). We are going to talk about a critical concept called key equivocation and message equivocation.
 
-![Cipher](/img/cipher.png "General Cipher Flow"){: .center-block :}
+![Cipher](/img/cipher.png "Citium Messaging Flow"){: .center-block :}
 
 密码分析员成功破译文本的几率一般会随着文本长度的增加而增加。假设密码分析员同时拥有明文和密文，因此将更有能力快速找到密钥。密钥的外观等效性是指在已知明文攻击下的密钥的强度，而密钥等效性和消息等效性则是指在已知明文攻击下的密钥和明文攻击下的密钥强度。收到的密码文本越长，密码分析员发现密钥或明文的概率就越大。
 
