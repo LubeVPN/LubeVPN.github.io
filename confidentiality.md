@@ -12,9 +12,9 @@ Most of the conventional instant messenger systems (IMS) are built on a centrali
 
 ### 秘鑰/信息疑義<br>Key/Message Equivocation
 
-In the Citium cryptosystem, there is always a chance of an enemy hacker or a cryptanalyst intercepting a ciphertext (C). We are going to talk about a critical concept called key equivocation and message equivocation.
+In the Citium cryptosystem, an enemy hacker or a cryptanalyst might be able to intercept a ciphertext (C). There is a critical concept called key equivocation and message equivocation.
 
-![Cipher](/img/cipher.png "Citium Off-the-Record Messaging Instant Messenger System"){: .center-block :}
+![Cipher](/img/cipher.png "General Cipher Flow"){: .center-block :}
 
 密码分析员成功破译文本的几率一般会随着文本长度的增加而增加。假设密码分析员同时拥有明文和密文，因此将更有能力快速找到密钥。密钥的外观等效性是指在已知明文攻击下的密钥的强度，而密钥等效性和消息等效性则是指在已知明文攻击下的密钥和明文攻击下的密钥强度。收到的密码文本越长，密码分析员发现密钥或明文的概率就越大。
 
@@ -22,7 +22,7 @@ The key appearance equivocation will clearly approach zero faster than the key e
 
 The key appearance equivocation is a measure for the strength of a cipher system under a known-plaintext attack for the key, while the key and message equivocation are a measure for the strength of a cipher system under a ciphertext only attack for the key and message respectively.
 
-The chances of a cryptanalyst succeeding in deciphering a text generally increase as the length of the text increases. Assuming the cryptanalyst possesses both the plaintext and the ciphertext and will therefore be better equipped to find the key quickly. The key appearance equivocation is a measure of the strength of a cipher which is exposed to a known-plaintext-attack on the key, whereas the key equivocation and message equivocation are measure of the strength of a cipher exposed to a ciphertext-only-attack on the key an the plaintext. The longer received ciphertext is, the greater is the probability that a cryptanalyst will find the key or the plaintext.
+
 
 ### IMTM門限加密系統<br>IMTM Threshold Cryptosystem
 
@@ -43,9 +43,9 @@ __Cryptanalytically Unbreakable__: Unless some hackers can hijack every node tha
 
 ## 完整性 | Integrity ✓
 
-在西蒂姆（Citium）上傳播的信息或其消息摘要值都被 [ECDSA](https://en.wikipedia.org/wiki/Elliptic_Curve_Digital_Signature_Algorithm) 算法加密了的。該加密不僅「計算不可解」[computationally intractable](https://en.wikipedia.org/wiki/Computational_complexity_theory#Intractability)，而且在很多開源項目（例如[Bitcoin](https://en.wikipedia.org/wiki/Bitcoin)）中已經使用了將近二十年。成功的駭客攻擊（無需私鑰對它進行解密）將使任何可能的攻擊者都獲得巨大的利潤。這種現象似乎從未發生過，這是非常好的經驗證據說明它的安全性。
+在信息安全中，數據完整性是指在整個生命週期內保持並確保數據的準確性和完整性。信息安全完整性是指數據不能以未經授權或未被發現的方式進行修改，其定義則不要與數據庫中的參考完整性混淆。在西蒂姆（Citium）上傳播的信息或其消息摘要值都被 [ECDSA](https://en.wikipedia.org/wiki/Elliptic_Curve_Digital_Signature_Algorithm) 算法加密了的。該加密不僅「計算不可解」[computationally intractable](https://en.wikipedia.org/wiki/Computational_complexity_theory#Intractability)，而且在很多開源項目（例如[Bitcoin](https://en.wikipedia.org/wiki/Bitcoin)）中已經使用了將近二十年。成功的駭客攻擊（無需私鑰對它進行解密）將使任何可能的攻擊者都獲得巨大的利潤。這種現象似乎從未發生過，這是非常好的經驗證據說明它的安全性。
 
-A message or its message digest keys cannot be changed during transit on Citium because they are __encrypted by [ECDSA (Elliptic Curve Digital Signature Algorithm)](https://en.wikipedia.org/wiki/Elliptic_Curve_Digital_Signature_Algorithm)__. It is not only [computationally intractable](https://en.wikipedia.org/wiki/Computational_complexity_theory#Intractability) but also has enjoyed almost two decades of usage in open-source projects, such as [Bitcoin](https://en.wikipedia.org/wiki/Bitcoin). A successful hack (deciphering it without a private key) would allow any would-be attacker to make a tremendous amount of profit. The fact that this appears to have never happened is a very good empirical evidence for its security.
+In information security, data integrity means maintaining and assuring the accuracy and completeness of data over its entire lifecycle. InfoSec integrity means that data cannot be modified in an unauthorized or undetected manner, and its definition is not to be confused with referential integrity in databases. A message or its message digest keys cannot be changed during transit on Citium because they are __encrypted by [ECDSA (Elliptic Curve Digital Signature Algorithm)](https://en.wikipedia.org/wiki/Elliptic_Curve_Digital_Signature_Algorithm)__. It is not only [computationally intractable](https://en.wikipedia.org/wiki/Computational_complexity_theory#Intractability) but also has enjoyed almost two decades of usage in open-source projects, such as [Bitcoin](https://en.wikipedia.org/wiki/Bitcoin). A successful hack (deciphering it without a private key) would allow any would-be attacker to make a tremendous amount of profit. The fact that this appears to have never happened is a very good empirical evidence for its security.
 
 ### 下一章 / NEXT CHAPTER
 [**可用性**](../availability)<br>
