@@ -22,14 +22,11 @@ The key appearance equivocation will clearly approach zero faster than the key e
 
 The key appearance equivocation is a measure for the strength of a cipher system under a known-plaintext attack for the key, while the key and message equivocation are a measure for the strength of a cipher system under a ciphertext only attack for the key and message respectively.
 
-
-
 ### IMTM門限加密系統<br>IMTM Threshold Cryptosystem
 
 **IMTM門限加密系統** 意味著 __一個消息的信息摘要是被加密算法劃分成多個部件__，這些部件又通過網狀樹多點傳送、不加選擇地分佈到盡可能多的節點上，有效地抑止關聯鏈結分析的可能，和去除任何因為單點攻擊成功而導致的數據洩露。
 
 **Indiscriminate mesh-tree multicast (IMTM) threshold cryptosystem** means that __a message digest is cryptographically split into multiple parts__, which in turn are distributed indiscriminately to as many nodes as possible by mesh-tree multicasting, effectively preempting link analysis[https://en.wikipedia.org/wiki/Link_analysis] and eliminating data breach due to failure at any single point.
-
 
 任何人都可以用任何密鑰解密信息摘要的部件或其任何組合（達到 「密鑰疑義」的效果），但所產生的明文將是不同的信息（即「模糊但似是而非的明文」），除非所有部分都被正確的密鑰解密。為了使預期收件人（Bob）解密來自發件人（Alice）的消息，Bob必須獲取指定的私鑰來解密消息。 Bob必須通過 __無差別網樹多點傳送__（IMTM）來盡可能多的節點作請求，直到收集齊全消息摘要密鑰為止。__只有接訊者（Bob）才能將所有消息摘要密鑰重新統一併起來才能生成有效的私鑰，成功解鎖Alice留給她的加密的信息__。
 
