@@ -10,13 +10,13 @@ googlefonts: ["Roboto Condensed"]
 
 Most of the conventional instant messenger systems (IMS) are built on a centralized authentication and authorization regime. Unfortunately, any centralized system is inherently susceptible to [data breach](https://en.wikipedia.org/wiki/Data_breach). ([More info here.](../fallible_providers)) In contract, IMS built on top of Citium, paved by a network of decentralized nodes, is not at risk. For example, suppose that two users are trying to communicate with each other on Citium. Sender is Alice and the intended recipient is Bob. No third party can know for sure if he or she has been correctly deciphering a message from Alice to Bob because Citium utilizes the following security mechanisms: 1. [**Pretty Good Privacy (PGP) Encryption**](https://en.wikipedia.org/wiki/Pretty_Good_Privacy); 2. **Key/Message Equivocation**; and 3. **indiscriminate mesh-tree multicast (IMTM) threshold cryptosystem**. PGP is too popular to need further explanation.  But key/message equivocation is less known and the IMTM threshold cryptosystem is unique to Citium so we are going to spend more time explaining their InfoSec advantages.
 
-![Cipher](https://drive.google.com/uc?export=view&id=1B4Bu4GC1I-SZ54jZU1Rf1fezX6svZisCSKcNSI4JrMw "Citium Off-the-Record Messaging Instant Messenger System"){: .center-block :}
+![Cipher](/img/citium-data-flow.svg "Citium Off-the-Record Messaging Instant Messenger System"){: .center-block :}
 
 ### 秘鑰/信息疑義<br>Key/Message Equivocation
 
 In the Citium cryptosystem, an enemy hacker or a cryptanalyst might be able to intercept a ciphertext (C). There is a critical concept called key equivocation and message equivocation.
 
-![Cipher](/img/cipher.svg "Citium Off-the-Record Messaging Instant Messenger System"){: .center-block :}
+![Cipher](/img/equivocation.svg "Key/Message Equivocation"){: .center-block :}
 
 密码分析员成功破译文本的几率一般会随着文本长度的增加而增加。假设密码分析员同时拥有明文和密文，因此将更有能力快速找到密钥。密钥的外观等效性是指在已知明文攻击下的密钥的强度，而密钥等效性和消息等效性则是指在已知明文攻击下的密钥和明文攻击下的密钥强度。收到的密码文本越长，密码分析员发现密钥或明文的概率就越大。
 
