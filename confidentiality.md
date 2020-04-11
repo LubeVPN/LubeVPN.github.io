@@ -12,8 +12,7 @@ Most of the conventional instant messenger systems (IMS) are built on a centrali
 
 ![Cipher](/img/citium-data-flow.svg "Citium Off-the-Record Messaging Instant Messenger System"){: .center-block :}
 
-- 19^th^
-- H~2~O
+H<sub>2</sub>O
 
 ### 秘鑰/信息疑義<br>Key/Message Equivocation
 
