@@ -12,6 +12,9 @@ Most of the conventional instant messenger systems (IMS) are built on a centrali
 
 ![Cipher](/img/citium-data-flow.svg "Citium Off-the-Record Messaging Instant Messenger System"){: .center-block :}
 
+- 19^th^
+- H~2~O
+
 ### 秘鑰/信息疑義<br>Key/Message Equivocation
 
 In the Citium cryptosystem, an enemy hacker or a cryptanalyst might be able to intercept a ciphertext (C). There is a critical concept called key equivocation and message equivocation.
