@@ -27,18 +27,19 @@ __*__  We use the word "post" instead of "send" because it makes more sense in t
 
 Key (K<sub>R</sub>) is encrypted by ECDSA algorithm with Bob's Public Key A (K<sub>PuA</sub>) resulting in a ciphertext (α).
 
-{: style="color: grey; font-size: 200%;"}
-α = ECDSA(K<sub>R</sub>) with K<sub>PuA</sub>
+{: style="color: grey; font-size: 170%;"}
+ECDSA(K<sub>R</sub>) with K<sub>PuA</sub> ⇒ α
 
-Plaintext (M) is first encrypted by the Blowfish algorithm with the Random Session Key (K<sub>R</sub>) resulting in a ciphertext (β).
+Plaintext (M) is first encrypted by the Blowfish algorithm with the Random Session Key (K<sub>R</sub>) resulting in a ciphertext (β). Splice β into n ciphertexts; and suppose n = 3, we have β<sub>1</sub>, β<sub>2</sub> and β<sub>3</sub>.
 
-{: style="color: grey; font-size: 200%;"}
-β = BLOWFISH(M) with K<sub>PuA</sub>
+{: style="color: grey; font-size: 170%;"}
+BLOWFISH(M) with K<sub>PuA</sub> ⇒ β<sub>n=3</sub>
+⇒ β<sub>1</sub>, β<sub>2</sub>, β<sub>3</sub>
 
-Splice β into n ciphertexts; and suppose n = 3, we have β<sub>1</sub>, β<sub>2</sub> and β<sub>3</sub>, denoted as β<sub>n</sub>. Then β<sub>1</sub> is randomly picked from β<sub>n</sub> to be encrypted in combination of α by ECDSA algorithm resulting in a ciphertext (θ):
+Then β<sub>1</sub> is randomly picked from β<sub>n</sub> to be encrypted in combination of α by ECDSA algorithm resulting in a ciphertext (θ):
 
-{: style="color: grey; font-size: 200%;"}
-θ = ECDSA(α + β<sub>1</sub>) with K<sub>PuB</sub>
+{: style="color: grey; font-size: 170%;"}
+ECDSA(α + β<sub>1</sub>) with, K<sub>PuB</sub> ⇒ θ
 
 Finally, the cipertexts of β<sub>2</sub>, β<sub>3</sub>, and θ (i.e. β<sub>n-1</sub>& θ) are ready for IMTM.
 
