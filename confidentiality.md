@@ -12,13 +12,39 @@ Most of the conventional instant messenger systems (IMS) are built on a centrali
 
 ![Cipher](/img/citium-data-flow.svg "Citium Off-the-Record Messaging Instant Messenger System"){: .center-block :}
 
-Figure 1.1: Citium Instant Messenger (CIM) is an Off-the-Record Messaging (OTR) system. CIM  user Alice posts a message to another Citium user Bob. We use the word "post" instead of "send" because it makes more sense in the communication network of Citium, which combines the beauty of both cryptography and steganography. But what is steganography? Imagine the word "post" in the sense of Alice posting many anonymous and randomly placed classified ads on multiple newspapers around the world so everyone can see but only Bob knows how to locate them all and make sense of the underlying message. This practice, called steganography, is the flip side of cryptography. In cryptography, everyone involved knows a message has been sent. What's not known — except to the decoder — is the content of the message. Steganography hides the fact that a message was even sent, usually by hiding it in plain sight.(In the movie "A Beautiful Mind," the main character, played by Russell Crowe, becomes convinced that the Communists are hiding messages inside news stories and loses his mind trying to decipher them.) Here, Alice's message is converted into a plaintext (M), which is going to be processed through threshold encryption as shown.
 
-Figure 1.2: Alice holds the two public keys given by Bob, i.e. K<sub>PuA</sub> & K<sub>PuB</sub>, because Alice and Bob have performed [out-of-band authentication](../authentication). Note that both of their devices manage their own cryptographic keys. In fact, all keys in Citium are generated or derived on-device. Private keys are never sent to anyone else, not even to the service nodes.
 
-Figure 1.3: Most instant messenger systems are designed that messages are directly pushed onto the client apps of the intended recipients. However, in Citium Instant Messenger system, push notifications are limited to a generic text reminder (i.e. "You have a new message.") being sent to the intended recipients. The intended recipients are required to fetch in the messages on their own, which will be explained later in the data flow cycle. For now, Alice sends two pieces of information to Bob's service node IMSP Bolivia in case Bob is not currently online. One is the generic text reminder (i.e. "You have a new message."); and the other is a Random Session Key (K<sub>R</sub>).
+**Figure 1.1:** Alice holds the two public keys given by Bob, i.e. K<sub>PuA</sub> & K<sub>PuB</sub>, because Alice and Bob have performed [out-of-band authentication](../authentication). Note that both of their devices manage their own cryptographic keys. In fact, all keys in Citium are generated or derived on-device. Private keys are never sent to anyone else, not even to the service nodes.
 
-Figure 1.4: Before we discuss what's IMTM and Spliced Ciphertext (C<sub>0-N</sub>), let's find out what has happened in the Threshold Encryption module on the left. Plaintext (M) is first by the Blowfish algorithm with the Random Session Key (K<sub>R</sub>) resulting in a ciphertext (C). C is then sliced into half or N parts (C<sub>1-N</sub>). For the sake of illustration, here we assume that C is sliced into 3 parts: C<sub>1</sub>, C<sub>2</sub>, and C<sub>3</sub>. Key (K<sub>R</sub>) is encrypted by ECDSA algorithm with Bob's Public Key A(K<sub>PuA</sub>) resulting in a ciphertext (D). Now, we have D, C<sub>1</sub>, C<sub>2</sub>, and C<sub>3</sub>. One of the C<sub>1-3</sub> is picked to be combined with D. Suppose C<sub>1</sub> is randomly picked to be combined with D resulting in a ciphertext (E). E is encrypted by ECDSA algorithm with Bob's Public Key B(K<sub>PuB</sub>) resulting in a ciphertext (F). Finally, we have C<sub>2</sub>, C<sub>3</sub> and F as the C<sub>n-1</sub> & F for IMTM.
+**Figure 1.2:** Most instant messenger systems are designed that messages are directly pushed onto the client apps of the intended recipients. However, in Citium Instant Messenger system, push notifications are limited to a generic text reminder (i.e. "You have a new message.") being sent to the intended recipients. The intended recipients are required to fetch in the messages on their own, which will be explained later in the data flow cycle. For now, Alice sends two pieces of information to Bob's service node IMSP Bolivia in case Bob is not currently online. One is the generic text reminder (i.e. "You have a new message."); and the other is a Random Session Key (K<sub>R</sub>).
+
+**Figure 1.3:** Citium Instant Messenger (CIM) is an Off-the-Record Messaging (OTR) system. CIM  user Alice posts* a message to another Citium user Bob. Here, Alice's message is converted into a plaintext (M). M and K<sub>R</sub> are going to be processed through the threshold encryption module as shown.
+
+{: .box-success}
+__*__  We use the word "post" instead of "send" because it makes more sense in the communication network of Citium, which combines the beauty of both cryptography and steganography. But what is steganography? Imagine the word "post" in the sense of Alice posting many anonymous and randomly placed classified ads on multiple newspapers around the world so everyone can see but only the intended recipient Bob knows how to locate them all and make sense of the underlying message. This practice, called steganography, is the flip side of cryptography. In cryptography, everyone involved knows a message has been sent. What's not known — except to the decoder — is the content of the message. Steganography hides the fact that a message was even sent, usually by hiding it in plain sight.(In the movie "A Beautiful Mind," the main character, played by Russell Crowe, becomes convinced that the Communists are hiding messages inside news stories and loses his mind trying to decipher them.)
+
+**Figure 1.4:** In order to understand IMTM and Ciphertexts (β<sub>N-1</sub>& θ), we must first find out what has happened in the Threshold Encryption module on the left.
+
+Key (K<sub>R</sub>) is encrypted by ECDSA algorithm with Bob's Public Key A(K<sub>PuA</sub>) resulting in a ciphertext (α).
+
+```json
+α = ECDSA(K<sub>R</sub>) with K<sub>PuA</sub>
+```
+
+Plaintext (M) is first encrypted by the Blowfish algorithm with the Random Session Key (K<sub>R</sub>) resulting in a ciphertext (β).
+
+```json
+β = BLOWFISH(M) with K<sub>PuA</sub>
+```
+
+Splice β into n ciphertexts; and suppose n = 3, we have β<sub>1</sub>, β<sub>2</sub> and β<sub>3</sub>, denoted as β<sub>n</sub>. Then β<sub>1</sub> is randomly picked from β<sub>n</sub> to be encrypted in combination of α by ECDSA algorithm resulting in a ciphertext (θ):
+
+```json
+θ = ECDSA(α + β<sub>1</sub>) with K<sub>PuB</sub>
+```
+
+Finally, the cipertexts of β<sub>2</sub>, β<sub>3</sub>, and θ (i.e. β<sub>n-1</sub>& θ) are ready for IMTM.
+
 
 ### 秘鑰/信息疑義<br>Key/Message Equivocation
 
