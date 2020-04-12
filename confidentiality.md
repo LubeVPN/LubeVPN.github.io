@@ -12,13 +12,19 @@ Most of the conventional instant messenger systems (IMS) are built on a centrali
 
 ![Cipher](/img/citium-data-flow.svg "Citium Off-the-Record Messaging Instant Messenger System"){: .center-block :}
 
-H<sub>2</sub>O
+Figure 1.1: Citium Instant Messenger (CIM) is an Off-the-Record Messaging (OTR) system. CIM  user Alice posts a message to another Citium user Bob. We use the word "post" instead of "send" because it makes more sense in the communication network of Citium, which combines the beauty of both cryptography and steganography. But what is steganography? Imagine the word "post" in the sense of Alice posting many anonymous and randomly placed classified ads on multiple newspapers around the world so everyone can see but only Bob knows how to locate them all and make sense of the underlying message. This practice, called steganography, is the flip side of cryptography. In cryptography, everyone involved knows a message has been sent. What's not known — except to the decoder — is the content of the message. Steganography hides the fact that a message was even sent, usually by hiding it in plain sight.(In the movie "A Beautiful Mind," the main character, played by Russell Crowe, becomes convinced that the Communists are hiding messages inside news stories and loses his mind trying to decipher them.) Here, Alice's message is converted into a plaintext (M), which is going to be processed through threshold encryption as shown.
+
+Figure 1.2: Alice holds the two public keys given by Bob, i.e. K<sub>PuA</sub> & K<sub>PuB</sub>, because Alice and Bob have performed [out-of-band authentication](../authentication). Note that both of their devices manage their own cryptographic keys. In fact, all keys in Citium are generated or derived on-device. Private keys are never sent to anyone else, not even to the service nodes.
+
+Figure 1.3: Most instant messenger systems are designed that messages are directly pushed onto the client apps of the intended recipients. However, in Citium Instant Messenger system, push notifications are limited to a generic text reminder (i.e. "You have a new message.") being sent to the intended recipients. The intended recipients are required to fetch in the messages on their own, which will be explained later in the data flow cycle. For now, Alice sends two pieces of information to Bob's service node IMSP Bolivia in case Bob is not currently online. One is the generic text reminder (i.e. "You have a new message."); and the other is a Random Session Key (K<sub>R</sub>).
+
+Figure 1.4: Before we discuss what's IMTM and Spliced Ciphertext (C<sub>0-N</sub>), let's find out what has happened in the Threshold Encryption module on the left. Plaintext (M) is first by the Blowfish algorithm with the Random Session Key (K<sub>R</sub>) resulting in a ciphertext (C). C is then sliced into half or N parts (C<sub>1-N</sub>). For the sake of illustration, here we assume that C is sliced into 3 parts: C<sub>1</sub>, C<sub>2</sub>, and C<sub>3</sub>. Key (K<sub>R</sub>) is encrypted by ECDSA algorithm with Bob's Public Key A(K<sub>PuA</sub>) resulting in a ciphertext (D). Now, we have D, C<sub>1</sub>, C<sub>2</sub>, and C<sub>3</sub>. One of the C<sub>1-3</sub> is picked to be combined with D. Suppose C<sub>2</sub> is randomly picked to be combined with D resulting in a ciphertext (E). E is encrypted by ECDSA algorithm with Bob's Public Key B(K<sub>PuB</sub>) resulting in a ciphertext (F). Finally, we have F, C<sub>1</sub>, C<sub>2</sub> as the F and C<sub>n-1</sub> for IMTM.
 
 ### 秘鑰/信息疑義<br>Key/Message Equivocation
 
-In the Citium cryptosystem, an enemy hacker or a cryptanalyst might be able to intercept a ciphertext (C). There is a critical concept called key equivocation and message equivocation.
+In the Citium cryptosystem, an enemy hacker or a cryptanalyst might be able to intercept a ciphertext (C). There is a critical concept called key equivocation and message equivocation as shown in the diagram below. Enemy
 
-![Equivocation](/img/equivocation.svg "Key/Message Equivocation"){: .center-block :}
+![Cipher](/img/equivocation.svg "Key/Message Equivocation"){: .center-block :}
 
 密码分析员成功破译文本的几率一般会随着文本长度的增加而增加。假设密码分析员同时拥有明文和密文，因此将更有能力快速找到密钥。密钥的外观等效性是指在已知明文攻击下的密钥的强度，而密钥等效性和消息等效性则是指在已知明文攻击下的密钥和明文攻击下的密钥强度。收到的密码文本越长，密码分析员发现密钥或明文的概率就越大。
 
@@ -31,6 +37,7 @@ The key appearance equivocation is a measure for the strength of a cipher system
 **IMTM門限加密系統** 意味著 __一個消息的信息摘要是被加密算法劃分成多個部件__，這些部件又通過網狀樹多點傳送、不加選擇地分佈到盡可能多的節點上，有效地抑止關聯鏈結分析的可能，和去除任何因為單點攻擊成功而導致的數據洩露。
 
 **Indiscriminate mesh-tree multicast (IMTM) threshold cryptosystem** means that __a message digest is cryptographically split into multiple parts__, which in turn are distributed indiscriminately to as many nodes as possible by mesh-tree multicasting, effectively preempting link analysis[https://en.wikipedia.org/wiki/Link_analysis] and eliminating data breach due to failure at any single point.
+
 
 任何人都可以用任何密鑰解密信息摘要的部件或其任何組合（達到 「密鑰疑義」的效果），但所產生的明文將是不同的信息（即「模糊但似是而非的明文」），除非所有部分都被正確的密鑰解密。為了使預期收件人（Bob）解密來自發件人（Alice）的消息，Bob必須獲取指定的私鑰來解密消息。 Bob必須通過 __無差別網樹多點傳送__（IMTM）來盡可能多的節點作請求，直到收集齊全消息摘要密鑰為止。__只有接訊者（Bob）才能將所有消息摘要密鑰重新統一併起來才能生成有效的私鑰，成功解鎖Alice留給她的加密的信息__。
 
