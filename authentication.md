@@ -1,66 +1,60 @@
 ---
 layout: page
-title: 可抵賴可推诿
-subtitle: Deniability ✓<br>Non-Repudiation ✗
-# bigimg: /img/web.jpg
+title: 可推諉身份驗證性
+subtitle: Deniable Authentication ✓
+bigimg: /img/auth.jpg
 googlefonts: ["Roboto Condensed"]
 ---
 
-很多中心化通訊系統自稱帶有 *不可否認性* 作為訊息安全功能之一，因為他們的用戶本身目標就是希望能系統化地讓溝通對手承擔法律責任。西蒂姆（Citium）不是為這種目標而設計的，而是提供了完全相反的信息安全功能：**可推諉性**。「可推諉性」是針對[**強制披露**](https://en.wikipedia.org/wiki/Key_disclosure_law)和其後患的最後一道防線。
+西蒂姆（Citium）採用了「可推諉驗證性」的機制。當兩個用戶（例如Alice和Bob）決定通過西蒂姆（Citium）通訊，他們必須首先成為西蒂姆（Citium）中彼此認證的用戶（“聯絡人”），具體辦法是通過 [頻外秘鑰驗證](https://ocftw.github.io/ssd.eff.org/zh_TW/module/key-verification.html)（OOBA），防範了一切日後可能在西蒂姆（Citium）體系內發生的[中間人攻擊](https://zh.wikipedia.org/zh-tw/%E4%B8%AD%E9%97%B4%E4%BA%BA%E6%94%BB%E5%87%BB)。添加聯絡人這個認證行為也是唯一次時機他們倆（Alice和Bob）可以彼此確認身份。因為在此之後，即使在他們倆通信過程中，任何人都無法無可辯駁地證明他們兩個的聯絡人關係。
 
-西蒂姆（Citium）去中心化系統協議背後的主要動機是為對話參與者提供一個可推諉的溝通網絡，同時保持對話的機密性，例如現實生活中的私人對話，或新聞採購中的記錄。 與之相反的是，某些中心化通訊系統卻輸出可以稍後用作通訊事件和參與者身份的可驗證記錄。
+Citium uses [deniable authentication](https://en.wikipedia.org/wiki/Deniable_authentication) mechanism. When two users (e.g. Alice and Bob) decide to communicate through Citium with each other, they have to become each other's authenticated users ("Contacts") in Citium from the outset — i.e. performing an [out-of-band key authentication/verification](https://ssd.eff.org/en/module/key-verification), which eliminates all future possibility of [man-in-the-middle attack (MITM)](https://en.wikipedia.org/wiki/Man-in-the-middle_attack) on Citium. This is the only moment in the authentication lifecycle that the two users know for sure that the communicating counterparty (Alice or Bob) is whom they believe to be. But after that, as ironic as it may sound, no one, not even the two users themselves, can irrefutably prove their authenticated Contact relationship even during the course of their communication.
 
-一些服務商，比如說Facebook，試圖提供可推諉性，但卻沒能排除他們自己的嫌疑。這裡直接引用2017年5月18日Facebook 發布的、基於他們的 Facebook Messenger《秘密對話技術白皮書》中的一段話。
+儘管有上述特殊性，傳統而論的用戶身份驗證（即，毫無疑問地能明確辨識用戶）的功能是依然被保留了的，因為西蒂姆（Citium）的世界中的身份驗證不再僅由用戶帳戶作准，而是由每條密碼簽名的消息限制，因為任何兩個聯絡人（例如Alice） 和Bob彼此溝通，從一開始就已經完成[頻外密鑰驗證](https://ocftw.github.io/ssd.eff.org/zh_TW/module/key-verification.html)（OOBA）。 驗證後，任何第三方都無法欺騙攻擊在Alice和Bob之間發送的郵件。 儘管Citium的「無需准入許可性」確實允許欺騙攻擊，但是可能出乎很多人意料之外，Bob自始至終可以正確識別從一開始就已通過身份驗證的Alice發送的加密限制消息，儘管許多其他用戶冒充Alice，並且Alice始終可以確定只有一個真實的Bob可以正確解密她發送的消息，儘管許多其他用戶都可以冒充Bob去試圖解密消息。
 
-> *第三方可推諉性*屬性確保了**Facebook以外的任何一方**都無法通過密碼學方法確定報告的有效性。
+Despite what has just been said, the traditional sense of user authentication (i.e. irrefutably identifying a user) is still preserved because authentication in the Citium universe is no longer bounded by user account alone but by every cryptographically signed message. Any two communicating parties (i.e. the Contacts: Alice & Bob) who communicate with each other must perform [out-of-band key authentication/verification](https://ssd.eff.org/en/module/key-verification) (OOBA) from the outset. Once verified, messages sent between Alice and Bob cannot be spoofed by any third party. Although the permissionless nature of Citium dictates that no conventional measure (e.g., [anti-spam techniques](https://en.wikipedia.org/wiki/Anti-spam_techniques)) is in place to prevent [spoofing attack](https://en.wikipedia.org/wiki/Spoofing_attack) and [phishing](https://en.wikipedia.org/wiki/Phishing), perhaps counterintuitively to many, Citium is a pristine environment from the perspectives of Alice and Bob. Bob always can correctly identify the cryptographically bounded message sent from Alice whom he has authenticated from the outset in spite of many other users pretending to be Alice, and Alice can always be certain that only the one true Bob can correctly decrypt the messages she sends in spite of many other users pretending to be Bob trying to decrypt the message.
 
-這意味著Facebook仍然可以自願提交或被強制、脅迫披露，更不用說數據洩露的可能性了。這是不理想的可推諉性設計方案。而在西蒂姆（Citium）環境中則提供了完全的可推諉性。任何集中的一方或中介機器，如Facebook或其服務器，都無法以任何形式地背離可推諉性這一點。
+## 頻外秘鑰驗證<br>Out-of-Band Key Verification
 
-一般來說，加密簽名的消息是同時提供了不可否認性；也就是說，發送者在收到消息後不能否認發送了消息。西蒂姆（Citium）使用的是公鑰驗證器，它保證了可推諉性。任何收件人都可以偽造一個看起來就像聲稱的發件人所產生的信息，所以收件人不能讓第三方相信該信息確實是由發件人產生而不是由收件人偽造的。但是，收件人仍然可以防止第三方偽造。原因是，要進行這種偽造，需要收件人的私鑰。由於收件人自己會知道他是否使用了自己的私密金鑰來進行偽造，所以他可以肯定沒有第三者偽造訊息。
+如果 Alice 和 Bob 要成為聯絡人之前必須有一方首先發起頻外秘鑰驗證（OOBA）。假設 Alice 是「聯絡發起人」， Alice 向 Bob 發起 OOBA，她必須向 Bob 發送一個明文的 **「好友邀請代碼」（FIC）**，如下所示：
 
-Many centralized communication systems claim to have *non-repudiability* as one of their infosec features because their users purposely want to systematically hold their communicating parties legally accountable. Citium does not cater to that purpose. In fact, Citium offers the complete opposite: **deniability**, which is the last line of defense against [**forced disclosure**](https://en.wikipedia.org/wiki/Key_disclosure_law) and its repercussions.
+In order for Alice and Bob to become Contacts, one has to initiate an out-of-band key authentication/verification (OOBA). Suppose Alice is the Contacts Initiator. Alice initiates an OOBA with Bob by sending Bob a **Friend Invitation Code (FIC)**, which is a plaintext that looks like this:
 
-The primary motivation behind Citium decentralized system protocol is to provide a deniable communication network for the conversation participants while keeping conversations confidential, like a private conversation in real life, or off the record in journalism sourcing. This is in contrast with some other centralized communication systems that produce output which can be later used as a verifiable record of the communication event and the identities of the participants.
+```json
+{"MSG":"Hi, I'm Alice. This is a Friend Invitation Code (FIC). it is valid for 24 hours. ","APPNAME":"SEMAIL","NICKNAME":"e99bbbe885a6e6b8ace8a9a6","TID":"322","HOST":"68747470733a2f2f7777772e70616e676f3132332e6f7267","MAJOR":"03c86ebf41b02f379823173aafd7bd873efb9b59e06375dac7793342db8b3d9ee7","MINOR":"02307396c7f6ac576544991285b016283fbe2e08f5013f41cf984734ed2bfc814e","SIGNATURE":"304402204ddf9ae16a14dfc70c94c83eb6735419e4e8eb2019853c54336c9af84d425c480220394b6181eccb2df743f78f848f6f2ba9f153e6d5b2a3322e646f4f320666c85531"}
+```
 
-Some service providers, such as Facebook, are trying to offer deniability but they fail to rule themselves out of the picture. Here a direct quote from the Technical Whitepaper of Messenger Secret Conversations in Facebook Messenger published on May 18, 2017:
+**MSG** 是友好的可讀文本，方便任何看到此消息的人了解其內容所屬意義。 **APPNAME** 默認為 "SEMAIL"，而它是一個標示與其他同樣使用了「安全數據傳輸協議」（SDTP）的應用兼容性。 **NICKNAME** 是 Alice 希望在該 FIC 中彰顯的個人暱稱的密文。**TID** 是 Alice 的服務節點用以辨識 Alice 的代號。 **HOST** 是Alice服務節點的主機或IP地址的密文。 **MAJOR** 和 **MINOR ** 是兩個公鑰，**MAJOR** 是給服務節點用於認證 Alice 的；而 **MINOR** 則試過用於授權他人留信息給 Alice 的。 **SIGNATURE** 是上述信息的數字簽名以確保它們的其完整性。
 
-> "[T]he *third-party deniability* property ensures that **no party outside of Facebook** can cryptographically determine the validity of a report."
+**MSG** is a friendly readable text for anyone who sees this message to know what it is about. **APPNAME** is "SEMAIL" by default. It signals compatibility with other services that use Safe Data Transfer Protocol (SDTP). **NICKNAME** is the ciphertext of the nickname that Alice wants to be known by whoever adds her through this FIC. **TID** is Alice's corresponding identifier issued by her service node. **HOST** is the cyphertext of the host or IP address of Alice's service node. **MAJOR** and **MINOR** are the two public keys. **MAJOR** the service node to authenticate Alice, and **MINOR** is used to authorize others to post her messages. **SIGNATURE** is the digital signature for all the above information to ensure their integrity.
 
-It implies that Facebook can still be voluntarily submitting to or be compelled by forced disclosure and coercion, not to mention the chance of data breach. This is not ideal at all. In the Citium environment, full deniability is offered. No centralized party or mediatory machines, such as Facebook and their servers, can compromise deniability in any way.  
+### 可推諉性<br>Deniability
 
-In general, cryptographically signed messages provide non-repudiation; i.e. the sender cannot deny having sent the message after it has been received. Citium uses public-key authenticators instead, which guarantee deniability. Any recipient can forge a message that will look just like it was actually generated by the purported sender, so the recipient cannot convince a third party that the message was really generated by the sender and not forged by the recipient. However, the recipient is still protected against forgeries by third parties. The reason is that in order to perform such a forgery, the private key of the recipient is needed. Since the recipient himself will know whether or not he has used his own private key for such a forgery, he can be sure that no third party could have forged the message.
+從西蒂姆（Citium）的聯絡人機制來說，Alice 可以只把 FIC 發給了 Bob，但她也可以發給其他人的，例如 Charlie 和 Chuck。只有 Alice 她自己才能完全確鑿地知道是否 Bob 一個人接收過 FIC 或其他都有接收過。換言之， Alice 甚至可能曾經把該 FIC 公開發佈過，相當於任何人都可以獲取該 FIC 然後留言給 Alice。
 
-{: .box-note}
-{: style="color: grey; font-size: 100%;"}
-**不可否認性** 是一個在信息安全中廣泛使用的法律概念。它指的是任何訊息服務系統中，接訊者有充分的理由相信該訊息是由已知的發件人創建的（驗證性），並且該消息在傳輸過程中未發生更改（完整性）。換句話說，不可否認性使得系統用戶很難成功地抵賴消息的信息來自何者/何處、以及消息的真實性。留意，西蒂姆（Citium）不服務此需求。
+In the Citium Contacts mechanism, Alice can send the FIC not only to Bob but also to other people, such as Charlie and Chuck. Only Alice herself knows for sure if it is Bob being the only one who has received the FIC or not. In other words, Alice could have publicly displayed the FIC, so that anyone could have it and post messages to Alice.
+
+| 聯絡發起人<br>Contacts Initiator | 應邀聯絡人<br>Contacts Invitee |
+| Alice | Bob |
+| Alice | Charlie |
+| Alice | Chuck |
+| Alice | 隨機陌生人D<br>a random person D |
+| Alice | 隨機陌生人E<br>a random person E |
+| Alice | 隨機陌生人F<br>a random person F |
+| Alice | ... |
+| Alice | ... |
+| Alice | ... |
+
+由此可見，無人能證明她的聯絡人中哪位是 Alice 自始至終都認識的，而不是一些隨機陌生人試圖留言給她。如此一來，Alice 便可以[合理地推諉](https://zh.wikipedia.org/wiki/%E5%90%88%E7%90%86%E6%8E%A8%E8%AF%BF)她與任何信息的關係。
+
+As you can see, no one could prove irrefutably that which of her Contacts was someone that she has known personally instead of some random person trying to post messages to her. Therefore, Alice can [plausibly deny](https://en.wikipedia.org/wiki/Plausible_deniability) her relationship with any message.
+
+{: .box-success}
+為求用戶體驗和使用便捷性，默認的「好友邀請代碼」（FIC）身份驗證邏輯做了檢測機制，只要有一個好友接受身份驗證了之後，該 FIC 就作廢了。所以在西蒂姆（Citium）中，大家都可能有看到過有一條「等待對方授權」的系統信息。該系統信息代表兩次試圖身份驗證均未成功。如果 Bob 見到了這種情況，有兩種可能：1、Charlie、Chuck或一個隨機陌生人使用了；2、網絡出問題了。因為西蒂姆（Citium）的客戶端代碼開源的，任何持有 Citium IM 客戶端的人都可以修改掉這個一對一的 FIC 身份認證限制。可推諉性依然成立。
 <br><br>
-**Non-repudiation** is a legal concept that is widely used in information security. It refers to any service, which gives a recipient a very strong reason to believe that the message was created by a known sender (authentication) and that the message was not altered in transit (integrity). In other words, non-repudiation makes it very difficult to successfully deny who/where a message came from as well as the authenticity of that message. Note, Citium is not built for this.
-
-### 實用價值<br>Practicality
-
-從現實操作來說，很多人都希望獲得可推諉性的溝通辦法，尤其是那些雖然溝通內容合情合理但卻未必能倖免於被法庭傳召或被司法機構強迫作證的溝通內容，例如新聞記者與吹哨人之間的溝通內容，或高壓政權中的社運分子與律師之間的溝通內容。 西蒂姆（Citium）允許否認溝通過的信息曾存在過于任何的存儲介質，和允許模棱兩可化溝通過的信息。
-
-當溝通雙方希望在一個帶有可推諉性訊息安全功能的系統上對話，發件人需要能夠[合理地推諉](https://zh.wikipedia.org/wiki/%E5%90%88%E7%90%86%E6%8E%A8%E8%AF%BF)他發送過的訊息，稱之為「發件人可推諉的方案」；預期收件人需要能夠[合理地推諉](https://zh.wikipedia.org/wiki/%E5%90%88%E7%90%86%E6%8E%A8%E8%AF%BF)他是被指定的預期收件人，稱之為「收件人可推諉的方案」。
-
-In practice, deniable communication has been sought by users whose legitimate activities may not always be protected from subpoenas or legal coercion, e.g., journalists and whistleblowers, or lawyers and activists in repressive regimes. Citium allows for denying the existence of messages on any storage medium, and for equivocating those messages.
-
-When two parties want to communicate on a system with deniability as one of the main infosec features, the sender of a message want to [plausibly deny](https://en.wikipedia.org/wiki/Plausible_deniability) that he or she has sent that message, i.e.,  sender-deniable scheme; the intended recipient of a message wants to [plausibly deny](https://en.wikipedia.org/wiki/Plausible_deniability) that he or she has received that message, i.e.,  receiver-deniable scheme.
-
-### 將脅迫防範於未然<br>Preempt Coercion
-
-西蒂姆（Citium）可否認性的設計原則不是要「說服」脅迫者溝通雙方繳出來的通話記錄都是真實的。 因為眾所周知通話記錄很容易被偽造。相反，我們的目標是 **將脅迫防範於未然**，讓脅逼者理解到在西蒂姆（Citium）上的通信記錄是枉費心機的。只要溝通雙方堅持按原定的措辭去說明溝通的辦法在西蒂姆（Citium）進行，讓脅逼者理解西蒂姆（Citium）的系統原理後，則不可能被脅逼者找到真實的溝通信息。
-
-The purpose of deniability is not at all to "convince" the coercer that any surrendered transcript is real; indeed, it is common knowledge that transcript can easily be faked. Instead, the goal is to **preempt coercion** in the first place by making it useless. Parties who "stick to their stories" explaining to the coercer how Citium works can never be pinned down to the real message.
-
-西蒂姆（Citium）中的「可推諉性」是通過三個訊息安全機制實現的：<br>
-Deniability in Citium is achieved through three InfoSec mechanisms:
-
-1. **無需准入許可**<br>**Permissionless**
-2. **可推諉驗證**<br>**Deniable Authentication**
-3. **分身馬甲帳號**<br>**Sockpuppetry**
-
+To enhance user experience and simplicity, the default **Friend Invitation Code (FIC)** authentication has a detection mechanism. As long as a friend accepts the out-of-band verification, the FIC is invalidated. You may see a system message popped up in Citium Instant Messenger saying "Awaiting authorization from the communicating party". This message indicates that two attempts to authenticate were unsuccessful. If Bob sees this, there are two possibilities: 1. Charlie, Chuck or some random person has used the FIC; 2. There is a problem with the network. However, since CIM is open-source, anyone can modify this one-to-one authentication restriction of FIC. Deniability still holds.
 
 ### 下一章 / NEXT CHAPTER
-[**無需准入或許可**](../permissionless)<br>
-[**Permissionless**](../permissionless)
+[**分身馬甲帳號**](../sockpuppetry)<br>
+[**Sockpuppetry**](../sockpuppetry)
 {: .myButton}
