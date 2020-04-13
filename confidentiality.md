@@ -31,7 +31,7 @@ Plaintext (M) is first encrypted by the [XXTEA](https://en.wikipedia.org/wiki/XX
 BLOWFISH<sup>K</sup><sub>R</sub>(XXTEA<sup>K</sup><sub>R</sub>(M)) ⇒ β<sub>n=3</sub>
 ⇒ β<sub>1</sub>, β<sub>2</sub>, β<sub>3</sub>
 
-Then β<sub>1</sub> is randomly picked from β<sub>n</sub>, in combination of encrypted K<sub>R</sub>, is encrypted again resulting in a ciphertext (θ):
+In order to create the θ, one β is randomly picked among the β<sub>n</sub>. Suppose β<sub>1</sub> is randomly picked from β<sub>n</sub>. K<sub>R</sub> is encrypted by [ECDSA](https://en.wikipedia.org/wiki/Elliptic_Curve_Digital_Signature_Algorithm) algorithm with K<sub>A</sub>, resulting which in turn combined with β<sub>1</sub> to be encrypted by [ECDSA](https://en.wikipedia.org/wiki/Elliptic_Curve_Digital_Signature_Algorithm) algorithm with K<sub>B</sub> resulting in a ciphertext (θ):
 
 {: style="color: grey; font-size: 170%;"}
 ECDSA<sup>K</sup><sub>B</sub>(β<sub>1</sub> + ECDSA<sup>K</sup><sub>A</sub>(K<sub>R</sub>))⇒ θ
