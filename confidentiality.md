@@ -30,10 +30,10 @@ Key (K<sub>R</sub>) is encrypted by ECDSA algorithm with Bob's Public Key A (K<s
 {: style="color: grey; font-size: 170%;"}
 ECDSA(K<sub>R</sub>) with K<sub>A</sub> ⇒ α
 
-Plaintext (M) is first encrypted by the Blowfish algorithm with the Random Session Key (K<sub>R</sub>) resulting in a ciphertext (β). Splice β into n ciphertexts; and suppose n = 3, we have β<sub>1</sub>, β<sub>2</sub> and β<sub>3</sub>.
+Plaintext (M) is first encrypted by the XXTEA and Blowfish algorithms with the Random Session Key (K<sub>R</sub>) resulting in a ciphertext (β). Splice β into n ciphertexts; and suppose n = 3, we have β<sub>1</sub>, β<sub>2</sub> and β<sub>3</sub>.
 
 {: style="color: grey; font-size: 170%;"}
-BLOWFISH(M) with K<sub>A</sub> ⇒ β<sub>n=3</sub>
+BLOWFISH(XXTEA(M)) with K<sub>R</sub> ⇒ β<sub>n=3</sub>
 ⇒ β<sub>1</sub>, β<sub>2</sub>, β<sub>3</sub>
 
 Then β<sub>1</sub> is randomly picked from β<sub>n</sub> to be encrypted in combination of α by ECDSA algorithm resulting in a ciphertext (θ):
