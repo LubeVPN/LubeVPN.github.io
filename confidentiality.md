@@ -14,7 +14,7 @@ Most of the conventional instant messenger systems (IMS) are built on a centrali
 
 
 
-**Figure 1.1:** Alice holds the two public keys given by Bob, i.e. K<sub>PuA</sub> & K<sub>PuB</sub>, because Alice and Bob have performed [out-of-band authentication](../authentication). Note that both of their devices manage their own cryptographic keys. In fact, all keys in Citium are generated or derived on-device. Private keys are never sent to anyone else, not even to the service nodes.
+**Figure 1.1:** Alice holds the two public keys given by Bob, i.e. K<sub>A</sub> & K<sub>B</sub>, because Alice and Bob have performed [out-of-band authentication](../authentication). Note that both of their devices manage their own cryptographic keys. In fact, all keys in Citium are generated or derived on-device. Private keys are never sent to anyone else, not even to the service nodes.
 
 **Figure 1.2:** Most instant messenger systems are designed that messages are directly pushed onto the client apps of the intended recipients. However, in Citium Instant Messenger system, push notifications are limited to a generic text reminder (i.e. "You have a new message.") being sent to the intended recipients. The intended recipients are required to fetch in the messages on their own, which will be explained later in the data flow cycle. For now, Alice sends two pieces of information to Bob's service node IMSP Bolivia in case Bob is not currently online. One is the generic text reminder (i.e. "You have a new message."); and the other is a Random Session Key (K<sub>R</sub>).
 
@@ -25,24 +25,29 @@ __*__  We use the word "post" instead of "send" because it makes more sense in t
 
 **Figure 1.4:** In order to understand IMTM and Ciphertexts (β<sub>N-1</sub>& θ), we must first find out what has happened in the Threshold Encryption module on the left.
 
-Key (K<sub>R</sub>) is encrypted by ECDSA algorithm with Bob's Public Key A (K<sub>PuA</sub>) resulting in a ciphertext (α).
+Key (K<sub>R</sub>) is encrypted by ECDSA algorithm with Bob's Public Key A (K<sub>A</sub>) resulting in a ciphertext (α).
 
 {: style="color: grey; font-size: 170%;"}
-ECDSA(K<sub>R</sub>) with K<sub>PuA</sub> ⇒ α
+ECDSA(K<sub>R</sub>) with K<sub>A</sub> ⇒ α
 
 Plaintext (M) is first encrypted by the Blowfish algorithm with the Random Session Key (K<sub>R</sub>) resulting in a ciphertext (β). Splice β into n ciphertexts; and suppose n = 3, we have β<sub>1</sub>, β<sub>2</sub> and β<sub>3</sub>.
 
 {: style="color: grey; font-size: 170%;"}
-BLOWFISH(M) with K<sub>PuA</sub> ⇒ β<sub>n=3</sub>
+BLOWFISH(M) with K<sub>A</sub> ⇒ β<sub>n=3</sub>
 ⇒ β<sub>1</sub>, β<sub>2</sub>, β<sub>3</sub>
 
 Then β<sub>1</sub> is randomly picked from β<sub>n</sub> to be encrypted in combination of α by ECDSA algorithm resulting in a ciphertext (θ):
 
 {: style="color: grey; font-size: 170%;"}
-ECDSA(α + β<sub>1</sub>) with, K<sub>PuB</sub> ⇒ θ
+ECDSA(α + β<sub>1</sub>) with, K<sub>B</sub> ⇒ θ
 
-Finally, the cipertexts of β<sub>2</sub>, β<sub>3</sub>, and θ (i.e. β<sub>n-1</sub>& θ) are ready for IMTM.
+Finally, the cipertexts of β<sub>2</sub>, β<sub>3</sub>, and θ (i.e. β<sub>n-1</sub>& θ) are ready for IMTM. Note that β<sub>1</sub> is not needed here because it has already been encapsulated in θ.
 
+**Figure 1.5:** If M is larger than 1024 bytes, anything beyond that are separated into a single splice (i.e. the excess ciphertext (β<sub>E</sub>) uploaded onto the service node of Alice (i.e. IMSP Australia). IMSP Australia will keep the β<sub>E</sub> for 24 hours before permanently deleting it. This does not only prevent running out of disk space but also further maximizes the deniability nature of Citium.
+
+**Figure 1.6:** Service node of the intended recipient Bob (i.e. IMSP Bolivia) pushes the "You have a new message." and Random Session Key (K<sub>R</sub>) to Bob.
+
+**Figure 1.7:** At this point, Bob is fully aware of the fact that someone has tried to post a message onto the Citium network with him as the intended recipient. Bob pings the whole Citium network with IMTM to fetch in the cipertexts of β<sub>2</sub>, β<sub>3</sub>, and θ (i.e. β<sub>n-1</sub>& θ).
 
 ### 秘鑰/信息疑義<br>Key/Message Equivocation
 
