@@ -10,9 +10,7 @@ googlefonts: ["Roboto Condensed"]
 
 Most of the conventional instant messenger systems (IMS) are built on a centralized authentication and authorization regime. Unfortunately, any centralized system is inherently susceptible to [data breach](https://en.wikipedia.org/wiki/Data_breach). ([More info here.](../fallible_providers)) In contract, IMS built on top of Citium, paved by a network of decentralized nodes, is not at risk. For example, suppose that two users are trying to communicate with each other on Citium. Sender is Alice and the intended recipient is Bob. No third party can know for sure if he or she has been correctly deciphering a message from Alice to Bob because Citium utilizes the following security mechanisms: 1. [**Pretty Good Privacy (PGP) Encryption**](https://en.wikipedia.org/wiki/Pretty_Good_Privacy); 2. **Key/Message Equivocation**; and 3. **indiscriminate mesh-tree multicast (IMTM) threshold cryptosystem**. PGP is too popular to need further explanation.  But key/message equivocation is less known and the IMTM threshold cryptosystem is unique to Citium so we are going to spend more time explaining their InfoSec advantages.
 
-![Cipher](/img/citium-data-flow.svg "Citium Off-the-Record Messaging Instant Messenger System"){: .center-block :}
-
-
+![Cipher](/img/flow.svg "Citium Off-the-Record Messaging Instant Messenger System"){: .center-block :}
 
 **Figure 1.1:** Alice holds the two public keys given by Bob, i.e. K<sub>A</sub> & K<sub>B</sub>, because Alice and Bob have performed [out-of-band authentication](../authentication). Note that both of their devices manage their own cryptographic keys. In fact, all keys in Citium are generated or derived on-device. Private keys are never sent to anyone else, not even to the service nodes.
 
