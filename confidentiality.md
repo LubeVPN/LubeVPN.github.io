@@ -10,7 +10,9 @@ googlefonts: ["Roboto Condensed"]
 
 Most of the conventional instant messenger systems (IMS) are built on a centralized authentication and authorization regime. Unfortunately, any centralized system is inherently susceptible to [data breach](https://en.wikipedia.org/wiki/Data_breach). ([More info here.](../fallible_providers)) In contract, IMS built on top of Citium, paved by a network of decentralized nodes, is not at risk. For example, suppose that two users are trying to communicate with each other on Citium. Sender is Alice and the intended recipient is Bob. No third party can know for sure if he or she has been correctly deciphering a message from Alice to Bob because Citium utilizes the following security mechanisms: 1. [**Pretty Good Privacy (PGP) Encryption**](https://en.wikipedia.org/wiki/Pretty_Good_Privacy); 2. **Key/Message Equivocation**; and 3. **indiscriminate mesh-tree multicast (IMTM) threshold cryptosystem**. PGP is too popular to need further explanation.  But key/message equivocation is less known and the IMTM threshold cryptosystem is unique to Citium so we are going to spend more time explaining their InfoSec advantages.
 
-![Cipher](/img/flow.svg "Citium Off-the-Record Messaging Instant Messenger System"){: .center-block :}
+![Cipher](/img/citium-data-flow.svg "Citium Off-the-Record Messaging Instant Messenger System"){: .center-block :}
+
+
 
 **Figure 1.1:** Alice holds the two public keys given by Bob, i.e. K<sub>A</sub> & K<sub>B</sub>, because Alice and Bob have performed [out-of-band authentication](../authentication). Note that both of their devices manage their own cryptographic keys. In fact, all keys in Citium are generated or derived on-device. Private keys are never sent to anyone else, not even to the service nodes.
 
@@ -23,21 +25,16 @@ __*__  We use the word "post" instead of "send" because it makes more sense in t
 
 **Figure 1.4:** In order to understand IMTM and Ciphertexts (β<sub>N-1</sub>& θ), we must first find out what has happened in the Hybrid Encryption module, which combines the convenience of a public-key cryptosystem, the efficiency of a symmetric-key cryptosystem, and the additional protection of threshold cryptosystem.
 
-Key (K<sub>R</sub>) is encrypted by ECDSA algorithm with Bob's Public Key A (K<sub>A</sub>) resulting in a ciphertext (α).
-
-{: style="color: grey; font-size: 170%;"}
-ECDSA(K<sub>R</sub>) with K<sub>A</sub> ⇒ α
-
 Plaintext (M) is first encrypted by the [XXTEA](https://en.wikipedia.org/wiki/XXTEA) and [Blowfish](https://en.wikipedia.org/wiki/Blowfish_(cipher)) algorithms with the Random Session Key (K<sub>R</sub>) resulting in a ciphertext (β). Splice β into n ciphertexts; and suppose n = 3, we have β<sub>1</sub>, β<sub>2</sub> and β<sub>3</sub>.
 
 {: style="color: grey; font-size: 170%;"}
-BLOWFISH(XXTEA(M)) with K<sub>R</sub> ⇒ β<sub>n=3</sub>
+BLOWFISH<sup>K</sup><sub>R</sub>(XXTEA<sup>K</sup><sub>R</sub>(M)) ⇒ β<sub>n=3</sub>
 ⇒ β<sub>1</sub>, β<sub>2</sub>, β<sub>3</sub>
 
-Then β<sub>1</sub> is randomly picked from β<sub>n</sub> to be encrypted in combination of α by ECDSA algorithm resulting in a ciphertext (θ):
+Then β<sub>1</sub> is randomly picked from β<sub>n</sub>, in combination of encrypted K<sub>R</sub>, is encrypted again resulting in a ciphertext (θ):
 
 {: style="color: grey; font-size: 170%;"}
-ECDSA(α + β<sub>1</sub>) with, K<sub>B</sub> ⇒ θ
+ECDSA<sup>K</sup><sub>B</sub>(β<sub>1</sub> + ECDSA<sup>K</sup><sub>A</sub>(K<sub>R</sub>))⇒ θ
 
 Finally, the cipertexts of β<sub>2</sub>, β<sub>3</sub>, and θ (i.e. β<sub>n-1</sub>& θ) are ready for IMTM. Note that β<sub>1</sub> is not needed here because it has already been encapsulated in θ.
 
@@ -46,6 +43,13 @@ Finally, the cipertexts of β<sub>2</sub>, β<sub>3</sub>, and θ (i.e. β<sub>n
 **Figure 1.6:** Service node of the intended recipient Bob (i.e. IMSP Bolivia) pushes the "You have a new message." and Random Session Key (K<sub>R</sub>) to Bob.
 
 **Figure 1.7:** At this point, Bob is fully aware of the fact that someone has tried to post a message onto the Citium network with him as the intended recipient. Bob pings the whole Citium network with IMTM to fetch in the cipertexts of β<sub>2</sub>, β<sub>3</sub>, and θ (i.e. β<sub>n-1</sub>& θ).
+
+**Figure 1.8:** Random Session Key (K<sub>R</sub>) along with the cipertexts of β<sub>2</sub>, β<sub>3</sub>, and θ (i.e. β<sub>n-1</sub>& θ) are decrypted through the Hybrid Decryption module.
+
+**Figure 1.9:** Bob's Private Key A (K<sub>A</sub><sup>-1</sup>) is the corresponding private key to Bob's Public Key A ((K<sub>A</sub>). Bob's Private Key B (K<sub>B</sub><sup>-1</sup>) is the corresponding private key to Bob's Public Key B ((K<sub>B</sub>). They
+
+
+Random Session Key (K<sub>R</sub>) along with the cipertexts of β<sub>2</sub>, β<sub>3</sub>, and θ (i.e. β<sub>n-1</sub>& θ) are decrypted through the Hybrid Decryption module.
 
 ### 秘鑰/信息疑義<br>Key/Message Equivocation
 
