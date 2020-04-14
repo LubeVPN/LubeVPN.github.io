@@ -12,9 +12,11 @@ Most of the conventional instant messenger systems (IMS) are built on a centrali
 
 ![Cipher](/img/flow.svg "Citium Off-the-Record Messaging Instant Messenger System"){: .center-block :}
 
+
+
 **Figure 1.1:** Alice holds the two public keys given by Bob, i.e. K<sub>A</sub> & K<sub>B</sub>, because Alice and Bob have performed [out-of-band authentication](../authentication). Note that both of their devices manage their own cryptographic keys. In fact, all keys in Citium are generated or derived on-device. Private keys are never sent to anyone else, not even to the service nodes.
 
-**Figure 1.2:** Most instant messenger systems are designed that messages are directly pushed onto the client apps of the intended recipients. However, in Citium Instant Messenger system, push notifications are limited to a generic text reminder (i.e. "You have a new message.") being sent to the intended recipients. The intended recipients are required to fetch in the messages on their own, which will be explained later in the data flow cycle. For now, Alice sends two pieces of information to Bob's service node IMSP Bolivia in case Bob is not currently online. One is the generic text reminder (i.e. "You have a new message."); and the other is a Random Session Key (K<sub>R</sub>).
+**Figure 1.2:** Most instant messenger systems are designed that messages are directly pushed onto the client apps of the intended recipients. However, in Citium Instant Messenger system, push notifications are limited to a generic text reminder (i.e. "You have a new message.")(G) being sent to the intended recipients. The intended recipients are required to fetch in the messages on their own, which will be explained later in the data flow cycle. For now, Alice sends two pieces of information to Bob's service node IMSP Bolivia in case Bob is not currently online. One is the generic text reminder (i.e. "You have a new message."); and the other is a Random Session Key (K<sub>R</sub>).
 
 **Figure 1.3:** Citium Instant Messenger (CIM) is an Off-the-Record Messaging (OTR) system. CIM  user Alice posts* a message to another Citium user Bob. Here, Alice's message is converted into a plaintext (M). M and K<sub>R</sub> are going to be processed through the Hybrid Encryption module as shown.
 
@@ -36,18 +38,24 @@ ECDSA<sup>K</sup><sub>B</sub>(β<sub>1</sub> + ECDSA<sup>K</sup><sub>A</sub>(K<s
 
 Finally, the cipertexts of β<sub>2</sub>, β<sub>3</sub>, and θ (i.e. β<sub>n-1</sub>& θ) are ready for IMTM. Note that β<sub>1</sub> is not needed here because it has already been encapsulated in θ.
 
-**Figure 1.5:** If M is larger than 1024 bytes, anything beyond that are separated into a single splice (i.e. the excess ciphertext (β<sub>E</sub>) uploaded onto the service node of Alice (i.e. IMSP Australia). IMSP Australia will keep the β<sub>E</sub> for 24 hours before permanently deleting it. This does not only prevent running out of disk space but also further maximizes the deniability nature of Citium.
+**Figure 1.5:** If plaintext (M) is larger than 1024 bytes, anything beyond that are separated into a single splice (i.e. the excess ciphertext (β<sub>E</sub>) uploaded onto the service node of Alice (i.e. IMSP Australia). IMSP Australia will keep the β<sub>E</sub> for 24 hours before permanently deleting it. This does not only prevent running out of disk space but also further maximizes the deniability nature of Citium.
 
-**Figure 1.6:** Service node of the intended recipient Bob (i.e. IMSP Bolivia) pushes the "You have a new message." and Random Session Key (K<sub>R</sub>) to Bob.
+**Figure 1.6:** Service node of the intended recipient Bob (i.e. IMSP Bolivia) pushes the generic notification ("You have a new message.") (G) and the Random Session Key (K<sub>R</sub>) to Bob's user node.
 
 **Figure 1.7:** At this point, Bob is fully aware of the fact that someone has tried to post a message onto the Citium network with him as the intended recipient. Bob pings the whole Citium network with IMTM to fetch in the cipertexts of β<sub>2</sub>, β<sub>3</sub>, and θ (i.e. β<sub>n-1</sub>& θ).
 
-**Figure 1.8:** Random Session Key (K<sub>R</sub>) along with the cipertexts of β<sub>2</sub>, β<sub>3</sub>, and θ (i.e. β<sub>n-1</sub>& θ) are decrypted through the Hybrid Decryption module.
+**Figure 1.8:** Random Session Key (K<sub>R</sub>) along with the cipertexts of β<sub>2</sub>, β<sub>3</sub>, and θ (i.e. β<sub>n-1</sub>& θ) are ready for the Hybrid Decryption module.
 
-**Figure 1.9:** Bob's Private Key A (K<sub>A</sub><sup>-1</sup>) is the corresponding private key to Bob's Public Key A ((K<sub>A</sub>). Bob's Private Key B (K<sub>B</sub><sup>-1</sup>) is the corresponding private key to Bob's Public Key B ((K<sub>B</sub>). They
+**Figure 1.9:** Bob's Private Key A (K<sub>A</sub><sup>-1</sup>) is the corresponding private key to Bob's Public Key A ((K<sub>A</sub>). Bob's Private Key B (K<sub>B</sub><sup>-1</sup>) is the corresponding private key to Bob's Public Key B ((K<sub>B</sub>). They are both ready for the Hybrid Decryption module.
 
+**Figure 1.10:** The Excess Ciphertext (β<sub>E</sub>) is fetched in from the Service Node of sender Alice (i.e. IMSP Australia) and is ready for the Hybrid Decryption module.
 
-Random Session Key (K<sub>R</sub>) along with the cipertexts of β<sub>2</sub>, β<sub>3</sub>, and θ (i.e. β<sub>n-1</sub>& θ) are decrypted through the Hybrid Decryption module.
+**Figure 1.11:** Before the deciphering process happens in the Hybrid Decryption module, all the ciphertext splices have to be in place. Assuming all of them from figure 1.8-10 are already in place, we'll see θ being deciphered first by ESDSA algorithm.
+
+ECDSA<sup>K</sup><sub>B</sub><sup>-1</sup>(θ) ⇒ β<sub>1</sub>
+XXTEA<sup>K</sup><sub>R</sub><sup>-1</sup>(BLOWFISH<sup>K</sup><sub>R</sub><sup>-1</sup>(β<sub>1</sub> + β<sub>1</sub> + β<sub>1</sub>)) ⇒ M
+
+Finally, the plaintext is revealed and delivered to Bob.
 
 ### 秘鑰/信息疑義<br>Key/Message Equivocation
 
