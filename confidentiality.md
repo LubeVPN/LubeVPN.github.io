@@ -52,6 +52,7 @@ Finally, the cipertexts of β<sub>2</sub>, β<sub>3</sub>, and θ (i.e. β<sub>n
 
 **Figure 1.11:** Before the deciphering process happens in the Hybrid Decryption module, all the ciphertext splices have to be in place. Assuming all of them from figure 1.8-10 are already in place, we'll see θ being deciphered first by ESDSA algorithm.
 
+{: style="color: grey; font-size: 170%;"}
 ECDSA<sup>K</sup><sub>B</sub><sup>-1</sup>(θ) ⇒ β<sub>1</sub>
 XXTEA<sup>K</sup><sub>R</sub><sup>-1</sup>(BLOWFISH<sup>K</sup><sub>R</sub><sup>-1</sup>(β<sub>1</sub> + β<sub>1</sub> + β<sub>1</sub>)) ⇒ M
 
