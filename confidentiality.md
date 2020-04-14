@@ -54,9 +54,13 @@ Finally, the cipertexts of β<sub>2</sub>, β<sub>3</sub>, and θ (i.e. β<sub>n
 
 {: style="color: grey; font-size: 170%;"}
 ECDSA<sup>K</sup><sub>B</sub><sup>-1</sup>(θ) ⇒ β<sub>1</sub>
+
+Combining β<sub>1</sub> with the rest of its siblings (i.e. β<sub>2</sub>, β<sub>3</sub>) that were sliced at Alice's side, Bob can now decrypt everything back to the plaintext as follows:
+
+{: style="color: grey; font-size: 170%;"}
 XXTEA<sup>K</sup><sub>R</sub><sup>-1</sup>(BLOWFISH<sup>K</sup><sub>R</sub><sup>-1</sup>(β<sub>1</sub> + β<sub>1</sub> + β<sub>1</sub>)) ⇒ M
 
-Finally, the plaintext is revealed and delivered to Bob.
+Finally, the plaintext (M) is revealed and delivered to Bob.
 
 ### 秘鑰/信息疑義<br>Key/Message Equivocation
 
