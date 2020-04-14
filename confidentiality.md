@@ -14,16 +14,9 @@ Most of the conventional instant messenger systems (IMS) are built on a centrali
 
 
 
-**Figure 1.1:** Alice holds the two public keys given by Bob, i.e. K<sub>A</sub> & K<sub>B</sub>, because Alice and Bob have performed [out-of-band authentication](../authentication). Note that both of their devices manage their own cryptographic keys. In fact, all keys in Citium are generated or derived on-device. Private keys are never sent to anyone else, not even to the service nodes.
+**Figure 1.1:** Alice holds the two public keys given by Bob, i.e. K<sub>A</sub> & K<sub>B</sub>, because Alice and Bob have performed [out-of-band authentication](../authentication). Note that both of their devices manage their own cryptographic keys. In fact, all keys in Citium are generated or derived on-device. Private keys are never sent to anyone else, not even to the service nodes. Both public keys are used in the Hybrid Encryption module, which combines the deniability of a public-key cryptosystem, the efficiency of a symmetric-key cryptosystem, and the additional protection of threshold cryptosystem.
 
-**Figure 1.2:** Most instant messenger systems are designed that messages are directly pushed onto the client apps of the intended recipients. However, in Citium Instant Messenger system, push notifications are limited to a generic text reminder (i.e. "You have a new message.")(G) being sent to the intended recipients. The intended recipients are required to fetch in the messages on their own, which will be explained later in the data flow cycle. For now, Alice sends two pieces of information to Bob's service node IMSP Bolivia in case Bob is not currently online. One is the generic text reminder (i.e. "You have a new message."); and the other is a Random Session Key (K<sub>R</sub>).
-
-**Figure 1.3:** Citium Instant Messenger (CIM) is an Off-the-Record Messaging (OTR) system. CIM  user Alice posts* a message to another Citium user Bob. Here, Alice's message is converted into a plaintext (M). M and K<sub>R</sub> are going to be processed through the Hybrid Encryption module as shown.
-
-{: .box-success}
-__*__  We use the word "post" instead of "send" because it makes more sense in the communication network of Citium, which combines the beauty of both cryptography and steganography. But what is steganography? Imagine the word "post" in the sense of Alice posting many anonymous and randomly placed classified ads on multiple newspapers around the world so everyone can see but only the intended recipient Bob knows how to locate them all and make sense of the underlying message. This practice, called steganography, is the flip side of cryptography. In cryptography, everyone involved knows a message has been sent. What's not known — except to the decoder — is the content of the message. Steganography hides the fact that a message was even sent, usually by hiding it in plain sight.(In the movie "A Beautiful Mind," the main character, played by Russell Crowe, becomes convinced that the Communists are hiding messages inside news stories and loses his mind trying to decipher them.)
-
-**Figure 1.4:** In order to understand IMTM and Ciphertexts (β<sub>N-1</sub>& θ), we must first find out what has happened in the Hybrid Encryption module, which combines the convenience of a public-key cryptosystem, the efficiency of a symmetric-key cryptosystem, and the additional protection of threshold cryptosystem.
+**Figure 1.2:** Citium Instant Messenger (CIM) is an Off-the-Record Messaging (OTR) system. CIM  user Alice posts* a message to another Citium user Bob. Here, Alice's message is converted into a plaintext (M). M and Random Session Key (K<sub>R</sub>) are going to be processed through the Hybrid Encryption module as follows:
 
 Plaintext (M) is first encrypted by the [XXTEA](https://en.wikipedia.org/wiki/XXTEA) and [Blowfish](https://en.wikipedia.org/wiki/Blowfish_(cipher)) algorithms with the Random Session Key (K<sub>R</sub>) resulting in a ciphertext (β). Splice β into n ciphertexts; and suppose n = 3, we have β<sub>1</sub>, β<sub>2</sub> and β<sub>3</sub>.
 
@@ -38,27 +31,34 @@ ECDSA<sup>K</sup><sub>B</sub>(β<sub>1</sub> + ECDSA<sup>K</sup><sub>A</sub>(K<s
 
 Finally, the cipertexts of β<sub>2</sub>, β<sub>3</sub>, and θ (i.e. β<sub>n-1</sub>& θ) are ready for IMTM. Note that β<sub>1</sub> is not needed here because it has already been encapsulated in θ.
 
+{: .box-success}
+__*__  We use the word "post" instead of "send" because it makes more sense in the communication network of Citium, which combines the beauty of both cryptography and steganography. But what is steganography? Imagine the word "post" in the sense of Alice posting many anonymous and randomly placed classified ads on multiple newspapers around the world so everyone can see but only the intended recipient Bob knows how to locate them all and make sense of the underlying message. This practice, called steganography, is the flip side of cryptography. In cryptography, everyone involved knows a message has been sent. What's not known — except to the decoder — is the content of the message. Steganography hides the fact that a message was even sent, usually by hiding it in plain sight.(In the movie "A Beautiful Mind," the main character, played by Russell Crowe, becomes convinced that the Communists are hiding messages inside news stories and loses his mind trying to decipher them.)
+
+**Figure 1.3:** Most instant messenger systems are designed that messages are directly pushed onto the client apps of the intended recipients. However, in Citium Instant Messenger system, push notifications are limited to a generic text reminder (i.e. "You have a new message.")(G) being sent to the intended recipients. The intended recipients are required to fetch in the messages on their own, which will be explained later in the data flow cycle. For now, Alice sends two pieces of information to Bob's service node IMSP Bolivia in case Bob is not currently online. One is the generic text reminder (i.e. "You have a new message.")(G), and the other is the ciphertext (θ) that encapsulates the Random Session Key (K<sub>R</sub>) and one of the randomly chosen spliced ciphertext (β<sub>1</sub>).
+
+**Figure 1.4:** The cipertexts of β<sub>2</sub>, β<sub>3</sub>(i.e. β<sub>n-1</sub>) are sent to the Citium network by indiscriminate mesh-tree multicast (IMTM) which distributes indiscriminately to as many Citium nodes (i.e. service nodes and user nodes) as possible by mesh-tree multicasting, effectively preempting [link analysis](https://en.wikipedia.org/wiki/Link_analysis) and eliminating data breach due to failure at any single point.
+
 **Figure 1.5:** If plaintext (M) is larger than 1024 bytes, anything beyond that are separated into a single splice (i.e. the excess ciphertext (β<sub>E</sub>) uploaded onto the service node of Alice (i.e. IMSP Australia). IMSP Australia will keep the β<sub>E</sub> for 24 hours before permanently deleting it. This does not only prevent running out of disk space but also further maximizes the deniability nature of Citium.
 
-**Figure 1.6:** Service node of the intended recipient Bob (i.e. IMSP Bolivia) pushes the generic notification ("You have a new message.") (G) and the Random Session Key (K<sub>R</sub>) to Bob's user node.
+**Figure 1.6:** Service node of the intended recipient Bob (i.e. IMSP Bolivia) pushes the generic notification ("You have a new message.") (G) and the ciphertext (θ) that encapsulates the Random Session Key (K<sub>R</sub>) and one of the randomly chosen spliced ciphertext (β<sub>1</sub>) to Bob's node.
 
-**Figure 1.7:** At this point, Bob is fully aware of the fact that someone has tried to post a message onto the Citium network with him as the intended recipient. Bob pings the whole Citium network with IMTM to fetch in the cipertexts of β<sub>2</sub>, β<sub>3</sub>, and θ (i.e. β<sub>n-1</sub>& θ).
+**Figure 1.7:** At this point, Bob is fully aware of the fact that someone has tried to post a message onto the Citium network with him as the intended recipient. Bob pings the whole Citium network with IMTM to fetch in the cipertexts of β<sub>2</sub>, β<sub>3</sub>, (i.e. β<sub>n-1</sub>).
 
-**Figure 1.8:** Random Session Key (K<sub>R</sub>) along with the cipertexts of β<sub>2</sub>, β<sub>3</sub>, and θ (i.e. β<sub>n-1</sub>& θ) are ready for the Hybrid Decryption module.
+**Figure 1.8:** Now, the cipertexts of β<sub>2</sub>, β<sub>3</sub>, and θ are ready for the Hybrid Decryption module.
 
 **Figure 1.9:** Bob's Private Key A (K<sub>A</sub><sup>-1</sup>) is the corresponding private key to Bob's Public Key A ((K<sub>A</sub>). Bob's Private Key B (K<sub>B</sub><sup>-1</sup>) is the corresponding private key to Bob's Public Key B ((K<sub>B</sub>). They are both ready for the Hybrid Decryption module.
 
 **Figure 1.10:** The Excess Ciphertext (β<sub>E</sub>) is fetched in from the Service Node of sender Alice (i.e. IMSP Australia) and is ready for the Hybrid Decryption module.
 
-**Figure 1.11:** Before the deciphering process happens in the Hybrid Decryption module, all the ciphertext splices have to be in place. Assuming all of them from figure 1.8-10 are already in place, we'll see θ being deciphered first by ESDSA algorithm.
+**Figure 1.11:** Before the deciphering process happens in the Hybrid Decryption module, all the ciphertext splices have to be in place. Assuming all of them from figure 1.8-10 are already in place, we'll see θ being deciphered first by ESDSA algorithm resulting in β<sub>1</sub> and K<sub>R</sub>.
 
 {: style="color: grey; font-size: 170%;"}
-ECDSA<sup>K</sup><sub>B</sub><sup>-1</sup>(θ) ⇒ β<sub>1</sub>
+ECDSA<sup>K</sup><sub>A</sub><sup>-1</sup>(ECDSA<sup>K</sup><sub>B</sub><sup>-1</sup>(θ)) ⇒ β<sub>1</sub>, K<sub>R</sub>
 
 Combining β<sub>1</sub> with the rest of its siblings (i.e. β<sub>2</sub>, β<sub>3</sub>) that were sliced at Alice's side, Bob can now decrypt everything back to the plaintext as follows:
 
 {: style="color: grey; font-size: 170%;"}
-XXTEA<sup>K</sup><sub>R</sub><sup>-1</sup>(BLOWFISH<sup>K</sup><sub>R</sub><sup>-1</sup>(β<sub>1</sub> + β<sub>1</sub> + β<sub>1</sub>)) ⇒ M
+XXTEA<sup>K</sup><sub>R</sub><sup>-1</sup>(BLOWFISH<sup>K</sup><sub>R</sub><sup>-1</sup>(β<sub>1</sub> + β<sub>2</sub> + β<sub>3</sub>)) ⇒ M
 
 Finally, the plaintext (M) is revealed and delivered to Bob.
 
@@ -78,8 +78,7 @@ The key appearance equivocation is a measure for the strength of a cipher system
 
 **IMTM門限加密系統** 意味著 __一個消息的信息摘要是被加密算法劃分成多個部件__，這些部件又通過網狀樹多點傳送、不加選擇地分佈到盡可能多的節點上，有效地抑止關聯鏈結分析的可能，和去除任何因為單點攻擊成功而導致的數據洩露。
 
-**Indiscriminate mesh-tree multicast (IMTM) threshold cryptosystem** means that __a message digest is cryptographically split into multiple parts__, which in turn are distributed indiscriminately to as many nodes as possible by mesh-tree multicasting, effectively preempting link analysis[https://en.wikipedia.org/wiki/Link_analysis] and eliminating data breach due to failure at any single point.
-
+**Indiscriminate mesh-tree multicast (IMTM) threshold cryptosystem** means that __a message digest is cryptographically split into multiple parts__, which in turn are distributed indiscriminately to as many nodes as possible by mesh-tree multicasting, effectively preempting [link analysis](https://en.wikipedia.org/wiki/Link_analysis) and eliminating data breach due to failure at any single point.
 
 任何人都可以用任何密鑰解密信息摘要的部件或其任何組合（達到 「密鑰疑義」的效果），但所產生的明文將是不同的信息（即「模糊但似是而非的明文」），除非所有部分都被正確的密鑰解密。為了使預期收件人（Bob）解密來自發件人（Alice）的消息，Bob必須獲取指定的私鑰來解密消息。 Bob必須通過 __無差別網樹多點傳送__（IMTM）來盡可能多的節點作請求，直到收集齊全消息摘要密鑰為止。__只有接訊者（Bob）才能將所有消息摘要密鑰重新統一併起來才能生成有效的私鑰，成功解鎖Alice留給她的加密的信息__。
 
