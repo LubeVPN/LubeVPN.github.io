@@ -18,11 +18,32 @@ Citium is in stark contrast to the conventional approach. Citium assumes that an
 
 Citium takes full advantage of these time-tested proven technologies to create a free, open-source, fully decentralized, [permissionless blockchain](https://en.wikipedia.org/wiki/Blockchain#Permissionless) that features [cryptanalytically unbreakable](https://en.wikipedia.org/wiki/Information-theoretic_security) cryptosystems and InfoSec mechanisms,  such as [**Hybrid Cryptosystem**](https://en.wikipedia.org/wiki/Hybrid_cryptosystem), [threshold cryptosystem](https://en.wikipedia.org/wiki/Threshold_cryptosystem), **indiscriminate mesh-tree multicast** (IMTM), and **sockpuppetry**. Citium's current build is capable of serving **text**, **image**, **video** and **real-time voice** data. Decentralized Apps (dApps) built on Citium can enjoy extraordinary data security features, such as **deniability**, which is well-suited to build [**Off-the-Record Messaging (OTR)**](https://en.wikipedia.org/wiki/Off-the-Record_Messaging) **Instant Messenger System**.
 
-### 服務器IP地址混淆<br>Server IP Obfuscation
+{: .box-success}
+**服務器IP地址混淆：** 服務器IP地址混淆（SIPO）是西蒂姆（Citium）的獨特功能，可以讓HTML5的內容訪問者既可以訪問到內容但無從得知其服務器的來源IP地址，不單能有效 **防止分散式阻斷服務攻擊（DDoS）**，更可以從IP地理情報層面杜絕情報收集，有效 **防止網絡服務器被拆卸和扣押**。
+<br><br>
+**Server IP Obfuscation:** Server IP Obfuscation (SIPO) is a unique feature of Citium. It can hide a server's originating IP address from its visitors while letting them visit HTML5-based content on the server seamlessly. Not only can SIPO effectively **prevent distributed denial-of-service (DDoS) attacks**, but it can also curtail IP intelligence gathering (e.g. geolocation lookup), effectively **preventing web server takedown and seizure**.
 
-服務器IP地址混淆（SIPO）是西蒂姆（Citium）的獨特功能，可以讓HTML5的內容訪問者既可以訪問到內容但無從得知其服務器的來源IP地址，不單能有效 **防止分散式阻斷服務攻擊（DDoS）**，更可以從IP地理情報層面杜絕情報收集，有效 **防止網絡服務器被拆卸和扣押**。
+## 可抵賴可推诿 ✓<br>Deniability ✓
 
-Server IP Obfuscation (SIPO) is a unique feature of Citium. It can hide a server's originating IP address from its visitors while letting them visit HTML5-based content on the server seamlessly. Not only can SIPO effectively **prevent distributed denial-of-service (DDoS) attacks**, but it can also curtail IP intelligence gathering (e.g. geolocation lookup), effectively **preventing web server takedown and seizure**.
+很多中心化通訊系統自稱帶有 *不可否認性* 作為訊息安全功能之一，因為他們的用戶本身目標就是希望能系統化地讓溝通對手承擔法律責任。西蒂姆（Citium）不是為這種目標而設計的，而是提供了完全相反的信息安全功能：**可推諉性**。「可推諉性」是針對[**強制披露**](https://en.wikipedia.org/wiki/Key_disclosure_law)和其後患的最後一道防線。
+
+一些服務商，比如說Facebook，試圖提供可推諉性，但卻沒能排除他們自己的嫌疑。這裡直接引用2017年5月18日Facebook 發布的、基於他們的 Facebook Messenger[《秘密對話技術白皮書》](https://about.fb.com/news/2016/07/messenger-starts-testing-end-to-end-encryption-with-secret-conversations/)中的一段話。
+
+> *第三方可推諉性*屬性確保了**Facebook以外的任何一方**都無法通過密碼學方法確定報告的有效性。
+
+這意味著Facebook仍然可以自願提交或被強制、脅迫披露，更不用說數據洩露的可能性了。這是不理想的可推諉性設計方案。而在西蒂姆（Citium）環境中則提供了完全的可推諉性。任何集中的一方的信息管理人員的或中轉的電腦，如Facebook信息安全管理員或其服務器，都無法以任何形式地背離可推諉性這一點。
+
+西蒂姆（Citium）去中心化系統協議背後的主要動機是為對話參與者提供一個可推諉的溝通網絡，同時保持對話的機密性，例如現實生活中的私人對話，或新聞採購中的記錄。 與之相反的是，某些中心化通訊系統卻輸出可以稍後用作通訊事件和參與者身份的可驗證記錄。
+
+Many centralized communication systems claim to have *non-repudiability* as one of their infosec features because their users purposely want to systematically hold their communicating parties legally accountable. Citium does not cater to that purpose. In fact, Citium offers the complete opposite: **deniability**, which is the last line of defense against [**forced disclosure**](https://en.wikipedia.org/wiki/Key_disclosure_law) and its repercussions.
+
+Some service providers, such as Facebook, are trying to offer deniability but they fail to rule themselves out of the picture. Here a direct quote from the [Technical Whitepaper of Messenger Secret Conversations](https://about.fb.com/news/2016/07/messenger-starts-testing-end-to-end-encryption-with-secret-conversations/) in Facebook Messenger published on May 18, 2017:
+
+> "[T]he *third-party deniability* property ensures that **no party outside of Facebook** can cryptographically determine the validity of a report."
+
+It implies that Facebook can still be voluntarily submitting to or be compelled by forced disclosure and coercion, not to mention the chance of data breach. This is not ideal at all. In the Citium environment, full deniability is offered. No centralized party (e.g. data administrator) or mediatory machines, (e.g. Facebook's servers), can compromise deniability in any way.  
+
+The primary motivation behind Citium decentralized system protocol is to provide a deniable communication network for the conversation participants while keeping conversations confidential, like a private conversation in real life, or off the record in journalism sourcing. This is in contrast with some other centralized communication systems that produce output which can be later used as a verifiable record of the communication event and the identities of the participants.
 
 ## SafeMail & SDTP
 
