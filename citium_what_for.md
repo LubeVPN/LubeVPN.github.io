@@ -41,7 +41,7 @@ Some service providers, such as Facebook, are trying to offer deniability but th
 
 > "[T]he *third-party deniability* property ensures that **no party outside of Facebook** can cryptographically determine the validity of a report."
 
-It implies that Facebook can still be voluntarily submitting to or be compelled by forced disclosure and coercion, not to mention the chance of data breach. This is not ideal at all. In the Citium environment, full deniability is offered. No centralized party (e.g. data administrator) or mediatory machines, (e.g. Facebook's servers), can compromise deniability in any way.  
+It implies that Facebook can still be voluntarily submitting to or be compelled by forced disclosure and coercion, not to mention the chance of data breach. This is not ideal at all. In the Citium environment, full deniability is offered. No centralized party (e.g. data administrator) or mediatory machines (e.g. Facebook's servers) can compromise deniability in any way.  
 
 The primary motivation behind Citium decentralized system protocol is to provide a deniable communication network for the conversation participants while keeping conversations confidential, like a private conversation in real life, or off the record in journalism sourcing. This is in contrast with some other centralized communication systems that produce output which can be later used as a verifiable record of the communication event and the identities of the participants.
 
