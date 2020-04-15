@@ -2,7 +2,7 @@
 layout: page
 title: 分身馬甲帳號
 subtitle: Sockpuppetry
-bigimg: /img/pgy.jpg
+bigimg: /img/crowded.jpg
 googlefonts: ["Roboto Condensed"]
 ---
 
@@ -10,11 +10,10 @@ googlefonts: ["Roboto Condensed"]
 
 [Sockpuppet](https://en.wikipedia.org/wiki/Sockpuppet_(Internet)) is a [software measures of countersurveillance](https://en.wikipedia.org/wiki/Countersurveillance#Software_countermeasures). In Citium, sockpuppetry dictates that __anyone can pretend to be someone else__. The user account nickname is non-exclusive! No user knows for sure which account belongs to whom no matter from which perspective one looks. Sockpuppetry dictates that **a user cannot communicate directly to another user but only indirectly through the sea of sockpuppet user accounts** in Citium. All accounts are sockpuppets and everyone looks like an anti-surveillance decoy. An account can be communicating on behalf of the account holder or simply just sockpuppeting (communicating on behalf of other accounts by **indiscriminate mesh-tree multicast** (IMTM)). No one else can scrutinize or prove which account is communicating on behalf of whom except for the account holder him/herself.
 
-{: .box-warning}
-{: style="color: grey; font-size: 100%;"}
-**再更進一步增強可推諉性**，所有西蒂姆（Citium）節點上的數據生命週期都被限制了長度。舉例，身處在用戶移動節點上的消息摘要是默認在24小時後自焚的。
+{: .box-success}
+**再更進一步增強可推諉性**，所有西蒂姆（Citium）節點上的數據生命週期都被限制了長度。舉例，身處在用戶移動節點上的消息摘要是默認在24小時後 **自焚** 的。當事人可以直接告訴脅迫者，系統早已按照公佈的時間表故意抹掉自己的信息，因此不能交出信息。
 <br><br>
-**To further maximize deniability**, all data have limited life expectancy on Citium nodes. For example, message digests sitting on a user's mobile node are set to **self-destruct countdown** of 24 hours.
+**To further maximize deniability**, all data have limited life expectancy on Citium nodes. For example, cryptographically split multiple parts of message digests sitting on users' mobile nodes are set to **self-destruct countdown** of 24 hours. The parties can just tell the coercer that they deliberately erased their message according to a published schedule, and therefore cannot surrender them.
 
 ### 下一章 / NEXT CHAPTER
 [**機密和完整性**](../confidentiality)<br>
