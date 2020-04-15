@@ -6,25 +6,23 @@ bigimg: /img/web.jpg
 googlefonts: ["Roboto Condensed"]
 ---
 
-西蒂姆（Citium）是一個免費的、開源代碼的、完全去中心化的、[無需准入許可的區塊鏈系統](https://en.wikipedia.org/wiki/Blockchain#Permissionless)，並採用了密碼學上堅不可摧的信息安全机制，例如 __無差別網樹多點傳送__（IMTM）__門限加密系統__ 和 __分身馬甲帳號__。西蒂姆（Citium）當前的版本能兼容 __文字__、__音像__、__視像__ 和 __即時音訊__ 的數據。使用西蒂姆（Citium）建造的去中心化應用程序（dApp）能享有非凡的數據安全功能，例如 __可推诿性__，非常適合用於建造 **[OTS無記錄通訊](https://en.wikipedia.org/wiki/Off-the-Record_Messaging)即時通訊系統**（OTS-IMS）。
+訴諸新穎性和權威性是謬誤的思維。但不幸地，常規的網絡安全一直專注於由自詡的專家和看似值得信賴的管理機構所兜售的更新穎技術。這些技術都屢屢令人失望，歷來有被詳盡記載和被檢討，例如[瑞士Crypto公司的安全漏洞機器](https://en.wikipedia.org/wiki/Crypto_AG#Compromised_machines)，[Skype的竊聽後門](https://en.wikipedia.org/wiki/Skype_security#Eavesdropping_by_design)和[其他臭名昭著的數據洩露](https://en.wikipedia.org/wiki/List_of_data_breaches)。
 
-Citium is a free, open-source, fully decentralized, [permissionless blockchain](https://en.wikipedia.org/wiki/Blockchain#Permissionless) that features cryptanalytically unbreakable InfoSec mechanisms (e.g. **indiscriminate mesh-tree multicast** (IMTM) [**threshold cryptosystem**](https://en.wikipedia.org/wiki/Threshold_cryptosystem) and **sockpuppetry**). Citium's current build is capable of serving **text**, **image**, **video** and **real-time voice** data. Decentralized Apps (dApps) built on Citium can enjoy extraordinary data security features, such as **deniability**, which is well-suited to build [**Off-the-Record Messaging (OTR)**](https://en.wikipedia.org/wiki/Off-the-Record_Messaging) **Instant Messenger System**.
+西蒂姆（Citium）與常規的網絡安全辦法形成了鮮明的對比。西蒂姆（Citium）「單個權益持份者」（單個用戶節點或單個服務節點）本質上都是邪惡的。單個權益持份者把持任何的權力都可能對某些人產生不利影響。幸運的是，現代密碼學技術賦予了密碼系統設計者空間施展，他們可以剝奪傳統意義上的利益相關者所擁有的權力，如授權權、持有用戶的賬戶ID、密碼和個人信息等，而不影響密碼系統的整體可用性。
+
+西蒂姆（Citium）充分利用了這些久經考驗的技術，創製了一個免費的、開源代碼的、完全去中心化的、[無需准入許可的區塊鏈系統](https://en.wikipedia.org/wiki/Blockchain#Permissionless)，並採用了密碼學上堅不可摧的信息安全机制，例如 __混合加密系統__、__門限加密系統__、__無差別網樹多點傳送__（IMTM） 和 __分身馬甲帳號__。西蒂姆（Citium）當前的版本能兼容 __文字__、__音像__、__視像__ 和 __即時音訊__ 的數據。使用西蒂姆（Citium）建造的去中心化應用程序（dApp）能享有非凡的數據安全功能，例如 __可推诿性__，非常適合用於建造 **[OTS無記錄通訊](https://en.wikipedia.org/wiki/Off-the-Record_Messaging)即時通訊系統**（OTS-IMS）。
+
+It is fallacious thinking to appeal to novelty and authority. But unfortunately, conventional cybersecurity has been focusing on ever fancier technologies peddled by self-proclaimed experts and seemingly trustworthy governing bodies. A laundry list of disappointments has been documented and reviewed, such as [Swiss Crypto AG's compromised machines](https://en.wikipedia.org/wiki/Crypto_AG#Compromised_machines), [Skype's eavesdropping by design](https://en.wikipedia.org/wiki/Skype_security#Eavesdropping_by_design) and [other infamous data breaches](https://en.wikipedia.org/wiki/List_of_data_breaches).
+
+Citium is in stark contrast to the conventional approach. Citium assumes that any single stakeholder (i.e. user node & service node) is evil by nature. Whatever power a stakeholder holds may adversely affect someone. Luckily, modern cryptography technologies bestow the power on cryptosystem designers who can mutilate the power that is conventionally available to stakeholders, such as the rights to authorize, and to hold users' account ID, password, and personal information, without affecting the overall usability of the cryptosystem.
+
+Citium takes full advantage of these time-tested proven technologies to create a free, open-source, fully decentralized, [permissionless blockchain](https://en.wikipedia.org/wiki/Blockchain#Permissionless) that features [cryptanalytically unbreakable](https://en.wikipedia.org/wiki/Information-theoretic_security) cryptosystems and InfoSec mechanisms,  such as [**Hybrid Cryptosystem**](https://en.wikipedia.org/wiki/Hybrid_cryptosystem), [threshold cryptosystem](https://en.wikipedia.org/wiki/Threshold_cryptosystem), **indiscriminate mesh-tree multicast** (IMTM), and **sockpuppetry**. Citium's current build is capable of serving **text**, **image**, **video** and **real-time voice** data. Decentralized Apps (dApps) built on Citium can enjoy extraordinary data security features, such as **deniability**, which is well-suited to build [**Off-the-Record Messaging (OTR)**](https://en.wikipedia.org/wiki/Off-the-Record_Messaging) **Instant Messenger System**.
 
 ### 服務器IP地址混淆<br>Server IP Obfuscation
 
 服務器IP地址混淆（SIPO）是西蒂姆（Citium）的獨特功能，可以讓HTML5的內容訪問者既可以訪問到內容但無從得知其服務器的來源IP地址，不單能有效 **防止分散式阻斷服務攻擊（DDoS）**，更可以從IP地理情報層面杜絕情報收集，有效 **防止網絡服務器被拆卸和扣押**。
 
 Server IP Obfuscation (SIPO) is a unique feature of Citium. It can hide a server's originating IP address from its visitors while letting them visit HTML5-based content on the server seamlessly. Not only can SIPO effectively **prevent distributed denial-of-service (DDoS) attacks**, but it can also curtail IP intelligence gathering (e.g. geolocation lookup), effectively **preventing web server takedown and seizure**.
-
-## 西蒂姆的世界觀<br>Citium's Worldview
-
-訴諸新穎性和權威性是謬誤的思維。但不幸地，常規的網絡安全一直專注於由自詡的專家和看似值得信賴的管理機構所兜售的更新穎技術。這些技術都屢屢令人失望，歷來有被詳盡記載和被檢討，例如[瑞士Crypto公司的安全漏洞機器](https://en.wikipedia.org/wiki/Crypto_AG#Compromised_machines)，[Skype的竊聽後門](https://en.wikipedia.org/wiki/Skype_security#Eavesdropping_by_design)和[其他臭名昭著的數據洩露](https://en.wikipedia.org/wiki/List_of_data_breaches)。
-
-西蒂姆（Citium）與常規的網絡安全辦法形成了鮮明的對比。 西蒂姆（Citium）假定任何中央管理機構或任何「單個權益持份者」（單個用戶節點或單個服務節點）本質上都是邪惡的。單個權益持份者把持任何的權力都可能對某些人產生不利影響，因此，西蒂姆（Citium）剝削了權益持份者傳統來說持有的功能，例如授權的權利，以及持有用戶帳戶ID、密碼和個人信息的權利。
-
-It is fallacious thinking to appeal to novelty and authority. But unfortunately, conventional cybersecurity has been focusing on ever fancier technologies peddled by self-proclaimed experts and seemingly trustworthy governing bodies. A laundry list of disappointments has been documented and reviewed, such as [Swiss Crypto AG's compromised machines](https://en.wikipedia.org/wiki/Crypto_AG#Compromised_machines), [Skype's eavesdropping by design](https://en.wikipedia.org/wiki/Skype_security#Eavesdropping_by_design) and [other infamous data breaches](https://en.wikipedia.org/wiki/List_of_data_breaches).
-
-Citium is in stark contrast to the conventional approach. Citium assumes that any single stakeholder (i.e. user node & service node) is evil by nature. Whatever power a stakeholder holds may adversely affect someone; therefore, Citium mutilates the power that is conventionally available to stakeholders, such as the rights to authorize, and to hold users' account ID, password, and personal information.
 
 ## SafeMail & SDTP
 
@@ -40,7 +38,7 @@ The communication mechanism used by both CIM and SafeMail is the "Safe Data Tran
 
 大多數即時通訊系統都設計為將通訊信息主動推播到預期收件人的客戶端應用程序上。但是，在西蒂姆（Citium）即時聊天系統中，主動推播通知僅限於發送給預期的收件人的通用文本提醒（例如「您有一個新的消息」）。預期的收件人需要自己去拉取消息。
 
-Most instant messenger systems are designed that messages are directly pushed onto the client apps of the intended recipients. However, in Citium Instant Messenger system, push notifications are limited to a generic text reminder (e.g. "You have a new message.") sent to the intended recipients. The intended recipients are required to fetch the messages on their own.
+Most instant messenger systems are designed that messages are directly pushed onto the client apps of the intended recipients. However, in Citium Instant Messenger system, push notifications are limited to a generic text reminder (e.g. "You have a new message.") being sent to the intended recipients. The intended recipients are required to fetch the messages on their own.
 
 ## 門限加密系統<br>Threshold Cryptography
 
