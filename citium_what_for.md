@@ -6,7 +6,7 @@ bigimg: /img/node.jpg
 googlefonts: ["Roboto Condensed"]
 ---
 
-訴諸新穎性和權威性是謬誤的思維。但不幸地，常規的網絡安全一直專注於由自詡的專家和看似值得信賴的管理機構所兜售的更新穎技術。這些技術都屢屢令人失望，歷來有被詳盡記載和被檢討，例如[瑞士Crypto公司的安全漏洞機器](https://en.wikipedia.org/wiki/Crypto_AG#Compromised_machines)，[Skype的竊聽後門](https://en.wikipedia.org/wiki/Skype_security#Eavesdropping_by_design)和[其他臭名昭著的數據洩露](https://en.wikipedia.org/wiki/List_of_data_breaches)。
+訴諸新穎性和權威性是謬誤的思維。但不幸地，常規的網絡安全一直專注於由自詡的專家和看似值得信賴的管理機構所兜售的更新穎技術。這些技術都屢屢令人失望，歷來有被詳盡記載和被檢討，例如[瑞士Crypto公司的安全漏洞機器](https://en.wikipedia.org/wiki/Crypto_AG#Compromised_machines)、[Skype的竊聽後門](https://en.wikipedia.org/wiki/Skype_security#Eavesdropping_by_design)和[其他臭名昭著的數據洩露](https://en.wikipedia.org/wiki/List_of_data_breaches)。
 
 西蒂姆（Citium）與常規的網絡安全辦法形成了鮮明的對比。西蒂姆（Citium）「單個權益持份者」（單個用戶節點或單個服務節點）本質上都是邪惡的。單個權益持份者把持任何的權力都可能對某些人產生不利影響。幸運的是，現代密碼學技術賦予了密碼系統設計者空間施展，他們可以剝奪傳統意義上的利益相關者所擁有的權力，如授權權、持有用戶的賬戶ID、密碼和個人信息等，而不影響密碼系統的整體可用性。
 
