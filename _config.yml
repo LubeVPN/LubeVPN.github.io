@@ -41,8 +41,8 @@ navbar-links:
     #- 無需准入或許可<br>Permissionless: "permissionless"
     #- 可推諉身份驗證性<br>Authentication: "authentication"
     #- 分身馬甲帳號<br>Sockpuppetry: "sockpuppetry"
-    - 機密和完整性<br>Conf. & Inty.: "confidentiality"
-    - 可用性<br>Availability: "availability"
+    - 機密|完整|可用性<br>Conf.|Int.|Avai.: "confidentiality"
+    #- 可用性<br>Availability: "availability"
     - 不可靠的中心化<br>Fallibility: "fallible_providers"
 
 
