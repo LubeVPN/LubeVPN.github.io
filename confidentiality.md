@@ -12,6 +12,8 @@ Most of the conventional instant messenger systems (IMS) are built on a centrali
 
 ![Cipher](/img/flow.svg "Citium Off-the-Record Messaging Instant Messenger System"){: .center-block :}
 
+
+
 **Figure 1.1:** Alice holds the two public keys given by Bob, i.e. K<sub>A</sub> & K<sub>B</sub>, because Alice and Bob have performed [out-of-band authentication](../authentication). Note that both of their devices manage their own cryptographic keys. In fact, all keys in Citium are generated or derived on-device. Private keys are never sent to anyone else, not even to the service nodes. Both public keys are used in the Hybrid Encryption module, which combines the deniability of a public-key cryptosystem, the efficiency of a symmetric-key cryptosystem, and the additional protection of threshold cryptosystem.
 
 **Figure 1.2:** Citium Instant Messenger (CIM) is an Off-the-Record Messaging (OTR) system. CIM  user Alice posts* a message to another Citium user Bob. Here, Alice's message is converted into a plaintext (M). M and Random Session Key (K<sub>R</sub>) are going to be processed through the Hybrid Encryption module as follows:
@@ -84,7 +86,7 @@ Anyone can decrypt a slice or any combination of the slices of a ciphertext by a
 
 {: .box-warning}
 {: style="color: grey; font-size: 100%;"}
-__加密分析學上無法破解__：除非某駭客能夠劫持擁有相關密文碎片的每個節點，然後使用只是理論上存在的量子計算機解密所有消息摘要密鑰，否則消息摘要密鑰在傳輸期間不會對消息的機密性造成任何威脅。
+__加密分析學上無法破解__：除非某駭客能夠劫持擁有相關密文碎片的每個節點，然後使用只是理論上存在的量子計算機解密所有密文碎片，否則密文碎片在傳輸期間不會對消息的機密性造成任何威脅。
 <br><br>
 __Cryptanalytically Unbreakable__: Unless some hackers can hijack every node that holds the pertaining sliced ciphertexts and decipher them all with a quantum computer that only exists in theory, nothing during transit of the pertaining sliced ciphertexts can threaten the confidentiality of the message.
 
