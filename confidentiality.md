@@ -6,9 +6,9 @@ bigimg: /img/conf.jpg
 googlefonts: ["Roboto Condensed"]
 ---
 
-大多數傳統即時通訊系統（IMS）是基於中心化身份驗證和授權機制去確保信息安全的，可惜任何中央化的系統都無可避免地需要承擔[數據洩露](https://en.wikipedia.org/wiki/Data_breach)的風險。（[詳述](../fallible_providers)）對比起來，西蒂姆（Citium）是由眾多節點網絡鋪墊出來的去中心化系統，在它的基礎上面搭建的IMS就不再需要承擔這種風險。舉例，假設兩個用戶試圖在西蒂姆（Citium）通訊。發件人是 Alice，預期收件人是 Bob。第三者是無法確認得知自己是否已經正確地解密得到 Alice 給 Bob 的訊息的，因為西蒂姆（Citium）用了以下的安全機制：1、[**PGP加密**](https://zh.wikipedia.org/zh-tw/PGP)；2、**秘鑰/信息疑義**；3、__無差別網樹多點傳送（IMTM）__**門限加密系統**。PGP太流行了，不需要再解釋了。但是「密鑰/消息疑義」比較少人認識，而「IMTM門限加密系統」是西蒂姆（Citium）獨有的，所以我們會花更多的時間來解釋它們的信息安全優勢。
+大多數傳統即時通訊系統（IMS）是基於中心化身份驗證和授權機制去確保信息安全的，可惜任何中央化的系統都無可避免地需要承擔[數據洩露](https://en.wikipedia.org/wiki/Data_breach)的風險。（[詳述](../fallible_providers)）對比起來，西蒂姆（Citium）是由眾多節點網絡鋪墊出來的去中心化系統，在它的基礎上面搭建的IMS就不再需要承擔這種風險。舉例，假設兩個用戶試圖在西蒂姆（Citium）通訊。發件人是 Alice，預期收件人是 Bob。第三者是無法確認得知自己是否已經正確地解密得到 Alice 給 Bob 的訊息的，因為西蒂姆（Citium）用了以下的安全機制：1、[**PGP加密**](https://zh.wikipedia.org/zh-tw/PGP)；2、__無差別網樹多點傳送（IMTM）__**門限加密系統**；3、**秘鑰/信息疑義**。PGP太流行了，不需要再解釋了。但是「密鑰/消息疑義」比較少人認識，而「IMTM門限加密系統」是西蒂姆（Citium）獨有的，所以我們會花更多的時間來解釋它們的信息安全優勢。
 
-Most of the conventional instant messenger systems (IMS) are built on a centralized authentication and authorization regime. Unfortunately, any centralized system is inherently susceptible to [data breach](https://en.wikipedia.org/wiki/Data_breach). ([More info here.](../fallible_providers)) In contract, IMS built on top of Citium, paved by a network of decentralized nodes, is not at risk. For example, suppose that two users are trying to communicate with each other on Citium. Sender is Alice and the intended recipient is Bob. No third party can know for sure if he or she has been correctly deciphering a message from Alice to Bob because Citium utilizes the following security mechanisms: 1. [**Pretty Good Privacy (PGP) Encryption**](https://en.wikipedia.org/wiki/Pretty_Good_Privacy); 2. **Key/Message Equivocation**; and 3. **indiscriminate mesh-tree multicast (IMTM) threshold cryptosystem**. PGP is too popular to need further explanation.  But key/message equivocation is less known and the IMTM threshold cryptosystem is unique to Citium so we are going to spend more time explaining their InfoSec advantages.
+Most of the conventional instant messenger systems (IMS) are built on a centralized authentication and authorization regime. Unfortunately, any centralized system is inherently susceptible to [data breach](https://en.wikipedia.org/wiki/Data_breach). ([More info here.](../fallible_providers)) In contract, IMS built on top of Citium, paved by a network of decentralized nodes, is not at risk. For example, suppose that two users are trying to communicate with each other on Citium. Sender is Alice and the intended recipient is Bob. No third party can know for sure if he or she has been correctly deciphering a message from Alice to Bob because Citium utilizes the following security mechanisms: 1. [**Pretty Good Privacy (PGP) Encryption**](https://en.wikipedia.org/wiki/Pretty_Good_Privacy); 2. **indiscriminate mesh-tree multicast (IMTM) threshold cryptosystem**; and 3. **Key/Message Equivocation**. PGP is too popular to need further explanation. But since the IMTM threshold cryptosystem is unique to Citium and key/message equivocation is less known, we are going to spend more time explaining their InfoSec advantages.
 
 ![Cipher](/img/flow.svg "Citium Off-the-Record Messaging Instant Messenger System"){: .center-block :}
 
@@ -62,18 +62,6 @@ XXTEA<sup>K</sup><sub>R</sub><sup>-1</sup>(BLOWFISH<sup>K</sup><sub>R</sub><sup>
 
 Finally, the correct plaintext (M) is revealed and delivered to Bob.
 
-### 秘鑰/信息疑義<br>Key/Message Equivocation
-
-In the Citium cryptosystem, an enemy hacker or a cryptanalyst might be able to intercept a ciphertext (C). There is a critical concept called key equivocation and message equivocation as shown in the diagram below. Enemy
-
-![Cipher](/img/equivocation.svg "Key/Message Equivocation"){: .center-block :}
-
-密码分析员成功破译文本的几率一般会随着文本长度的增加而增加。假设密码分析员同时拥有明文和密文，因此将更有能力快速找到密钥。密钥的外观等效性是指在已知明文攻击下的密钥的强度，而密钥等效性和消息等效性则是指在已知明文攻击下的密钥和明文攻击下的密钥强度。收到的密码文本越长，密码分析员发现密钥或明文的概率就越大。
-
-The key appearance equivocation will clearly approach zero faster than the key equivocation, because in the case of the key appearance equivocation it is assumed that the cryptanalyst also has the plaintext as well as the ciphertext. This extra knowledge will allow the cryptanalyst to determine the key more quickly on average.
-
-The key appearance equivocation is a measure for the strength of a cipher system under a known-plaintext attack for the key, while the key and message equivocation are a measure for the strength of a cipher system under a ciphertext only attack for the key and message respectively.
-
 ### IMTM門限加密系統<br>IMTM Threshold Cryptosystem
 
 **IMTM門限加密系統** 意味著 __一個消息的密文是被加密算法劃分成多個碎片__，這些碎片又通過網狀樹多點傳送、不加選擇地分佈到盡可能多的節點上，有效地抑止關聯鏈結分析的可能，和去除任何因為單點攻擊成功而導致的數據洩露。
@@ -89,6 +77,18 @@ In order for the intended recipient (Bob) to correctly decrypt the message from 
 __加密分析學上無法破解__：除非某駭客能夠劫持擁有相關密文碎片的每個節點，然後使用只是理論上存在的量子計算機解密所有密文碎片，否則密文碎片在傳輸期間不會對消息的機密性造成任何威脅。
 <br><br>
 __Cryptanalytically Unbreakable__: Unless some hackers can hijack every node that holds the pertaining sliced ciphertexts and decipher them all with a quantum computer that only exists in theory, nothing during transit of the pertaining sliced ciphertexts can threaten the confidentiality of the message.
+
+### 秘鑰/信息疑義<br>Key/Message Equivocation
+
+西蒂姆（Citium）密碼系統中，敵方黑客或密碼分析師可能會攔截到一個密碼文本（C）。如下圖所示，有一個關鍵的概念叫做密鑰疑義和消息疑義：
+
+In the Citium cryptosystem, an enemy hacker or a cryptanalyst might be able to intercept a ciphertext (C). There is a critical concept called key equivocation and message equivocation as shown in the diagram below:
+
+![Cipher](/img/equivocation.svg "Key/Message Equivocation"){: .center-block :}
+
+密鑰和消息疑義則是衡量一個密碼系統在只對密鑰和消息進行密碼文本攻擊下對密鑰和消息的強度。密鑰疑義和消息疑義是指在已知明文攻擊下的密鑰和明文攻擊下的密鑰強度。收到的密文越長，密碼分析員發現秘鑰或明文的概率就越大。密碼分析員成功破譯文本的機率一般會隨著密文文本長度的增加而增加。在西蒂姆（Citium）中，碎片化的密文是最大限度地減小了單個碎片的大小，從而最大限度加強了加密強度。
+
+The key and message equivocation are a measure for the strength of a cipher system under a ciphertext only attack for the key and message respectively. Key Equivocation and Message Equivocation refer to key strength under known plaintext attacks and key strength under plaintext attacks. The longer the received ciphertext, the greater the probability that the cryptanalyst will discover the secret key or plaintext. The probability of a cryptanalyst successfully deciphering a ciphertext generally increases with the length of the ciphertext. In Citium, the sliced ciphertexts minimize the size of individual slices so that the strength of the cipher is maximized.
 
 ## 完整性 | Integrity ✓
 
