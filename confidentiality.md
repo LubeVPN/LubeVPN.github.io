@@ -80,9 +80,9 @@ The key appearance equivocation is a measure for the strength of a cipher system
 
 **Indiscriminate mesh-tree multicast (IMTM) threshold cryptosystem** means that __a ciphertext is cryptographically split into multiple slices__, which in turn are distributed indiscriminately to as many nodes as possible by mesh-tree multicasting, effectively preempting [link analysis](https://en.wikipedia.org/wiki/Link_analysis) and eliminating data breach due to failure at any single point.
 
-任何人都可以用任何密鑰解密密文的碎片或其任何組合（達到 「密鑰疑義」的效果），但所產生的明文將是不同的信息（即「模糊但似是而非的明文」），除非所有部分都被正確的密鑰解密。為了使預期收件人（Bob）解密來自發件人（Alice）的消息，Bob必須獲取指定的私鑰來解密消息。 Bob必須通過 __無差別網樹多點傳送__（IMTM）來盡可能多的節點作請求，直到收集齊全所有密文碎片為止。__只有接訊者（Bob）才能將所有密文碎片重新統一併起來才能生成有效的源文本，成功解鎖Alice留給她的加密的信息__。
+為了使預期收件人（Bob）解密來自發件人（Alice）的消息，Bob必須獲取指定的私鑰來解密消息。 Bob必須通過 __無差別網樹多點傳送__（IMTM）來盡可能多的節點作請求，直到收集齊全所有密文碎片為止。__只有接訊者（Bob）才能將所有密文碎片重新統一併起來才能生成有效的源文本，成功解鎖Alice留給她的加密的信息__。
 
-Anyone can decrypt a slice or any combination of the slices of a ciphertext by any key (i.e. *key equivocation*) but the resulting plaintext will be a different message (i.e. *innocuous but plausible plaintext*) unless all slices are decrypted by the right keys. In order for the intended recipient (Bob) to correctly decrypt the message from the sender (Alice), Bob has to obtain all slices of the ciphertext and to decrypt it with the right key. Bob has to make request to as many nodes as he can through **indiscriminate mesh-tree multicast** (IMTM) until he collects all the slices. _Only the intended recipient (Bob) can correctly reunite and decrypt all slices of the ciphertext_.
+In order for the intended recipient (Bob) to correctly decrypt the message from the sender (Alice), Bob has to obtain all slices of the ciphertext and to decrypt it with the right key. Bob has to make request to as many nodes as he can through **indiscriminate mesh-tree multicast** (IMTM) until he collects all the slices. _Only the intended recipient (Bob) can correctly reunite and decrypt all slices of the ciphertext_.
 
 {: .box-warning}
 {: style="color: grey; font-size: 100%;"}
