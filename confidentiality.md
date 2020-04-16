@@ -1,7 +1,7 @@
 ---
 layout: page
-title: 機密性和完整性
-subtitle: Confidentiality ✓<br>Integrity ✓<br>Availability
+title: 機密|完整|可用性
+subtitle: Confidentiality ✓<br>Integrity ✓<br>Availability ✓
 bigimg: /img/conf.jpg
 googlefonts: ["Roboto Condensed"]
 ---
