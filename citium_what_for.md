@@ -55,7 +55,7 @@ Citium is inherited from the open-source project [SafeMail](https://github.com/m
 
 The communication mechanism used by both CIM and SafeMail is the "Safe Data Transfer Protocol" [(Safe Data Transfer Protocol)](https://en.wikiversity.org/zh-tw/SDTP). SDTP dictates that all forms of communication push the same generic notification to the intended recipients. Once notified, the intended recipients are required to retrieve the messages on their own.
 
-### Push & Pull<br>推播與拉取
+### Push & Pull（Fitch）<br>推播與拉取（撲捉）
 
 大多數即時通訊系統都設計為將通訊信息主動推播到預期收件人的客戶端應用程序上。然而，在西蒂姆（Citium）即時通信系統（CIM）中，推送通知只限於一般的文字提醒（即"You have a new message."；中文翻譯："您有一條新消息。"），並以加密的加密文本（"密文"）的方式將消息的極微小的片斷發送給目標收件人。預期的收件人需要自己去從芸芸眾多西蒂姆（Citium）的節點（即服務節點和用戶節點）去撲捉、拉取消息，最終與其手頭上收到了的極微小的片斷重組一起，才能獲取原有的、正確的信息。
 
