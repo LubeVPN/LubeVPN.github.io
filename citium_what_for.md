@@ -2,7 +2,7 @@
 layout: page
 title: 為何用西蒂姆？
 subtitle: Why use Citium?
-bigimg: /img/web.jpg
+bigimg: /img/node.jpg
 googlefonts: ["Roboto Condensed"]
 ---
 
