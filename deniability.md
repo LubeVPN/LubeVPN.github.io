@@ -2,7 +2,7 @@
 layout: page
 title: 可抵賴可推诿
 subtitle: Deniability ✓<br>Non-Repudiation ✗
-# bigimg: /img/web.jpg
+bigimg: /img/inno.jpg
 googlefonts: ["Roboto Condensed"]
 ---
 
