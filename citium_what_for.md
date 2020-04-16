@@ -73,6 +73,10 @@ In any cryptographic system, the most important component of transforming plaint
 
 Historically, only organizations with very valuable secrets, such as certificate authorities, the military, and governments made use of threshold cryptosystem technology. Threshold cryptography scheme in Citium is an advanced and extra step to securing the key and to preventing the key from being compromised. This is because an adversary will need to attack k entities in order to obtain k shares to generate the key, rather than compromising one entity to obtain the key. This makes it more difficult for an attacker.
 
+在西蒂姆（Citium）中，不僅是密鑰，而且消息本身也與密鑰的N個共享碎片一起被分割成N個碎片。共享的密碼文本（"密文"）被不加區分地分發到盡可能多的西蒂姆（Citium）節點（即服務節點和用戶節點）。這樣一來，所有的內容對所有節點的所有者都是良性的。任何人都不需要對分發的任何信息負責。在西蒂姆（Citium）的門限密碼系統設計是 K = N，這意味著所有的 N 個份額都要被收集和合併。這是門限密碼系統最嚴格的安全標準。
+
+In Citium, not only the key, but also the message itself are divided into n slices along with the  n shares of the key. The shared ciphertexts are distributed indiscriminately to as many Citium nodes (i.e. service nodes and user nodes). In doing so, all contents are benign to the owner of all nodes. No one is needed to be held responsible for any message distributed. In the Citium's threshold cryptosystem, it is designed that k = n. It means all n shares have to be collected and combined. It is the most stringent security standard available on the threshold cryptosystem.
+
 ## 資訊安全功能<br>InfoSec Features
 
 以下是一個西蒂姆（Citium）的信息安全（有時簡稱為InfoSec）功能列表。信息安全是一種通過減輕信息風險來保護信息的應用功能實踐。 它是信息風險管理的一部分。 它通常涉及防止或至少減少未經授權/不當訪問，使用，披露、破壞、刪除/銷毀、損壞、修改、檢查、記錄或貶值的可能性，也可能涉及減少事件如果不幸發生後的不利影響，例如「__强制性披露__」 (__force disclosure__) / 「__強制性密鑰披露__」 ([__mandatory key disclosure__](https://en.wikipedia.org/wiki/Key_disclosure_law))。
