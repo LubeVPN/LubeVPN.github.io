@@ -57,11 +57,12 @@ The communication mechanism used by both CIM and SafeMail is the "Safe Data Tran
 
 ### Push & Pull<br>推播與拉取
 
-大多數即時通訊系統都設計為將通訊信息主動推播到預期收件人的客戶端應用程序上。但是，在西蒂姆（Citium）即時聊天系統中，主動推播通知僅限於發送給預期的收件人的通用文本提醒（例如「您有一個新的消息」）。預期的收件人需要自己去拉取消息。
+大多數即時通訊系統都設計為將通訊信息主動推播到預期收件人的客戶端應用程序上。然而，在西蒂姆（Citium）即時通信系統（CIM）中，推送通知只限於一般的文字提醒（即"You have a new message."；中文翻譯："您有一條新消息。"），並以加密的加密文本（"密文"）的方式將消息的極微小的片斷發送給目標收件人。預期的收件人需要自己去從芸芸眾多西蒂姆（Citium）的節點（即服務節點和用戶節點）去撲捉、拉取消息，最終與其手頭上收到了的極微小的片斷重組一起，才能獲取原有的、正確的信息。
 
-Most instant messenger systems are designed that messages are directly pushed onto the client apps of the intended recipients. However, in Citium Instant Messenger system, push notifications are limited to a generic text reminder (e.g. "You have a new message.") being sent to the intended recipients. The intended recipients are required to fetch the messages on their own.
+Most instant messenger systems are designed that messages are directly pushed onto the client apps of the intended recipients. However, in Citium Instant Messenger (CIM) system, push notification is limited to a generic text reminder (i.e. "You have a new message.") and a very thin slice of the message encrypted in a ciphertext being sent to the intended recipients. The intended recipients are required to actively fetch the remaining slices on their own from the sea of Citium nodes (i.e. service nodes and user nodes), and eventually, recombining with the thin slice at hand to acquire the original, correct message.
 
 ## 門限加密系統<br>Threshold Cryptography
+
 
 在任何密碼系統中，將純文本訊息轉換為密文再轉換回來的最重要組成部分是密鑰。 密鑰是密碼學整體安全性的基礎，這意味著密鑰的保護也已成為重要的命題。 可以減少密鑰洩露風險的一種方法是門限加密。 門限加密學的基本思想是，在將密鑰分發給相關節點之前，將其分為 N 個份額。 為了再次生成密鑰，不需要所有共享。 相反，一個實體只能組合 K 個份額（稱為門限）來重建密鑰。 換句話說，即使將密鑰分為 N 個份額，也僅需要 K 個份額即可重建密鑰。
 
