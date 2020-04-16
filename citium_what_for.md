@@ -73,7 +73,7 @@ In any cryptographic system, the most important component of transforming plaint
 
 Historically, only organizations with very valuable secrets, such as certificate authorities, the military, and governments made use of threshold cryptosystem technology. Threshold cryptography scheme in Citium is an advanced and extra step to securing the key and to preventing the key from being compromised. This is because an adversary will need to attack k entities in order to obtain k shares to generate the key, rather than compromising one entity to obtain the key. This makes it more difficult for an attacker.
 
-在西蒂姆（Citium）中，不僅是密鑰，而且消息本身也與密鑰的N個共享碎片一起被分割成N個碎片。共享的密碼文本（"密文"）被不加區分地分發到盡可能多的西蒂姆（Citium）節點（即服務節點和用戶節點）。這樣一來，所有的內容對所有節點的所有者都是良性的。任何人都不需要對分發的任何信息負責。在西蒂姆（Citium）的門限密碼系統設計是 K = N，這意味著所有的 N 個份額都要被收集和合併。這是門限密碼系統最嚴格的安全標準。
+在西蒂姆（Citium）中，不僅是密鑰，而且消息本身也與密鑰的N個共享碎片一起被分割成N個碎片。共享的密碼文本（"密文"）被無差別地、不加區分地分發到盡可能多的西蒂姆（Citium）節點（即服務節點和用戶節點）。這樣一來，所有的內容對所有節點的所有者都是良性的。任何人都不需要對分發的任何信息負責。在西蒂姆（Citium）的門限密碼系統設計是 K = N，這意味著所有的 N 個份額都要被收集和合併。這是門限密碼系統最嚴格的安全標準。
 
 In Citium, not only the key, but also the message itself are divided into n slices along with the  n shares of the key. The shared ciphertexts are distributed indiscriminately to as many Citium nodes (i.e. service nodes and user nodes). In doing so, all contents are benign to the owner of all nodes. No one is needed to be held responsible for any message distributed. In the Citium's threshold cryptosystem, it is designed that k = n. It means all n shares have to be collected and combined. It is the most stringent security standard available on the threshold cryptosystem.
 
