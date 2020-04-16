@@ -56,7 +56,6 @@ Since Citium adopts a __network-wide peer-to-peer (P2P) relationship model__, th
 **從西蒂姆（Citium）世界觀：** 為了打消惡意方窺探數據或抓住數據為把柄的念頭，西蒂姆（Citium）認為最佳的保安辦法就是公開地允許任何人都可以參與偽造和篡改數據，那麼便沒有任何一方能夠分辨數據真偽和是否有被偽造或篡改過的可能。<br><br>
 **Citium's Worldview:** In order to discourage malicious parties from snooping data or holding data as evidence against others, Citium believes that the best security practice is to openly permit everyone to forge and tamper with data so that no party can possibly differentiate genuine from forged or tampered data.
 
-
 ## 可推諉身份驗證性  ✓<br>Deniable Authentication  ✓
 
 西蒂姆（Citium）採用了「可推諉驗證性」的機制。當兩個用戶（例如Alice和Bob）決定通過西蒂姆（Citium）通訊，他們必須首先成為西蒂姆（Citium）中彼此認證的用戶（“聯絡人”），具體辦法是通過 [頻外秘鑰驗證](https://ocftw.github.io/ssd.eff.org/zh_TW/module/key-verification.html)（OOBA），防範了一切日後可能在西蒂姆（Citium）體系內發生的[中間人攻擊](https://zh.wikipedia.org/zh-tw/%E4%B8%AD%E9%97%B4%E4%BA%BA%E6%94%BB%E5%87%BB)。添加聯絡人這個認證行為也是唯一次時機他們倆（Alice和Bob）可以彼此確認身份。因為在此之後，即使在他們倆通信過程中，任何人都無法無可辯駁地證明他們兩個的聯絡人關係。
@@ -114,9 +113,9 @@ To enhance user experience and simplicity, the default **Friend Invitation Code 
 [Sockpuppet](https://en.wikipedia.org/wiki/Sockpuppet_(Internet)) is a [software measures of countersurveillance](https://en.wikipedia.org/wiki/Countersurveillance#Software_countermeasures). In Citium, sockpuppetry dictates that __anyone can pretend to be someone else__. The user account nickname is non-exclusive! No user knows for sure which account belongs to whom no matter from which perspective one looks. Sockpuppetry dictates that **a user cannot communicate directly to another user but only indirectly through the sea of sockpuppet user accounts** in Citium. All accounts are sockpuppets and everyone looks like an anti-surveillance decoy. An account can be communicating on behalf of the account holder or simply just sockpuppeting (communicating on behalf of other accounts by **indiscriminate mesh-tree multicast** (IMTM)). No one else can scrutinize or prove which account is communicating on behalf of whom except for the account holder him/herself.
 
 {: .box-success}
-**再更進一步增強可推諉性**，所有西蒂姆（Citium）節點上的數據生命週期都被限制了長度。舉例，身處在用戶移動節點上的消息摘要是默認在24小時後 **自焚** 的。當事人可以直接告訴脅迫者，系統早已按照公佈的時間表故意抹掉自己的信息，因此不能交出信息。
+**再更進一步增強可推諉性**，所有西蒂姆（Citium）節點上的數據生命週期都被限制了長度。舉例，身處在用戶移動節點上的密文碎片是默認在24小時後 **自焚** 的。當事人可以直接告訴脅迫者，系統早已按照公佈的時間表故意抹掉自己的信息，因此不能交出信息。
 <br><br>
-**To further maximize deniability**, all data have limited life expectancy on Citium nodes. For example, cryptographically split multiple parts of message digests sitting on users' mobile nodes are set to **self-destruct countdown** of 24 hours. The parties can just tell the coercer that they deliberately erased their message according to a published schedule, and therefore cannot surrender them.
+**To further maximize deniability**, all data have limited life expectancy on Citium nodes. For example, cryptographically split multiple slices of ciphertext sitting on users' mobile nodes are set to **self-destruct countdown** of 24 hours. The parties can just tell the coercer that they deliberately erased their message according to a published schedule, and therefore cannot surrender them.
 
 ### 下一章 / NEXT CHAPTER
 [**機密和完整性**](../confidentiality)<br>
