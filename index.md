@@ -34,7 +34,7 @@ LubeVPN will not validate anyone's CERT unless one's CERT is signed by an existi
 Although you, as referrer, can sign an unlimited number of FREE CERT that is requested by your Citium Contacts (referred users), LubeVPN validates their FREE CERT based on the status of your own CERT (i.e. status of the signer's CERT); the number of validation is limited on a first-come, first-served basis. If the signer (i.e. referrer) only holds a validated FREE CERT at the time of signing, LubeVPN will only validate two (2) of the FREE CERTS that he/she signs. LubeVPN will not validate latecomers (i.e. deny further validation requests validating two (2) FREE CERTS) until the signer of the FREE CERTS renews his/her own FREE CERT—pay and subscribe for LubeVPN's 30-DAY, 180-DAY or 360-DAY MEMBER CERT. By then, LubeVPN will accept the late-coming requests for validating FREE CERTS that he/she signs; the ceiling of late-coming validation requests varies based on the membership level of the signer as follows:
 
 - 1、如果簽署者（即，推薦者）續時到了30日《會員通行證書》則順道VPN會受理其簽署的但晚來的最多18張受薦者持有的《免費通行證書》認證請求；
-- 2、如果簽署者（即，推薦者）續時到了180日《會員通行證書》則順道VPN會受理其簽署的但晚來的最多28張受薦者持有的《免費通行證書》認證請求；或
+- 2、如果簽署者（即，推薦者）續時到了180日《會員通行證書》則順道VPN會受理其簽署的但晚來的最多28張受薦者持有的《免費通行證書》認證請求；或<br>
 - 3、如果簽署者（即，推薦者）續時到了360日《會員通行證書》則順道VPN會受理其簽署的但晚來的最多48張受薦者持有的《免費通行證書》認證請求。
 
 - Ⅰ. ceiling equals 18 FREE CERTS if their signer renews to 30-DAY MEMBER CERT,
@@ -50,7 +50,7 @@ LubeVPN will authorize a referred user who has his/her FREE CERT successfully si
 A signer who holds a FREE CERT or an expired MEMBER CERT is not entitled to earn anything. But as long as one holds a valid (i.e. unexpired) MEMBER CERT, he/she is entitled to earn redeemable points whenever the CERTS that he/she has signed are renewed (i.e. paid and subscribed for membership). Points can be gifted among MEMBER CERTS or redeemed for time extension on MEMBER CERTS. Rules are as follows:
 
 - 1、受薦者續時30日《會員通行證書》，該《通行證書》的簽署者（即，推薦者）自動獲得30點獎勵積分。
-- 2、受薦者續時180日《會員通行證書》，該通行證的簽署者（即，推薦者）自動獲得200點獎勵積分。
+- 2、受薦者續時180日《會員通行證書》，該通行證的簽署者（即，推薦者）自動獲得200點獎勵積分。<br>
 - 3、受薦者續時360日《會員通行證書》，該通行證的簽署者（即，推薦者）自動獲得380點獎勵積分。
 
 - Ⅰ. Renewal to 30-DAY MEMBER CERT enables its signer (i.e. referrer) to earn 30 points.
