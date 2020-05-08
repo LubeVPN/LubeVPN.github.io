@@ -52,7 +52,7 @@ If the signer (i.e. referrer) only holds a validated FREE CERT at the time of si
 Late-coming requests for validating FREE CERTs are limited based on their signer's valid signing quota, which varies based on the membership level of the signer and their number of renewals. Valid signing quota increases by:
 
 - 18 FREE CERTs every time a signer (i.e. referrer) renews one's own CERT to 30-DAY MEMBER CERT,
-- 28 FREE CERTs every time a signer (i.e. referrer) renews one's own CERT to 180-DAY MEMBER CERT, or
+- 28 FREE CERTs every time a signer (i.e. referrer) renews one's own CERT to 180-DAY MEMBER CERT,
 - 48 FREE CERTs every time a signer (i.e. referrer) renews one's own CERT to 360-DAY MEMBER CERT.
 
 受薦者自己生成的《免費通行證書》，並得到持有有效（未逾期）《通行證書》的簽署者（推薦者）簽署該《免費通行證書》；然後，如果順道VPN能成功認證該已簽署的《免費通行證書》，就會授權受薦者訪問連續5天和在有效期內每天最多500M流量的VPN服務。總的來說，受薦者獲得免費試用順道VPN的機會，如果覺得好用並續時，推薦者（簽署者）勞苦功高，有機會獲得獎勵積分，皆大歡喜。
