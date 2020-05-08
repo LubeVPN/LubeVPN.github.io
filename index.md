@@ -8,11 +8,6 @@ googlefonts: ["Roboto Condensed"]
 
 ![LubeVPN](/img/ads.png "Groundbreaking VPN Tech"){: .center-block :}
 
-{: .box-warning}
-**溫馨提醒:** 《順道VPN》服務只供口碑相傳用戶使用。如有不便，敬請原諒！
-<br><br>
-**GENTLE REMINDER:** LubeVPN serves word-of-mouth users who are referred by existing users only. Sorry for any inconvenience that might have caused you!
-
 《順道VPN》(Lube VPN) 是基於開源及完全去中心化的 [西蒂姆(Citium)](../citium_what_for) 開發的互聯網隱私及信息加速商業服務應用。它把坊間流行的VPN系統作出了比較重大的改良和升級。__下載並安裝 Citium 客戶端__ ，便可以開始試用《順道VPN》。
 
 LubeVPN is proprietorially built based on __an open and fully decentralized technology__: [__Citium__](../citium_what_for). LubeVPN is a radical departure and upgrade from all the popular VPN systems in the open marketspace. Download and install the Citium Client app to start using LubeVPN.
@@ -29,15 +24,22 @@ LubeVPN does not accept new user registration unless one is referred by an exist
 
 Traditional user and referral systems rely on relational databases on centralized servers to record the referral relationships. That regime is prone to security and privacy breach. In contrast, LubeVPN's referral relationships are recorded by securely and privately binding digital signatures and their signed certificates in a peer-to-peer fashion. More specifically, a referral relationship in LubeVPN is securely bound based on the unique digital signature of the referrer and the signed digital certificate (i.e. signed FREE CERT) held by the referred user, not recorded in any third-party party relational database, preempting data breach. In LubeVPN, referred users are each responsible to initiate the referral and registration process by creating a FREE CERT, which is an easy, one-click, one-time and free of charge action performed on everyone's own device. Next, they may ask for their referrers to sign their FREE CERTs. Once signed, the referral relationship between a referrer (i.e. signer) and the referred user (i.e. the creator and holder of a CERT) are permanently bound to the signed CERT even if the holder later decide to renew it (i.e. paying and subscribing for MEMBER CERTS).
 
-請注意，順道VPN是不會隨隨便便接受任何一個《免費通行證書》的認證請求的；持有有效（即，未逾期）《通行證書》的現有用戶的數字簽名簽署過的《免費通行證書》，相當於說被現有順道VPN用戶簽署過的《免費通行證書》，順道VPN才會接受請求去認證它。認證通過後，持有該《免費通行證書》的受薦者才能獲得授權訪問順道VPN的VPN服務。每一個持有已簽署的《通行證書》的持有者都有責任不丟失自己的《通行證書》 （例如：不小心清除了存儲《通行證書》的 Citium 客戶端應用程序的數據），因為已簽署的《通行證書》是唯一的能證明推薦者與受薦者關系的證據。
+### 舉薦制度<br>Referred User Only
 
-LubeVPN will not validate anyone's CERT unless one's CERT is signed by an existing user (i.e. referrer) who holds a valid (i.e. unexpired) CERT. Once validated, the holder of the CERT is authorized to access LubeVPN service. Every holder of the signed CERTS is responsible for not losing one's own signed CERT (e.g. accidentally clearing the data of the Citium Client app that stores it) because the signed CERT is the only evidence to prove the referral relationship between the referrer and the referred user.
+順道VPN是不會隨隨便便接受任何一個《免費通行證書》的認證請求的；僅限於持有有效、未逾期的、通行證書的、用戶的數字簽名簽署過的《免費通行證書》；簡單來說，只有被現有順道VPN用戶簽署過的《免費通行證書》，順道VPN才會接受其請求去認證它。認證通過後，持有該《免費通行證書》的受薦者才能獲得授權訪問順道VPN的VPN服務。
+
+LubeVPN will not accept validation requests from any FREE CERT unless it is signed by one who holds a valid (i.e. unexpired) CERT. Simply put, LubeVPN only validates FREE CERTs signed by existing users. Once a validation succeeds, the holder of the valid FREE CERT is authorized to access LubeVPN service.
+
+{: .box-warning}
+**溫馨提醒:** 每一個持有已簽署的《通行證書》的持有者都有責任不丟失自己的《通行證書》 （例如：不小心清除了存儲《通行證書》的 Citium 客戶端應用程序的數據），因為已簽署的《通行證書》是唯一的能證明推薦者與受薦者關系的證據。
+<br><br>
+**GENTLE REMINDER:** Every holder of the signed CERTS is responsible for not losing one's own signed CERT. Be careful not to accidentally clear the data of the Citium Client app that stores the signed CERT because it is the only evidence to prove the user registration status, as well as the referral relationship between its user and its signer.
 
 ## 推薦者計劃<br>Referral Program
 
-雖然你身為推薦者可以根據 Citium 聯系人的請求無限量地簽署《免費通行證書》給他們（受薦者），但你所簽署「有效的」《免費通行證書》卻是有限的；其有效性，是受薦者嘗試認證它的時候才知道的。因為配額有限，順道VPN是按照先到先得來認證《免費通行證書》的；早一些被簽署的《免費通行證書》不必然就更有效，而是視乎哪位受薦者首先去嘗試認證其《免費通行證書》而論的。換句話說，受薦者的《免費通行證書》可被順道VPN成功認證的次數是有配額限制的，而該配額是根據你身為簽署者（推薦者）本人續時會員通行證的等級與次數而決定。
+雖然你身為推薦者是可以根據 Citium 聯系人的請求，去無限量地簽署《免費通行證書》的，但你所簽署「有效的」《免費通行證書》卻是有限的；其有效性，是當受薦者嘗試認證它的時候才知道的。順道VPN是按照「先到先得」的原則來認證《免費通行證書》的有效性的。然而，被更早簽署的《免費通行證書》不必然就更有效，而是視乎你 Citium 聯絡人中哪位受薦者更先去嘗試認證其《免費通行證書》而論優先次序的。換句話說，不論你簽署了多少張《免費通行證書》，能被順道VPN成功認證的張數是有配額限制的，而該配額是根據你身為簽署者（推薦者）本人持有的通行證的等級與續時次數而決定。你的通行證等級越高、續時次數越多，可獲簽署有效的《免費通行證》的配額則越多。
 
-While you, as referrer, can sign an unlimited number of FREE CERT to your Citium Contacts (referred users) upon requests, the number of valid FREE CERTs that you sign is limited; and their validity is only known during which the referred users (holders of the FREE CERTs) attempt to validate them. LubeVPN validates FREE CERTs on a first-come, first-served basis. The earlier a FREE CERT is signed doesn't necessarily means that it has a higher chance of being validated, but rather depends on which holder of the signed FREE CERTs goes first to try to validate his/hers. In other words, there is a quota on the number of times the FREE CERTs that you signed can be validated by LubeVPN. The quota is determined by the level of your own membership level and the number of times that you have renewed them.
+While you, as referrer, can sign an unlimited number of FREE CERT to your Citium Contacts (referred users) upon requests, the number of valid FREE CERTs that you sign is limited; and their validity is only known during which the referred users (holders of the FREE CERTs) attempt to validate them. LubeVPN validates FREE CERTs on a first-come, first-served basis. The earlier a FREE CERT is signed doesn't necessarily means that it has a higher chance of being validated, but rather depends on which holder of the signed FREE CERTs goes first to try to validate his/hers. In other words, there is a quota on the number of times the FREE CERTs that you signed can be validated by LubeVPN. The quota is determined by the level of your own membership level and the number of times that you have renewed them. The higher your MEMBER CERT level and the more time it is renewed, the higher the quota for signing valid FREE CERT.
 
 如果簽署者（即，推薦者）只持有已授權的《免費通行證書》，顺道VPN只會認證其中兩（2）張他簽署的《免費通行證書》。顺道VPN將不會再受理晚來的認證請求（即，在認證完畢兩（2）張《免費通行證書》後拒絕認證更多其他簽署者簽署的《免費通行證書》），直到簽署者自己持有的《免費通行證書》被「續時」（即，付費和訂閱 30日《會員通行證書》、 180日《會員通行證書》或 360日《會員通行證書》）。屆時，顺道VPN將恢復受理晚來的、受薦者持有的《免費通行證書》的認證請求。
 
@@ -86,7 +88,7 @@ Download the Citium Client installer file and then install it on its compatible 
 
 ### 1. 添加好友成為 CIM 聯絡人<br>Add Friend to Contacts
 
-找一名持有有效的（即，未逾期的）順道VPN《通行證書》的好友，例如 Alice。通過頻外密鑰驗證（OOBA）添加她成爲	Citium 即時聊天應用（CIM）中的聯絡人。
+找一名持有有效的（即，未逾期的）順道VPN《通行證書》的好友，例如 Alice。通過頻外密鑰驗證（OOBA）添加她成爲 Citium 即時聊天應用（CIM）中的聯絡人。
 
 Find a friend (e.g. Alice) who holds a valid (i.e. unexpired) LubeVPN CERT. Add Alice as your new Contact in your Citium Instant Messenger (CIM) via out-of-band authentication.
 
@@ -117,7 +119,6 @@ Turn on the LubeVPN toggle switch to request authorization to VPN service. Toggl
  **† 流量封頂（/30日）**：每個流量封頂越期不補：激活起每30天一個週期限流，用不完的流量不能補償到下一個週期。
 <br>
 **‡ 相當於流媒體（/30日）**：假設的大前提是順道VPN會員用戶只用於觀看 YouTube 標準制式的 480p 視頻，而這種制式的視頻約每小時消耗264 MB的順道VPN流量。那麼，如果會員按30日續時，則可以在每30日享用高達380小時；如果會員按180日續時，則可以在每30日享用高達417小時；如果會員按360日續時，則可以在每30日享用高達455小時。
-
 
 ## 續時抵值形式
 
