@@ -17,7 +17,7 @@ googlefonts: ["Roboto Condensed"]
 <br>
 LubeVPN is proprietorially built based on __an open and fully decentralized technology__: [__Citium__](../citium_what_for). LubeVPN is a radical departure and upgrade from all the popular VPN systems in the open marketspace. Download and install Citium to start using LubeVPN.
 
-## 順道VPN產品亮點<br>LubeVPN Highlight
+## 順道VPN通行證書<br>LubeVPN Certificate
 
 順道VPN是不隨便接受新用戶申請的，必須由現有用戶推薦的新用戶，順道VPN才會考慮接受申請。換句話說，一個用戶請求順道VPN認證他的資質和授權他訪問它的VPN服務之前，必先獲得順道VPN的現有用戶的舉薦。順道VPN是使用了一套安全電子簽名系統來管理用戶舉薦和註冊流程，而不是像大多數其他在線服務提供商那樣選用傳統的用戶名和用戶密碼制度，因為通過使用我們的電子簽名系統才可以最大程度地提高所有服務參與者的使用安全性和匿名性。<br>
 LubeVPN does not accept new user registration unless one is referred by an existing user. In other words, one must first find a referrer who is an existing LubeVPN user to refer him/her before he/she can request LubeVPN to validate his/her rights and to authorize his/her access to its VPN service. LubeVPN utilizes a secure electronic signature system to manage user referral and registration workflows instead of the username/password regime traditionally utilized by most of the other online service providers because only by utilizing the electronic signature system can we maximize security and anonymity for all parties.
