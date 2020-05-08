@@ -28,7 +28,7 @@ Traditional user and referral system rely on relational databases on centralized
 請注意，順道VPN是不會隨隨便便接受任何一個《免費通行證書》的認證請求的；持有有效（即，未逾期）《通行證書》的現有用戶的數字簽名簽署過的《免費通行證書》，相當於說被現有順道VPN用戶簽署過的《免費通行證書》，順道VPN才會接受請求去認證它。認證通過後，持有該《免費通行證書》的受薦者才能獲得授權訪問順道VPN的VPN服務。每一個持有已簽署的《通行證書》的持有者都有責任不丟失自己的《通行證書》 （例如：不小心清除了存儲《通行證書》的 Citium 客戶端應用程序的數據），因為已簽署的《通行證書》是唯一的能證明推薦者與受薦者關系的證據。<br>
 LubeVPN will not validate anyone's CERT unless one's CERT is signed by an existing user (i.e. referrer) who holds a valid (i.e. unexpired) CERT. Once validated, the holder of the CERT is authorized to access LubeVPN service. Every holder of the signed CERTS is responsible for not losing one's own signed CERT (e.g. accidentally clearing the data of the Citium Client app that stores it) because the signed CERT is the only evidence to prove the referral relationship between the referrer and the referred user.
 
-## Referral Program<br>推薦者計劃
+## 推薦者計劃<br>Referral Program
 
 雖然你身為推薦者可以根據 Citium 聯系人的請求無限量地簽署《免費通行證書》給他們（受薦者），但顺道VPN會根據你自己的《通行證書》的狀態（即簽署者的《通行證書》的狀態）來決定如何認證受薦者的《免費通行證書》，認證的次數是有限的、是先到先得的。如果簽署者（即，推薦者）只持有已授權的《免費通行證書》，顺道VPN只會認證其中兩（2）張該簽署者簽署的《免費通行證書》。顺道VPN將不會再受理晚來的認證請求（即，在認證完畢兩（2）張《免費通行證書》後拒絕認證更多其他簽署者簽署的《免費通行證書》），直到簽署者自己持有的《免費通行證書》被「續時」（即，付費和訂閱 30日《會員通行證書》、 180日《會員通行證書》或 360日《會員通行證書》）。屆時，顺道VPN將恢復受理晚來的、受薦者持有的《免費通行證書》的認證請求；受理晚來的、受薦者的《免費通行證書》的封頂數量根據簽署者（即，推薦者）的《會員通行證書》的等級不同而不同，規則如下：<br>
 Although you, as referrer, can sign an unlimited number of FREE CERT that is requested by your Citium Contacts (referred users), LubeVPN validates their FREE CERT based on the status of your own CERT (i.e. status of the signer's CERT); the number of validation is limited on a first-come, first-served basis. If the signer (i.e. referrer) only holds a validated FREE CERT at the time of signing, LubeVPN will only validate two (2) of the FREE CERTS that he/she signs. LubeVPN will not validate latecomers (i.e. deny further validation requests validating two (2) FREE CERTS) until the signer of the FREE CERTS renews his/her own FREE CERT—pay and subscribe for LubeVPN's 30-DAY, 180-DAY or 360-DAY MEMBER CERT. By then, LubeVPN will accept the late-coming requests for validating FREE CERTS that he/she signs; the ceiling of late-coming validation requests varies based on the membership level of the signer as follows:
@@ -44,7 +44,7 @@ Although you, as referrer, can sign an unlimited number of FREE CERT that is req
 順道VPN授權每一位持有已簽署和已認證的《免費通行證書》的受薦者訪問連續5天和在有效期內每天最多500M流量的順道VPN服務。<br>
 LubeVPN will authorize a referred user who has his/her FREE CERT successfully signed (i.e. referred by existing LubeVPN user) and validated (i.e. recognized by LubeVPN) to access LubeVPN service for five (5) consecutive days with 500M of traffic quota per day.
 
-### Referrer Incentives<br>推薦者所得益處
+### 推薦者所得益處<br>Referrer Incentives
 
 持有《免費通行證書》或逾期《會員通行證書》的簽署者（即，推薦者）不能獲得任何獎勵。但只要你持有一張有效的（即，未逾期的）《會員通行證書》，你所曾簽署的《免費通行證書》被續時的時候，你都可以獲得相應的可兌換獎勵積分。獎勵積分可在《會員通行證書》之间相互贈與或兌換《會員通行證書》時長延展。具體規則如下：<br>
 A signer who holds a FREE CERT or an expired MEMBER CERT is not entitled to earn anything. But as long as one holds a valid (i.e. unexpired) MEMBER CERT, he/she is entitled to earn redeemable points whenever the CERTS that he/she has signed are renewed (i.e. paid and subscribed for membership). Points can be gifted among MEMBER CERTS or redeemed for time extension on MEMBER CERTS. Rules are as follows:
