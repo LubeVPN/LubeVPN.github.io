@@ -119,7 +119,7 @@ The number of late-coming FREE CERTs requesting validation is also limited based
 - **180日套餐，其簽署者均可獲得50點**
 - **360日套餐，其簽署者均可獲得100點**
 
-A signer (i.e. referrer) who holds a FREE CERT or an expired MEMBER CERT is not entitled to earn anything. But as long as one holds a valid (i.e. unexpired) MEMBER CERT, he/she is entitled to earn redeemable points whenever the CERTS that he/she has signed are renewed (i.e. paid and subscribed for MEMBER CERTs). Points can be gifted among MEMBER CERTS or redeemed for time extension on MEMBER CERTS. **Every ten (10) points can redeem for seventy-two (72) hours of extension on a MEMBER CERT. Every time a referred user renews to MEMBER CERT to:**
+A signer (i.e. referrer) who holds a FREE CERT or an expired MEMBER CERT is not entitled to earn anything. But as long as one holds a valid (i.e. unexpired) MEMBER CERT, he/she is entitled to earn redeemable points whenever the CERTS that he/she has signed are renewed (i.e. paid and subscribed for MEMBER CERTs). Points can be gifted among MEMBER CERTS or redeemed for time extension on MEMBER CERTS. **Every ten (10) points can redeem for seventy-two (72) hours of extension on a MEMBER CERT. Every time a referred user renews to MEMBER CERT of:**
 
 - **30-DAY, its signer can earn 8 pts**
 - **180-DAY, its signer can earn 50 pts**
