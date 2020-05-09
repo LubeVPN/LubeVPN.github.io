@@ -125,6 +125,11 @@ A signer (i.e. referrer) who holds a FREE CERT or an expired MEMBER CERT is not 
 - **180-DAY, its signer can earn 50 pts**
 - **360-DAY, its signer can  earn 100 pts**
 
+{: .box-warning}
+**舉例：** Alice 續時過三次30日《會員通行證書》，有效簽署配額等於 2+18x3 = 56張。但 Alice 推薦了給數百個 Citium 聯絡人使用順道VPN，幫他們全部人都簽署了《免費通行證書》，明顯超越了她的配額。雖然絕大部分她的受薦者都無法免費試用順道VPN，但竟然全部都續時《會員通行證書》了！這種情況下，Alice 還是否能拿到全部受薦者的續時後的獎勵積分呢？還是僅僅能拿到配額內那56張有效簽署續時獎勵積分呢？正確答案：後者正確。Alice 只能拿到那56張有效簽署續時獎勵積分。
+<br><br>
+**Example:** Alice has renewed to 30-DAY MEMBER CERT thrice. It means that Alice has a valid signing quota equals 2+18x3 = 56. But Alice refers LubeVPN to several hundreds of her Citium Contacts. The responses are enthusiastic. They all ask her to sign their FREE CERTs and so she signs. Although most of them fail to enjoy free trials of LubeVPN, all of them renew to MEMBER CERTs! In this situation, can Alice still earn all the redeemable points from all the renewal? Or she can only earn the redeemable points from those that are renewed from the 56 valid FREE CERTs? Correct Answer: It is the latter. Alice earns points from those that are renewed from the 56 valid FREE CERTs only.
+
 ### 受薦者能享受<br>Referred Users Enjoy
 
 受薦者自己生成的《免費通行證書》，並征求得到了持有有效、未逾期《通行證書》的簽署者（推薦者）簽署其《免費通行證書》；然後，如果順道VPN成功認證該已簽署的《免費通行證書》，順道VPN就會授權受薦者**訪問連續5天和在有效期內每天最多500M流量的VPN服務**。總的來說，受薦者獲得免費試用順道VPN的機會，如果覺得好用並續時，推薦者（簽署者）更可以獲得獎勵積分。皆大歡喜！
