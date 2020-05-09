@@ -81,11 +81,11 @@ Any signer (referrer) can sign an unlimited number of FREE CERT but the “valid
 
 ### 突破簽署有效證書的上限<br>Break the Signing Limit
 
-晚來的《免費通行證書》認證請求也是有上限的，而該上限是根據簽署者（即，推薦者）的**有效簽署配額**（“**配額**”）而定的。這些晚來的《免費通行證書》的簽署者本人持有的通行證書續時等級和次數越多，累計配額則越多。規則如下，**按《免費通行證》的簽署者持有的通行證書每次被續時至：**
+晚來的《免費通行證書》認證請求也是有上限的，而該上限是根據簽署者（即，推薦者）的**有效簽署配額**（“**配額**”）而定的。這些晚來的《免費通行證書》的簽署者本人持有的通行證書續時等級和次數越多，累計配額則越多。規則如下，**每當簽署者本人持有的通行證書續時至：**
 
-- **30日套餐，獲添18張配額**
-- **180日套餐，獲添28張配額**
-- **360日套餐，獲添48張配額**
+- **30日套餐，配額獲添18張**
+- **180日套餐，配額獲添28張**
+- **360日套餐，配額獲添48張**
 
 The number of late-coming FREE CERTs requesting validation is also limited based on their signer's **valid signing quota** (“**quota**”), which varies based on the membership level of the signer and his/her number of renewals. **Every time a signer (i.e. referrer) has his/her own CERT renewed to MEMBER CERT level at:**
 
@@ -95,7 +95,7 @@ The number of late-coming FREE CERTs requesting validation is also limited based
 
 ### 推薦者所得益處<br>Referrer Incentives
 
-持有《免費通行證書》或逾期《會員通行證書》的簽署者（即，推薦者）不能獲得任何獎勵。但只要你持有一張有效的（即，未逾期的）《會員通行證書》，你所曾簽署的《免費通行證書》被續時的時候，你都可以獲得相應的可兌換獎勵積分。獎勵積分可在《會員通行證書》之间相互贈與或兌換《會員通行證書》時長延展。**每拾（10）點獎勵積分可兌換柒拾貳（72）小時《通行證書》時長延展。每次受薦者的《會員通行證書》續時等級至：**
+持有《免費通行證書》或逾期《會員通行證書》的簽署者（即，推薦者）不能獲得任何獎勵。但只要你持有一張有效的（即，未逾期的）《會員通行證書》，你所曾簽署的《免費通行證書》被續時的時候，你都可以獲得相應的可兌換獎勵積分。獎勵積分可在《會員通行證書》之间相互贈與或兌換《會員通行證書》時長延展。**每拾（10）點獎勵積分可兌換柒拾貳（72）小時《通行證書》時長延展。每當受薦者的《會員通行證書》續時等級至：**
 
 - **30日套餐，其簽署者均可獲得8點**
 - **180日套餐，其簽署者均可獲得50點**
