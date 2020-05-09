@@ -111,7 +111,7 @@ The number of late-coming FREE CERTs requesting validation is also limited based
 - **180-DAY, quota increased by 28**
 - **360-DAY, quota increased by 48**
 
-### 推薦者所得益處<br>Referrer Incentives
+### 簽署者（推薦者）所得益處<br>Signer (Referrer) Incentives
 
 持有《免費通行證書》或逾期《會員通行證書》的簽署者（即，推薦者）不能獲得任何獎勵。簽署者簽署過的無效《免費通行證書》即使被續時到了《會員通行證書》，簽署者都不能獲得任何獎勵。但只要你持有一張有效的（即，未逾期的）《會員通行證書》，你所曾簽署過的、有效的《免費通行證書》被續時後，你都可以獲得相應的可兌換獎勵積分。獎勵積分可在《會員通行證書》之间相互贈與或兌換《會員通行證書》時長延展。**每拾（10）點獎勵積分可兌換柒拾貳（72）小時《通行證書》時長延展。每當受薦者的通行證書續時至：**
 
