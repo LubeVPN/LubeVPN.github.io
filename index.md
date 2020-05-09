@@ -65,15 +65,15 @@ LubeVPN will authorize a referred user who has his/her FREE CERT successfully si
 
 持有《免費通行證書》或逾期《會員通行證書》的簽署者（即，推薦者）不能獲得任何獎勵。但只要你持有一張有效的（即，未逾期的）《會員通行證書》，你所曾簽署的《免費通行證書》被續時的時候，你都可以獲得相應的可兌換獎勵積分。獎勵積分可在《會員通行證書》之间相互贈與或兌換《會員通行證書》時長延展。每十（10）點獎勵積分可兌換24小時《通行證書》時長延展。具體規則如下：
 
-- 1、受薦者續時30日《會員通行證書》，該《通行證書》的簽署者（即，推薦者）自動獲得30點獎勵積分。
-- 2、受薦者續時180日《會員通行證書》，該《通行證書》的簽署者（即，推薦者）自動獲得200點獎勵積分。
-- 3、受薦者續時360日《會員通行證書》，該《通行證書》的簽署者（即，推薦者）自動獲得380點獎勵積分。
+- 每次受薦者續時30日《會員通行證書》，其簽署者（推薦者）均可獲得30點獎勵積分。
+- 每次受薦者續時180日《會員通行證書》，其簽署者（推薦者）均可獲得200點獎勵積分。
+- 每次受薦者續時360日《會員通行證書》，其簽署者（推薦者）均可獲得380點獎勵積分。
 
 A signer who holds a FREE CERT or an expired MEMBER CERT is not entitled to earn anything. But as long as one holds a valid (i.e. unexpired) MEMBER CERT, he/she is entitled to earn redeemable points whenever the CERTS that he/she has signed are renewed (i.e. paid and subscribed for membership). Points can be gifted among MEMBER CERTS or redeemed for time extension on MEMBER CERTS. Every ten (10) points can redeem for 24-hour extension on a MEMBER CERT. Rules are as follows:
 
-- Ⅰ. Referred user successfully renews one's CERT to 30-DAY MEMBER CERT automatically enables its signer (i.e. referrer) to earn 30 points.
-- Ⅱ. Referred user successfully renews one's CERT to 180-DAY MEMBER CERT automatically enables its signer (i.e. referrer) to earn 200 points.
-- Ⅲ. Referred user successfully renews one's CERT to 360-DAY MEMBER CERT automatically enables its signer (i.e. referrer) to earn 380 points.
+- Every time a referred user renews to 30-DAY MEMBER CERT, its signer (i.e. referrer) earns 30 points.
+- Every time a referred user renews to 180-DAY MEMBER CERT, its signer (i.e. referrer) earns 200 points.
+- Every time a referred user renews to 360-DAY MEMBER CERT, its signer (i.e. referrer) earns 380 points.
 
 ## 安裝與試用<br>Installation & Trial
 
