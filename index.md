@@ -113,13 +113,13 @@ The number of late-coming FREE CERTs requesting validation is also limited based
 
 ### 推薦者所得益處<br>Referrer Incentives
 
-持有《免費通行證書》或逾期《會員通行證書》的簽署者（即，推薦者）不能獲得任何獎勵。但只要你持有一張有效的（即，未逾期的）《會員通行證書》，你所曾簽署的《免費通行證書》被續時後，你都可以獲得相應的可兌換獎勵積分。獎勵積分可在《會員通行證書》之间相互贈與或兌換《會員通行證書》時長延展。**每拾（10）點獎勵積分可兌換柒拾貳（72）小時《通行證書》時長延展。每當受薦者的通行證書續時至：**
+持有《免費通行證書》或逾期《會員通行證書》的簽署者（即，推薦者）不能獲得任何獎勵。簽署者簽署過的無效《免費通行證書》即使被續時到了《會員通行證書》，簽署者都不能獲得任何獎勵。但只要你持有一張有效的（即，未逾期的）《會員通行證書》，你所曾簽署過的、有效的《免費通行證書》被續時後，你都可以獲得相應的可兌換獎勵積分。獎勵積分可在《會員通行證書》之间相互贈與或兌換《會員通行證書》時長延展。**每拾（10）點獎勵積分可兌換柒拾貳（72）小時《通行證書》時長延展。每當受薦者的通行證書續時至：**
 
 - **30日套餐，其簽署者均可獲得8點**
 - **180日套餐，其簽署者均可獲得50點**
 - **360日套餐，其簽署者均可獲得100點**
 
-A signer (i.e. referrer) who holds a FREE CERT or an expired MEMBER CERT is not entitled to earn anything. But as long as one holds a valid (i.e. unexpired) MEMBER CERT, he/she is entitled to earn redeemable points whenever the CERTS that he/she has signed are renewed (i.e. paid and subscribed for MEMBER CERTs). Points can be gifted among MEMBER CERTS or redeemed for time extension on MEMBER CERTS. **Every ten (10) points can redeem for seventy-two (72) hours of extension on a MEMBER CERT. Every time the CERT of a referred user is renewed to:**
+A signer (i.e. referrer) who holds a FREE CERT or an expired MEMBER CERT is not entitled to earn anything. The signer of invalid FREE CERTs, even if they are renewed to MEMBER CERTs, is not entitled to earn anything. But as long as one holds a valid (i.e. unexpired) MEMBER CERT, he/she is entitled to earn redeemable points whenever the valid FREE CERTs that he/she has signed are renewed (i.e. paid and subscribed for MEMBER CERTs). Points can be gifted among MEMBER CERTS or redeemed for time extension on MEMBER CERTS. **Every ten (10) points can redeem for seventy-two (72) hours of extension on a MEMBER CERT. Every time the CERT of a referred user is renewed to:**
 
 - **30-DAY, its signer can earn 8 pts**
 - **180-DAY, its signer can earn 50 pts**
