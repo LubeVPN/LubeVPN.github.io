@@ -32,11 +32,11 @@ LubeVPN is commercially built on __an open and fully decentralized technology__:
 
 Finally, functioning as a ticket/pass, the signed FREE CERT can authorize its holder to access a free trial of LubeVPN.
 
-## 最高等級的信息安全<br>Highest Level of InfoSec
+## 用戶信息安全<br>User InfoSec
 
-傳統用戶管理系統依賴中央化服務器的關系型數據庫記錄用戶註冊、推薦者與受薦者之間的關系，安全和匿名程度都比較低。反觀，順道VPN的用戶和推薦系統是通過數字簽名和數字證書以點對點（P2P）的形式來綁定的；更具體來說，是推薦者的獨特數字簽名和受薦者持有的簽名數字證書（即，已簽署的《免費通行證書》）來安全地、隐蔽地綁定彼此的關系，而不會被記錄在任何第三方關係型數據庫上，防範信息洩露於未然。
+傳統用戶管理系統依賴中央化服務器的關系型數據庫記錄用戶註冊、推薦者與受薦者之間的關系，安全和匿名程度都比較低。反觀，順道VPN的用戶登記和推薦系統是通過數字簽名和數字證書以P2P的形式來綁定的。更具體來說，是推薦者的獨特數字簽名和受薦者持有的簽名數字證書（即，已簽署的《免費通行證書》）來安全地、隐蔽地綁定彼此的關系，而不會被記錄在任何第三方關係型數據庫上，有效地防範用戶個人數據洩露與關聯性信息分析於未然。
 
-Traditional user management systems rely on relational databases on centralized servers to record user registrations and the referral relationships. That regime is prone to security and privacy breach. In contrast, LubeVPN's referral relationships are recorded by securely and privately binding digital signatures and their signed certificates in a peer-to-peer fashion. More specifically, a referral relationship in LubeVPN is securely bound based on the unique digital signature of the referrer and the signed digital certificate (i.e. signed FREE CERT) held by the referred user, not recorded in any third-party party relational database, preempting data breach.
+Traditional user management systems rely on relational databases on centralized servers to record user registrations and the referral relationships. That regime is prone to security and privacy breach. In contrast, LubeVPN's referral relationships are recorded by securely and privately binding digital signatures and their signed certificates in a peer-to-peer fashion. More specifically, a referral relationship in LubeVPN is securely bound based on the unique digital signature of the referrer and the signed digital certificate (i.e. signed FREE CERT) held by the referred user, not recorded in any third-party party relational database, effectively preempting user data breach and link analysis.
 
 ### 通行證書系統<br>CERT System
 
