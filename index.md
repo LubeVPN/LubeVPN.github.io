@@ -12,6 +12,24 @@ googlefonts: ["Roboto Condensed"]
 
 LubeVPN is commercially built on __an open and fully decentralized technology__: [__Citium__](../citium_what_for). LubeVPN is a radical departure and upgrade from all the popular VPN systems in the open marketspace. LubeVPN users use secure digital certificates (“CERT”) to access VPN service instead of username/password combinations.
 
+### 繞過萬里網審<br>Censorship Circumvention
+
+基於  [西蒂姆(Citium)](../citium) 独特設計的去中心化網絡身份及數據混淆技術，能讓《順道VPN》的用戶自由自在地上網。換句話說，因為《順道VPN》能繞過最嚴峻的網絡審查（**甚至是其他VPN服務商無法繞過的**），所以用戶能順暢地讀取和瀏覽任何受封鎖內容。		
+
+Uniquely designed decentralized network identity and data obfuscation technology based on [Citium](../citium) enable LubeVPN users surf the Internet freely. In other words, LubeVPN can circumvent the strictest Internet censorship that most other VPN service providers cannot circumvent so that users can access and surf any blocked content smoothly.
+
+### 開天闢地的技術<br>Ground-Breaking Tech
+
+《順道VPN》從云云最強的加密算法中選擇了合適的算法作為用戶的數據傳輸，可以在特別敏感的社政管理地區繞過萬里的網絡重圍，全自動地幫你選擇最佳服務器，恍如無間地高速通向所有境外受限內容，更可以避免網絡提供商(ISP)的網速限制。《順道VPN》整個服務流程百分百完全匿名，絕對不記錄任何用戶個人隱私信息，過程中絕不收取用戶姓名電郵或身份證明，只通過安全加密證書認證協助用戶開啟服務。《順道VPN》的用戶可以安心地使用《順道VPN》，因為每個用戶都有安全的唯一使用權，用戶持有的每張加速證書只可用於一台終端，《順道VPN》是不允超過一台終端分享加速證書的。
+
+LubeVPN utilizes some of the strongest encryption algorithms to transport user data. It automatically chooses the best server that can circumvent blocking, bypass restrictive censorship, and avert ISP bandwidth speed throttling. LubeVPN respects the total privacy of all existing and even prospective users. No private information is ever asked, not to mention recorded. Prospective customers do not need to provide email, name or any kind of identification to use LubeVPN service. LubeVPN service can only be activated through cryptographic means. Users can feel secure because the usage is exclusively allowed to be accessed on a one-on-one basis: one (1) LubeVPN Acceleration Cert can only be used on one (1) device. Simultaneous access on multiple devices is prohibited.
+
+### 不寫Log政策<br>No Log Policy
+
+《順道VPN》不記錄任何接來自用戶的網絡接駁來源的信息。《順道VPN》也不記錄任何用戶個人信息。《順道VPN》僅記錄數據使用量，用以確保服務質量，及預防服務被濫用。
+
+Lube VPN does not record network routing information, such as originating IP and device. LubeVPN does not record any customer information such as name, phone or ID. LubeVPN only records VPN traffic volume usage to ensure quality of service and to prevent service misuse.
+
 ### 免費試用順道VPN<br>Free Trial of LubeVPN
 
 1. 下載並安裝 Citium 客戶端應用 app

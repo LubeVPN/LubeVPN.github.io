@@ -25,11 +25,11 @@ navbar-links:
 #  開天闢地的技術<br>Technology: "technology"
 #  去中心化網絡<br>Citium: "citium"
 #  開發團隊<br>About Us: "about_us"
-  產品服務亮點<br>Service Features:
-    - 繞過萬里網審<br>Circumvention: "circumvention"
-    - 匿名和隱私<br>Anonymity: "anonymity_privacy"
-    - 開天闢地的技術<br>Technology: "technology"
-    - 絕不寫Log政策<br>No Log Policy: "no_log_policy"
+#  產品服務亮點<br>Service Features:
+#    - 繞過萬里網審<br>Circumvention: "circumvention"
+#    - 匿名和隱私<br>Anonymity: "anonymity_privacy"
+#    - 開天闢地的技術<br>Technology: "technology"
+#    - 絕不寫Log政策<br>No Log Policy: "no_log_policy"
   產品服務支持<br>Support:
     - Windows版本安裝<br>Windows Version: "windows"
     - 續時抵值：加密幣<br>Payment by Crypto: "#%E7%BA%8C%E6%99%82%E6%8A%B5%E5%80%BC%E5%BD%A2%E5%BC%8F"
