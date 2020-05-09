@@ -14,7 +14,7 @@ LubeVPN is proprietorially built based on __an open and fully decentralized tech
 
 ## 順道VPN通行證書<br>LubeVPN Certificate
 
-順道VPN是不隨便接受新用戶申請的，必須由現有用戶推薦的新用戶，順道VPN才會考慮接受申請。換句話說，一個用戶如慾訪問順道VPN服務，必先獲得順道VPN現有用戶的舉薦。順道VPN是使用了一套安全電子簽名系統來管理用戶舉薦和註冊流程，而不是像大多數其他在線服務提供商那樣選用傳統的用戶名和用戶密碼制度，因為通過使用我們的電子簽名系統才可以最大程度地提高所有服務參與者的使用安全性和匿名性。
+順道VPN是不隨便接受新用戶申請的，必須由現有用戶推薦的新用戶，順道VPN才會考慮接受申請。換句話說，一個用戶如慾訪問順道VPN服務，必先獲得順道VPN現有用戶的推薦。順道VPN是使用了一套安全電子簽名系統來管理用戶推薦和註冊流程，而不是像大多數其他在線服務提供商那樣選用傳統的用戶名和用戶密碼制度，因為通過使用我們的電子簽名系統才可以最大程度地提高所有服務參與者的使用安全性和匿名性。
 
 LubeVPN does not accept new user registration unless one is referred by an existing user. In other words, one must first find a referrer who is an existing LubeVPN user to refer him/her before he/she can request LubeVPN to validate his/her rights and to authorize his/her access to its VPN service. LubeVPN utilizes a secure electronic signature system to manage user referral and registration workflows instead of the username/password regime traditionally utilized by most of the other online service providers because only by utilizing the electronic signature system can we maximize security and anonymity for all parties.
 
@@ -30,7 +30,7 @@ Traditional user management systems rely on relational databases on centralized 
 
 In LubeVPN, referred users are each responsible to initiate the referral and registration process by creating one's own FREE CERT, which is an easy, one-click, one-time and free of charge action performed on everyone's own device. Next, they may ask for their referrers to sign their FREE CERTs. Once signed, the referral relationship between a referrer (i.e. signer) and the referred user (i.e. the creator and holder of a CERT) are permanently bound to the signed CERT even if the holder later decide to renew it (i.e. paying and subscribing for MEMBER CERTS).
 
-### 舉薦制度<br>Referred User Only
+### 推薦制度<br>Referred User Only
 
 順道VPN是不會隨隨便便接受任何一個《免費通行證書》的認證請求的；僅限於持有有效、未逾期的、通行證書的、用戶的數字簽名簽署過的《免費通行證書》；簡單來說，只有被現有順道VPN用戶簽署過的《免費通行證書》，順道VPN才會接受其請求去認證它。認證通過後，持有該《免費通行證書》的受薦者才能獲得授權訪問順道VPN的VPN服務。
 
@@ -67,12 +67,6 @@ Late-coming requests for validating FREE CERTs are limited based on their signer
 - **180-DAY, quota increased by 28**
 - **360-DAY, quota increased by 48**
 
-### 受薦者能享受<br>Referred Users Enjoy
-
-受薦者自己生成的《免費通行證書》，並得到持有有效（未逾期）《通行證書》的簽署者（推薦者）簽署該《免費通行證書》；然後，如果順道VPN能成功認證該已簽署的《免費通行證書》，就會授權受薦者訪問連續5天和在有效期內每天最多500M流量的VPN服務。總的來說，受薦者獲得免費試用順道VPN的機會，如果覺得好用並續時，推薦者（簽署者）勞苦功高，有機會獲得獎勵積分，皆大歡喜！
-
-LubeVPN will authorize a referred user who has his/her FREE CERT successfully signed (i.e. referred by existing LubeVPN user) and validated (i.e. recognized by LubeVPN) to access LubeVPN service for five (5) consecutive days with 500M of traffic quota per day. The gist of this referral program is to encourage existing LubeVPN users to share the trial usage of the service with friends. If some of them decide to renew, the referrers (signers) have the opportunity to earn redeemable points. Everyone wins!
-
 ### 推薦者所得益處<br>Referrer Incentives
 
 持有《免費通行證書》或逾期《會員通行證書》的簽署者（即，推薦者）不能獲得任何獎勵。但只要你持有一張有效的（即，未逾期的）《會員通行證書》，你所曾簽署的《免費通行證書》被續時的時候，你都可以獲得相應的可兌換獎勵積分。獎勵積分可在《會員通行證書》之间相互贈與或兌換《會員通行證書》時長延展。每10點獎勵積分可兌換二十四小時《通行證書》時長延展。**每次受薦者的《會員通行證書》續時等級至：**
@@ -86,6 +80,12 @@ A signer (i.e. referrer) who holds a FREE CERT or an expired MEMBER CERT is not 
 - **30-DAY, its signer can earn 30 pts**
 - **180-DAY, its signer can earn 200 pts**
 - **360-DAY, its signer can  earn 380 pts**
+
+### 受薦者能享受<br>Referred Users Enjoy
+
+受薦者自己生成的《免費通行證書》，並征求得到了持有有效、未逾期《通行證書》的簽署者（推薦者）簽署其《免費通行證書》；然後，如果順道VPN成功認證該已簽署的《免費通行證書》，順道VPN就會授權受薦者訪問**連續5天和在有效期內每天最多500M流量的VPN服務**。總的來說，受薦者獲得免費試用順道VPN的機會，如果覺得好用並續時，推薦者（簽署者）更可以獲得獎勵積分。皆大歡喜！
+
+LubeVPN will authorize a referred user who has his/her FREE CERT successfully signed (i.e. referred by existing LubeVPN user) and validated (i.e. recognized by LubeVPN) to **access LubeVPN service for five (5) consecutive days with 500M of traffic quota per day**. The gist of this referral program is to encourage existing LubeVPN users to share the free trial of LubeVPN with friends. If some of them decide to renew, the referrers (signers) can earn redeemable points. Everyone's happy!
 
 ## 安裝與試用<br>Installation & Trial
 
