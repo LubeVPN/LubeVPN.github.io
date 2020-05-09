@@ -57,15 +57,15 @@ If the signer (i.e. referrer) only holds a validated FREE CERT at the time of si
 
 晚來的認證請求也是有上限的，而該上限是根據簽署者（即，推薦者）的有效簽署配額而定的。《會員通行證書》的等級不同而不同；簽署者本人續時《會員通行證書》次數越多，累計配額則也越多。規則如下，**按《免費通行證》的簽署者：**
 
-- 每續時30日《會員通行證書》則獲添18張有效簽署配額。
-- 每續時180日《會員通行證書》則獲添28張有效簽署配額。
-- 每續時360日《會員通行證書》則獲添48張有效簽署配額。
+- **每續時30日《會員通行證書》則獲添18張有效簽署配額**
+- **每續時180日《會員通行證書》則獲添28張有效簽署配額**
+- **每續時360日《會員通行證書》則獲添48張有效簽署配額**
 
 Late-coming requests for validating FREE CERTs are limited based on their signer's valid signing quota, which varies based on the membership level of the signer and their number of renewals. **A signer (i.e. referrer) has his/her valid FREE CERT signing quota increases by:**
 
-- 18 every time his/her CERT renewed to 30-DAY MEMBER CERT,
-- 28 every time his/her CERT renewed to 180-DAY MEMBER CERT,
-- 48 every time his/her CERT renewed to 360-DAY MEMBER CERT.
+- **18 every time his/her CERT renewed to 30-DAY MEMBER CERT**
+- **28 every time his/her CERT renewed to 180-DAY MEMBER CERT**
+- **48 every time his/her CERT renewed to 360-DAY MEMBER CERT**
 
 ### 受薦者能享受<br>Referred Users Enjoy
 
@@ -77,15 +77,15 @@ LubeVPN will authorize a referred user who has his/her FREE CERT successfully si
 
 持有《免費通行證書》或逾期《會員通行證書》的簽署者（即，推薦者）不能獲得任何獎勵。但只要你持有一張有效的（即，未逾期的）《會員通行證書》，你所曾簽署的《免費通行證書》被續時的時候，你都可以獲得相應的可兌換獎勵積分。獎勵積分可在《會員通行證書》之间相互贈與或兌換《會員通行證書》時長延展。每十（10）點獎勵積分可兌換24小時《通行證書》時長延展。**每次受薦者續時至：**
 
-- 30日《會員通行證書》，其簽署者均可獲得30點獎勵積分。
-- 180日《會員通行證書》，其簽署者均可獲得200點獎勵積分。
-- 360日《會員通行證書》，其簽署者均可獲得380點獎勵積分。
+- **30日《會員通行證書》，其簽署者均可獲得30點獎勵積分**
+- **180日《會員通行證書》，其簽署者均可獲得200點獎勵積分**
+- **360日《會員通行證書》，其簽署者均可獲得380點獎勵積分**
 
 A signer (i.e. referrer) who holds a FREE CERT or an expired MEMBER CERT is not entitled to earn anything. But as long as one holds a valid (i.e. unexpired) MEMBER CERT, he/she is entitled to earn redeemable points whenever the CERTS that he/she has signed are renewed (i.e. paid and subscribed for MEMBER CERTs). Points can be gifted among MEMBER CERTS or redeemed for time extension on MEMBER CERTS. Every ten (10) points can redeem for 24-hour extension on a MEMBER CERT. **Every time a referred user renews to:**
 
-- 30-DAY MEMBER CERT, its signer earns 30 points.
-- 180-DAY MEMBER CERT, its signer earns 200 points.
-- 360-DAY MEMBER CERT, its signer earns 380 points.
+- **30-DAY MEMBER CERT, its signer earns 30 points**
+- **180-DAY MEMBER CERT, its signer earns 200 points**
+- **360-DAY MEMBER CERT, its signer earns 380 points**
 
 ## 安裝與試用<br>Installation & Trial
 
