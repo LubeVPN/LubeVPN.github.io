@@ -83,7 +83,7 @@ A signer (i.e. referrer) who holds a FREE CERT or an expired MEMBER CERT is not 
 
 ### 受薦者能享受<br>Referred Users Enjoy
 
-受薦者自己生成的《免費通行證書》，並征求得到了持有有效、未逾期《通行證書》的簽署者（推薦者）簽署其《免費通行證書》；然後，如果順道VPN成功認證該已簽署的《免費通行證書》，順道VPN就會授權受薦者訪問**連續5天和在有效期內每天最多500M流量的VPN服務**。總的來說，受薦者獲得免費試用順道VPN的機會，如果覺得好用並續時，推薦者（簽署者）更可以獲得獎勵積分。皆大歡喜！
+受薦者自己生成的《免費通行證書》，並征求得到了持有有效、未逾期《通行證書》的簽署者（推薦者）簽署其《免費通行證書》；然後，如果順道VPN成功認證該已簽署的《免費通行證書》，順道VPN就會授權受薦者**訪問連續5天和在有效期內每天最多500M流量的VPN服務**。總的來說，受薦者獲得免費試用順道VPN的機會，如果覺得好用並續時，推薦者（簽署者）更可以獲得獎勵積分。皆大歡喜！
 
 LubeVPN will authorize a referred user who has his/her FREE CERT successfully signed (i.e. referred by existing LubeVPN user) and validated (i.e. recognized by LubeVPN) to **access LubeVPN service for five (5) consecutive days with 500M of traffic quota per day**. The gist of this referral program is to encourage existing LubeVPN users to share the free trial of LubeVPN with friends. If some of them decide to renew, the referrers (signers) can earn redeemable points. Everyone's happy!
 
