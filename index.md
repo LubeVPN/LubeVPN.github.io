@@ -64,7 +64,7 @@ LubeVPN users use secure digital certificates (“CERTs”) to access VPN servic
 
 ### 通行證書的簽署和認證<br>CERT Signing & Validation
 
-順道VPN是不會隨隨便便接受任何一個《免費通行證書》的認證請求的；僅限於持有有效、未逾期的、通行證書的、用戶的數字簽名簽署過的《免費通行證書》；簡單來說，只有被現有順道VPN用戶簽署過的《免費通行證書》，順道VPN才會接受其請求去認證它。認證通過後，持有該《免費通行證書》的受薦者才能獲得授權訪問順道VPN的VPN服務。
+順道VPN是不會隨隨便便接受任何一個《免費通行證書》的認證請求的，而是僅限於由持有有效的（未過期的）通行證書的簽署者簽署過的《免費通行證書》。簡單來說，只有被現有順道VPN用戶簽署過的《免費通行證書》，順道VPN才會接受其請求去認證它。認證通過後，持有該《免費通行證書》的受薦者才能獲得授權訪問順道VPN的VPN服務。
 
 LubeVPN will not accept validation requests from any FREE CERT unless it is signed by one who holds a valid (i.e. unexpired) CERT. Simply put, LubeVPN only validates FREE CERTs signed by existing users. Once a validation succeeds, the holder of the valid FREE CERT is authorized to access LubeVPN service.
 
