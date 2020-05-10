@@ -8,27 +8,27 @@ googlefonts: ["Roboto Condensed"]
 
 ![LubeVPN](/img/ads.png "Groundbreaking VPN Tech"){: .center-block :}
 
-《順道VPN》(Lube VPN) 是基於開源及完全去中心化的 [西蒂姆(Citium)](../citium_what_for) 開發的互聯網隱私及信息加速商業服務應用。它把坊間流行的VPN系統作出了比較重大的改良和升級。順道VPN用戶使用安全數碼證書（“通行證書”）訪問VPN服務，而不是用用戶名密碼組合。
+《順道VPN》(Lube VPN) 是基於開源及完全去中心化的 [西蒂姆(Citium)](../citium_what_for) 開發的互聯網隱私及信息加速商業服務應用。它把坊間流行的VPN系統作出了比較重大的改良和升級。順道VPN用戶使用安全數碼證書（“通行證書”）訪問VPN服務，而不是使用用戶名及密碼組合。（注：Citium 客戶端 app 和其即時聊天工具開源免費永久免費使用的。）
 
-LubeVPN is commercially built on __an open and fully decentralized technology__: [__Citium__](../citium_what_for). LubeVPN is a radical departure and upgrade from all the popular VPN systems in the open marketspace. LubeVPN users use secure digital certificates (“CERT”) to access VPN service instead of username/password combinations.
+LubeVPN is commercially built on __an open and fully decentralized technology__: [__Citium__](../citium_what_for). LubeVPN is a radical departure and upgrade from all the popular VPN systems in the open marketspace. LubeVPN users use secure digital certificates (“CERT”) to access VPN service instead of username/password combinations. (Note: Citium Client app and its Instant Messenger is open source and permanently free-to-use.)
 
 ### 繞過萬里網審<br>Censorship Circumvention
 
-基於  [西蒂姆(Citium)](../citium) 独特設計的去中心化網絡身份及數據混淆技術，能讓《順道VPN》的用戶自由自在地上網。換句話說，因為《順道VPN》能繞過最嚴峻的網絡審查（**甚至是其他VPN服務商無法繞過的**），所以用戶能順暢地讀取和瀏覽任何受封鎖內容。		
+基於  [西蒂姆(Citium)](../citium) 獨特設計的去中心化網絡身份及數據混淆技術，能讓《順道VPN》的用戶自由自在地上網。換句話說，因為《順道VPN》能繞過最嚴峻的網絡審查（**甚至是其他VPN服務商無法繞過的**），所以用戶能順暢地讀取和瀏覽任何受封鎖內容。		
 
 Uniquely designed decentralized network identity and data obfuscation technology based on [Citium](../citium) enable LubeVPN users to surf the Internet freely. In other words, LubeVPN can **circumvent the strictest Internet censorship that most other VPN service providers cannot circumvent** so that users can access and surf any blocked content smoothly.
 
 ### 開天闢地的技術<br>Ground-Breaking Tech
 
-《順道VPN》從云云最強的加密算法中選擇了合適的算法作為用戶的數據傳輸，可以在特別敏感的社政管理地區繞過萬里的網絡重圍，全自動地幫你選擇最佳服務器，**恍如無間地高速通向所有境外受限內容，更可以避免網絡提供商(ISP)的網速限制**。《順道VPN》整個服務流程百分百完全匿名，絕對不記錄任何用戶個人隱私信息，過程中絕不收取用戶姓名電郵或身份證明，只通過安全加密證書認證協助用戶開啟服務。
+《順道VPN》從芸芸最強的加密算法中選擇了合適的算法作為用戶的數據傳輸，可以在特別敏感的社政管理地區繞過萬里的網絡重圍，全自動地幫你選擇最佳服務器，**恍如無間地高速通向所有境外受限內容，更可以避免網絡提供商(ISP)的網速限制**。《順道VPN》整個服務流程百分百完全匿名，絕對不記錄任何用戶個人隱私信息，過程中絕不收取用戶實名電郵或身份證明，只通過安全加密證書認證協助用戶開啟服務。
 
 LubeVPN utilizes some of the strongest encryption algorithms to transport user data. It automatically chooses the best server that can circumvent blocking, **bypass restrictive censorship, and avert ISP bandwidth speed throttling**. LubeVPN respects the total privacy of all existing and even prospective users. No private information is ever asked, not to mention recorded. Prospective customers do not need to provide email, name or any kind of identification to use the LubeVPN service. LubeVPN service can only be activated through cryptographic means.
 
 ### 不寫Log政策<br>No Log Policy
 
-《順道VPN》不記錄任何接來自用戶的網絡接駁來源的信息。《順道VPN》也 **不記錄任何用戶個人信息**。《順道VPN》僅記錄數據使用量，用以確保服務質量，及預防服務被濫用。《順道VPN》的用戶可以安心地使用《順道VPN》，因為每張加密安全證書只可同時用於一台終端，《順道VPN》是 **不允超過一台終端同時使用一張證書** 的。
+《順道VPN》不記錄任何接來自用戶的網絡接駁來源的信息。《順道VPN》從技術設計上來說，在本質機制上不能記錄也 **不會記錄任何用戶個人信息**。《順道VPN》僅記錄數據使用量，用以確保服務質量，及預防服務被濫用。《順道VPN》的用戶可以安心地使用《順道VPN》，因為每張加密安全證書只可同時用於一台終端，《順道VPN》是 **不允超過一台終端同時使用一張證書** 的。
 
-Lube VPN does not record network routing information, such as originating IP and device. LubeVPN does **not record any customer information** such as name, phone or ID. LubeVPN only records VPN traffic volume usage to ensure quality of service and to prevent service misuse. Users can feel secure because the usage is exclusively allowed to be accessed on a one-on-one basis: one (1) LubeVPN cryptographically secure certificate can only be used on one (1) device at the same time. **Simultaneous access of one certificate on multiple devices is prohibited**.
+Lube VPN does not record network routing information, such as originating IP and device. LubeVPN is also technically designed so that it is inherently incapable to record and will **not record any user information** such as name, phone or ID. LubeVPN only records VPN traffic volume usage to ensure quality of service and to prevent service misuse. Users can feel secure because the usage is exclusively allowed to be accessed on a one-on-one basis: one (1) LubeVPN cryptographically secure certificate can only be used on one (1) device at the same time. **Simultaneous access of one certificate on multiple devices is prohibited**.
 
 ### 免費試用順道VPN<br>Free Trial of LubeVPN
 
@@ -52,9 +52,9 @@ Finally, functioning as a ticket/pass, the signed FREE CERT can authorize its ho
 
 ## 用戶信息安全<br>User InfoSec
 
-傳統用戶管理系統依賴中央化服務器的關系型數據庫記錄用戶註冊、推薦者與受薦者之間的關系，安全和匿名程度都比較低。反觀，順道VPN的用戶登記和推薦系統是通過數字簽名和數字證書以P2P的形式來綁定的。更具體來說，是推薦者的獨特數字簽名和受薦者持有的簽名數字證書（即，已簽署的《免費通行證書》）來安全地、隐蔽地綁定彼此的關系，而 **不會被記錄在任何第三方關係型數據庫上，有效地防範用戶個人數據洩露與關聯性信息分析於未然**。
+傳統用戶管理系統依賴中央化服務器的關系型數據庫記錄用戶註冊、推薦者與受薦者之間的關系，安全和匿名程度都比較低。反觀，順道VPN的用戶登記和推薦系統是通過數字簽名和數字證書以P2P的形式來綁定的。更具體來說，順道VPN不單不記錄任何用戶信息，就連推薦系統都用了推薦者的獨特數字簽名和受薦者持有的簽名數字證書（即，已簽署的《免費通行證書》）來安全地、隐蔽地綁定彼此的關系， **不會被記錄在任何第三方關係型數據庫上，有效地防範用戶個人數據洩露與關聯性信息分析於未然**。
 
-Traditional user management systems rely on relational databases on centralized servers to record user registrations and the referral relationships. That regime is prone to security and privacy breach. In contrast, LubeVPN's referral relationships are recorded by securely and privately binding digital signatures and their signed certificates in a peer-to-peer fashion. More specifically, a referral relationship in LubeVPN is securely bound based on the unique digital signature of the referrer and the signed digital certificate (i.e. signed FREE CERT) held by the referred user, **not recorded in any third-party party relational database, effectively preempting user data breach and link analysis**.
+Traditional user management systems rely on relational databases on centralized servers to record user registrations and the referral relationships. That regime is prone to security and privacy breach. In contrast, LubeVPN's referral relationships are recorded by securely and privately binding digital signatures and their signed certificates in a peer-to-peer fashion. More specifically, LubeVPN does not ask for or record any user information. A referral relationship in LubeVPN is securely bound based on the unique digital signature of the referrer and the signed digital certificate (i.e. signed FREE CERT) held by the referred user, **not recorded in any third-party party relational database, effectively preempting user data breach and link analysis**.
 
 ### 通行證書系統<br>CERT System
 
@@ -69,9 +69,9 @@ LubeVPN users use secure digital certificates (“CERTs”) to access VPN servic
 LubeVPN will not accept validation requests from any FREE CERT unless it is signed by one who holds a valid (i.e. unexpired) CERT. Simply put, **LubeVPN only validates FREE CERTs signed by existing users**. Once a validation succeeds, the holder of the valid FREE CERT is authorized to access LubeVPN service.
 
 {: .box-warning}
-**溫馨提醒:** 每一個持有已簽署的《通行證書》的持有者都有責任不丟失自己的《通行證書》 。尤其要小心，**不要不小心清除了存儲《通行證書》的 Citium 客戶端 app 的數據**，因為已簽署的《通行證書》是唯一的能證明推薦者與受薦者關系的證據。
+**溫馨提醒:** 每一個持有已簽署的《通行證書》的持有者都有責任不丟失自己的《通行證書》 。尤其要小心，**不要不小心清除了存儲《通行證書》的 Citium 客戶端 app 的數據**，因為已簽署的《通行證書》是唯一的能證明推薦者與受薦者關系的證據。用戶不論任何原因遺失《通行證書》，如卸載並重裝Citium 客戶端 app，遺失或更換手機，平板或電腦而未預先備份《通行證書》，用戶將永久地無法重新登入、亦同時失去該《通行證書》的存取及使用權，並且會永久失去《通行證書》關聯的 Citium 即時通訊工具的通訊帳戶、聯絡人列表、對話紀錄及所有通訊存儲內的多媒體資料和其使用權。而Citium 的客服、代理及管理員於任何情況下均無法協助用戶重新登入、存取及使用該《通行證書》，這也是我們安保設計的精妙之處。
 <br><br>
-**GENTLE REMINDER:** Every holder of the signed CERTS is responsible for not losing one's own signed CERT. Be careful **not to accidentally clear the data of the Citium Client app** that stores the signed CERT because it is the only evidence to prove the user registration status, as well as the referral relationship between its user and its signer.
+**GENTLE REMINDER:** Every holder of the signed CERTs is responsible for not losing one's own signed CERT. Be careful **not to accidentally clear the data of the Citium Client app** that stores the signed CERT because it is the only evidence to prove the user registration status, as well as the referral relationship between its user and its signer. If a user loses the signed CERT for any reason (e.g. uninstalls and reinstalls the Citium Client App; loses or replaces the mobile phone, tablet or computer; fails to back up the CERT in advance), the user will no longer be able to log back in, permanently lose access access to service, including everything related to Citium Instant Messenger, such as Contacts list, its chat history and its multimedia contents. LubeVPN's customer service representatives, partnership agents and administrators are under no circumstances able to assist the user to log in, access and use the CERT again, which is the beauty of our security design.
 
 ## 推薦者計劃<br>Referral Program
 
