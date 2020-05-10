@@ -26,9 +26,9 @@ LubeVPN utilizes some of the strongest encryption algorithms to transport user d
 
 ### 不寫Log政策<br>No Log Policy
 
-《順道VPN》不記錄任何接來自用戶的網絡接駁來源的信息。《順道VPN》也 **不記錄任何用戶個人信息**。《順道VPN》僅記錄數據使用量，用以確保服務質量，及預防服務被濫用。《順道VPN》的用戶可以安心地使用《順道VPN》，因為每張加密安全證書只可同時用於一台終端，《順道VPN》是不允超過一台終端同時使用一張證書的。
+《順道VPN》不記錄任何接來自用戶的網絡接駁來源的信息。《順道VPN》也 **不記錄任何用戶個人信息**。《順道VPN》僅記錄數據使用量，用以確保服務質量，及預防服務被濫用。《順道VPN》的用戶可以安心地使用《順道VPN》，因為每張加密安全證書只可同時用於一台終端，《順道VPN》是 **不允超過一台終端同時使用一張證書** 的。
 
-Lube VPN does not record network routing information, such as originating IP and device. LubeVPN does **not record any customer information** such as name, phone or ID. LubeVPN only records VPN traffic volume usage to ensure quality of service and to prevent service misuse. Users can feel secure because the usage is exclusively allowed to be accessed on a one-on-one basis: one (1) LubeVPN cryptographically secure certificate can only be used on one (1) device at the same time. Simultaneous access of one certificate on multiple devices is prohibited.
+Lube VPN does not record network routing information, such as originating IP and device. LubeVPN does **not record any customer information** such as name, phone or ID. LubeVPN only records VPN traffic volume usage to ensure quality of service and to prevent service misuse. Users can feel secure because the usage is exclusively allowed to be accessed on a one-on-one basis: one (1) LubeVPN cryptographically secure certificate can only be used on one (1) device at the same time. **Simultaneous access of one certificate on multiple devices is prohibited**.
 
 ### 免費試用順道VPN<br>Free Trial of LubeVPN
 
@@ -39,7 +39,7 @@ Lube VPN does not record network routing information, such as originating IP and
 5. 尋求一名現有的順道VPN用戶
 6. 請求他/她簽署該《免費通行證書》
 
-最後，好比一張入場券，該已簽署的《免費通行證書》就能授權其持有者訪問《順道VPN》的免費試用。
+最後，好比一張入場券，該已簽署的《免費通行證書》就能授權其持有者訪問《順道VPN》的免費試用。你可以在本頁底部參閱[更多詳盡說明](#%E5%AE%89%E8%A3%9D%E8%88%87%E8%A9%A6%E7%94%A8installation--trial)。
 
 1. Download and install a Citium Client app
 2. Find the LubeVPN interface in the app
@@ -48,7 +48,7 @@ Lube VPN does not record network routing information, such as originating IP and
 5. Find an existing LubeVPN user
 6. Ask the user to sign the FREE CERT
 
-Finally, functioning as a ticket/pass, the signed FREE CERT can authorize its holder to access a free trial of LubeVPN.
+Finally, functioning as a ticket/pass, the signed FREE CERT can authorize its holder to access a free trial of LubeVPN. You can read [more detailed instructions](#%E5%AE%89%E8%A3%9D%E8%88%87%E8%A9%A6%E7%94%A8installation--trial) at the end of this page.
 
 ## 用戶信息安全<br>User InfoSec
 
@@ -58,15 +58,15 @@ Traditional user management systems rely on relational databases on centralized 
 
 ### 通行證書系統<br>CERT System
 
-順道VPN用戶使用安全數字證書（“通行證書”）來訪問VPN服務，而不是用戶名/密碼組合。有兩種順道VPN的通行證書：**《免費通行證書》和《會員通行證書》**。一張已簽署和有效的《免費通行證書》授權其持有人訪問順道VPN的免費試用。所有《會員通行證書》都是源自和續時自《免費通行證書》。《會員通行證書》持有者不單享受更高級的順道VPN服務和推薦新用戶到順道VPN，每當受薦者續時後，他更能賺取可兌換的積分。
+順道VPN用戶使用安全數字證書（“通行證書”）來訪問VPN服務，而不是用戶名/密碼組合。有兩種順道VPN的通行證書：**《免費通行證書》和《會員通行證書》**。一張已簽署和有效的《免費通行證書》授權其持有人訪問順道VPN的免費試用。所有《會員通行證書》都是源自和續時自《免費通行證書》。**《會員通行證書》** 持有者不單享受更高級的順道VPN服務和推薦新用戶到順道VPN，每當受薦者續時後，他更 **能賺取可兌換的積分**。
 
-LubeVPN users use secure digital certificates (“CERTs”) to access VPN service instead of username/password combinations. There are two kinds of CERT in LubeVPN: **FREE CERT and MEMBER CERT**. A signed and validated FREE CERT authorizes its holder to access a free trial of LubeVPN. All MEMBER CERTs are originated and renewed from FREE CERT. A MEMBER CERT holder not only enjoys a higher level of LubeVPN service and refers new users to LubeVPN, he/she earns redeemable points whenever the referred users renew their CERTs.
+LubeVPN users use secure digital certificates (“CERTs”) to access VPN service instead of username/password combinations. There are two kinds of CERT in LubeVPN: **FREE CERT and MEMBER CERT**. A signed and validated FREE CERT authorizes its holder to access a free trial of LubeVPN. All MEMBER CERTs are originated and renewed from FREE CERT. A **MEMBER CERT holder** not only enjoys a higher level of LubeVPN service and refers new users to LubeVPN, he/she **earns redeemable points** whenever the referred users renew their CERTs.
 
 ### 通行證書的簽署和認證<br>CERT Signing & Validation
 
-順道VPN是不會隨隨便便接受任何一個《免費通行證書》的認證請求的，而是僅限於由持有有效的（未過期的）通行證書的簽署者簽署過的《免費通行證書》。簡單來說，只有被現有順道VPN用戶簽署過的《免費通行證書》，順道VPN才會接受其請求去認證它。認證通過後，持有該《免費通行證書》的受薦者才能獲得授權訪問順道VPN的VPN服務。
+順道VPN是不會隨隨便便接受任何一個《免費通行證書》的認證請求的，而是僅限於由持有有效的（未過期的）通行證書的簽署者簽署過的《免費通行證書》。簡單來說，**只有被現有順道VPN用戶簽署過的《免費通行證書》，順道VPN才會接受其請求** 去認證它。認證通過後，持有該《免費通行證書》的受薦者才能獲得授權訪問順道VPN的VPN服務。
 
-LubeVPN will not accept validation requests from any FREE CERT unless it is signed by one who holds a valid (i.e. unexpired) CERT. Simply put, LubeVPN only validates FREE CERTs signed by existing users. Once a validation succeeds, the holder of the valid FREE CERT is authorized to access LubeVPN service.
+LubeVPN will not accept validation requests from any FREE CERT unless it is signed by one who holds a valid (i.e. unexpired) CERT. Simply put, **LubeVPN only validates FREE CERTs signed by existing users**. Once a validation succeeds, the holder of the valid FREE CERT is authorized to access LubeVPN service.
 
 {: .box-warning}
 **溫馨提醒:** 每一個持有已簽署的《通行證書》的持有者都有責任不丟失自己的《通行證書》 。尤其要小心，**不要不小心清除了存儲《通行證書》的 Citium 客戶端 app 的數據**，因為已簽署的《通行證書》是唯一的能證明推薦者與受薦者關系的證據。
@@ -126,9 +126,9 @@ A signer (i.e. referrer) who holds a FREE CERT or an expired MEMBER CERT is not 
 - **360-DAY, its signer can  earn 100 pts**
 
 {: .box-warning}
-**情景問題：** Alice 續時過三次30日《會員通行證書》，有效簽署配額等於 2+18x3 = 56張。但 Alice 推薦了給數百個 Citium 聯絡人使用順道VPN，幫他們全部人都簽署了《免費通行證書》，明顯超越了她的配額。雖然絕大部分她的受薦者都無法免費試用順道VPN，但竟然全部都續時《會員通行證書》了！這種情況下，Alice 還是否能拿到全部受薦者的續時後的獎勵積分呢？還是僅僅能拿到配額內那56張有效簽署續時獎勵積分呢？**正確答案**：後者正確。**Alice 只能拿到那56張有效簽署續時獎勵積分**。
+**基於情景的問答：** Alice 續時過三次30日《會員通行證書》，有效簽署配額等於 2+18x3 = 56張。但 Alice 推薦了給數百個 Citium 聯絡人使用順道VPN，幫他們全部人都簽署了《免費通行證書》，明顯超越了她的配額。雖然絕大部分她的受薦者都無法免費試用順道VPN，但竟然全部都續時《會員通行證書》了！這種情況下，Alice 還是否能拿到全部受薦者的續時後的獎勵積分呢？還是僅僅能拿到配額內那56張有效簽署續時獎勵積分呢？**正確答案**：後者正確。**Alice 只能拿到那56張有效簽署續時獎勵積分**。
 <br><br>
-**Scenario-based Question:** Alice has renewed to 30-DAY MEMBER CERT thrice. It means that Alice has a valid signing quota equals 2+18x3 = 56. But Alice refers LubeVPN to several hundreds of her Citium Contacts. The responses are enthusiastic. They all ask her to sign their FREE CERTs and so she signs. Although most of them fail to enjoy free trials of LubeVPN, all of them renew to MEMBER CERTs! In this situation, can Alice still earn all the redeemable points from all the renewal? Or she can only earn the redeemable points from those that are renewed from the 56 valid FREE CERTs? **Correct Answer**: It is the latter. **Alice earns points from those that are renewed from the 56 valid FREE CERTs only**.
+**Scenario-based Q&A:** Alice has renewed to 30-DAY MEMBER CERT thrice. It means that Alice has a valid signing quota equals 2+18x3 = 56. But Alice refers LubeVPN to several hundreds of her Citium Contacts. The responses are enthusiastic. They all ask her to sign their FREE CERTs and so she signs. Although most of them fail to enjoy free trials of LubeVPN, all of them renew to MEMBER CERTs! In this situation, can Alice still earn all the redeemable points from all the renewal? Or she can only earn the redeemable points from those that are renewed from the 56 valid FREE CERTs? **Correct Answer**: It is the latter. **Alice earns points from those that are renewed from the 56 valid FREE CERTs only**.
 
 ### 受薦者能享受<br>Referred Users Enjoy
 
