@@ -16,7 +16,23 @@ LubeVPN is commercially built on __an open and fully decentralized technology__:
 
 基於  [西蒂姆(Citium)](../citium) 獨特設計的去中心化網絡身份及數據混淆技術，能讓《順道VPN》的用戶自由自在地上網。換句話說，因為《順道VPN》能繞過最嚴峻的網絡審查（**甚至是其他VPN服務商無法繞過的**），所以用戶能順暢地讀取和瀏覽任何受封鎖內容。		
 
-Uniquely designed decentralized network identity and data obfuscation technology based on [Citium](../citium) enable LubeVPN users to surf the Internet freely. In other words, LubeVPN can **circumvent the strictest Internet censorship that most other VPN service providers cannot circumvent** so that users can access and surf any blocked content smoothly. Advanced network censorship systems detect and block VPN traffic by analyzing the pattern of handshaking during the user authentication phase. It is especially easy to detect the patterns among the popularly available VPN brands because their client apps perform similar patterns of handshaking whenever trying to access their respective services. That's why most of the popular brands fail to circumvent network censorship in China. In contrast, every time a LubeVPN user trying to access the VPN service, he/she is authenticated through Citium's decentralized network of nodes. Every authentication request is re-routed back-and-forth randomly through multiple nodes. No traditional sense of authentication handshaking ever appears. Even the most advanced machine learning systems of network big data will not be able to analyze the pattern. Therefore, LubeVPN is the most stable and effective circumventive measures even in the strictest censorship regions, such as China. 
+Uniquely designed decentralized network identity and data obfuscation technology based on [Citium](../citium) enable LubeVPN users to surf the Internet freely. In other words, LubeVPN can **circumvent the strictest Internet censorship that most other VPN service providers cannot circumvent** so that users can access and surf any blocked content smoothly.
+
+#### Pain Point<br>翻墙的疼點
+
+一方面，監管部門利用互聯網審查系統來控制和壓制互聯網內容。另一方面，網民利用VPN等軟件來規避壓制，使其能夠訪問被壓制的網域和IP地址。有的可以成功，但大多數都會失敗，因為監管部門一直在升級審查機制。一些監管機構的互聯網審查機制的程度已經超出了僅僅限制用戶訪問敏感的網絡域和IP地址的範圍。他們的審查機制甚至已經開始使用機器學習算法來分析互聯網流量數據，以阻止VPN服務的訪問。**仍在使用用戶名/密碼組合作為身份驗證機制的VPN服務，在這種侵擾性的互聯網審查機制面前顯得格外脆弱**。為什麽會出現這種情況呢？
+
+On the one hand, regulators use Internet censorship systems to control and suppress Internet contents. On the other hand, Internet surfers uses software, such as VPN, to circumvent the suppression so that they can access suppressed web domains and IP addresses. Some can succeed but most fail because regulators are always upgrading their censorship mechanism. The extent of Internet censorship of some regulators has gone beyond just limiting user access to sensitive web domains and IP addresses. Their censorship mechanisms have even started to use machine learning algorithms to analyze Internet traffic data in order to block VPN service access. **VPN services that are still using username/password combination as authentication regime are exceptionally vulnerable** to this kind of obtrusive Internet censorship. Why is that so?
+
+因為所有的VPN服務提供商在授權訪問之前，都必須對用戶的訪問權限進行認證。傳統的VPN服務提供商通過用戶端客戶端與VPN端服務器之間的通信（即雙向握手）對用戶進行身份驗證，表現出容易被檢測到的流量模式。事實上，**一個VPN服務越是流行，就越是容易被打壓**，因為它在互聯網上發生的成千上萬的雙向握手，簡直太顯眼了。因此，大多數流行的VPN品牌都無法規避越來越嚴格的網絡審查制度。
+
+All VPN service providers have to authenticate their users' access rights before authorizing access. Conventional VPN service providers authenticate their users through user-side client to VPN-side server communication (i.e. two-way handshake), which exhibit easily detectable traffic patterns. In facts, **the more popular a VPN service becomes, the more susceptible it is to suppression** because its tens of thousands of two-way handshake that happens on the Internet are simply too conspicuous. Hence, most of the popular VPN brands fail to circumvent network censorship that's getting more and more stringent.
+
+#### Solution<br>解决方案
+
+相比之下，順道VPN 不使用傳統的雙向握手。順道VPN 的用戶通過西蒂姆（Citium）客戶端App 訪問VPN服務，認證過程基於分散的西蒂姆（Citium）網絡節點。與傳統的雙向握手不同，**順道VPN 的認證更像是通過西蒂姆（Citium）的隨機節點進行多向握手**。順道VPN 的用戶通過西蒂姆（Citium）的其他用戶節點與VPN服務器間接接觸，直到VPN訪問被授權。壹言以蔽之，西蒂姆（Citium）客戶端App 應用越是流行，順道VPN 的握手流量與普通的互聯網流量就越無法區分。因此，使用 順道VPN 的互聯網用戶可以規避即便是最嚴格的審查系統。
+
+In contrast, LubeVPN does not use conventional two-way handshake. LubeVPN users access VPN service through Citium Client app and the authentication process is based on the decentralized Citium network of nodes. Instead of conventional two-way handshake, **authentication on LubeVPN is more like a multi-way handshake through randomized nodes of Citium**. Users of LubeVPN engage indirectly with VPN server through other user nodes of Citium until VPN access is authorized. In a nutshell, the more popular Citium Client app becomes, the more indistinguishable LubeVPN's handshaking traffic is from regular Internet traffic. Hence, Internet surfers that use LubeVPN can circumvent even the most stringent censorship system.
 
 ### 開天闢地的技術<br>Ground-Breaking Tech
 
