@@ -8,17 +8,17 @@ googlefonts: ["Roboto Condensed"]
 
 ![LubeVPN](/img/ads.png "Groundbreaking VPN Tech"){: .center-block :}
 
-《順道VPN》(Lube VPN) 是基於開源及完全去中心化的 [西蒂姆（Citium）](../citium_what_for) 開發的互聯網隱私及信息加速商業服務應用。它把坊間流行的VPN系統作出了比較重大的改良和升級。順道VPN用戶使用安全數碼證書（“通行證書”）訪問VPN服務，而不是使用用戶名及密碼組合。（注：Citium 客戶端 app 和其即時聊天工具開源免費永久免費使用的。）
+《順道VPN》（Lube VPN）是基於開源及完全去中心化的 [西蒂姆（Citium）](../citium_what_for) 開發的互聯網隱私及信息加速商業服務應用。它把坊間流行的VPN系統作出了比較重大的改良和升級。順道VPN用戶使用安全數碼證書（“通行證書”）訪問VPN服務，而不是使用用戶名及密碼組合。（注：Citium 客戶端 app 和其即時聊天工具開源免費永久免費使用的。）
 
 LubeVPN is commercially built on __an open and fully decentralized technology__: [__Citium__](../citium_what_for). LubeVPN is a radical departure and upgrade from all the popular VPN systems in the open marketspace. LubeVPN users use secure digital certificates (“CERT”) to access VPN service instead of username/password combinations. (Note: Citium Client app and its Instant Messenger is open source and permanently free-to-use.)
 
 ### 繞過萬里網審<br>Censorship Circumvention
 
-基於  [西蒂姆(Citium)](../citium_what_for) 獨特設計的去中心化網絡身份及數據混淆技術，能讓《順道VPN》的用戶自由自在地上網。換句話說，因為《順道VPN》能繞過最嚴峻的網絡審查（**甚至是其他VPN服務商無法繞過的**），所以用戶能順暢地讀取和瀏覽任何受封鎖內容。		
+基於  [西蒂姆（Citium）](../citium_what_for) 獨特設計的去中心化網絡身份及數據混淆技術，能讓《順道VPN》的用戶自由自在地上網。換句話說，因為《順道VPN》能繞過最嚴峻的網絡審查（**甚至是其他VPN服務商無法繞過的**），所以用戶能順暢地讀取和瀏覽任何受封鎖內容。		
 
 Uniquely designed decentralized network identity and data obfuscation technology based on [Citium](../citium_what_for) enable LubeVPN users to surf the Internet freely. In other words, LubeVPN can **circumvent the strictest Internet censorship that most other VPN service providers cannot circumvent** so that users can access and surf any blocked content smoothly.
 
-#### Pain Point<br>翻墙的疼點
+#### Pain Point of Conventional VPN<br>傳統VPN翻墙的疼點
 
 一方面，監管部門利用互聯網審查系統來控制和壓制互聯網內容。另一方面，網民利用VPN等軟件來規避壓制，使其能夠訪問被壓制的網域和IP地址。有的可以成功，但大多數都會失敗，因為監管部門一直在升級審查機制。一些監管機構的互聯網審查機制的程度已經超出了僅僅限制用戶訪問敏感的網絡域和IP地址的範圍。他們的審查機制甚至已經開始使用機器學習算法來分析互聯網流量數據，以阻止VPN服務的訪問。**仍在使用用戶名/密碼組合作為身份驗證機制的VPN服務，在這種侵擾性的互聯網審查機制面前顯得格外脆弱**。為什麽會出現這種情況呢？
 
@@ -28,7 +28,7 @@ On the one hand, regulators use Internet censorship systems to control and suppr
 
 All VPN service providers have to authenticate their users' access rights before authorizing access. Conventional VPN service providers authenticate their users through user-side client to VPN-side server communication (i.e. two-way handshake), which exhibit easily detectable traffic patterns. In facts, **the more popular a VPN service becomes, the more susceptible it is to suppression** because its tens of thousands of two-way handshake that happens on the Internet are simply too conspicuous. Hence, most of the popular VPN brands fail to circumvent network censorship that's getting more and more stringent.
 
-#### Solution<br>解决方案
+#### LubeVPN Decentralized Solution<br>順道VPN 去中心化的解决方案
 
 相比之下，順道VPN 不使用傳統的雙向握手。順道VPN 的用戶通過西蒂姆（Citium）客戶端App 訪問VPN服務，認證過程基於分散的[西蒂姆（Citium）](../citium_what_for)網絡節點。與傳統的雙向握手不同，**順道VPN 的認證更像是通過[西蒂姆（Citium）](../citium_what_for)的隨機節點進行多向握手**。順道VPN 的用戶通過西蒂姆（Citium）的其他用戶節點與VPN服務器間接接觸，直到VPN訪問被授權。壹言以蔽之，西蒂姆（Citium）客戶端App 應用越是流行，順道VPN 的握手流量與普通的互聯網流量就越無法區分。因此，使用 順道VPN 的互聯網用戶可以規避即便是最嚴格的審查系統。
 
