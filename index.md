@@ -8,9 +8,9 @@ googlefonts: ["Roboto Condensed"]
 
 ![LubeVPN](/img/ads.png "Groundbreaking VPN Tech"){: .center-block :}
 
-《順道VPN》（Lube VPN）是基於開源及完全去中心化的 [西蒂姆（Citium）](../citium_what_for) 開發的互聯網隱私及信息加速商業服務應用。它把坊間流行的VPN系統作出了比較重大的改良和升級。順道VPN用戶以安全數碼證書（“通行證書”）間接地通過[西蒂姆（Citium）](../citium_what_for) 的去中心化網絡節點獲取用戶身份認證，而不是使用用戶名及密碼組合在VPN服務器上直接進行認證。（注：Citium 客戶端 app 和其即時聊天工具開源免費永久免費使用的。）
+《順道VPN》（Lube VPN）是 **基於開源及完全去中心化** 的 [__西蒂姆（Citium）__](../citium_what_for) 開發的互聯網隱私及信息加速商業服務應用。它把坊間流行的VPN系統作出了比較重大的改良和升級。順道VPN用戶以安全數碼證書（**“通行證書”**）間接地通過[西蒂姆（Citium）](../citium_what_for) 的去中心化網絡節點獲取用戶身份認證，而不是使用用戶名及密碼組合在VPN服務器上直接進行認證。（注：Citium 客戶端 app 和其即時聊天工具開源免費永久免費使用的。）
 
-LubeVPN is commercially built on __an open and fully decentralized technology__: [__Citium__](../citium_what_for). LubeVPN is a radical departure and upgrade from all the popular VPN systems in the open marketspace. LubeVPN users use their secure digital certificates (“CERT”) to get authentication indirectly through [__Citium__](../citium_what_for) decentralized network of nodes instead of directly at the VPN servers by username/password combinations. (Note: Citium Client app and its Instant Messenger is open source and permanently free-to-use.)
+LubeVPN is commercially built on __an open and fully decentralized technology__: [__Citium__](../citium_what_for). LubeVPN is a radical departure and upgrade from all the popular VPN systems in the open marketspace. LubeVPN users use their secure digital certificates (**“CERT”**) to get authentication indirectly through [__Citium__](../citium_what_for) decentralized network of nodes instead of directly at the VPN servers by username/password combinations. (Note: Citium Client app and its Instant Messenger is open source and permanently free-to-use.)
 
 ### 繞過萬里網審<br>Censorship Circumvention
 
