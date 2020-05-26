@@ -36,7 +36,7 @@ In contrast, LubeVPN does not use conventional two-way handshake. LubeVPN users 
 
 ### 開天闢地的技術<br>Ground-Breaking Tech
 
-《順道VPN》從芸芸最強的加密算法中選擇了合適的算法作為用戶的數據傳輸，可以在特別敏感的社政管理地區繞過萬里的網絡重圍，全自動地幫你選擇最佳服務器，**恍如無間地高速通向所有境外受限內容，更可以避免網絡提供商(ISP)的網速限制**。《順道VPN》整個服務流程百分百完全匿名，絕對不記錄任何用戶個人隱私信息，過程中絕不收取用戶實名電郵或身份證明，只通過安全加密證書認證協助用戶開啟服務。
+《順道VPN》從芸芸最強的加密算法中選擇了合適的算法作為用戶的數據傳輸，可以在特別敏感的社政管理地區繞過萬里的網絡重圍，全自動地幫你選擇最佳服務器，**恍如無間地高速通向所有境外受限內容，更可以避免網絡提供商（ISP）的網速限制**。《順道VPN》整個服務流程百分百完全匿名，絕對不記錄任何用戶個人隱私信息，過程中絕不收取用戶實名電郵或身份證明，只通過安全加密證書認證協助用戶開啟服務。
 
 LubeVPN utilizes some of the strongest encryption algorithms to transport user data. It automatically chooses the best server that can circumvent blocking, **bypass restrictive censorship, and avert ISP bandwidth speed throttling**. LubeVPN respects the total privacy of all existing and even prospective users. No private information is ever asked, not to mention recorded. Prospective customers do not need to provide email, name or any kind of identification to use the LubeVPN service. LubeVPN service can only be activated through cryptographic means.
 
