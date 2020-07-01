@@ -6,7 +6,9 @@ bigimg: /img/rainbow_cr.jpg
 googlefonts: ["Roboto Condensed"]
 ---
 
-在辦公時間內，您可以通過西蒂姆（Citium）的即時聊天工具以語音或文本與我們的客戶服務代表進行安全和匿名的通信。 給我們留言，我們將在辦公時間內與您聯繫：
+<li><a href="{{ site.baseurl }}/index.html"><i class='fa fa-home'></i> Home</a></li>
+
+在辦公時間內，您可以通過西蒂姆（Citium）客户端 App 内的與我們的客戶服務代表進行安全和匿名的通信。 給我們留言，我們將在辦公時間內與您聯繫：
 
 - GMT+8，中國時間、上海、香港、臺北
   - 星期一至六，14時15分 至 16時45分
