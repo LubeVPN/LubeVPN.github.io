@@ -6,7 +6,7 @@ bigimg: /img/rainbow_cr.jpg
 googlefonts: ["Roboto Condensed"]
 ---
 
-在以下辦公時間內，您可以通過西蒂姆（Citium）客户端 App 内的在線客服 <i class='fa comments-o'></i> 與我們的客戶服務代表溝通；而在辦公時間外，請您留言，我們將在辦公時間內回復您：
+在以下辦公時間內，您可以通過西蒂姆（Citium）客户端 App 内的在線客服 <i class='fa fa-comments-o'></i> 與我們的客戶服務代表溝通；而在辦公時間外，請您留言，我們將在辦公時間內回復您：
 
 - GMT+8，中國時間、上海、香港、臺北
   - 星期一至六，14時15分 至 16時45分
