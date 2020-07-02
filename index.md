@@ -83,7 +83,7 @@ Traditional user management systems rely on relational databases on centralized 
 
 LubeVPN users use secure digital certificates (“CERTs”) <i class='fa fa-certificate'></i> to access VPN service instead of username/password combinations. There are two kinds of CERT in LubeVPN: **FREE CERT and MEMBER CERT**. A signed and validated FREE CERT authorizes its holder to access a free trial of LubeVPN. All MEMBER CERTs are originated and renewed from FREE CERT. A **MEMBER CERT holder** not only enjoys a higher level of LubeVPN service and refers new users to LubeVPN, he/she **earns redeemable points** whenever the referred users renew their CERTs.
 
-### 通行證書的簽署 <i class="fa fa-pencil-square-o"></i> 和認證 <i class="fa fa-check-square-o"></i><br>CERT Signing <i class="fa fa-pencil-square-o"> & Validation </i><i class="fa fa-check-square-o"></i>
+### 簽署 <i class="fa fa-pencil-square-o"></i> 和認證 <i class="fa fa-check-square-o"></i><br>Signing <i class="fa fa-pencil-square-o"></i> & Validation <i class="fa fa-check-square-o"></i>
 
 順道VPN是不會任意地接受任何一個《免費通行證書》的認證請求的，而是僅限於由持有有效的（未過期的）通行證書的簽署者簽署過的《免費通行證書》。簡單來說，**只有被現有順道VPN用戶簽署過的《免費通行證書》，順道VPN才會接受其請求** 去認證它。認證通過後，持有該《免費通行證書》的受薦者才能獲得授權訪問順道VPN的VPN服務。
 
