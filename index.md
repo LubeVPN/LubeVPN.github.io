@@ -168,9 +168,9 @@ Download the Citium Client installer file and then install it on its compatible 
 
 ### 1. <i class="fa fa-user-plus" aria-hidden="true"></i> 添加好友成為 CIM 聯絡人<br>Add Friend to Contacts
 
-找一名持有有效的（即，未逾期的）順道VPN《通行證書》的好友，例如 Alice。通過頻外密鑰驗證（OOBA）添加她成爲 Citium 即時聊天應用（CIM）<i class='fa fa-address-book'></i> 中的聯絡人。
+找一名持有有效的（即，未逾期的）順道VPN《通行證書》的好友，例如 Alice。通過頻外密鑰驗證（OOBA）添加她成爲 Citium 即時聊天應用（CIM）<i class='fa fa-envelope-square'></i> 中的聯絡人。
 
-Find a friend (e.g. Alice) who holds a valid (i.e. unexpired) LubeVPN CERT. Add Alice as your new Contact in your Citium Instant Messenger (CIM) <i class='fa fa-address-book-o' style='color:blue'></i> via out-of-band authentication.
+Find a friend (e.g. Alice) who holds a valid (i.e. unexpired) LubeVPN CERT. Add Alice as your new Contact in your Citium Instant Messenger (CIM) <i class='fa fa-envelope-square' style='color:blue'></i> via out-of-band authentication.
 
 ### 2. <i class="fa fa-plug" aria-hidden="true"></i> 順道VPN試用激活<br>Activate Trial
 
