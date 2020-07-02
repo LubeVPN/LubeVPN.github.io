@@ -157,7 +157,7 @@ A signer (i.e. referrer) who holds a FREE CERT or an expired MEMBER CERT is not 
 
 LubeVPN will authorize a referred user who has his/her FREE CERT successfully signed (i.e. referred by existing LubeVPN user) and validated (i.e. recognized by LubeVPN) to **access LubeVPN service for five (5) consecutive days with 500M of traffic quota per day**. The gist of this referral program is to encourage existing LubeVPN users to share the free trial of LubeVPN with friends. If some of them decide to renew, the referrers (signers) can earn redeemable points. Everyone's happy!
 
-## 安裝與試用<br>Installation & Trial
+## <i class="fa fa-database" aria-hidden="true"></i> 安裝與試用<br>Installation & Trial
 
 下載 Citium 客戶端的安裝文件，並安裝上其適配的操作系統上。
 
