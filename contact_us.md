@@ -42,4 +42,6 @@ Rainbow Unicorn Team (RUT) researches and develops LubeVPN. RUT is a distributed
 
 RUT members research and develop this project anonymously. Pygmy Marmoset (PM) is the sole representative its commercial operation.
 
+![LubeVPN](/img/ads.png "Groundbreaking VPN Tech"){: .center-block :}
+
 <a href="{{ site.baseurl }}/index.html"><i class='fa fa-home'></i> Go Back Homepage</a>
