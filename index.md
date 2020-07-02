@@ -208,7 +208,7 @@ LubeVPN provided VPN service to paying members on a pay-as-you-go basis to maint
 <br>
 **‡ 相當於流媒體（/30日）**：假設的大前提是順道VPN會員用戶只用於觀看 YouTube 標準制式的 480p 視頻，而這種制式的視頻約每小時消耗264 MB的順道VPN流量。那麼，如果會員按30日續時，則可以在每30日享用高達380小時；如果會員按180日續時，則可以在每30日享用高達417小時；如果會員按360日續時，則可以在每30日享用高達455小時。
 
-## <i class="fa fa-shopping-cart" aria-hidden="true"></i> 續時抵值形式
+### <i class="fa fa-shopping-cart" aria-hidden="true"></i> 續時抵值形式<br>Payment Methods
 
 順道VPN（LubeVPN）用戶可以通過多種 __抵值形式__ 來 __續時__（延長接受服務的週期）。暫時提供給用戶續時的抵值形式有：
 
@@ -222,7 +222,7 @@ LubeVPN provided VPN service to paying members on a pay-as-you-go basis to maint
 
 用戶先自行選擇一種抵值形式（不允許多種形式混合），採購足夠額度的抵值商品。採購成功後，請隨時通過西蒂姆（Citium）即時聊天工具[聯絡官方客戶服務](../contact_us)，讓我們協助您完成續時抵值的餘下手續。注：順道VPN（LubeVPN）官方客服只經由西蒂姆（Citium）的即時聊天工具提供客戶的咨詢和抵值服務。
 
-### <i class="fa fa-shopping-cart" aria-hidden="true"></i> 續時抵值：加密幣
+### <i class="fa fa-shopping-cart" aria-hidden="true"></i> 續時抵值：加密幣<br>By Cryptocurrency
 
 順道VPN（LubeVPN）通過國際知名的 [Coinbase Commerce](https://commerce.coinbase.com/) 加密幣充值接口和錢包接受抵值。接受的各種流行加密幣種有 Bitcoin、Bitcoin Cash、Dai、Ethereum、Litecoin 和 USD Coin。請按您希望抵值的續時週期點擊進入 Coinbase Commerce 充值購買所需的等值。完成後，[聯繫客服](../contact_us)，讓我們協助您完成續時抵值的餘下手續。
 
@@ -235,7 +235,7 @@ LubeVPN provided VPN service to paying members on a pay-as-you-go basis to maint
 [360日續時需$86.15 USD抵值](https://commerce.coinbase.com/checkout/752a5a80-2f06-44e3-954a-d25c10dacf18)
 {: .myButton}
 
-### <i class="fa fa-shopping-cart" aria-hidden="true"></i> 續時抵值：中港台常用
+### <i class="fa fa-shopping-cart" aria-hidden="true"></i> 續時抵值：中港台常用<br>By Virtual Credits
 
 中港台常用抵值辦法，由「易電票」（[https://etickets.hk/](https://etickets.hk/)）提供，敬請在支付完成後，[聯繫客服](../contact_us)，讓我們協助您完成續時抵值的餘下手續。注：順道VPN（LubeVPN）官方客服只經由西蒂姆（Citium）的即時聊天工具提供客戶的咨詢和抵值服務。
 
