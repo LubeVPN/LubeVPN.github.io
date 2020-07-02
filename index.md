@@ -180,11 +180,11 @@ Find a friend (e.g. Alice) who holds a valid (i.e. unexpired) LubeVPN CERT. Add 
 
 Go to the LubeVPN Settings page, create a FREE CERT of your own, which details will be automatically copied to your device's clipboard. Paste and send the details via the dialogue box between you and Alice and wait for her to sign it. Once Alice signs it, you will receive	an interactive message button in the dialogue box. You press the button to import the signed FREE CERT to your device.
 
-### 3. 開始使用順道VPN<br>Start VPN Surfing <i class='fa fa-rocket'></i>
+### 3. 開始使用順道VPN <i class='fa fa-rocket'></i><br>Start Surfing on LubeVPN <i class='fa fa-rocket'></i>
 
-撥亮順道VPN的切換鍵請求服務授權。如果授權成功，切換鍵轉成綠色。
+在「設定」<i class='fa fa-cog'></i>，撥亮順道VPN的切換鍵請求服務授權。如果授權成功，切換鍵轉成綠色。
 
-Turn on the LubeVPN toggle switch to request authorization to VPN service. Toggle switch turns to green if the authorization succeeds.
+In General Settings <i class='fa fa-cog'></i>, turn on the LubeVPN toggle switch to request authorization to VPN service. Toggle switch turns to green if the authorization succeeds.
 
 ## 順道VPN 用戶續時費用
 
