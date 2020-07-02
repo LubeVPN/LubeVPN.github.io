@@ -55,10 +55,10 @@ Lube VPN does not record network routing information, such as originating IP and
 
 1. 下載並安裝 Citium 客戶端應用 app
 2. 打開 app 裏的順道VPN版面
-3. 生成一張《免費通行證書》
+3. 生成一張《免費通行證書》 <i class='fa fa-certificate'></i>
 4. 打開 app 裏的 Citium 即時聊天工具
 5. 尋求一名現有的順道VPN用戶
-6. 請求他/她簽署該《免費通行證書》
+6. 請求他/她簽署該《免費通行證書》 <i class='fa fa-certificate'></i>
 
 最後，好比一張入場券，該已簽署的《免費通行證書》就能授權其持有者訪問《順道VPN》的免費試用。你可以在本頁底部參閱[更多詳盡說明](#%E5%AE%89%E8%A3%9D%E8%88%87%E8%A9%A6%E7%94%A8installation--trial)。
 
@@ -77,9 +77,9 @@ Finally, functioning as a ticket/pass, the signed FREE CERT can authorize its ho
 
 Traditional user management systems rely on relational databases on centralized servers to record user registrations and the referral relationships. That regime is prone to security and privacy breach. In contrast, LubeVPN's referral relationships are recorded by securely and privately binding digital signatures and their signed certificates in a peer-to-peer fashion. More specifically, LubeVPN does not ask for or record any user information. A referral relationship in LubeVPN is securely bound based on the unique digital signature of the referrer and the signed digital certificate (i.e. signed FREE CERT) held by the referred user, **not recorded in any third-party party relational database, effectively preempting user data breach and link analysis**.
 
-### 通行證書系統<br>CERT System <i class='fa fa-certificate'></i>
+### 通行證書系統  <i class='fa fa-certificate'></i><br>CERT System <i class='fa fa-certificate'></i>
 
-順道VPN用戶使用安全數字證書（“通行證書”）來訪問VPN服務，而不是用戶名/密碼組合。有兩種順道VPN的通行證書：**《免費通行證書》和《會員通行證書》**。一張已簽署和有效的《免費通行證書》授權其持有人訪問順道VPN的免費試用。所有《會員通行證書》都是源自和續時自《免費通行證書》。**《會員通行證書》** 持有者不單享受更高級的順道VPN服務和推薦新用戶到順道VPN，每當受薦者續時後，他更 **能賺取可兌換的積分**。
+順道VPN用戶使用安全數字證書（“通行證書”） <i class='fa fa-certificate'></i> 來訪問VPN服務，而不是用戶名/密碼組合。有兩種順道VPN的通行證書：**《免費通行證書》和《會員通行證書》**。一張已簽署和有效的《免費通行證書》授權其持有人訪問順道VPN的免費試用。所有《會員通行證書》都是源自和續時自《免費通行證書》。**《會員通行證書》** 持有者不單享受更高級的順道VPN服務和推薦新用戶到順道VPN，每當受薦者續時後，他更 **能賺取可兌換的積分**。
 
 LubeVPN users use secure digital certificates (“CERTs”) <i class='fa fa-certificate'></i> to access VPN service instead of username/password combinations. There are two kinds of CERT in LubeVPN: **FREE CERT and MEMBER CERT**. A signed and validated FREE CERT authorizes its holder to access a free trial of LubeVPN. All MEMBER CERTs are originated and renewed from FREE CERT. A **MEMBER CERT holder** not only enjoys a higher level of LubeVPN service and refers new users to LubeVPN, he/she **earns redeemable points** whenever the referred users renew their CERTs.
 
