@@ -215,10 +215,10 @@ LubeVPN provided VPN service to paying members on a pay-as-you-go basis to maint
 {: style="color: DarkRed; font-size: 80%;"}
 | # | 抵值形式 | 優點 | 缺點 |
 |:--:|:--:|:--|:--|
-| 1 | 加密電子幣 | 快捷<br>匿名 | 用戶需懂操作<br>加密電子貨幣交易 |
-| 2 | 中港台常用 | 快捷<br>简便 | 支付渠道需要<br>索取用户电子邮件 |
-| 3 | [虛擬卡卡密](../payment_cards) | 快捷<br>簡便 | 卡銷售方可能<br>需索個人身份資料 |
-| 4 | [實體卡卡劵](../payment_cards) | 免ID<br>資料 | 一般可能需時<br>一至三天才能抵值 |
+| <i class="fa fa-btc" aria-hidden="true"></i> | 加密電子幣 | 快捷<br>匿名 | 用戶需懂操作<br>加密電子貨幣交易 |
+| <i class="fa fa-jpy" aria-hidden="true"></i> | 中港台常用 | 快捷<br>简便 | 支付渠道需要<br>索取用户电子邮件 |
+| <i class="fa fa-cloud" aria-hidden="true"></i> | [虛擬卡卡密](../payment_cards) | 快捷<br>簡便 | 卡銷售方可能<br>需索個人身份資料 |
+| <i class="fa fa-envelope" aria-hidden="true"></i> | [實體卡卡劵](../payment_cards) | 免ID<br>資料 | 一般可能需時<br>一至三天才能抵值 |
 
 用戶先自行選擇一種抵值形式（不允許多種形式混合），採購足夠額度的抵值商品。採購成功後，請隨時通過西蒂姆（Citium）即時聊天工具[聯絡官方客戶服務](../contact_us)，讓我們協助您完成續時抵值的餘下手續。注：順道VPN（LubeVPN）官方客服只經由西蒂姆（Citium）的即時聊天工具提供客戶的咨詢和抵值服務。
 
