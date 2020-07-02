@@ -180,9 +180,9 @@ Go to the LubeVPN Settings page, create a FREE CERT of your own, which details w
 
 ### 3. <i class='fa fa-rocket'></i> 開始使用順道VPN<br>Start Surfing on LubeVPN
 
-在「設定」<i class='fa fa-cog'></i>，撥亮順道VPN的切換鍵請求服務授權。如果授權成功，切換鍵轉成綠色。
+在「設定」<i class='fa fa-cogs' style='color:blue'></i>，撥亮順道VPN的切換鍵請求服務授權。如果授權成功，切換鍵轉成綠色 <i class='fa fa-toggle-on' style='color:green'></i>。
 
-In General Settings <i class='fa fa-cog'></i>, turn on the LubeVPN toggle switch to request authorization to VPN service. Toggle switch turns to green if the authorization succeeds.
+In General Settings <i class='fa fa-cogs' style='color:blue'></i>, turn on the LubeVPN toggle switch to request authorization to VPN service. Toggle switch turns to green <i class='fa fa-toggle-on' style='color:green'></i> if the authorization succeeds.
 
 ## <i class="fa fa-calendar-plus-o" aria-hidden="true"></i> 通行證書續時<br>CERT Renewal
 
