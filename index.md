@@ -186,9 +186,15 @@ Go to the LubeVPN Settings page, create a FREE CERT of your own, which details w
 
 In General Settings <i class='fa fa-cog'></i>, turn on the LubeVPN toggle switch to request authorization to VPN service. Toggle switch turns to green if the authorization succeeds.
 
-## <i class="fa fa-exchange" aria-hidden="true"></i> 用戶續時抵值
+## <i class="fa fa-calendar-plus-o" aria-hidden="true"></i> 通行證書續時<br>CERT Renewal
 
-會員開戶推廣活動期間，按續時週期收費。一次性續時週期越長，則折扣優惠越大 和 可享受流量封頂越大。
+順道VPN N以现收现付的方式向付费会员提供VPN服务，以维护全球多个服务器。
+
+LubeVPN provided VPN service to paying members on a pay-as-you-go basis to maintain multiple servers around the world.
+
+### <i class="fa fa-exchange" aria-hidden="true"></i> 續時抵值費率<br>Renewal Rate
+
+推廣活動期間，費率按續時週期收費。一次性續時週期越長則折扣優惠越大、可享受流量封頂越大。
 
  {: style="color: navy; font-size: 120%; table-align: center;"}
  | 套餐<br>價格<br>(美元) | 享用<br>時長<br>(日)  | 流量<br>封頂<br>(/30日) | 相當於<br>流媒體<br>(/30日) |
