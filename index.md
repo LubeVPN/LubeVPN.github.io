@@ -51,7 +51,7 @@ LubeVPN utilizes some of the strongest encryption algorithms to transport user d
 
 Lube VPN does not record network routing information, such as originating IP and device. LubeVPN is also technically designed so that it is inherently incapable to record and will **not record any user information** such as name, phone or ID. LubeVPN only records VPN traffic volume usage to ensure quality of service and to prevent service misuse. Users can feel secure because the usage is exclusively allowed to be accessed on a one-on-one basis: one (1) LubeVPN cryptographically secure certificate can only be used on one (1) device at the same time. **Simultaneous access of one certificate on multiple devices is prohibited**.
 
-### <i class="fa fa-try" aria-hidden="true"></i> 免費試用順道VPN<br>Free Trial of LubeVPN
+### <i class="fa fa-flask" aria-hidden="true"></i> 免費試用順道VPN<br>Free Trial of LubeVPN
 
 1. 下載並安裝 Citium 客戶端應用 app
 2. 打開 app 裏的順道VPN版面
