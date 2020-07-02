@@ -168,13 +168,13 @@ Download the Citium Client installer file and then install it on its compatible 
 <br><br>
 **Keep App Running in the Background:** Operating systems of mobile devices have battery-saving and memory-recovery mechanisms. If a lot of background processes are running at the same time, the system will automatically shut down the lower priority applications to ensure ample battery life and memory capacity to enable the rest of the applications to run normally. In order for the instant messaging chat in the Citium Client to receive messages and the signing of LubeVPN CERT (digital certificates) in a timely manner, you are highly suggested to choose to operate one of the options below: 1. **Turn on the toggle switch of LubeVPN so that it shows color orange or green**; or 2. Search your device model online to find out the steps to make its app running in the background. Follow the steps to make the Citium Client app run in the background.
 
-### 1. <i class="fa fa-address-book-o" aria-hidden="true"></i> 添加好友成為 CIM 聯絡人<br>Add Friend to Contacts
+### 1. <i class="fa fa-user-plus" aria-hidden="true"></i> 添加好友成為 CIM 聯絡人<br>Add Friend to Contacts
 
 找一名持有有效的（即，未逾期的）順道VPN《通行證書》的好友，例如 Alice。通過頻外密鑰驗證（OOBA）添加她成爲 Citium 即時聊天應用（CIM）中的聯絡人。
 
 Find a friend (e.g. Alice) who holds a valid (i.e. unexpired) LubeVPN CERT. Add Alice as your new Contact in your Citium Instant Messenger (CIM) via out-of-band authentication.
 
-### 2. <i class="fa fa-handshake-o" aria-hidden="true"></i> 順道VPN試用激活<br>Activate Trial
+### 2. <i class="fa fa-plug" aria-hidden="true"></i> 順道VPN試用激活<br>Activate Trial
 
 你自己的加速器設置頁面，創建一張屬於你自己的《免費通行證書》，其詳情將會被自動複製到設備的剪贴板。在你與 Alice 的聊天對話框中黏貼、發送該詳情給她，然後等待她簽署它。Alice 完成簽署它後，你會在對話框中收到一個互動信息按鈕，你按下該按鈕即可完成導入該已簽署的《免費通行證書》到設備內。
 
