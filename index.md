@@ -77,7 +77,7 @@ Finally, functioning as a ticket/pass, the signed FREE CERT can authorize its ho
 
 Traditional user management systems rely on relational databases on centralized servers to record user registrations and the referral relationships. That regime is prone to security and privacy breach. In contrast, LubeVPN's referral relationships are recorded by securely and privately binding digital signatures and their signed certificates in a peer-to-peer fashion. More specifically, LubeVPN does not ask for or record any user information. A referral relationship in LubeVPN is securely bound based on the unique digital signature of the referrer and the signed digital certificate (i.e. signed FREE CERT) held by the referred user, **not recorded in any third-party party relational database, effectively preempting user data breach and link analysis**.
 
-###<i class='fa fa-certificate'></i> 通行證書系統<br>CERT System
+### <i class='fa fa-certificate'></i> 通行證書系統<br>CERT System
 
 順道VPN用戶使用安全數字證書（“通行證書”） <i class='fa fa-certificate'></i> 來訪問VPN服務，而不是用戶名/密碼組合。有兩種順道VPN的通行證書：**《免費通行證書》和《會員通行證書》**。一張已簽署和有效的《免費通行證書》授權其持有人訪問順道VPN的免費試用。所有《會員通行證書》都是源自和續時自《免費通行證書》。**《會員通行證書》** 持有者不單享受更高級的順道VPN服務和推薦新用戶到順道VPN，每當受薦者續時後，他更 **能賺取可兌換的積分**。
 
