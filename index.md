@@ -213,7 +213,7 @@ LubeVPN provided VPN service to paying members on a pay-as-you-go basis to maint
 順道VPN（LubeVPN）用戶可以通過多種 __抵值形式__ 來 __續時__（延長接受服務的週期）。暫時提供給用戶續時的抵值形式有：
 
 {: style="color: DarkRed; font-size: 80%;"}
-| # | 抵值形式 | 優點 | 缺點 |
+| <i class="fa fa-shopping-cart" aria-hidden="true"></i> | 抵值形式 | 優點 | 缺點 |
 |:--:|:--:|:--|:--|
 | <i class="fa fa-btc" aria-hidden="true"></i> | 加密電子幣 | 快捷<br>匿名 | 用戶需懂操作<br>加密電子貨幣交易 |
 | <i class="fa fa-jpy" aria-hidden="true"></i> | 中港台常用 | 快捷<br>简便 | 支付渠道需要<br>索取用户电子邮件 |
