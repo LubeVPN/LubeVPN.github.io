@@ -174,7 +174,7 @@ Download the Citium Client installer file and then install it on its compatible 
 
 Find a friend (e.g. Alice) who holds a valid (i.e. unexpired) LubeVPN CERT. Add Alice as your new Contact in your Citium Instant Messenger (CIM) via out-of-band authentication.
 
-### 2. <i class="fa fa-certificate"></i><i class="fa fa-pencil-square-o"></i><i class="fa fa-check-square-o"></i> 順道VPN試用激活<br>Activate Trial
+### 2.  <i class="fa fa-handshake-o" aria-hidden="true"></i> 順道VPN試用激活<br>Activate Trial
 
 你自己的加速器設置頁面，創建一張屬於你自己的《免費通行證書》，其詳情將會被自動複製到設備的剪贴板。在你與 Alice 的聊天對話框中黏貼、發送該詳情給她，然後等待她簽署它。Alice 完成簽署它後，你會在對話框中收到一個互動信息按鈕，你按下該按鈕即可完成導入該已簽署的《免費通行證書》到設備內。
 
@@ -186,7 +186,7 @@ Go to the LubeVPN Settings page, create a FREE CERT of your own, which details w
 
 In General Settings <i class='fa fa-cog'></i>, turn on the LubeVPN toggle switch to request authorization to VPN service. Toggle switch turns to green if the authorization succeeds.
 
-## <i class="fa fa-bars" aria-hidden="true"></i> 順道VPN 用戶續時費用
+## <i class="fa fa-exchange" aria-hidden="true"></i> 用戶續時抵值
 
 會員開戶推廣活動期間，按續時週期收費。一次性續時週期越長，則折扣優惠越大 和 可享受流量封頂越大。
 
