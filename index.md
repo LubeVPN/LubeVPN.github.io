@@ -8,11 +8,11 @@ googlefonts: ["Roboto Condensed"]
 
 ![LubeVPN](/img/ads.png "Groundbreaking VPN Tech"){: .center-block :}
 
-《順道VPN》（Lube VPN）是 **基於開源及完全去中心化** 的[__西蒂姆（Citium）__](../citium_what_for)開發的互聯網隱私及信息加速商業服務應用。它把坊間流行的VPN系統作出了比較重大的改良和升級。順道VPN用戶以安全數碼證書（**“通行證書”**）間接地通過[西蒂姆（Citium）](../citium_what_for)的去中心化網絡節點獲取用戶身份認證，而不是使用用戶名及密碼組合在VPN服務器上直接進行認證。（注：Citium 客戶端 app 和其即時聊天工具開源免費永久免費使用的。）
+《順道VPN》（Lube VPN）是 **基於開源及完全去中心化** 的[__西蒂姆（Citium）__](../citium_what_for)開發的互聯網隱私及信息加速商業服務應用。它把坊間流行的VPN系統作出了比較重大的改良和升級。順道VPN用戶以安全數碼證書（**“通行證書”**）<i class='fa fa-certificate'></i> 間接地通過[西蒂姆（Citium）](../citium_what_for)的去中心化網絡節點獲取用戶身份認證，而不是使用用戶名及密碼組合在VPN服務器上直接進行認證。（注：Citium 客戶端 app 和其即時聊天工具開源免費永久免費使用的。）
 
 <a href="https://www.unicorn001.tk/uploads/citium.apk"><i class="fa fa-download" aria-hidden="true"></i>下載西蒂姆（Citium）安卓客戶端 APK 安裝包</a>
 
-LubeVPN is commercially built on __an open and fully decentralized technology__: [__Citium__](../citium_what_for). LubeVPN is a radical departure and upgrade from all the popular VPN systems in the open marketspace. LubeVPN users use their secure digital certificates (**“CERT”**) to get authentication indirectly through [__Citium__](../citium_what_for) decentralized network of nodes instead of directly at the VPN servers by username/password combinations. (Note: Citium Client app and its Instant Messenger is open source and permanently free-to-use.)
+LubeVPN is commercially built on __an open and fully decentralized technology__: [__Citium__](../citium_what_for). LubeVPN is a radical departure and upgrade from all the popular VPN systems in the open marketspace. LubeVPN users use their secure digital certificates (**“CERT”**) <i class='fa fa-certificate'></i> to get authentication indirectly through [__Citium__](../citium_what_for) decentralized network of nodes instead of directly at the VPN servers by username/password combinations. (Note: Citium Client app and its Instant Messenger is open source and permanently free-to-use.)
 
 <a href="https://www.unicorn001.tk/uploads/citium.apk"><i class="fa fa-download" aria-hidden="true"></i>Download Client Android Client APK Installer</a>
 
@@ -64,10 +64,10 @@ Lube VPN does not record network routing information, such as originating IP and
 
 1. Download and install a Citium Client app
 2. Find the LubeVPN interface in the app
-3. Create a LubeVPN FREE CERT
+3. Create a LubeVPN FREE CERT <i class='fa fa-certificate'></i>
 4. Open Citium Contacts list in the app
 5. Find an existing LubeVPN user
-6. Ask the user to sign the FREE CERT
+6. Ask the user to sign the FREE CERT <i class='fa fa-certificate'></i>
 
 Finally, functioning as a ticket/pass, the signed FREE CERT can authorize its holder to access a free trial of LubeVPN. You can read [more detailed instructions](#%E5%AE%89%E8%A3%9D%E8%88%87%E8%A9%A6%E7%94%A8installation--trial) at the end of this page.
 
@@ -77,11 +77,11 @@ Finally, functioning as a ticket/pass, the signed FREE CERT can authorize its ho
 
 Traditional user management systems rely on relational databases on centralized servers to record user registrations and the referral relationships. That regime is prone to security and privacy breach. In contrast, LubeVPN's referral relationships are recorded by securely and privately binding digital signatures and their signed certificates in a peer-to-peer fashion. More specifically, LubeVPN does not ask for or record any user information. A referral relationship in LubeVPN is securely bound based on the unique digital signature of the referrer and the signed digital certificate (i.e. signed FREE CERT) held by the referred user, **not recorded in any third-party party relational database, effectively preempting user data breach and link analysis**.
 
-### 通行證書系統<br>CERT System
+### 通行證書系統<br>CERT System <i class='fa fa-certificate'></i>
 
 順道VPN用戶使用安全數字證書（“通行證書”）來訪問VPN服務，而不是用戶名/密碼組合。有兩種順道VPN的通行證書：**《免費通行證書》和《會員通行證書》**。一張已簽署和有效的《免費通行證書》授權其持有人訪問順道VPN的免費試用。所有《會員通行證書》都是源自和續時自《免費通行證書》。**《會員通行證書》** 持有者不單享受更高級的順道VPN服務和推薦新用戶到順道VPN，每當受薦者續時後，他更 **能賺取可兌換的積分**。
 
-LubeVPN users use secure digital certificates (“CERTs”) to access VPN service instead of username/password combinations. There are two kinds of CERT in LubeVPN: **FREE CERT and MEMBER CERT**. A signed and validated FREE CERT authorizes its holder to access a free trial of LubeVPN. All MEMBER CERTs are originated and renewed from FREE CERT. A **MEMBER CERT holder** not only enjoys a higher level of LubeVPN service and refers new users to LubeVPN, he/she **earns redeemable points** whenever the referred users renew their CERTs.
+LubeVPN users use secure digital certificates (“CERTs”) <i class='fa fa-certificate'></i> to access VPN service instead of username/password combinations. There are two kinds of CERT in LubeVPN: **FREE CERT and MEMBER CERT**. A signed and validated FREE CERT authorizes its holder to access a free trial of LubeVPN. All MEMBER CERTs are originated and renewed from FREE CERT. A **MEMBER CERT holder** not only enjoys a higher level of LubeVPN service and refers new users to LubeVPN, he/she **earns redeemable points** whenever the referred users renew their CERTs.
 
 ### 通行證書的簽署和認證<br>CERT Signing & Validation
 
