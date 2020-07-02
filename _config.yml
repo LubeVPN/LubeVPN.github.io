@@ -32,8 +32,8 @@ navbar-links:
 #    - 絕不寫Log政策<br>No Log Policy: "no_log_policy"
   產品服務支持<br>Support:
     - Windows版本安裝<br>Windows Version: "windows"
-    - 續時抵值：加密幣<br>Payment by Crypto: "#1-%E7%BA%8C%E6%99%82%E6%8A%B5%E5%80%BC%E5%8A%A0%E5%AF%86%E5%B9%A3"
-    - 續時抵值：中港常用<br>Payment by RMB/HKD: "#2-%E7%BA%8C%E6%99%82%E6%8A%B5%E5%80%BC%E4%B8%AD%E6%B8%AF%E5%8F%B0%E5%B8%B8%E7%94%A8"
+    - 續時抵值：加密幣<br>Payment by Crypto: "#-%E7%BA%8C%E6%99%82%E6%8A%B5%E5%80%BC%E5%8A%A0%E5%AF%86%E5%B9%A3by-cryptocurrency"
+    - 續時抵值：中港常用<br>Payment by RMB/HKD: "#-%E7%BA%8C%E6%99%82%E6%8A%B5%E5%80%BC%E4%B8%AD%E6%B8%AF%E5%8F%B0%E5%B8%B8%E7%94%A8by-membership-credits"
     - 續時抵值：卡密卡劵<br>Payment by Cards: "payment_cards"
     - 聯繫我們<br>Contact Us: "contact_us"
   西蒂姆P2P網絡<br>Citium:
