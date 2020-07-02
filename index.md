@@ -174,7 +174,7 @@ Download the Citium Client installer file and then install it on its compatible 
 
 Find a friend (e.g. Alice) who holds a valid (i.e. unexpired) LubeVPN CERT. Add Alice as your new Contact in your Citium Instant Messenger (CIM) via out-of-band authentication.
 
-### 2.  <i class="fa fa-handshake-o" aria-hidden="true"></i> 順道VPN試用激活<br>Activate Trial
+### 2. <i class="fa fa-handshake-o" aria-hidden="true"></i> 順道VPN試用激活<br>Activate Trial
 
 你自己的加速器設置頁面，創建一張屬於你自己的《免費通行證書》，其詳情將會被自動複製到設備的剪贴板。在你與 Alice 的聊天對話框中黏貼、發送該詳情給她，然後等待她簽署它。Alice 完成簽署它後，你會在對話框中收到一個互動信息按鈕，你按下該按鈕即可完成導入該已簽署的《免費通行證書》到設備內。
 
