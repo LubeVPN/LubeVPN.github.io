@@ -14,8 +14,8 @@ Citium客戶端App和其即時聊天工具(CIM) <i class='fa fa-envelope-square'
 {: .myDownloadButton}
 
 1. 下載、安裝、開啟 Citium 客戶端應用 app
-  - <i class='fa fa-envelope-square' style='color:blue'></i> > <i class="fa fa-user-plus" style='color:blue'></i> 加一位 CIM 聯絡人 <i class="fa fa-user" aria-hidden="true"></i>
-2. <i class="fa fa-user" aria-hidden="true"></i> 必須持有有效通行證書 <i class='fa fa-certificate' style='color:green'></i> †
+2. <i class='fa fa-envelope-square' style='color:blue'></i> > <i class="fa fa-user-plus" style='color:blue'></i> 加一位 CIM 聯絡人 <i class="fa fa-user" aria-hidden="true"></i>
+- 該聯絡人必須持有有效通行證書 <i class='fa fa-certificate' style='color:green'></i> †
 3. <i class='fa fa-gears' style='color:blue'></i> > <i class='fa fa-certificate' style='color:blue'></i> > <i class='fa fa-files-o' style='color:blue'></i> 複製你的《免費通行證書》<i class='fa fa-certificate'></i>
 4. <i class='fa fa-envelope-square' style='color:blue'></i> > <i class='fa fa-clipboard' style='color:blue'></i> 黏貼給聯絡人
 5. 等他/她簽署您的《免費通行證書》 <i class='fa fa-certificate'></i>
@@ -34,7 +34,7 @@ Citium Client app and its Instant Messenger (CIM) <i class='fa fa-envelope-squar
 
 1. Download, install & open Citium Client app
 2. <i class='fa fa-envelope-square' style='color:blue'></i> > <i class="fa fa-user-plus" style='color:blue'></i> Add a CIM Contact <i class="fa fa-user" aria-hidden="true"></i>
-  - <i class="fa fa-user" aria-hidden="true"></i> must holds a valid CERT <i class='fa fa-certificate' style='color:green'></i> †
+- who must holds a valid CERT <i class='fa fa-certificate' style='color:green'></i> †
 3. <i class='fa fa-gears' style='color:blue'></i> > <i class='fa fa-certificate' style='color:blue'></i> > <i class='fa fa-files-o' style='color:blue'></i>  Copy your FREE CERT <i class='fa fa-certificate'></i>
 4. <i class='fa fa-envelope-square' style='color:blue'></i> > <i class='fa fa-clipboard' style='color:blue'></i> Paste it to the Contact
 5. Wait for him/her to sign your FREE CERT <i class='fa fa-certificate'></i>
