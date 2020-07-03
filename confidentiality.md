@@ -6,7 +6,7 @@ bigimg: /img/conf.jpg
 googlefonts: ["Roboto Condensed"]
 ---
 
-大多數傳統即時通訊系統（IMS）是基於中心化身份驗證和授權機制去確保信息安全的，可惜任何中央化的系統都無可避免地需要承擔[數據洩露](https://en.wikipedia.org/wiki/Data_breach)的風險。（[詳述](../fallible_providers)）對比起來，西蒂姆（Citium）是由眾多節點網絡鋪墊出來的去中心化系統，在它的基礎上面搭建的IMS就不再需要承擔這種風險。舉例，假設兩個用戶試圖在西蒂姆（Citium）通訊。發件人是 Alice，預期收件人是 Bob。第三者是無法確認得知自己是否已經正確地解密得到 Alice 給 Bob 的訊息的，因為西蒂姆（Citium）用了以下的安全機制：1、[**PGP加密**](https://zh.wikipedia.org/zh-tw/PGP)；2、__無差別網樹多點傳送（IMTM）__**門限加密系統**；3、**秘鑰/信息疑義**。PGP太流行了，不需要再解釋了。但是「密鑰/消息疑義」比較少人認識，而「IMTM門限加密系統」是西蒂姆（Citium）獨有的，所以我們會花更多的時間來解釋它們的信息安全優勢。
+大多數傳統即時通訊系統（IMS）是基於中心化身份驗證和授權機制去確保信息安全的，可惜任何中央化的系統都無可避免地需要承擔[數據洩露](https://en.wikipedia.org/wiki/Data_breach)的風險。（[詳述](../fallible_providers)）對比起來，西蒂姆(Citum)是由眾多節點網絡鋪墊出來的去中心化系統，在它的基礎上面搭建的IMS就不再需要承擔這種風險。舉例，假設兩個用戶試圖在西蒂姆(Citum)通訊。發件人是 Alice，預期收件人是 Bob。第三者是無法確認得知自己是否已經正確地解密得到 Alice 給 Bob 的訊息的，因為西蒂姆(Citum)用了以下的安全機制：1、[**PGP加密**](https://zh.wikipedia.org/zh-tw/PGP)；2、__無差別網樹多點傳送（IMTM）__**門限加密系統**；3、**秘鑰/信息疑義**。PGP太流行了，不需要再解釋了。但是「密鑰/消息疑義」比較少人認識，而「IMTM門限加密系統」是西蒂姆(Citum)獨有的，所以我們會花更多的時間來解釋它們的信息安全優勢。
 
 Most of the conventional instant messenger systems (IMS) are built on a centralized authentication and authorization regime. Unfortunately, any centralized system is inherently susceptible to [data breach](https://en.wikipedia.org/wiki/Data_breach). ([More info here.](../fallible_providers)) In contract, IMS built on top of Citium, paved by a network of decentralized nodes, is not at risk. For example, suppose that two users are trying to communicate with each other on Citium. Sender is Alice and the intended recipient is Bob. No third party can know for sure if he or she has been correctly deciphering a message from Alice to Bob because Citium utilizes the following security mechanisms: 1. [**Pretty Good Privacy (PGP) Encryption**](https://en.wikipedia.org/wiki/Pretty_Good_Privacy); 2. **indiscriminate mesh-tree multicast (IMTM) threshold cryptosystem**; and 3. **Key/Message Equivocation**. PGP is too popular to need further explanation. But since the IMTM threshold cryptosystem is unique to Citium and key/message equivocation is less known, we are going to spend more time explaining their InfoSec advantages.
 
@@ -80,19 +80,19 @@ __Cryptanalytically Unbreakable__: Unless some hackers can hijack every node tha
 
 ### 秘鑰/信息疑義<br>Key/Message Equivocation
 
-西蒂姆（Citium）密碼系統中，敵方黑客或密碼分析師可能會攔截到一個密碼文本（C）。如下圖所示，有一個關鍵的概念叫做密鑰疑義和消息疑義：
+西蒂姆(Citum)密碼系統中，敵方黑客或密碼分析師可能會攔截到一個密碼文本（C）。如下圖所示，有一個關鍵的概念叫做密鑰疑義和消息疑義：
 
 In the Citium cryptosystem, an enemy hacker or a cryptanalyst might be able to intercept a ciphertext (C). There is a critical concept called key equivocation and message equivocation as shown in the diagram below:
 
 ![Cipher](/img/equivocation.svg "Key/Message Equivocation"){: .center-block :}
 
-密鑰和消息疑義則是衡量一個密碼系統在只對密鑰和消息進行密碼文本攻擊下對密鑰和消息的強度。密鑰疑義和消息疑義是指在已知明文攻擊下的密鑰和明文攻擊下的密鑰強度。收到的密文越長，密碼分析員發現秘鑰或明文的概率就越大。密碼分析員成功破譯文本的機率一般會隨著密文文本長度的增加而增加。在西蒂姆（Citium）中，碎片化的密文是最大限度地減小了單個密文的大小，從而最大限度加強了加密強度。
+密鑰和消息疑義則是衡量一個密碼系統在只對密鑰和消息進行密碼文本攻擊下對密鑰和消息的強度。密鑰疑義和消息疑義是指在已知明文攻擊下的密鑰和明文攻擊下的密鑰強度。收到的密文越長，密碼分析員發現秘鑰或明文的概率就越大。密碼分析員成功破譯文本的機率一般會隨著密文文本長度的增加而增加。在西蒂姆(Citum)中，碎片化的密文是最大限度地減小了單個密文的大小，從而最大限度加強了加密強度。
 
 The key and message equivocation are a measure for the strength of a cipher system under a ciphertext only attack for the key and message respectively. Key Equivocation and Message Equivocation refer to key strength under known plaintext attacks and key strength under plaintext attacks. The longer the received ciphertext, the greater the probability that the cryptanalyst will discover the secret key or plaintext. The probability of a cryptanalyst successfully deciphering a ciphertext generally increases with the length of the ciphertext. In Citium, the sliced ciphertexts minimize the size of the individual ciphertext so that the strength of the cipher is maximized.
 
 ## 完整性 | Integrity ✓
 
-在信息安全中，數據完整性是指在整個生命週期內保持並確保數據的準確性和完整性。信息安全完整性是指數據不能以未經授權或未被發現的方式進行修改，其定義則不要與數據庫中的參考完整性混淆。在西蒂姆（Citium）上傳播的密文碎片是被 [ECDSA](https://en.wikipedia.org/wiki/Elliptic_Curve_Digital_Signature_Algorithm) 算法加密了的。該加密不僅「計算不可解」[computationally intractable](https://en.wikipedia.org/wiki/Computational_complexity_theory#Intractability)，而且在很多開源項目（例如[Bitcoin](https://en.wikipedia.org/wiki/Bitcoin)）中已經使用了將近二十年。成功的駭客攻擊（無需私鑰對它進行解密）將使任何可能的攻擊者都獲得巨大的利潤。這種現象似乎從未發生過，這是非常好的經驗證據說明它的安全性。
+在信息安全中，數據完整性是指在整個生命週期內保持並確保數據的準確性和完整性。信息安全完整性是指數據不能以未經授權或未被發現的方式進行修改，其定義則不要與數據庫中的參考完整性混淆。在西蒂姆(Citum)上傳播的密文碎片是被 [ECDSA](https://en.wikipedia.org/wiki/Elliptic_Curve_Digital_Signature_Algorithm) 算法加密了的。該加密不僅「計算不可解」[computationally intractable](https://en.wikipedia.org/wiki/Computational_complexity_theory#Intractability)，而且在很多開源項目（例如[Bitcoin](https://en.wikipedia.org/wiki/Bitcoin)）中已經使用了將近二十年。成功的駭客攻擊（無需私鑰對它進行解密）將使任何可能的攻擊者都獲得巨大的利潤。這種現象似乎從未發生過，這是非常好的經驗證據說明它的安全性。
 
 In information security, data integrity means maintaining and assuring the accuracy and completeness of data over its entire lifecycle. InfoSec integrity means that data cannot be modified in an unauthorized or undetected manner, and its definition is not to be confused with referential integrity in databases. A ciphertext slice cannot be changed during transit on Citium because it is __encrypted by [ECDSA (Elliptic Curve Digital Signature Algorithm)](https://en.wikipedia.org/wiki/Elliptic_Curve_Digital_Signature_Algorithm)__. It is not only [computationally intractable](https://en.wikipedia.org/wiki/Computational_complexity_theory#Intractability) but also has enjoyed almost two decades of usage in open-source projects, such as [Bitcoin](https://en.wikipedia.org/wiki/Bitcoin). A successful hack (deciphering it without a private key) would allow any would-be attacker to make a tremendous amount of profit. The fact that this appears to have never happened is a very good empirical evidence for its security.
 

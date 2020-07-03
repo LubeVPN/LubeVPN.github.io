@@ -6,9 +6,9 @@ bigimg: /img/rain3.jpg
 googlefonts: ["Roboto Condensed"]
 ---
 
-<i class='fa fa-rocket' style='color:GoldenRod'></i> 《順道VPN》是 **基於開源及完全去中心化** 的[__西蒂姆（Citium）__](../citium_what_for)開發的互聯網隱私及信息加速商業服務應用。它把坊間流行的VPN系統作出了比較重大的改良和升級。順道VPN用戶以安全數碼證書（**“通行證書”**）<i class='fa fa-certificate'></i> 間接地通過[西蒂姆（Citium）](../citium_what_for)的去中心化網絡節點獲取用戶身份認證，而不是使用用戶名及密碼組合在VPN服務器上直接進行認證。（注：Citium 客戶端 app 和其即時聊天工具開源免費永久免費使用的。）
+<i class='fa fa-rocket' style='color:GoldenRod'></i> 《順道VPN》是 **基於開源及完全去中心化** 的[__西蒂姆(Citum)__](../citium_what_for)開發的互聯網隱私及信息加速商業服務應用。它把坊間流行的VPN系統作出了比較重大的改良和升級。順道VPN用戶以安全數碼證書（**“通行證書”**）<i class='fa fa-certificate'></i> 間接地通過[西蒂姆(Citum)](../citium_what_for)的去中心化網絡節點獲取用戶身份認證，而不是使用用戶名及密碼組合在VPN服務器上直接進行認證。（注：Citium 客戶端 app 和其即時聊天工具開源免費永久免費使用的。）
 
-<a href="https://www.unicorn001.tk/uploads/citium.apk"><i class="fa fa-download" aria-hidden="true"></i> 下載西蒂姆（Citium）安卓客戶端 APK 安裝包</a>
+<a href="https://www.unicorn001.tk/uploads/citium.apk"><i class="fa fa-download" aria-hidden="true"></i> 下載西蒂姆(Citum)安卓客戶端 APK 安裝包</a>
 
 <i class='fa fa-rocket' style='color:grey'></i> LubeVPN is commercially built on __an open and fully decentralized technology__: [__Citium__](../citium_what_for). LubeVPN is a radical departure and upgrade from all the popular VPN systems in the open marketspace. LubeVPN users use their secure digital certificates (**“CERT”**) <i class='fa fa-certificate'></i> to get authentication indirectly through [__Citium__](../citium_what_for) decentralized network of nodes instead of directly at the VPN servers by username/password combinations. (Note: Citium Client app and its Instant Messenger is open source and permanently free-to-use.)
 
@@ -17,7 +17,7 @@ googlefonts: ["Roboto Condensed"]
 
 ### <i class="fa fa-globe" aria-hidden="true"></i> 繞過萬里網審<br>Censorship Circumvention
 
-基於  [西蒂姆（Citium）](../citium_what_for)獨特設計的去中心化網絡身份及數據混淆技術，能讓《順道VPN》的用戶自由自在地上網。換句話說，因為《順道VPN》能繞過最嚴峻的網絡審查（**甚至是其他VPN服務商無法繞過的**），所以用戶能順暢地讀取和瀏覽任何受封鎖內容。		
+基於  [西蒂姆(Citum)](../citium_what_for)獨特設計的去中心化網絡身份及數據混淆技術，能讓《順道VPN》的用戶自由自在地上網。換句話說，因為《順道VPN》能繞過最嚴峻的網絡審查（**甚至是其他VPN服務商無法繞過的**），所以用戶能順暢地讀取和瀏覽任何受封鎖內容。		
 
 Uniquely designed decentralized network identity and data obfuscation technology based on [Citium](../citium_what_for) enable LubeVPN users to surf the Internet freely. In other words, LubeVPN can **circumvent the strictest Internet censorship that most other VPN service providers cannot circumvent** so that users can access and surf any blocked content smoothly.
 
@@ -33,7 +33,7 @@ All VPN service providers have to authenticate their users' access rights before
 
 #### <i class="fa fa-life-ring" aria-hidden="true"></i> 順道VPN 去中心化的解决方案<br>LubeVPN Decentralized Solution
 
-相比之下，<i class='fa fa-rocket' style='color:grey'></i> 順道VPN 不使用傳統的雙向握手。順道VPN 的用戶通過西蒂姆（Citium）客戶端App 訪問VPN服務，認證過程基於分散的[西蒂姆（Citium）](../citium_what_for)網絡節點。與傳統的雙向握手不同，**順道VPN 的認證更像是通過[西蒂姆（Citium）](../citium_what_for)的隨機節點進行多向握手**。順道VPN 的用戶通過西蒂姆（Citium）的其他用戶節點與VPN服務器間接接觸，直到VPN訪問被授權。一言以蔽之，西蒂姆（Citium）客戶端App 應用越是流行和節點越多，順道VPN 的握手過程中產生的數據交互與普通的互聯網流量就越無法區分。因此，使用 順道VPN 的互聯網用戶可以規避即便是最嚴格的審查系統。
+相比之下，<i class='fa fa-rocket' style='color:grey'></i> 順道VPN 不使用傳統的雙向握手。順道VPN 的用戶通過西蒂姆(Citum)客戶端App 訪問VPN服務，認證過程基於分散的[西蒂姆(Citum)](../citium_what_for)網絡節點。與傳統的雙向握手不同，**順道VPN 的認證更像是通過[西蒂姆(Citum)](../citium_what_for)的隨機節點進行多向握手**。順道VPN 的用戶通過西蒂姆(Citum)的其他用戶節點與VPN服務器間接接觸，直到VPN訪問被授權。一言以蔽之，西蒂姆(Citum)客戶端App 應用越是流行和節點越多，順道VPN 的握手過程中產生的數據交互與普通的互聯網流量就越無法區分。因此，使用 順道VPN 的互聯網用戶可以規避即便是最嚴格的審查系統。
 
 In contrast, <i class='fa fa-rocket' style='color:grey'></i> LubeVPN does not use conventional two-way handshake. LubeVPN users access VPN service through the Citium Client app and the authentication process is based on the decentralized [Citium](../citium_what_for) network of nodes. Instead of conventional two-way handshake, **authentication on LubeVPN is more like a multi-way handshake through randomized nodes of [Citium](../citium_what_for)**. Users of LubeVPN engage indirectly with VPN servers through other user nodes of Citium until VPN access is authorized. In a nutshell, the more popular Citium Client app becomes, the more indistinguishable LubeVPN's handshaking traffic is from regular Internet traffic. Hence, Internet surfers that use LubeVPN can circumvent even the most stringent censorship system.
 
@@ -162,7 +162,7 @@ LubeVPN will authorize a referred user who has his/her FREE CERT successfully si
 Download the Citium Client installer file and then install it on its compatible operating system.
 
 {: .box-warning}
-**防止被殺後台：** 由於移動終端的操作系統存在節能和運行內存回收機制，若後台同時運行進程較多，系統會自動將優先級較低的應用進行關閉（俗稱：「被殺後台」），騰出電源和內存以保證較後啟動的應用可以保持正常運行。為了讓你的西蒂姆（Citium）客戶端內的即時聊天工具及時收到信息與順道VPN《通行證書》的推薦人簽名，有兩個辦法供你選擇防止客戶端被殺後台：1、**撥亮位于 <i class='fa fa-cogs' style='color:blue'></i> 的順道VPN切換鍵使之呈橙色 <i class='fa fa-toggle-on' style='color:orange'></i> 或綠色  <i class='fa fa-toggle-on' style='color:green'></i>**；或 2、請在網上搜索一下你所用的手機型號該如何防止其應用 app 被殺後台，按其指示步驟操作將 Citium 客戶端應用 app 在後台運行。
+**防止被殺後台：** 由於移動終端的操作系統存在節能和運行內存回收機制，若後台同時運行進程較多，系統會自動將優先級較低的應用進行關閉（俗稱：「被殺後台」），騰出電源和內存以保證較後啟動的應用可以保持正常運行。為了讓你的西蒂姆(Citum)客戶端內的即時聊天工具及時收到信息與順道VPN《通行證書》的推薦人簽名，有兩個辦法供你選擇防止客戶端被殺後台：1、**撥亮位于 <i class='fa fa-cogs' style='color:blue'></i> 的順道VPN切換鍵使之呈橙色 <i class='fa fa-toggle-on' style='color:orange'></i> 或綠色  <i class='fa fa-toggle-on' style='color:green'></i>**；或 2、請在網上搜索一下你所用的手機型號該如何防止其應用 app 被殺後台，按其指示步驟操作將 Citium 客戶端應用 app 在後台運行。
 <br><br>
 **Keep App Running in the Background:** Operating systems of mobile devices have battery-saving and memory-recovery mechanisms. If a lot of background processes are running at the same time, the system will automatically shut down the lower priority applications to ensure ample battery life and memory capacity to enable the rest of the applications to run normally. In order for the instant messaging chat in the Citium Client to receive messages and the signing of LubeVPN CERT (digital certificates) in a timely manner, you are highly suggested to choose to operate one of the options below: 1. **Turn on the toggle switch of LubeVPN in <i class='fa fa-cogs' style='color:blue'></i> so that it shows color orange <i class='fa fa-toggle-on' style='color:orange'></i> or green <i class='fa fa-toggle-on' style='color:green'></i>**; or 2. Search your device model online to find out the steps to make its app running in the background. Follow the steps to make the Citium Client app run in the background.
 
@@ -218,7 +218,7 @@ LubeVPN provided VPN service to paying members on a pay-as-you-go basis to maint
 | <i class="fa fa-cloud" aria-hidden="true"></i> | [虛擬卡卡密](../payment_cards) | 快捷<br>簡便 | 卡銷售方可能<br>需索個人身份資料 |
 | <i class="fa fa-envelope" aria-hidden="true"></i> | [實體卡卡劵](../payment_cards) | 免ID<br>資料 | 一般可能需時<br>一至三天才能抵值 |
 
-用戶先自行選擇一種抵值形式（不允許多種形式混合），採購足夠額度的抵值商品。採購成功後，請隨時通過西蒂姆（Citium）即時聊天工具[聯絡官方客戶服務](../contact_us)，讓我們協助您完成續時抵值的餘下手續。注：順道VPN（LubeVPN）官方客服只經由西蒂姆（Citium）的即時聊天工具提供客戶的咨詢和抵值服務。
+用戶先自行選擇一種抵值形式（不允許多種形式混合），採購足夠額度的抵值商品。採購成功後，請隨時通過西蒂姆(Citum)即時聊天工具[聯絡官方客戶服務](../contact_us)，讓我們協助您完成續時抵值的餘下手續。注：順道VPN（LubeVPN）官方客服只經由西蒂姆(Citum)的即時聊天工具提供客戶的咨詢和抵值服務。
 
 ### <i class="fa fa-btc" aria-hidden="true"></i> 續時抵值：加密幣<br>By Cryptocurrency
 
@@ -235,7 +235,7 @@ LubeVPN provided VPN service to paying members on a pay-as-you-go basis to maint
 
 ### <i class="fa fa-jpy" aria-hidden="true"></i> 續時抵值：中港台常用<br>By Membership Credits
 
-中港台常用抵值辦法，由「易電票」（[https://etickets.hk/](https://etickets.hk/)）提供，敬請在支付完成後，[聯繫客服](../contact_us)，讓我們協助您完成續時抵值的餘下手續。注：順道VPN（LubeVPN）官方客服只經由西蒂姆（Citium）的即時聊天工具提供客戶的咨詢和抵值服務。
+中港台常用抵值辦法，由「易電票」（[https://etickets.hk/](https://etickets.hk/)）提供，敬請在支付完成後，[聯繫客服](../contact_us)，讓我們協助您完成續時抵值的餘下手續。注：順道VPN（LubeVPN）官方客服只經由西蒂姆(Citum)的即時聊天工具提供客戶的咨詢和抵值服務。
 
 [30日/180日/360日續時抵值](https://etickets.hk/en/project/lubevpn)
 {: .myButton}

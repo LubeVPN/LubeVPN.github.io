@@ -7,7 +7,7 @@ googlefonts: ["Roboto Condensed"]
 ---
 
 ## 1
-[點擊這裡下載](citium_app.zip)西蒂姆（Citium）Windows PC端在你的電腦硬盤中。
+[點擊這裡下載](citium_app.zip)西蒂姆(Citum)Windows PC端在你的電腦硬盤中。
 <br>
 [CLICK HERE TO DOWNLOAD](citium_app.zip) Citium installation zip file into your Windows PC.
 
@@ -17,13 +17,13 @@ googlefonts: ["Roboto Condensed"]
 Unzip the Windows Citium installation zip file into any directory (e.g., "Program Files", "C:" or your own Desktop).
 
 ## 3
-雙擊文件夾內 exe 文件，啟動西蒂姆（Citium）客戶端。點擊程序導航條最右手邊的「設定」。撥亮「網路優化加速器」的切換鍵。
+雙擊文件夾內 exe 文件，啟動西蒂姆(Citum)客戶端。點擊程序導航條最右手邊的「設定」。撥亮「網路優化加速器」的切換鍵。
 <br>
 Double-click the exe file in the program directory. Click on the rightmost button on the navigation to "General Settings". Switch on the LubeVPN Service.
 
 {: .box-warning}
 {: style="color: grey; font-size: 100%;"}
-**網路加速證書：** 如果你還未激活你的順道VPN「試用加速證書」（TAC），請盡快在西蒂姆（Citium）即時聊天中向推薦人發出申請試用的代碼（在「設置」的順道VPN 版面中獲取）。您的推薦人會幫提供會接受您的申請並提供授權。
+**網路加速證書：** 如果你還未激活你的順道VPN「試用加速證書」（TAC），請盡快在西蒂姆(Citum)即時聊天中向推薦人發出申請試用的代碼（在「設置」的順道VPN 版面中獲取）。您的推薦人會幫提供會接受您的申請並提供授權。
 <br>
 **CERTIFICATE:** If you have not activated your LubeVPN Trial Acceleration Cert (TAC), please send the TAC request code to your referrer in Citium Instant Messenger. Your referrer will guide you through the activation process.
 
