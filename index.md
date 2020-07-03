@@ -16,9 +16,9 @@ Citium客戶端App和其即時聊天工具(CIM) <i class='fa fa-envelope-square'
 1. 下載、安裝、開啟 Citium 客戶端應用 app
 2. <i class='fa fa-envelope-square' style='color:blue'></i> > <i class="fa fa-user-plus" style='color:blue'></i> 加一位 CIM 聯絡人
 3. 他/她必須持有有效 <i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN通行證書 <i class='fa fa-certificate' style='color:green'></i>
-4. <i class='fa fa-gears' style='color:blue'></i> > <i class='fa fa-certificate' style='color:blue'></i> 打開<i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN證書版面
-5. <i class="fa fa-id-card" aria-hidden="true"></i> 生成一張《免費通行證書》<i class='fa fa-certificate'></i>
-6. 請求他/她簽署您的《免費通行證書》 <i class='fa fa-certificate'></i>
+4. <i class='fa fa-gears' style='color:blue'></i> > <i class='fa fa-certificate' style='color:blue'></i> > <i class="fa fa-files-o" aria-hidden="true"></i> 複製你的《免費通行證書》<i class='fa fa-certificate'></i>
+5. <i class="fa fa-download" aria-hidden="true"></i> > <i class="fa fa-clipboard" aria-hidden="true"></i> 黏貼給聯絡人
+6. 等他/她簽署您的《免費通行證書》 <i class='fa fa-certificate'></i>
 7. <i class='fa fa-envelope-square' style='color:blue'></i> > <i class='fa fa-toggle-on' style='color:green'></i> 開始免費試用
 
 已簽署的《免費通行證書》<i class='fa fa-certificate' style='color:green'></i> 好比一張入場券能授權您免費試用 <i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN。你可以在本頁底部參閱[更多詳盡說明](#-%E5%AE%89%E8%A3%9D%E8%88%87%E8%A9%A6%E7%94%A8installation--trial)。
@@ -33,8 +33,8 @@ Citium Client app and its Instant Messenger (CIM) <i class='fa fa-envelope-squar
 1. Download, install & open Citium Client app
 2. <i class='fa fa-envelope-square' style='color:blue'></i> > <i class="fa fa-user-plus" style='color:blue'></i> Add a CIM Contact
 3. He/she must holds a valid <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN CERT <i class='fa fa-certificate' style='color:green'></i>
-4. <i class='fa fa-gears' style='color:blue'></i> > <i class='fa fa-certificate' style='color:blue'></i> Open <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN Certificate interface
-5. <i class="fa fa-id-card" aria-hidden="true"></i> Create a <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN FREE CERT <i class='fa fa-certificate'></i>
+4. <i class='fa fa-gears' style='color:blue'></i> > <i class='fa fa-certificate' style='color:blue'></i> Copy your FREE CERT <i class='fa fa-certificate'></i>
+5. <i class="fa fa-download" aria-hidden="true"></i> > <i class="fa fa-clipboard" aria-hidden="true"></i> Paste it to the Contact
 6. Ask him/her to sign your FREE CERT <i class='fa fa-certificate'></i>
 7. <i class='fa fa-envelope-square' style='color:blue'></i> > <i class='fa fa-toggle-on' style='color:green'></i> Start the FREE Trial
 
