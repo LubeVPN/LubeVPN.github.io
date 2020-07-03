@@ -66,7 +66,7 @@ Lube VPN does not record network routing information, such as originating IP and
  - 他/她必須持有有效 <i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN通行證書
 6. 請求他/她簽署您的《免費通行證書》
 
-最後，好比一張入場券，該已簽署的《免費通行證書》就能授權其持有者訪問<i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN的免費試用。你可以在本頁底部參閱[更多詳盡說明](#%E5%AE%89%E8%A3%9D%E8%88%87%E8%A9%A6%E7%94%A8installation--trial)。
+最後，好比一張入場券，該已簽署的《免費通行證書》就能授權您免費試用<i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN。你可以在本頁底部參閱[更多詳盡說明](#%E5%AE%89%E8%A3%9D%E8%88%87%E8%A9%A6%E7%94%A8installation--trial)。
 
 1. Download and install a Citium Client app
 2. <i class='fa fa-gears' style='color:blue'></i> > <i class='fa fa-certificate' style='color:blue'></i> Open <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN Certificate interface in the app
@@ -76,7 +76,7 @@ Lube VPN does not record network routing information, such as originating IP and
   - he/she must holds a valid <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN CERT
 6. Ask him/her to sign your FREE CERT
 
-Finally, functioning as a ticket/pass, the signed FREE CERT can authorize its holder to access a free trial of <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN. You can read [more detailed instructions](#%E5%AE%89%E8%A3%9D%E8%88%87%E8%A9%A6%E7%94%A8installation--trial) at the end of this page.
+Finally, functioning as a ticket/pass, the signed FREE CERT can authorize you to access a free trial of <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN. You can read [more detailed instructions](#%E5%AE%89%E8%A3%9D%E8%88%87%E8%A9%A6%E7%94%A8installation--trial) at the end of this page.
 
 ## <i class="fa fa-shield" aria-hidden="true"></i> 用戶信息安全<br>User InfoSec
 
