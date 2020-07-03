@@ -14,6 +14,7 @@ googlefonts: ["Roboto Condensed"]
 <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN is commercially built on __an open and fully decentralized technology__: [__Citium__](../citium_what_for). <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN is a radical departure and upgrade from all the popular VPN systems in the open marketspace. <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN users get authentication indirectly through [__Citium__](../citium_what_for) decentralized network of nodes using their secure digital certificates (**“CERT”**) <i class='fa fa-certificate'></i> instead of directly through the VPN servers using username/password combinations. (Note: Citium Client app and its Instant Messenger is open source and permanently free-to-use.)
 
 <a href="https://www.unicorn001.tk/uploads/citium.apk"><i class="fa fa-download" aria-hidden="true"></i> Download Client Android Client APK Installer</a>
+{: .myDownloadButton}
 
 ### <i class="fa fa-globe" aria-hidden="true"></i> 繞過萬里網審<br>Censorship Circumvention
 
@@ -25,11 +26,11 @@ googlefonts: ["Roboto Condensed"]
 
 一方面，世界各地的監管部門利用互聯網審查系統來控制和壓制互聯網內容；另一方面，網民設法千方百計地規避，例用VPN軟件服務去訪問封禁了的網域和IP地址。這些VPN軟件服務有時候能奏效，但絕大多數都不起作用，因為監管部門一直在升級他們的審查技術。個別審查機制的技術領先程度已經超出了一般人的想象，不止限制用戶訪問敏感的網絡域名和IP地址，更會使用機器學習算法來分析互聯網訊息交互數據，鎖定VPN的訊息交互特征以阻止其用戶訪問服務。**那些還在用老套的「用戶名/密碼」組合去作為身份驗證機制的VPN服務，在這些侵擾性審查機制面前顯得不堪一擊、格外脆弱**。
 
-所有的VPN服務提供商在授權訪問之前，都必須對用戶的訪問權限進行認證。傳統的VPN服務提供商通過用戶端客戶端與VPN服務器端之間的通信（即「雙向握手」<i class="fa fa-handshake-o" aria-hidden="true"></i>）對用戶進行身份驗證的時候會彰顯訊息交互特征。**那些越是流行的VPN服務，就越是容易被審查機制偵查到特征**，因為流行的VPN服務在互聯網上每日發生成千上萬的雙向握手特征太過顯著。事實上，大多數馳名的VPN品牌都都無法規避越來越嚴峻的網絡審查制度。
+所有的VPN服務提供商在授權訪問之前，都必須對用戶的訪問權限進行認證。傳統的VPN服務提供商通過用戶端客戶端與VPN服務器端之間的通信（即「雙向握手」<i class="fa fa-exchange" aria-hidden="true"></i>）對用戶進行身份驗證的時候會彰顯訊息交互特征。**那些越是流行的VPN服務，就越是容易被審查機制偵查到特征**，因為流行的VPN服務在互聯網上每日發生成千上萬的雙向握手特征太過顯著。事實上，大多數馳名的VPN品牌都都無法規避越來越嚴峻的網絡審查制度。
 
 On the one hand, regulators use Internet censorship systems to control and suppress Internet contents. On the other hand, Internet surfers use software, such as VPN, to circumvent the suppression so that they can access suppressed web domains and IP addresses. Some can succeed but most fail because regulators are always upgrading their censorship mechanism. The extent of Internet censorship of some regulators has gone beyond just limiting user access to sensitive web domains and IP addresses. Their censorship mechanisms have even started to use machine learning algorithms to analyze Internet traffic data in order to block VPN service access. **VPN services that are still using username/password combination as authentication regime are exceptionally vulnerable** to this kind of obtrusive Internet censorship.
 
-All VPN service providers have to authenticate their users' access rights before authorizing access. Conventional VPN service providers authenticate their users through user-side client to VPN-side server communication (i.e. two-way handshake <i class="fa fa-handshake-o" aria-hidden="true"></i>), which exhibit easily detectable traffic patterns. In fact, **the more popular a VPN service becomes, the more susceptible it is to suppression** because its tens of thousands of two-way handshake that happens on the Internet are simply too conspicuous. Hence, most of the popular VPN brands fail to circumvent network censorship that's getting more and more stringent.
+All VPN service providers have to authenticate their users' access rights before authorizing access. Conventional VPN service providers authenticate their users through user-side client to VPN-side server communication (i.e. two-way handshake <i class="fa fa-exchange" aria-hidden="true"></i>), which exhibit easily detectable traffic patterns. In fact, **the more popular a VPN service becomes, the more susceptible it is to suppression** because its tens of thousands of two-way handshake that happens on the Internet are simply too conspicuous. Hence, most of the popular VPN brands fail to circumvent network censorship that's getting more and more stringent.
 
 #### <i class="fa fa-life-ring" aria-hidden="true"></i> 順道VPN 去中心化的解决方案<br>LubeVPN Decentralized Solution
 
