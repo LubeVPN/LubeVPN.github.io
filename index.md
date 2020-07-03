@@ -14,12 +14,12 @@ Citium客戶端App和其即時聊天工具(CIM) <i class='fa fa-envelope-square'
 {: .myDownloadButton}
 
 1. 下載、安裝、開啟 Citium 客戶端應用 app
-2. <i class='fa fa-envelope-square' style='color:blue'></i> > <i class="fa fa-user-plus" style='color:blue'></i> 加一位 CIM 聯絡人 <i class="fa fa-user" aria-hidden="true"></i>
-3. <i class="fa fa-user" aria-hidden="true"></i> 必須持有有效通行證書 <i class='fa fa-certificate' style='color:green'></i> †
-4. <i class='fa fa-gears' style='color:blue'></i> > <i class='fa fa-certificate' style='color:blue'></i> > <i class='fa fa-files-o' style='color:blue'></i> 複製你的《免費通行證書》<i class='fa fa-certificate'></i>
-5. <i class='fa fa-envelope-square' style='color:blue'></i> > <i class='fa fa-clipboard' style='color:blue'></i> 黏貼給聯絡人
-6. 等他/她簽署您的《免費通行證書》 <i class='fa fa-certificate'></i>
-7. <i class='fa fa-envelope-square' style='color:blue'></i> > <i class='fa fa-toggle-on' style='color:green'></i> 開始免費試用
+  - <i class='fa fa-envelope-square' style='color:blue'></i> > <i class="fa fa-user-plus" style='color:blue'></i> 加一位 CIM 聯絡人 <i class="fa fa-user" aria-hidden="true"></i>
+2. <i class="fa fa-user" aria-hidden="true"></i> 必須持有有效通行證書 <i class='fa fa-certificate' style='color:green'></i> †
+3. <i class='fa fa-gears' style='color:blue'></i> > <i class='fa fa-certificate' style='color:blue'></i> > <i class='fa fa-files-o' style='color:blue'></i> 複製你的《免費通行證書》<i class='fa fa-certificate'></i>
+4. <i class='fa fa-envelope-square' style='color:blue'></i> > <i class='fa fa-clipboard' style='color:blue'></i> 黏貼給聯絡人
+5. 等他/她簽署您的《免費通行證書》 <i class='fa fa-certificate'></i>
+6. <i class='fa fa-envelope-square' style='color:blue'></i> > <i class='fa fa-toggle-on' style='color:green'></i> 開始免費試用
 
 {: .box-note}
 † **有效通行證書** <i class='fa fa-certificate' style='color:green'></i> 是已簽署的和未過期的《通行證書》。它好比一張入場券能授權持有人使用 <i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN服務。參閱[更詳盡說明](#-%E5%AE%89%E8%A3%9D%E8%88%87%E8%A9%A6%E7%94%A8installation--trial)。<br>
@@ -34,11 +34,11 @@ Citium Client app and its Instant Messenger (CIM) <i class='fa fa-envelope-squar
 
 1. Download, install & open Citium Client app
 2. <i class='fa fa-envelope-square' style='color:blue'></i> > <i class="fa fa-user-plus" style='color:blue'></i> Add a CIM Contact <i class="fa fa-user" aria-hidden="true"></i>
-3. <i class="fa fa-user" aria-hidden="true"></i> must holds a valid CERT <i class='fa fa-certificate' style='color:green'></i> †
-4. <i class='fa fa-gears' style='color:blue'></i> > <i class='fa fa-certificate' style='color:blue'></i> > <i class='fa fa-files-o' style='color:blue'></i>  Copy your FREE CERT <i class='fa fa-certificate'></i>
-5. <i class='fa fa-envelope-square' style='color:blue'></i> > <i class='fa fa-clipboard' style='color:blue'></i> Paste it to the Contact
-6. Wait for him/her to sign your FREE CERT <i class='fa fa-certificate'></i>
-7. <i class='fa fa-envelope-square' style='color:blue'></i> > <i class='fa fa-toggle-on' style='color:green'></i> Start the FREE Trial
+  - <i class="fa fa-user" aria-hidden="true"></i> must holds a valid CERT <i class='fa fa-certificate' style='color:green'></i> †
+3. <i class='fa fa-gears' style='color:blue'></i> > <i class='fa fa-certificate' style='color:blue'></i> > <i class='fa fa-files-o' style='color:blue'></i>  Copy your FREE CERT <i class='fa fa-certificate'></i>
+4. <i class='fa fa-envelope-square' style='color:blue'></i> > <i class='fa fa-clipboard' style='color:blue'></i> Paste it to the Contact
+5. Wait for him/her to sign your FREE CERT <i class='fa fa-certificate'></i>
+6. <i class='fa fa-envelope-square' style='color:blue'></i> > <i class='fa fa-toggle-on' style='color:green'></i> Start the FREE Trial
 
 {: .box-note}
 † A **valid CERT** <i class='fa fa-certificate' style='color:green'></i> is a signed & unexpired CERT, functioning as a ticket/pass, authorizes its holder to access <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN service. [For detailed instructions](#-%E5%AE%89%E8%A3%9D%E8%88%87%E8%A9%A6%E7%94%A8installation--trial) at the end of this page.<br>
