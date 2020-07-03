@@ -11,18 +11,38 @@ googlefonts: ["Roboto Condensed"]
 <a href="https://www.unicorn001.tk/uploads/citium.apk"><i class="fa fa-download" aria-hidden="true"></i> 下載 西蒂姆(Citum)客戶端 安卓APK</a>
 {: .myDownloadButton}
 
+1. 下載、安裝、開啟 Citium 客戶端應用 app
+2. <i class='fa fa-gears' style='color:blue'></i> > <i class='fa fa-certificate' style='color:blue'></i> 打開<i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN證書版面
+3. 生成一張《免費通行證書》
+4. 打開 Citium 即時聊天工具（CIM）<i class='fa fa-envelope-square' style='color:blue'></i>
+5. 找一名 CIM 聯絡人
+6. 他/她必須持有有效 <i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN通行證書
+7. 請求他/她簽署您的《免費通行證書》
+
+最後，好比一張入場券，該已簽署的《免費通行證書》就能授權您免費試用<i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN。你可以在本頁底部參閱[更多詳盡說明](#%E5%AE%89%E8%A3%9D%E8%88%87%E8%A9%A6%E7%94%A8installation--trial)。
+
 <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN is commercially built on __an open and fully decentralized technology__: [__Citium__](../citium_what_for). <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN is a radical departure and upgrade from all the popular VPN systems in the open marketspace. <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN users get authentication indirectly through [__Citium__](../citium_what_for) decentralized network of nodes using their secure digital certificates (**“CERT”**) <i class='fa fa-certificate'></i> instead of directly through the VPN servers using username/password combinations. (Note: Citium Client app and its Instant Messenger is open source and permanently free-to-use.)
 
 <a href="https://www.unicorn001.tk/uploads/citium.apk"><i class="fa fa-download" aria-hidden="true"></i> Download Citium Client Android APK</a>
 {: .myDownloadButton}
 
-### <i class="fa fa-globe" aria-hidden="true"></i> 繞過萬里網審<br>Censorship Circumvention
+1. Download, install & open Citium Client app
+2. <i class='fa fa-gears' style='color:blue'></i> > <i class='fa fa-certificate' style='color:blue'></i> Open <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN Certificate interface in the app
+3. Create a <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN FREE CERT
+4. Open Citium Instant Messenger <i class='fa fa-envelope-square' style='color:blue'></i>
+5. Find an CIM Contact
+6. He/she must holds a valid <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN CERT
+7. Ask him/her to sign your FREE CERT
+
+Finally, functioning as a ticket/pass, the signed FREE CERT can authorize you to access a free trial of <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN. You can read [more detailed instructions](#%E5%AE%89%E8%A3%9D%E8%88%87%E8%A9%A6%E7%94%A8installation--trial) at the end of this page.
+
+## <i class="fa fa-globe" aria-hidden="true"></i> 繞過萬里網審<br>Censorship Circumvention
 
 <i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN是基於[西蒂姆(Citum)](../citium_what_for)建立的。西蒂姆的去中心化網絡身份及數據混淆技術能讓<i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN的用戶匿名地、自由自在地上網。除此之外，<i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN能繞過最嚴峻的網絡審查（**甚至是其他VPN服務商無法繞過的**），所以其用戶能順暢無阻地讀取和瀏覽任何全世界任何一個受到互聯網審查封禁的網站。		
 
 <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN is built on [Citium](../citium_what_for). Citium's decentralized network identity and data obfuscation technology enables <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN users to surf the Internet anonymously and freely. Moreover, <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN can **circumvent the strictest Internet censorship that most other VPN service providers cannot circumvent** so that users can access and surf any blocked content smoothly.
 
-#### <i class="fa fa-thumb-tack" aria-hidden="true"></i> 傳統VPN翻墙的疼點<br>Pain Point of Conventional VPN
+### <i class="fa fa-thumb-tack" aria-hidden="true"></i> 傳統VPN翻墙的疼點<br>Pain Point of Conventional VPN
 
 一方面，世界各地的監管部門利用互聯網審查系統來控制和壓制互聯網內容；另一方面，網民設法千方百計地規避，例用VPN軟件服務去訪問封禁了的網域和IP地址。這些VPN軟件服務有時候能奏效，但絕大多數都不起作用，因為監管部門一直在升級他們的審查技術。個別審查機制的技術領先程度已經超出了一般人的想象，不止限制用戶訪問敏感的網絡域名和IP地址，更會使用機器學習算法來分析互聯網訊息交互數據，鎖定VPN的訊息交互特征以阻止其用戶訪問服務。**那些還在用老套的「用戶名/密碼」組合去作為身份驗證機制的VPN服務，在這些侵擾性審查機制面前顯得不堪一擊、格外脆弱**。
 
@@ -32,7 +52,7 @@ On the one hand, regulators use Internet censorship systems to control and suppr
 
 All VPN service providers have to authenticate their users' access rights before authorizing access. Conventional VPN service providers authenticate their users through user-side client to VPN-side server communication (i.e. two-way handshake <i class="fa fa-exchange" aria-hidden="true"></i>), which exhibit easily detectable traffic patterns. In fact, **the more popular a VPN service becomes, the more susceptible it is to suppression** because its tens of thousands of two-way handshake that happens on the Internet are simply too conspicuous. Hence, most of the popular VPN brands fail to circumvent network censorship that's getting more and more stringent.
 
-#### <i class="fa fa-life-ring" aria-hidden="true"></i> 順道VPN 去中心化的解决方案<br>LubeVPN Decentralized Solution
+### <i class="fa fa-life-ring" aria-hidden="true"></i> 順道VPN 去中心化的解决方案<br>LubeVPN Decentralized Solution
 
 相比之下，<i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN 的用戶不使用傳統的、與VPN服務器的雙向握手 <i class="fa fa-exchange" aria-hidden="true"></i> 進行認證，而是通[西蒂姆(Citum)](../citium_what_for)的分佈式網絡節點進行認證。與傳統的雙向握手不同，**<i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN 的認證更像是通過[西蒂姆(Citum)](../citium_what_for)的隨機節點進行多向握手 <i class="fa fa-random" aria-hidden="true"></i>**。用戶只可以通過西蒂姆(Citum)網絡節點間接地與VPN服務器接觸，直到VPN訪問被授權為止，不產生明顯訊息交互特征。事實上，西蒂姆(Citum)客戶端App應用越是流行（即，節點越多），用戶認證過程中產生的多向握手 <i class="fa fa-random" aria-hidden="true"></i> 與普通的互聯網數據就越無法被區分。因此，使用<i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN的互聯網用戶可以規避即便是最嚴酷的審查技術。
 
@@ -49,28 +69,6 @@ In contrast, <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN users do
 <i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN不記錄任何接來自用戶的網絡接駁來源的信息。<i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN從技術設計上來說，在本質機制上不能記錄也 **不會記錄任何用戶個人信息**。<i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN僅記錄數據使用量，用以確保服務質量，及預防服務被濫用。<i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN的用戶可以安心地使用<i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN，因為每張加密安全證書只可同時用於一台終端，<i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN是 **不允超過一台終端同時使用一張證書** 的。
 
 Lube VPN does not record network routing information, such as originating IP and device. <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN is also technically designed so that it is inherently incapable to record and will **not record any user information** such as name, phone or ID. <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN only records VPN traffic volume usage to ensure quality of service and to prevent service misuse. Users can feel secure because the usage is exclusively allowed to be accessed on a one-on-one basis: one (1) <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN cryptographically secure certificate can only be used on one (1) device at the same time. **Simultaneous access of one certificate on multiple devices is prohibited**.
-
-### <i class="fa fa-flask" aria-hidden="true"></i> 免費試用順道VPN<br>Free Trial of LubeVPN
-
-1. 下載、安裝、開啟 Citium 客戶端應用 app
-2. <i class='fa fa-gears' style='color:blue'></i> > <i class='fa fa-certificate' style='color:blue'></i> 打開<i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN證書版面
-3. 生成一張《免費通行證書》
-4. 打開 Citium 即時聊天工具（CIM）<i class='fa fa-envelope-square' style='color:blue'></i>
-5. 找一名 CIM 聯絡人
-6. 他/她必須持有有效 <i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN通行證書
-7. 請求他/她簽署您的《免費通行證書》
-
-最後，好比一張入場券，該已簽署的《免費通行證書》就能授權您免費試用<i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN。你可以在本頁底部參閱[更多詳盡說明](#%E5%AE%89%E8%A3%9D%E8%88%87%E8%A9%A6%E7%94%A8installation--trial)。
-
-1. Download, install & open Citium Client app
-2. <i class='fa fa-gears' style='color:blue'></i> > <i class='fa fa-certificate' style='color:blue'></i> Open <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN Certificate interface in the app
-3. Create a <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN FREE CERT
-4. Open Citium Instant Messenger <i class='fa fa-envelope-square' style='color:blue'></i>
-5. Find an CIM Contact
-6. He/she must holds a valid <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN CERT
-7. Ask him/her to sign your FREE CERT
-
-Finally, functioning as a ticket/pass, the signed FREE CERT can authorize you to access a free trial of <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN. You can read [more detailed instructions](#%E5%AE%89%E8%A3%9D%E8%88%87%E8%A9%A6%E7%94%A8installation--trial) at the end of this page.
 
 ## <i class="fa fa-shield" aria-hidden="true"></i> 用戶信息安全<br>User InfoSec
 
