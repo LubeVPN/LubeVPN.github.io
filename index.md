@@ -17,7 +17,7 @@ Citium客戶端App和其即時聊天工具(CIM)<i class='fa fa-envelope-square' 
 2. <i class='fa fa-gears' style='color:blue'></i> > <i class='fa fa-certificate' style='color:blue'></i> 打開<i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN證書版面
 3. 生成一張《免費通行證書》<i class='fa fa-certificate'></i>
 4. 打開 Citium 即時聊天工具(CIM)<i class='fa fa-envelope-square' style='color:blue'></i>
-5. 找一名 CIM 聯絡人 <i class="fa fa-address-card" aria-hidden="true"></i>
+5. 加一位 CIM 聯絡人 <i class="fa fa-user-plus" aria-hidden="true"></i>
 6. 他/她必須持有有效 <i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN通行證書 <i class='fa fa-certificate' style='color:#ffa812'></i>
 7. 請求他/她簽署您的《免費通行證書》 <i class='fa fa-certificate'></i>
 
@@ -34,7 +34,7 @@ Citium Client app and its Instant Messenger (CIM)<i class='fa fa-envelope-square
 2. <i class='fa fa-gears' style='color:blue'></i> > <i class='fa fa-certificate' style='color:blue'></i> Open <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN Certificate interface
 3. Create a <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN FREE CERT <i class='fa fa-certificate'></i>
 4. Open Citium Instant Messenger <i class='fa fa-envelope-square' style='color:blue'></i>
-5. Find an CIM Contact <i class="fa fa-address-card" aria-hidden="true"></i>
+5. Add a CIM Contact <i class="fa fa-user-plus" aria-hidden="true"></i>
 6. He/she must holds a valid <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN CERT <i class='fa fa-certificate' style='color:#ffa812'></i>
 7. Ask him/her to sign your FREE CERT <i class='fa fa-certificate'></i>
 
