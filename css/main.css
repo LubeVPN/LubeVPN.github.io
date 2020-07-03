@@ -826,3 +826,18 @@ pre {
 	position:relative;
 	top:1px;
 }
+
+/* Download button */
+.myDownloadButton {
+  background-color: DodgerBlue;
+  border: none;
+  color: white;
+  padding: 12px 30px;
+  cursor: pointer;
+  font-size: 20px;
+}
+
+/* Darker background on mouse-over */
+.myDownloadButton:hover {
+  background-color: RoyalBlue;
+}
