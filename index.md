@@ -1,6 +1,6 @@
 ---
 layout: page
-title: <i class='fa fa-rocket' style='color:darkorange'></i> 順道VPN
+title: 順道VPN
 subtitle: Anonymity & Circumvention
 bigimg: /img/rain3.jpg
 googlefonts: ["Roboto Condensed"]
