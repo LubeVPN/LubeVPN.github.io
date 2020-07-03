@@ -21,7 +21,7 @@ Citium客戶端App和其即時聊天工具(CIM) <i class='fa fa-envelope-square'
 6. 等他/她簽署您的《免費通行證書》 <i class='fa fa-certificate'></i>
 7. <i class='fa fa-envelope-square' style='color:blue'></i> > <i class='fa fa-toggle-on' style='color:green'></i> 開始免費試用
 
-已簽署的《免費通行證書》<i class='fa fa-certificate' style='color:green'></i> 好比一張入場券能授權您免費試用 <i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN。你可以在本頁底部參閱[更多詳盡說明](#-%E5%AE%89%E8%A3%9D%E8%88%87%E8%A9%A6%E7%94%A8installation--trial)。
+已簽署的《通行證書》<i class='fa fa-certificate' style='color:green'></i> 只要未逾期就是一張有效的通行證書。它好比一張入場券能授權您免費試用 <i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN。你可以在本頁底部參閱[更多詳盡說明](#-%E5%AE%89%E8%A3%9D%E8%88%87%E8%A9%A6%E7%94%A8installation--trial)。有效的通行證書更可以讓您簽署您西蒂姆即時聊天工具上其他聯絡人的《免費通行證書》；假如他們試用服務後決定成為續時抵值會員，您更可以賺取獎勵積分！詳情參閱[獎勵人計劃](../referral)。
 
 <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN is commercially built on __an open and fully decentralized technology__: [__Citium__](../citium_what_for). It is a radical departure and upgrade from all the popular VPN systems in the open marketspace, instantiating a new type of VPN service. Users authenticate indirectly through [__Citium__](../citium_what_for) decentralized network of nodes using their secure digital certificates (**“CERT”**) <i class='fa fa-certificate'></i> instead of directly through the VPN servers using username/password combinations.
 
@@ -38,7 +38,7 @@ Citium Client app and its Instant Messenger (CIM) <i class='fa fa-envelope-squar
 6. Wait for him/her to sign your FREE CERT <i class='fa fa-certificate'></i>
 7. <i class='fa fa-envelope-square' style='color:blue'></i> > <i class='fa fa-toggle-on' style='color:green'></i> Start the FREE Trial
 
-The signed FREE CERT <i class='fa fa-certificate' style='color:green'></i> functioning as a ticket/pass authorizes you to access a Free Trial of <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN. You can read [more detailed instructions](#-%E5%AE%89%E8%A3%9D%E8%88%87%E8%A9%A6%E7%94%A8installation--trial) at the end of this page.
+An unexpired signed FREE CERT is considered a valid CERT <i class='fa fa-certificate' style='color:green'></i>, which functions as a ticket/pass authorizing you to access a FREE Trial of <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN. You can read [more detailed instructions](#-%E5%AE%89%E8%A3%9D%E8%88%87%E8%A9%A6%E7%94%A8installation--trial) at the end of this page. A valid CERT <i class='fa fa-certificate' style='color:green'></i> also enables you to sign the FREE CERTs of your Citium Instant Messenger (CIM) Contacts. If they decides to pay for or renew their memberships, you are eligible to earn redeemable points! Read the [Referral Program](../referral) page for more information.
 
 ## <i class="fa fa-globe" aria-hidden="true"></i> 繞過萬里網審<br>Censorship Circumvention
 
