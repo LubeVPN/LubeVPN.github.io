@@ -12,7 +12,7 @@ googlefonts: ["Roboto Condensed"]
 
 {: .box-success}
 如何在西蒂姆(Citum)客戶端App內找到<i class='fa fa-rocket' style='color:DimGrey'></i> 顺道VPN「在線客服」的界面？<br>
-<i class='fa fa-gears'></i> > <i class='fa fa-certificate'></i> > <i class='fa fa-question-circle'></i> > <i class='fa fa-comments-o'></i>
+<i class='fa fa-gears' style='color:blue'></i> > <i class='fa fa-certificate' style='color:blue'></i> > <i class='fa fa-question-circle' style='color:blue'></i> > <i class='fa fa-comments-o' style='color:blue'></i>
 
 <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN is commercially built on __an open and fully decentralized technology__: [__Citium__](../citium_what_for). <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN is a radical departure and upgrade from all the popular VPN systems in the open marketspace. <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN users get authentication indirectly through [__Citium__](../citium_what_for) decentralized network of nodes using their secure digital certificates (**“CERT”**) <i class='fa fa-certificate'></i> instead of directly through the VPN servers using username/password combinations. (Note: Citium Client app and its Instant Messenger is open source and permanently free-to-use.)
 
@@ -20,7 +20,7 @@ googlefonts: ["Roboto Condensed"]
 
 {: .box-success}
 How to reach the interface of LIVE CHAT in the Citium Client app?<br>
-<i class='fa fa-gears'></i> > <i class='fa fa-certificate'></i> > <i class='fa fa-question-circle'></i> > <i class='fa fa-comments-o'></i>
+<i class='fa fa-gears' style='color:blue'></i> > <i class='fa fa-certificate' style='color:blue'></i> > <i class='fa fa-question-circle' style='color:blue'></i> > <i class='fa fa-comments-o' style='color:blue'></i>
 
 ### <i class="fa fa-globe" aria-hidden="true"></i> 繞過萬里網審<br>Censorship Circumvention
 
