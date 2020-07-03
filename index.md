@@ -176,9 +176,19 @@ How to reach the interface of LIVE CHAT in the Citium Client app?<br>
 [<i class="fa fa-shopping-cart" aria-hidden="true"></i> 360日續時需$86.15 USD抵值](https://commerce.coinbase.com/checkout/752a5a80-2f06-44e3-954a-d25c10dacf18)
 {: .myButton}
 
+{: .box-note}
+如何在西蒂姆(Citum)客戶端App內找到<i class='fa fa-rocket' style='color:DimGrey'></i> 顺道VPN「在線客服」？<br>
+How to reach the interface of LIVE CHAT in the Citium Client app?<br>
+<i class='fa fa-gears' style='color:blue'></i> > <i class='fa fa-certificate' style='color:blue'></i> > <i class='fa fa-question-circle' style='color:#ff6d12'></i> > <i class='fa fa-comments-o' style='color:#ff6d12'></i>
+
 ### <i class="fa fa-jpy" aria-hidden="true"></i> 續時抵值：中港台常用<br>By Membership Credits
 
 中港台常用抵值辦法，由「易電票」（[https://etickets.hk/](https://etickets.hk/)）提供，敬請在支付完成後，[聯繫客服](../contact_us)，讓我們協助您完成續時抵值的餘下手續。注：<i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN官方客服只經由西蒂姆(Citum)客戶端App內的在線客服工具提供咨詢和抵值服務。
 
 [<i class="fa fa-shopping-cart" aria-hidden="true"></i> 30日/180日/360日續時抵值](https://etickets.hk/en/project/lubevpn)
 {: .myButton}
+
+{: .box-note}
+如何在西蒂姆(Citum)客戶端App內找到<i class='fa fa-rocket' style='color:DimGrey'></i> 顺道VPN「在線客服」？<br>
+How to reach the interface of LIVE CHAT in the Citium Client app?<br>
+<i class='fa fa-gears' style='color:blue'></i> > <i class='fa fa-certificate' style='color:blue'></i> > <i class='fa fa-question-circle' style='color:#ff6d12'></i> > <i class='fa fa-comments-o' style='color:#ff6d12'></i>
