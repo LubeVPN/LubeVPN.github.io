@@ -8,7 +8,7 @@ googlefonts: ["Roboto Condensed"]
 
 <i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN是**基於開源及完全去中心化**的[__西蒂姆(Citum)__](../citium_what_for)開發的互聯網隱私及信息加速商業服務應用。它把坊間流行的VPN系統作出了比較重大的改良和升級，實現了一种新型的VPN服务。用戶以安全數碼證書（**“通行證書”**）<i class='fa fa-certificate'></i> 間接地通過[西蒂姆(Citum)](../citium_what_for)的去中心化網絡節點獲取用戶身份認證，而不是使用用戶名及密碼組合在VPN服務器上直接進行認證。
 
-Citium客戶端App和其即時聊天工具(CIM)<i class='fa fa-envelope-square' style='color:blue'>對所有人開源免費可以永久使用。
+Citium客戶端App和其即時聊天工具(CIM) <i class='fa fa-envelope-square' style='color:blue'></i> 對所有人開源免費可以永久使用。
 
 <a href="https://www.unicorn001.tk/uploads/citium.apk"><i class="fa fa-download" aria-hidden="true"></i> 下載 西蒂姆(Citum)客戶端 安卓APK</a>
 {: .myDownloadButton}
@@ -16,7 +16,7 @@ Citium客戶端App和其即時聊天工具(CIM)<i class='fa fa-envelope-square' 
 1. 下載、安裝、開啟 Citium 客戶端應用 app
 2. <i class='fa fa-gears' style='color:blue'></i> > <i class='fa fa-certificate' style='color:blue'></i> 打開<i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN證書版面
 3. 生成一張《免費通行證書》<i class='fa fa-certificate'></i>
-4. 打開 Citium 即時聊天工具(CIM)<i class='fa fa-envelope-square' style='color:blue'></i>
+4. 打開 Citium 即時聊天工具(CIM) <i class='fa fa-envelope-square' style='color:blue'></i>
 5. 加一位 CIM 聯絡人 <i class="fa fa-user-plus" aria-hidden="true"></i>
 6. 他/她必須持有有效 <i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN通行證書 <i class='fa fa-certificate' style='color:#ffa812'></i>
 7. 請求他/她簽署您的《免費通行證書》 <i class='fa fa-certificate'></i>
@@ -25,7 +25,7 @@ Citium客戶端App和其即時聊天工具(CIM)<i class='fa fa-envelope-square' 
 
 <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN is commercially built on __an open and fully decentralized technology__: [__Citium__](../citium_what_for). It is a radical departure and upgrade from all the popular VPN systems in the open marketspace, instantiating a new type of VPN service. Users authenticate indirectly through [__Citium__](../citium_what_for) decentralized network of nodes using their secure digital certificates (**“CERT”**) <i class='fa fa-certificate'></i> instead of directly through the VPN servers using username/password combinations.
 
-Citium Client app and its Instant Messenger (CIM)<i class='fa fa-envelope-square' style='color:blue'> is open-source and permanently free-to-use.
+Citium Client app and its Instant Messenger (CIM) <i class='fa fa-envelope-square' style='color:blue'></i> is open-source and permanently free-to-use.
 
 <a href="https://www.unicorn001.tk/uploads/citium.apk"><i class="fa fa-download" aria-hidden="true"></i> Download Citium Client Android APK</a>
 {: .myDownloadButton}
