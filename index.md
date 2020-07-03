@@ -6,33 +6,37 @@ bigimg: /img/rain3.jpg
 googlefonts: ["Roboto Condensed"]
 ---
 
-<i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN是**基於開源及完全去中心化**的[__西蒂姆(Citum)__](../citium_what_for)開發的互聯網隱私及信息加速商業服務應用。它把坊間流行的VPN系統作出了比較重大的改良和升級。順道VPN用戶以安全數碼證書（**“通行證書”**）<i class='fa fa-certificate'></i> 間接地通過[西蒂姆(Citum)](../citium_what_for)的去中心化網絡節點獲取用戶身份認證，而不是使用用戶名及密碼組合在VPN服務器上直接進行認證。（注：Citium 客戶端 app 和其即時聊天工具開源免費永久免費使用的。）
+<i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN是**基於開源及完全去中心化**的[__西蒂姆(Citum)__](../citium_what_for)開發的互聯網隱私及信息加速商業服務應用。它把坊間流行的VPN系統作出了比較重大的改良和升級，實現了一种新型的VPN服务。用戶以安全數碼證書（**“通行證書”**）<i class='fa fa-certificate'></i> 間接地通過[西蒂姆(Citum)](../citium_what_for)的去中心化網絡節點獲取用戶身份認證，而不是使用用戶名及密碼組合在VPN服務器上直接進行認證。
+
+Citium客戶端App和其即時聊天工具(CIM)<i class='fa fa-envelope-square' style='color:blue'>對所有人開源免費可以永久使用。
 
 <a href="https://www.unicorn001.tk/uploads/citium.apk"><i class="fa fa-download" aria-hidden="true"></i> 下載 西蒂姆(Citum)客戶端 安卓APK</a>
 {: .myDownloadButton}
 
 1. 下載、安裝、開啟 Citium 客戶端應用 app
 2. <i class='fa fa-gears' style='color:blue'></i> > <i class='fa fa-certificate' style='color:blue'></i> 打開<i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN證書版面
-3. 生成一張《免費通行證書》
-4. 打開 Citium 即時聊天工具（CIM）<i class='fa fa-envelope-square' style='color:blue'></i>
-5. 找一名 CIM 聯絡人
-6. 他/她必須持有有效 <i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN通行證書
-7. 請求他/她簽署您的《免費通行證書》
+3. 生成一張《免費通行證書》<i class='fa fa-certificate'></i>
+4. 打開 Citium 即時聊天工具(CIM)<i class='fa fa-envelope-square' style='color:blue'></i>
+5. 找一名 CIM 聯絡人 <i class="fa fa-address-card" aria-hidden="true"></i>
+6. 他/她必須持有有效 <i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN通行證書 <i class='fa fa-certificate' style='color:#ffa812'></i>
+7. 請求他/她簽署您的《免費通行證書》 <i class='fa fa-certificate'></i>
 
 最後，好比一張入場券，該已簽署的《免費通行證書》就能授權您免費試用<i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN。你可以在本頁底部參閱[更多詳盡說明](#-%E5%AE%89%E8%A3%9D%E8%88%87%E8%A9%A6%E7%94%A8installation--trial)。
 
-<i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN is commercially built on __an open and fully decentralized technology__: [__Citium__](../citium_what_for). <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN is a radical departure and upgrade from all the popular VPN systems in the open marketspace. <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN users get authentication indirectly through [__Citium__](../citium_what_for) decentralized network of nodes using their secure digital certificates (**“CERT”**) <i class='fa fa-certificate'></i> instead of directly through the VPN servers using username/password combinations. (Note: Citium Client app and its Instant Messenger is open source and permanently free-to-use.)
+<i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN is commercially built on __an open and fully decentralized technology__: [__Citium__](../citium_what_for). It is a radical departure and upgrade from all the popular VPN systems in the open marketspace, instantiating a new type of VPN service. Users authenticate indirectly through [__Citium__](../citium_what_for) decentralized network of nodes using their secure digital certificates (**“CERT”**) <i class='fa fa-certificate'></i> instead of directly through the VPN servers using username/password combinations.
+
+Citium Client app and its Instant Messenger (CIM)<i class='fa fa-envelope-square' style='color:blue'> is open-source and permanently free-to-use.
 
 <a href="https://www.unicorn001.tk/uploads/citium.apk"><i class="fa fa-download" aria-hidden="true"></i> Download Citium Client Android APK</a>
 {: .myDownloadButton}
 
 1. Download, install & open Citium Client app
-2. <i class='fa fa-gears' style='color:blue'></i> > <i class='fa fa-certificate' style='color:blue'></i> Open <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN Certificate interface in the app
-3. Create a <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN FREE CERT
+2. <i class='fa fa-gears' style='color:blue'></i> > <i class='fa fa-certificate' style='color:blue'></i> Open <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN Certificate interface
+3. Create a <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN FREE CERT <i class='fa fa-certificate'></i>
 4. Open Citium Instant Messenger <i class='fa fa-envelope-square' style='color:blue'></i>
-5. Find an CIM Contact
-6. He/she must holds a valid <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN CERT
-7. Ask him/her to sign your FREE CERT
+5. Find an CIM Contact <i class="fa fa-address-card" aria-hidden="true"></i>
+6. He/she must holds a valid <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN CERT <i class='fa fa-certificate' style='color:#ffa812'></i>
+7. Ask him/her to sign your FREE CERT <i class='fa fa-certificate'></i>
 
 Finally, functioning as a ticket/pass, the signed FREE CERT can authorize you to access a free trial of <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN. You can read [more detailed instructions](#-%E5%AE%89%E8%A3%9D%E8%88%87%E8%A9%A6%E7%94%A8installation--trial) at the end of this page.
 
