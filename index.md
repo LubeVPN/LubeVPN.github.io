@@ -60,7 +60,7 @@ Lube VPN does not record network routing information, such as originating IP and
 
 1. 下載並安裝 Citium 客戶端應用 app
 2. <i class='fa fa-gears' style='color:blue'></i> > <i class='fa fa-certificate'></i> 打開<i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN證書版面
-3. 生成一張《免費通行證書》 <i class='fa fa-certificate'></i>
+3. 生成一張《免費通行證書》
 4. 打開 app 裏的 Citium 即時聊天工具
 5. 尋求一名現有的<i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN用戶
 6. 請求他/她簽署該《免費通行證書》 <i class='fa fa-certificate'></i>
@@ -69,7 +69,7 @@ Lube VPN does not record network routing information, such as originating IP and
 
 1. Download and install a Citium Client app
 2. <i class='fa fa-gears' style='color:blue'></i> > <i class='fa fa-certificate'></i> Open <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN Certificate interface in the app
-3. Create a <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN FREE CERT <i class='fa fa-certificate'></i>
+3. Create a <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN FREE CERT
 4. Open Citium Contacts list in the app
 5. Find an existing <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN user
 6. Ask the user to sign the FREE CERT <i class='fa fa-certificate'></i>
