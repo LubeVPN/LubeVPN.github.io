@@ -17,7 +17,7 @@ googlefonts: ["Roboto Condensed"]
 
 ### <i class="fa fa-globe" aria-hidden="true"></i> 繞過萬里網審<br>Censorship Circumvention
 
-<i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN是基於[西蒂姆(Citum)](../citium_what_for)建立的。西蒂姆的去中心化網絡身份及數據混淆技術能讓《順道VPN》的用戶匿名地、自由自在地上網。除此之外，<i class='fa fa-rocket' style='color:DimGrey'></i>《順道VPN》能繞過最嚴峻的網絡審查（**甚至是其他VPN服務商無法繞過的**），所以其用戶能順暢無阻地讀取和瀏覽任何全世界任何一個受到互聯網審查的網站。		
+<i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN是基於[西蒂姆(Citum)](../citium_what_for)建立的。西蒂姆的去中心化網絡身份及數據混淆技術能讓<i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN的用戶匿名地、自由自在地上網。除此之外，<i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN能繞過最嚴峻的網絡審查（**甚至是其他VPN服務商無法繞過的**），所以其用戶能順暢無阻地讀取和瀏覽任何全世界任何一個受到互聯網審查封禁的網站。		
 
 <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN is built on [Citium](../citium_what_for). Citium's decentralized network identity and data obfuscation technology enables <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN users to surf the Internet anonymously and freely. Moreover, LubeVPN can **circumvent the strictest Internet censorship that most other VPN service providers cannot circumvent** so that users can access and surf any blocked content smoothly.
 
@@ -39,13 +39,13 @@ In contrast, <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN does not
 
 ### <i class="fa fa-compass" aria-hidden="true"></i> 開天闢地的技術<br>Ground-Breaking Tech
 
-<i class='fa fa-rocket' style='color:DimGrey'></i>《順道VPN》從芸芸最強的加密算法中選擇了合適的算法作為用戶的數據傳輸，可以在特別敏感的社政管理地區繞過萬里的網絡重圍，全自動地幫你選擇最佳服務器，**恍如無間地高速通向所有境外受限內容，更可以避免網絡提供商（ISP）的網速限制**。《順道VPN》整個服務流程百分百完全匿名，絕對不記錄任何用戶個人隱私信息，過程中絕不收取用戶實名電郵或身份證明，只通過安全加密證書認證協助用戶開啟服務。
+<i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN從芸芸最強的加密算法中選擇了合適的算法作為用戶的數據傳輸，可以在特別敏感的社政管理地區繞過萬里的網絡重圍，全自動地幫你選擇最佳服務器，**恍如無間地高速通向所有境外受限內容，更可以避免網絡提供商（ISP）的網速限制**。<i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN整個服務流程百分百完全匿名，絕對不記錄任何用戶個人隱私信息，過程中絕不收取用戶實名電郵或身份證明，只通過安全加密證書認證協助用戶開啟服務。
 
 <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN utilizes some of the strongest encryption algorithms to transport user data. It automatically chooses the best server that can circumvent blocking, **bypass restrictive censorship, and avert ISP bandwidth speed throttling**. LubeVPN respects the total privacy of all existing and even prospective users. No private information is ever asked, not to mention recorded. Prospective customers do not need to provide email, name or any kind of identification to use the LubeVPN service. LubeVPN service can only be activated through cryptographic means.
 
 ### <i class="fa fa-book" aria-hidden="true"></i> 不寫Log政策<br>No Log Policy
 
-《順道VPN》不記錄任何接來自用戶的網絡接駁來源的信息。《順道VPN》從技術設計上來說，在本質機制上不能記錄也 **不會記錄任何用戶個人信息**。《順道VPN》僅記錄數據使用量，用以確保服務質量，及預防服務被濫用。《順道VPN》的用戶可以安心地使用《順道VPN》，因為每張加密安全證書只可同時用於一台終端，《順道VPN》是 **不允超過一台終端同時使用一張證書** 的。
+<i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN不記錄任何接來自用戶的網絡接駁來源的信息。<i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN從技術設計上來說，在本質機制上不能記錄也 **不會記錄任何用戶個人信息**。<i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN僅記錄數據使用量，用以確保服務質量，及預防服務被濫用。<i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN的用戶可以安心地使用<i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN，因為每張加密安全證書只可同時用於一台終端，<i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN是 **不允超過一台終端同時使用一張證書** 的。
 
 Lube VPN does not record network routing information, such as originating IP and device. LubeVPN is also technically designed so that it is inherently incapable to record and will **not record any user information** such as name, phone or ID. LubeVPN only records VPN traffic volume usage to ensure quality of service and to prevent service misuse. Users can feel secure because the usage is exclusively allowed to be accessed on a one-on-one basis: one (1) LubeVPN cryptographically secure certificate can only be used on one (1) device at the same time. **Simultaneous access of one certificate on multiple devices is prohibited**.
 
@@ -58,7 +58,7 @@ Lube VPN does not record network routing information, such as originating IP and
 5. 尋求一名現有的順道VPN用戶
 6. 請求他/她簽署該《免費通行證書》 <i class='fa fa-certificate'></i>
 
-最後，好比一張入場券，該已簽署的《免費通行證書》就能授權其持有者訪問《順道VPN》的免費試用。你可以在本頁底部參閱[更多詳盡說明](#%E5%AE%89%E8%A3%9D%E8%88%87%E8%A9%A6%E7%94%A8installation--trial)。
+最後，好比一張入場券，該已簽署的《免費通行證書》就能授權其持有者訪問<i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN的免費試用。你可以在本頁底部參閱[更多詳盡說明](#%E5%AE%89%E8%A3%9D%E8%88%87%E8%A9%A6%E7%94%A8installation--trial)。
 
 1. Download and install a Citium Client app
 2. Find the LubeVPN interface in the app
