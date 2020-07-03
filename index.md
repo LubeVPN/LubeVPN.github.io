@@ -61,8 +61,8 @@ Lube VPN does not record network routing information, such as originating IP and
 1. 下載並安裝 Citium 客戶端應用 app
 2. <i class='fa fa-gears' style='color:blue'></i> > <i class='fa fa-certificate'></i> 打開<i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN證書版面
 3. 生成一張《免費通行證書》
-4. 打開 app 裏的 Citium 即時聊天工具
-5. 尋求一名現有的<i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN用戶
+4. 打開 app 裏的 Citium 即時聊天工具（CIM）<i class='fa fa-envelope-square' style='color:blue'></i>
+5. 找一名持有有效 <i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN通行證書的 CIM 聯絡人
 6. 請求他/她簽署該《免費通行證書》 <i class='fa fa-certificate'></i>
 
 最後，好比一張入場券，該已簽署的《免費通行證書》就能授權其持有者訪問<i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN的免費試用。你可以在本頁底部參閱[更多詳盡說明](#%E5%AE%89%E8%A3%9D%E8%88%87%E8%A9%A6%E7%94%A8installation--trial)。
@@ -70,9 +70,9 @@ Lube VPN does not record network routing information, such as originating IP and
 1. Download and install a Citium Client app
 2. <i class='fa fa-gears' style='color:blue'></i> > <i class='fa fa-certificate'></i> Open <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN Certificate interface in the app
 3. Create a <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN FREE CERT
-4. Open Citium Contacts list in the app
-5. Find an existing <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN user
-6. Ask the user to sign the FREE CERT <i class='fa fa-certificate'></i>
+4. Open Citium Instant Messenger <i class='fa fa-envelope-square' style='color:blue'></i>
+5. Find an CIM Contact who holds a valid <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN CERT
+6. Ask the him/her to sign your FREE CERT
 
 Finally, functioning as a ticket/pass, the signed FREE CERT can authorize its holder to access a free trial of <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN. You can read [more detailed instructions](#%E5%AE%89%E8%A3%9D%E8%88%87%E8%A9%A6%E7%94%A8installation--trial) at the end of this page.
 
@@ -162,7 +162,7 @@ In General Settings <i class='fa fa-cogs' style='color:blue'></i>, turn on the <
 | <i class="fa fa-cloud" aria-hidden="true"></i> | [虛擬卡卡密](../payment_cards) | 快捷<br>簡便 | 卡銷售方可能<br>需索個人身份資料 |
 | <i class="fa fa-envelope" aria-hidden="true"></i> | [實體卡卡劵](../payment_cards) | 免ID<br>資料 | 一般可能需時<br>一至三天才能抵值 |
 
-用戶先自行選擇一種抵值形式（不允許多種形式混合），採購足夠額度的抵值商品。採購成功後，請隨時通過西蒂姆(Citum)即時聊天工具[聯絡官方客戶服務](../contact_us)，讓我們協助您完成續時抵值的餘下手續。注：<i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN官方客服只經由西蒂姆(Citum)的即時聊天工具提供客戶的咨詢和抵值服務。
+用戶先自行選擇一種抵值形式（不允許多種形式混合），採購足夠額度的抵值商品。採購成功後，請隨時通過西蒂姆(Citum)客戶端App內的在線客服[聯絡官方客戶服務](../contact_us)，讓我們協助您完成續時抵值的餘下手續。注：<i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN官方客服只經由西蒂姆(Citum)客戶端App內的在線客服提供咨詢和抵值服務。
 
 ### <i class="fa fa-btc" aria-hidden="true"></i> 續時抵值：加密幣<br>By Cryptocurrency
 
@@ -179,7 +179,7 @@ In General Settings <i class='fa fa-cogs' style='color:blue'></i>, turn on the <
 
 ### <i class="fa fa-jpy" aria-hidden="true"></i> 續時抵值：中港台常用<br>By Membership Credits
 
-中港台常用抵值辦法，由「易電票」（[https://etickets.hk/](https://etickets.hk/)）提供，敬請在支付完成後，[聯繫客服](../contact_us)，讓我們協助您完成續時抵值的餘下手續。注：<i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN官方客服只經由西蒂姆(Citum)的即時聊天工具提供客戶的咨詢和抵值服務。
+中港台常用抵值辦法，由「易電票」（[https://etickets.hk/](https://etickets.hk/)）提供，敬請在支付完成後，[聯繫客服](../contact_us)，讓我們協助您完成續時抵值的餘下手續。注：<i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN官方客服只經由西蒂姆(Citum)客戶端App內的在線客服工具提供咨詢和抵值服務。
 
 [30日/180日/360日續時抵值](https://etickets.hk/en/project/lubevpn)
 {: .myButton}
