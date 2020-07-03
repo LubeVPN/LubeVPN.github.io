@@ -59,20 +59,22 @@ Lube VPN does not record network routing information, such as originating IP and
 ### <i class="fa fa-flask" aria-hidden="true"></i> 免費試用順道VPN<br>Free Trial of LubeVPN
 
 1. 下載並安裝 Citium 客戶端應用 app
-2. <i class='fa fa-gears' style='color:blue'></i> > <i class='fa fa-certificate'></i> 打開<i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN證書版面
+2. <i class='fa fa-gears' style='color:blue'></i> > <i class='fa fa-certificate' style='color:blue'></i> 打開<i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN證書版面
 3. 生成一張《免費通行證書》
 4. 打開 app 裏的 Citium 即時聊天工具（CIM）<i class='fa fa-envelope-square' style='color:blue'></i>
-5. 找一名持有有效 <i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN通行證書的 CIM 聯絡人
-6. 請求他/她簽署該《免費通行證書》 <i class='fa fa-certificate'></i>
+5. 找一名 CIM 聯絡人
+ - 他/她必須持有有效 <i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN通行證書
+6. 請求他/她簽署您的《免費通行證書》
 
 最後，好比一張入場券，該已簽署的《免費通行證書》就能授權其持有者訪問<i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN的免費試用。你可以在本頁底部參閱[更多詳盡說明](#%E5%AE%89%E8%A3%9D%E8%88%87%E8%A9%A6%E7%94%A8installation--trial)。
 
 1. Download and install a Citium Client app
-2. <i class='fa fa-gears' style='color:blue'></i> > <i class='fa fa-certificate'></i> Open <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN Certificate interface in the app
+2. <i class='fa fa-gears' style='color:blue'></i> > <i class='fa fa-certificate' style='color:blue'></i> Open <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN Certificate interface in the app
 3. Create a <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN FREE CERT
 4. Open Citium Instant Messenger <i class='fa fa-envelope-square' style='color:blue'></i>
-5. Find an CIM Contact who holds a valid <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN CERT
-6. Ask the him/her to sign your FREE CERT
+5. Find an CIM Contact
+  - he/she must holds a valid <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN CERT
+6. Ask him/her to sign your FREE CERT
 
 Finally, functioning as a ticket/pass, the signed FREE CERT can authorize its holder to access a free trial of <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN. You can read [more detailed instructions](#%E5%AE%89%E8%A3%9D%E8%88%87%E8%A9%A6%E7%94%A8installation--trial) at the end of this page.
 
