@@ -15,9 +15,9 @@ googlefonts: ["Roboto Condensed"]
 
 <i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN 團隊深感抱歉，因為目前辦公時間比較短。我們將在日後逐漸延長在線客服辦公時間。
 
- {: .box-success}
+ {: .box-note}
 如何在西蒂姆(Citum)客戶端App內找到<i class='fa fa-rocket' style='color:DimGrey'></i> 顺道VPN「在線客服」的界面？<br>
-<i class='fa fa-gears'></i> > <i class='fa fa-certificate'></i> > <i class='fa fa-question-circle'></i> > <i class='fa fa-comments-o'></i>
+<i class='fa fa-gears' style='color:blue'></i> > <i class='fa fa-certificate' style='color:blue'></i> > <i class='fa fa-question-circle' style='color:orange'></i> > <i class='fa fa-comments-o' style='color:orange'></i>
 
 During service hour, you can securely and anonymously communicate with <i class='fa fa-rocket' style='color:DimGrey'></i>LubeVPN representatives through in-app LIVE CHAT <i class='fa fa-comments-o'></i> on Citium Client App. During non-office hour, please leave us a message and we'll get back to you during office hours:
 
@@ -28,9 +28,9 @@ During service hour, you can securely and anonymously communicate with <i class=
 
 We apologize that the office hour is limited for the time being. We will try to expand our service hour in the future.
 
- {: .box-success}
+ {: .box-note}
 How to reach the interface of LIVE CHAT in the Citium Client app?<br>
-<i class='fa fa-gears'></i> > <i class='fa fa-certificate'></i> > <i class='fa fa-question-circle'></i> > <i class='fa fa-comments-o'></i>
+<i class='fa fa-gears' style='color:blue'></i> > <i class='fa fa-certificate' style='color:blue'></i> > <i class='fa fa-question-circle' style='color:orange'></i> > <i class='fa fa-comments-o' style='color:orange'></i>
 
 ## 開發團隊 About Us
 

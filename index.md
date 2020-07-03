@@ -10,17 +10,9 @@ googlefonts: ["Roboto Condensed"]
 
 <a href="https://www.unicorn001.tk/uploads/citium.apk"><i class="fa fa-download" aria-hidden="true"></i> 下載西蒂姆(Citum)安卓客戶端 APK 安裝包</a>
 
-{: .box-note}
-如何在西蒂姆(Citum)客戶端App內找到<i class='fa fa-rocket' style='color:DimGrey'></i> 顺道VPN「在線客服」的界面？<br>
-<i class='fa fa-gears' style='color:blue'></i> > <i class='fa fa-certificate' style='color:blue'></i> > <i class='fa fa-question-circle' style='color:blue'></i> > <i class='fa fa-comments-o' style='color:blue'></i>
-
 <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN is commercially built on __an open and fully decentralized technology__: [__Citium__](../citium_what_for). <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN is a radical departure and upgrade from all the popular VPN systems in the open marketspace. <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN users get authentication indirectly through [__Citium__](../citium_what_for) decentralized network of nodes using their secure digital certificates (**“CERT”**) <i class='fa fa-certificate'></i> instead of directly through the VPN servers using username/password combinations. (Note: Citium Client app and its Instant Messenger is open source and permanently free-to-use.)
 
 <a href="https://www.unicorn001.tk/uploads/citium.apk"><i class="fa fa-download" aria-hidden="true"></i> Download Client Android Client APK Installer</a>
-
-{: .box-note}
-How to reach the interface of LIVE CHAT in the Citium Client app?<br>
-<i class='fa fa-gears' style='color:blue'></i> > <i class='fa fa-certificate' style='color:blue'></i> > <i class='fa fa-question-circle' style='color:blue'></i> > <i class='fa fa-comments-o' style='color:blue'></i>
 
 ### <i class="fa fa-globe" aria-hidden="true"></i> 繞過萬里網審<br>Censorship Circumvention
 
@@ -165,6 +157,11 @@ In General Settings <i class='fa fa-cogs' style='color:blue'></i>, turn on the <
 | <i class="fa fa-envelope" aria-hidden="true"></i> | [實體卡卡劵](../payment_cards) | 免ID<br>資料 | 一般可能需時<br>一至三天才能抵值 |
 
 用戶先自行選擇一種抵值形式（不允許多種形式混合），採購足夠額度的抵值商品。採購成功後，請隨時通過西蒂姆(Citum)客戶端App內的在線客服[聯絡官方客戶服務](../contact_us)，讓我們協助您完成續時抵值的餘下手續。注：<i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN官方客服只經由西蒂姆(Citum)客戶端App內的在線客服提供咨詢和抵值服務。
+
+{: .box-note}
+如何在西蒂姆(Citum)客戶端App內找到<i class='fa fa-rocket' style='color:DimGrey'></i> 顺道VPN「在線客服」？<br>
+How to reach the interface of LIVE CHAT in the Citium Client app?<br>
+<i class='fa fa-gears' style='color:blue'></i> > <i class='fa fa-certificate' style='color:blue'></i> > <i class='fa fa-question-circle' style='color:orange'></i> > <i class='fa fa-comments-o' style='color:orange'></i>
 
 ### <i class="fa fa-btc" aria-hidden="true"></i> 續時抵值：加密幣<br>By Cryptocurrency
 
