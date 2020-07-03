@@ -41,7 +41,7 @@ Citium Client app and its Instant Messenger (CIM) <i class='fa fa-envelope-squar
 7. <i class='fa fa-envelope-square' style='color:blue'></i> > <i class='fa fa-toggle-on' style='color:green'></i> Start the FREE Trial
 
 {: .box-note}
-† A **valid CERT** <i class='fa fa-certificate' style='color:green'></i> is an signed & unexpired CERT, functioning as a ticket/pass, authorizes its holder to access <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN service. [For detailed instructions](#-%E5%AE%89%E8%A3%9D%E8%88%87%E8%A9%A6%E7%94%A8installation--trial) at the end of this page.<br>
+† A **valid CERT** <i class='fa fa-certificate' style='color:green'></i> is a signed & unexpired CERT, functioning as a ticket/pass, authorizes its holder to access <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN service. [For detailed instructions](#-%E5%AE%89%E8%A3%9D%E8%88%87%E8%A9%A6%E7%94%A8installation--trial) at the end of this page.<br>
 A **valid CERT** <i class='fa fa-certificate' style='color:green'></i> also enables its holder to sign the FREE CERTs of his/her Citium Instant Messenger (CIM) Contacts. If they decides to pay for or renew their memberships, he/she is eligible to earn redeemable points! Read the [Referral Program](../referral) page for more information.
 
 ## <i class="fa fa-globe" aria-hidden="true"></i> 繞過萬里網審<br>Censorship Circumvention
