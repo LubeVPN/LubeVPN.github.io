@@ -829,24 +829,24 @@ pre {
 
 /* Download button */
 .myDownloadButton {
-	box-shadow: 3px 4px 0px 0px #1564ad;
-	background:linear-gradient(to bottom, #79bbff 5%, #378de5 100%);
-	background-color:#79bbff;
-	border-radius:5px;
-	border:1px solid #337bc4;
+	box-shadow:inset 0px 1px 0px 0px #ffffff;
+	background:linear-gradient(to bottom, #ffffff 5%, #f6f6f6 100%);
+	background-color:#ffffff;
+	border-radius:6px;
+	border:1px solid #dcdcdc;
 	display:inline-block;
 	cursor:pointer;
-	color:#ffffff;
+	color:#666666;
 	font-family:Arial;
-	font-size:17px;
+	font-size:15px;
 	font-weight:bold;
-	padding:12px 44px;
+	padding:6px 24px;
 	text-decoration:none;
-	text-shadow:0px 1px 0px #528ecc;
+	text-shadow:0px 1px 0px #ffffff;
 }
 .myDownloadButton:hover {
-	background:linear-gradient(to bottom, #378de5 5%, #79bbff 100%);
-	background-color:#378de5;
+	background:linear-gradient(to bottom, #f6f6f6 5%, #ffffff 100%);
+	background-color:#f6f6f6;
 }
 .myDownloadButton:active {
 	position:relative;
