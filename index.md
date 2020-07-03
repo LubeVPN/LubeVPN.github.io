@@ -17,7 +17,7 @@ Citium客戶端App和其即時聊天工具(CIM) <i class='fa fa-envelope-square'
 2. <i class='fa fa-envelope-square' style='color:blue'></i> > <i class="fa fa-user-plus" style='color:blue'></i> 加一位 CIM 聯絡人
 3. 他/她必須持有有效 <i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN通行證書 <i class='fa fa-certificate' style='color:green'></i>
 4. <i class='fa fa-gears' style='color:blue'></i> > <i class='fa fa-certificate' style='color:blue'></i> > <i class="fa fa-files-o" aria-hidden="true"></i> 複製你的《免費通行證書》<i class='fa fa-certificate'></i>
-5. <i class="fa fa-envelope-square" aria-hidden="true"></i> > <i class="fa fa-clipboard" aria-hidden="true"></i> 黏貼給聯絡人
+5. <i class='fa fa-envelope-square' style='color:blue'></i> > <i class="fa fa-clipboard" aria-hidden="true"></i> 黏貼給聯絡人
 6. 等他/她簽署您的《免費通行證書》 <i class='fa fa-certificate'></i>
 7. <i class='fa fa-envelope-square' style='color:blue'></i> > <i class='fa fa-toggle-on' style='color:green'></i> 開始免費試用
 
@@ -34,7 +34,7 @@ Citium Client app and its Instant Messenger (CIM) <i class='fa fa-envelope-squar
 2. <i class='fa fa-envelope-square' style='color:blue'></i> > <i class="fa fa-user-plus" style='color:blue'></i> Add a CIM Contact
 3. He/she must holds a valid <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN CERT <i class='fa fa-certificate' style='color:green'></i>
 4. <i class='fa fa-gears' style='color:blue'></i> > <i class='fa fa-certificate' style='color:blue'></i> > <i class="fa fa-files-o" aria-hidden="true"></i>  Copy your FREE CERT <i class='fa fa-certificate'></i>
-5. <i class="fa fa-envelope-square" aria-hidden="true"></i> > <i class="fa fa-clipboard" aria-hidden="true"></i> Paste it to the Contact
+5. <i class='fa fa-envelope-square' style='color:blue'></i> > <i class="fa fa-clipboard" aria-hidden="true"></i> Paste it to the Contact
 6. Ask him/her to sign your FREE CERT <i class='fa fa-certificate'></i>
 7. <i class='fa fa-envelope-square' style='color:blue'></i> > <i class='fa fa-toggle-on' style='color:green'></i> Start the FREE Trial
 
