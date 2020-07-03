@@ -63,8 +63,8 @@ Lube VPN does not record network routing information, such as originating IP and
 3. 生成一張《免費通行證書》
 4. 打開 app 裏的 Citium 即時聊天工具（CIM）<i class='fa fa-envelope-square' style='color:blue'></i>
 5. 找一名 CIM 聯絡人
- - 他/她必須持有有效 <i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN通行證書
-6. 請求他/她簽署您的《免費通行證書》
+6. 他/她必須持有有效 <i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN通行證書
+7. 請求他/她簽署您的《免費通行證書》
 
 最後，好比一張入場券，該已簽署的《免費通行證書》就能授權您免費試用<i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN。你可以在本頁底部參閱[更多詳盡說明](#%E5%AE%89%E8%A3%9D%E8%88%87%E8%A9%A6%E7%94%A8installation--trial)。
 
@@ -73,8 +73,8 @@ Lube VPN does not record network routing information, such as originating IP and
 3. Create a <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN FREE CERT
 4. Open Citium Instant Messenger <i class='fa fa-envelope-square' style='color:blue'></i>
 5. Find an CIM Contact
-  - he/she must holds a valid <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN CERT
-6. Ask him/her to sign your FREE CERT
+6. He/she must holds a valid <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN CERT
+7. Ask him/her to sign your FREE CERT
 
 Finally, functioning as a ticket/pass, the signed FREE CERT can authorize you to access a free trial of <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN. You can read [more detailed instructions](#%E5%AE%89%E8%A3%9D%E8%88%87%E8%A9%A6%E7%94%A8installation--trial) at the end of this page.
 
