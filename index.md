@@ -72,7 +72,7 @@ Finally, functioning as a ticket/pass, the signed FREE CERT can authorize you to
 
 ## <i class="fa fa-shield" aria-hidden="true"></i> 用戶信息安全<br>User InfoSec
 
-傳統用戶管理系統依賴中央化服務器的關系型數據庫記錄用戶註冊、推薦人與受薦者之間的關系，安全和匿名程度都比較低。反觀，<i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN的用戶登記和推薦系統是通過數字簽名和數字證書以P2P的形式來綁定的。更具體來說，順道VPN不單不記錄任何用戶信息，就連推薦系統都用了推薦人的獨特數字簽名和受薦者持有的簽名數字證書（即，已簽署的《免費通行證書》）來安全地、隐蔽地綁定彼此的關系， **不會被記錄在任何第三方關係型數據庫上，有效地防範用戶個人數據洩露與關聯性信息分析於未然**。
+傳統用戶管理系統依賴中央化服務器的關系型數據庫記錄用戶註冊、推薦人與受薦者之間的關系，安全和匿名程度都比較低。反觀，<i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN的用戶登記和推薦系統是通過數字簽名和數字證書以P2P的形式來綁定的。更具體來說，<i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN不單不記錄任何用戶信息，就連推薦系統都用了推薦人的獨特數字簽名和受薦者持有的簽名數字證書（即，已簽署的《免費通行證書》）來安全地、隐蔽地綁定彼此的關系， **不會被記錄在任何第三方關係型數據庫上，有效地防範用戶個人數據洩露與關聯性信息分析於未然**。
 
 Traditional user management systems rely on relational databases on centralized servers to record user registrations and the referral relationships. That regime is prone to security and privacy breach. In contrast, <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN's referral relationships are recorded by securely and privately binding digital signatures and their signed certificates in a peer-to-peer fashion. More specifically, <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN does not ask for or record any user information. A referral relationship in <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN is securely bound based on the unique digital signature of the referrer and the signed digital certificate (i.e. signed FREE CERT) held by the referred user, **not recorded in any third-party party relational database, effectively preempting user data breach and link analysis**.
 
@@ -167,18 +167,18 @@ How to reach the interface of LIVE CHAT in the Citium Client app?<br>
 
 <i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN通過國際知名的 [Coinbase Commerce](https://commerce.coinbase.com/) 加密幣充值接口和錢包接受抵值。接受的各種流行加密幣種有 Bitcoin、Bitcoin Cash、Dai、Ethereum、Litecoin 和 USD Coin。請按您希望抵值的續時週期點擊進入 Coinbase Commerce 充值購買所需的等值。完成後，[聯繫客服](../contact_us)，讓我們協助您完成續時抵值的餘下手續。
 
-[30日續時需$12.95 USD抵值](https://commerce.coinbase.com/checkout/d3b2abdd-a42d-4636-a020-977df3348813)
+[<i class="fa fa-shopping-cart" aria-hidden="true"></i> 30日續時需$12.95 USD抵值](https://commerce.coinbase.com/checkout/d3b2abdd-a42d-4636-a020-977df3348813)
 {: .myButton}
 
-[180日續時需$57.45 USD抵值](https://commerce.coinbase.com/checkout/44e644c9-1704-4c3a-9469-3a9ce073f577)
+[<i class="fa fa-shopping-cart" aria-hidden="true"></i> 180日續時需$57.45 USD抵值](https://commerce.coinbase.com/checkout/44e644c9-1704-4c3a-9469-3a9ce073f577)
 {: .myButton}
 
-[360日續時需$86.15 USD抵值](https://commerce.coinbase.com/checkout/752a5a80-2f06-44e3-954a-d25c10dacf18)
+[<i class="fa fa-shopping-cart" aria-hidden="true"></i> 360日續時需$86.15 USD抵值](https://commerce.coinbase.com/checkout/752a5a80-2f06-44e3-954a-d25c10dacf18)
 {: .myButton}
 
 ### <i class="fa fa-jpy" aria-hidden="true"></i> 續時抵值：中港台常用<br>By Membership Credits
 
 中港台常用抵值辦法，由「易電票」（[https://etickets.hk/](https://etickets.hk/)）提供，敬請在支付完成後，[聯繫客服](../contact_us)，讓我們協助您完成續時抵值的餘下手續。注：<i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN官方客服只經由西蒂姆(Citum)客戶端App內的在線客服工具提供咨詢和抵值服務。
 
-[30日/180日/360日續時抵值](https://etickets.hk/en/project/lubevpn)
+[<i class="fa fa-shopping-cart" aria-hidden="true"></i> 30日/180日/360日續時抵值](https://etickets.hk/en/project/lubevpn)
 {: .myButton}
