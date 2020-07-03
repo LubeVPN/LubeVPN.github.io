@@ -6,7 +6,7 @@ bigimg: /img/rainbow_cr.jpg
 googlefonts: ["Roboto Condensed"]
 ---
 
-在以下辦公時間內，您可以通過西蒂姆(Citum)客户端 App 内的在線客服 <i class='fa fa-comments-o'></i> 與<i class='fa fa-rocket' style='color:grey'></i> 顺道VPN客戶服務代表溝通；而在辦公時間外，請您留言，我們將在辦公時間內回復您：
+在以下辦公時間內，您可以通過西蒂姆(Citum)客户端 App 内的在線客服 <i class='fa fa-comments-o'></i> 與 <i class='fa fa-rocket' style='color:grey'></i> 顺道VPN客戶服務代表溝通；而在辦公時間外，請您留言，我們將在辦公時間內回復您：
 
 - GMT+8，中國時間、上海、香港、臺北
   - 星期一至六，14時15分 至 16時45分
