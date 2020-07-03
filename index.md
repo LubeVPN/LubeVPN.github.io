@@ -33,7 +33,7 @@ All VPN service providers have to authenticate their users' access rights before
 
 #### <i class="fa fa-life-ring" aria-hidden="true"></i> 順道VPN 去中心化的解决方案<br>LubeVPN Decentralized Solution
 
-相比之下，<i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN 不使用傳統的雙向握手。順道VPN 的用戶通過西蒂姆(Citum)客戶端App 訪問VPN服務，認證過程基於分散的[西蒂姆(Citum)](../citium_what_for)網絡節點。與傳統的雙向握手不同，**順道VPN 的認證更像是通過[西蒂姆(Citum)](../citium_what_for)的隨機節點進行多向握手**。順道VPN 的用戶通過西蒂姆(Citum)的其他用戶節點與VPN服務器間接接觸，直到VPN訪問被授權。一言以蔽之，西蒂姆(Citum)客戶端App 應用越是流行和節點越多，順道VPN 的握手過程中產生的數據交互與普通的互聯網流量就越無法區分。因此，使用 順道VPN 的互聯網用戶可以規避即便是最嚴格的審查系統。
+相比之下，<i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN 不使用傳統的雙向握手。<i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN 的用戶通過西蒂姆(Citum)客戶端App 訪問VPN服務，認證過程基於分散的[西蒂姆(Citum)](../citium_what_for)網絡節點。與傳統的雙向握手不同，**<i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN 的認證更像是通過[西蒂姆(Citum)](../citium_what_for)的隨機節點進行多向握手**。<i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN 的用戶通過西蒂姆(Citum)的其他用戶節點與VPN服務器間接接觸，直到VPN訪問被授權。一言以蔽之，西蒂姆(Citum)客戶端App 應用越是流行和節點越多，<i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN的握手過程中產生的數據交互與普通的互聯網流量就越無法區分。因此，使用<i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN的互聯網用戶可以規避即便是最嚴格的審查系統。
 
 In contrast, <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN does not use conventional two-way handshake. <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN users access VPN service through the Citium Client app and the authentication process is based on the decentralized [Citium](../citium_what_for) network of nodes. Instead of conventional two-way handshake, **authentication on <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN is more like a multi-way handshake through randomized nodes of [Citium](../citium_what_for)**. Users of <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN engage indirectly with VPN servers through other user nodes of Citium until VPN access is authorized. In a nutshell, the more popular Citium Client app becomes, the more indistinguishable <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN's handshaking traffic is from regular Internet traffic. Hence, Internet surfers that use <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN can circumvent even the most stringent censorship system.
 
@@ -52,10 +52,10 @@ Lube VPN does not record network routing information, such as originating IP and
 ### <i class="fa fa-flask" aria-hidden="true"></i> 免費試用順道VPN<br>Free Trial of LubeVPN
 
 1. 下載並安裝 Citium 客戶端應用 app
-2. 打開 app 裏的順道VPN版面
+2. 打開 app 裏的<i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN版面
 3. 生成一張《免費通行證書》 <i class='fa fa-certificate'></i>
 4. 打開 app 裏的 Citium 即時聊天工具
-5. 尋求一名現有的順道VPN用戶
+5. 尋求一名現有的<i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN用戶
 6. 請求他/她簽署該《免費通行證書》 <i class='fa fa-certificate'></i>
 
 最後，好比一張入場券，該已簽署的《免費通行證書》就能授權其持有者訪問<i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN的免費試用。你可以在本頁底部參閱[更多詳盡說明](#%E5%AE%89%E8%A3%9D%E8%88%87%E8%A9%A6%E7%94%A8installation--trial)。
@@ -77,42 +77,42 @@ Traditional user management systems rely on relational databases on centralized 
 
 ### <i class='fa fa-certificate'></i> 通行證書系統<br>CERT System
 
-順道VPN用戶使用安全數字證書（“通行證書”） <i class='fa fa-certificate'></i> 來訪問VPN服務，而不是用戶名/密碼組合。有兩種順道VPN的通行證書：**《免費通行證書》和《會員通行證書》**。一張已簽署和有效的《免費通行證書》授權其持有人訪問順道VPN的免費試用。所有《會員通行證書》都是源自和續時自《免費通行證書》。**《會員通行證書》** 持有者不單享受更高級的順道VPN服務和推薦新用戶到順道VPN，每當受薦者續時後，他更 **能賺取可兌換的積分**。
+順道VPN用戶使用安全數字證書（“通行證書”） <i class='fa fa-certificate'></i> 來訪問VPN服務，而不是用戶名/密碼組合。有兩種<i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN的通行證書：**《免費通行證書》和《會員通行證書》**。一張已簽署和有效的《免費通行證書》授權其持有人訪問<i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN的免費試用。所有《會員通行證書》都是源自和續時自《免費通行證書》。**《會員通行證書》** 持有者不單享受更高級的<i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN服務和推薦新用戶到<i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN，每當受薦者續時後，他更 **能賺取可兌換的積分**。
 
 <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN users use secure digital certificates (“CERTs”) <i class='fa fa-certificate'></i> to access VPN service instead of username/password combinations. There are two kinds of CERT in <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN: **FREE CERT and MEMBER CERT**. A signed and validated FREE CERT authorizes its holder to access a free trial of <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN. All MEMBER CERTs are originated and renewed from FREE CERT. A **MEMBER CERT holder** not only enjoys a higher level of <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN service and refers new users to <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN, he/she **earns redeemable points** whenever the referred users renew their CERTs.
 
 ### <i class="fa fa-pencil-square-o"></i> 簽署 和 <i class="fa fa-check-square-o"></i> 認證 <br>Signing & Validation
 
-順道VPN是不會任意地接受任何一個《免費通行證書》的認證請求的，而是僅限於由持有有效的（未過期的）通行證書的簽署者簽署過的《免費通行證書》。簡單來說，**只有被現有順道VPN用戶簽署過的《免費通行證書》，順道VPN才會接受其請求** 去認證它。認證通過後，持有該《免費通行證書》的受薦者才能獲得授權訪問順道VPN的VPN服務。
+<i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN是不會任意地接受任何一個《免費通行證書》的認證請求的，而是僅限於由持有有效的（未過期的）通行證書的簽署者簽署過的《免費通行證書》。簡單來說，**只有被現有<i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN用戶簽署過的《免費通行證書》，<i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN才會接受其請求** 去認證它。認證通過後，持有該《免費通行證書》的受薦者才能獲得授權訪問<i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN的VPN服務。
 
 <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN will not accept validation requests from any FREE CERT unless it is signed by one who holds a valid (i.e. unexpired) CERT. Simply put, **<i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN only validates FREE CERTs signed by existing users**. Once a validation succeeds, the holder of the valid FREE CERT is authorized to access <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN service.
 
 {: .box-warning}
-**溫馨提醒:** 每一個持有已簽署的《通行證書》的持有者都有責任不丟失自己的《通行證書》 。尤其要小心，**不要不小心清除了存儲《通行證書》的 Citium 客戶端 app 的數據**，因為已簽署的《通行證書》是唯一的能證明推薦人與受薦者關系的證據。用戶不論任何原因遺失《通行證書》，如卸載並重裝 Citium 客戶端 app，遺失或更換手機，平板或電腦而未預先備份《通行證書》，用戶將永久地無法重新登入、亦同時失去該《通行證書》的存取及使用權，並且會永久失去《通行證書》關聯的 Citium 即時通訊工具的通訊帳戶、聯絡人列表、對話紀錄及所有通訊存儲內的多媒體資料和其使用權。而順道VPN的客服、代理及管理員於任何情況下均無法協助用戶重新登入、存取及使用該《通行證書》，這也是我們安保設計的精妙之處。
+**溫馨提醒:** 每一個持有已簽署的《通行證書》的持有者都有責任不丟失自己的《通行證書》 。尤其要小心，**不要不小心清除了存儲《通行證書》的 Citium 客戶端 app 的數據**，因為已簽署的《通行證書》是唯一的能證明推薦人與受薦者關系的證據。用戶不論任何原因遺失《通行證書》，如卸載並重裝 Citium 客戶端 app，遺失或更換手機，平板或電腦而未預先備份《通行證書》，用戶將永久地無法重新登入、亦同時失去該《通行證書》的存取及使用權，並且會永久失去《通行證書》關聯的 Citium 即時通訊工具的通訊帳戶、聯絡人列表、對話紀錄及所有通訊存儲內的多媒體資料和其使用權。而<i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN的客服、代理及管理員於任何情況下均無法協助用戶重新登入、存取及使用該《通行證書》，這也是我們安保設計的精妙之處。
 <br><br>
 **GENTLE REMINDER:** Every holder of the signed CERTs is responsible for not losing one's own signed CERT. Be careful **not to accidentally clear the data of the Citium Client app** that stores the signed CERT because it is the only evidence to prove the user registration status, as well as the referral relationship between its user and its signer. If a user loses the signed CERT for any reason (e.g. uninstalls and reinstalls the Citium Client App; loses or replaces the mobile phone, tablet or computer; fails to back up the CERT in advance), the user will no longer be able to log back in, permanently lose access access to service, including everything related to Citium Instant Messenger, such as Contacts list, its chat history and its multimedia contents. <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN's customer service representatives, partnership agents and administrators are under no circumstances able to assist the user to log in, access and use the CERT again, which is the beauty of our security design.
 
 ## <i class="fa fa-bullhorn" aria-hidden="true"></i> 推薦人計劃<br>Referral Program
 
-順道VPN是不隨便接受新用戶申請的，必須由現有用戶推薦的新用戶，順道VPN才會考慮接受申請。換句話說，**如果有人想訪問順道VPN服務，必先獲得順道VPN現有用戶的推薦**。順道VPN是使用了一套安全電子簽名系統來管理用戶推薦和註冊流程，而不是像大多數其他在線服務提供商那樣選用傳統的用戶名和用戶密碼制度，因為通過使用我們的電子簽名系統才可以最大程度地提高所有服務參與者的使用安全性和匿名性。
+<i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN是不隨便接受新用戶申請的，必須由現有用戶推薦的新用戶，<i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN才會考慮接受申請。換句話說，**如果有人想訪問<i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN服務，必先獲得<i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN現有用戶的推薦**。<i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN是使用了一套安全電子簽名系統來管理用戶推薦和註冊流程，而不是像大多數其他在線服務提供商那樣選用傳統的用戶名和用戶密碼制度，因為通過使用我們的電子簽名系統才可以最大程度地提高所有服務參與者的使用安全性和匿名性。
 
 <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN does not publicly accept new user registration unless one is referred by an existing user. In other words, **if someone wants to access <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN service, one must first find an existing <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN user who is willing to do the referral**. If a user is not connected to any referrer, he/she should contact the Citium Client in-app LIVE HELP to see if we can recommend one to him/her. <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN utilizes a secure electronic signature system to manage user referral and registration workflows instead of the username/password regime traditionally utilized by most of the other online service providers because only by utilizing the electronic signature system can we maximize security and anonymity for all parties.
 
 ### <i class="fa fa-bullhorn" aria-hidden="true"></i> 由受薦者啟動推薦流程<br>Initiated by Referred User
 
-在順道VPN中，受薦者用戶都需要自己動手 **創建一個個人專屬的《免費通行證書》** 來啟動推薦和註冊流程的；這是一個簡單的、一鍵式的、一次性的、 **在每個受薦者自己的設備上執行的、免費的操作**。接下來，他們可以要求自己的推薦人在《免費通行證書》上簽署。一旦《免費通行證書》被簽署後，推薦人（即，簽署者）和受薦者（即，《免費通行證書》的創建者及持有者）之間的推薦關系將永久綁定在已簽署的《通行證書》上，即使《通行證書》持有者之後決定「續時」它（即，付費和訂閱《會員通行證書》），彼此關係都不會消失。
+在<i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN中，受薦者用戶都需要自己動手 **創建一個個人專屬的《免費通行證書》** 來啟動推薦和註冊流程的；這是一個簡單的、一鍵式的、一次性的、 **在每個受薦者自己的設備上執行的、免費的操作**。接下來，他們可以要求自己的推薦人在《免費通行證書》上簽署。一旦《免費通行證書》被簽署後，推薦人（即，簽署者）和受薦者（即，《免費通行證書》的創建者及持有者）之間的推薦關系將永久綁定在已簽署的《通行證書》上，即使《通行證書》持有者之後決定「續時」它（即，付費和訂閱《會員通行證書》），彼此關係都不會消失。
 
 In <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN, referred users are each responsible to initiate the referral and registration process by **creating one's own FREE CERT**, which is an easy, one-click, one-time and **free of charge action performed on everyone's own device**. Next, they may ask for their referrers to sign their FREE CERTs. Once signed, the referral relationship between a referrer (i.e. signer) and the referred user (i.e. the creator and holder of a CERT) are permanently bound to the signed CERT even if the holder later decide to renew it (i.e. paying and subscribing for MEMBER CERTS).
 
 ### <i class="fa fa-bullhorn" aria-hidden="true"></i> 無限量地推薦但……<br>Refer Unlimitedly but...
 
-一位推薦人是可以根據 Citium 聯系人的請求，去無限量地簽署《免費通行證書》的，但他所簽署 **有效的**《免費通行證書》卻是有限的；有效性，又是當受薦者嘗試認證它的時候才揭曉的。順道VPN是按照「**先到先得**」的原則來認證《免費通行證書》的有效性的。然而，被更早簽署的《免費通行證書》不必然就更有效，而是 **視乎哪位先去嘗試認證而論優先次序** 的。換句話說，不論你簽署了多少張《免費通行證書》，能被順道VPN成功認證的張數是有配額限制的，而該配額是根據你身為簽署者（推薦人）本人持有的通行證的等級與續時次數而決定。你的通行證等級越高、續時次數越多，可獲簽署有效的《免費通行證》的配額則越多。
+一位推薦人是可以根據 Citium 聯系人的請求，去無限量地簽署《免費通行證書》的，但他所簽署 **有效的**《免費通行證書》卻是有限的；有效性，又是當受薦者嘗試認證它的時候才揭曉的。<i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN是按照「**先到先得**」的原則來認證《免費通行證書》的有效性的。然而，被更早簽署的《免費通行證書》不必然就更有效，而是 **視乎哪位先去嘗試認證而論優先次序** 的。換句話說，不論你簽署了多少張《免費通行證書》，能被<i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN成功認證的張數是有配額限制的，而該配額是根據你身為簽署者（推薦人）本人持有的通行證的等級與續時次數而決定。你的通行證等級越高、續時次數越多，可獲簽署有效的《免費通行證》的配額則越多。
 
 A referrer can sign an unlimited number of FREE CERT to one's Citium Contacts (referred users) upon their requests, the number of *valid* FREE CERTs that one can sign are limited; and their validity is only revealed when the referred users (holders of the FREE CERTs) attempt to validate them. <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN validates FREE CERTs **on a first-come, first-served basis**. The earlier a FREE CERT is signed doesn’t necessarily means that it has a higher chance of being validated, but rather **depends on who first tries to validate one's**. In other words, there is a quota on the number of times the FREE CERTs that you signed can be validated by <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN. The quota is determined by the level of your own membership level and the number of times that you have renewed them. The higher your MEMBER CERT level and the more time it is renewed, the higher the quota for signing valid FREE CERT.
 
 ### <i class="fa fa-bullhorn" aria-hidden="true"></i> 有效《免費通行證書》認證上限<br>FREE CERT Validation Limit
 
-任何一名簽署者可以簽署無限量張《免費通行證書》但是《免費通行證書》的「有效性」卻是受到了該簽署者的證書持有狀態限制的。**如果簽署者個人只持有已授權的《免費通行證書》**，按先到先得的原則，顺道VPN **只會認證其中兩（2）張他簽署的《免費通行證書》**。顺道VPN將不會再受理晚來的認證請求。換句話說，順道VPN在認證完畢頭兩（2）張來訪請求認證的《免費通行證書》後就開始拒絕晚來的認證請求，直到簽署者自己持有的《免費通行證書》被「續時」。屆時，顺道VPN將恢復受理晚來的、有限張數的、他簽署的《免費通行證書》的認證請求。
+任何一名簽署者可以簽署無限量張《免費通行證書》但是《免費通行證書》的「有效性」卻是受到了該簽署者的證書持有狀態限制的。**如果簽署者個人只持有已授權的《免費通行證書》**，按先到先得的原則，顺道VPN **只會認證其中兩（2）張他簽署的《免費通行證書》**。顺道VPN將不會再受理晚來的認證請求。換句話說，<i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN在認證完畢頭兩（2）張來訪請求認證的《免費通行證書》後就開始拒絕晚來的認證請求，直到簽署者自己持有的《免費通行證書》被「續時」。屆時，顺道VPN將恢復受理晚來的、有限張數的、他簽署的《免費通行證書》的認證請求。
 
 Any signer (referrer) can sign an unlimited number of FREE CERT but the “validity” of FREE CERT is constrained by the CERT holding status of the signer. If the **signer only holds a valid FREE CERT** at the time validation, <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN will **only validate two (2) of the FREE CERTs that he/she signs** on a first-come, first-served basis. <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN will not validate latecomers. In other words, <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN will deny further validation requests after validating the first and second requests until the signer of the FREE CERTs renews his/her own FREE CERT to MEMBER CERT. By then, <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN will resume accepting a limited number of the late-coming requests for validating FREE CERTs that he/she signs.
 
@@ -145,13 +145,13 @@ A signer (i.e. referrer) who holds a FREE CERT or an expired MEMBER CERT is not 
 - **360-DAY, its signer can  earn 100 pts**
 
 {: .box-warning}
-**基於情景的問答：** Alice 續時過三次30日《會員通行證書》，有效簽署配額等於 2+18x3 = 56張。但 Alice 推薦了給數百個 Citium 聯絡人使用順道VPN，幫他們全部人都簽署了《免費通行證書》，明顯超越了她的配額。雖然絕大部分她的受薦者都無法免費試用順道VPN，但竟然全部都續時《會員通行證書》了！這種情況下，Alice 還是否能拿到全部受薦者的續時後的獎勵積分呢？還是僅僅能拿到配額內那56張有效簽署續時獎勵積分呢？**正確答案**：後者正確。**Alice 只能拿到那56張有效簽署續時獎勵積分**。
+**基於情景的問答：** Alice 續時過三次30日《會員通行證書》，有效簽署配額等於 2+18x3 = 56張。但 Alice 推薦了給數百個 Citium 聯絡人使用<i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN，幫他們全部人都簽署了《免費通行證書》，明顯超越了她的配額。雖然絕大部分她的受薦者都無法免費試用<i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN，但竟然全部都續時《會員通行證書》了！這種情況下，Alice 還是否能拿到全部受薦者的續時後的獎勵積分呢？還是僅僅能拿到配額內那56張有效簽署續時獎勵積分呢？**正確答案**：後者正確。**Alice 只能拿到那56張有效簽署續時獎勵積分**。
 <br><br>
 **Scenario-based Q&A:** Alice has renewed to 30-DAY MEMBER CERT thrice. It means that Alice has a valid signing quota equals 2+18x3 = 56. But Alice refers <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN to several hundreds of her Citium Contacts. The responses are enthusiastic. They all ask her to sign their FREE CERTs and so she signs. Although most of them fail to enjoy free trials of <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN, all of them renew to MEMBER CERTs! In this situation, can Alice still earn all the redeemable points from all the renewal? Or she can only earn the redeemable points from those that are renewed from the 56 valid FREE CERTs? **Correct Answer**: It is the latter. **Alice earns points from those that are renewed from the 56 valid FREE CERTs only**.
 
 ### <i class="fa fa-bullhorn" aria-hidden="true"></i> 受薦者能享受<br>Referred Users Enjoy
 
-受薦者自己生成的《免費通行證書》，並征求得到了持有有效、未逾期《通行證書》的簽署者（推薦人）簽署其《免費通行證書》；然後，如果順道VPN成功認證該已簽署的《免費通行證書》，順道VPN就會授權受薦者**訪問連續5天和在有效期內每天最多500M流量的VPN服務**。總的來說，受薦者獲得免費試用順道VPN的機會，如果覺得好用並續時，推薦人（簽署者）更可以獲得獎勵積分。皆大歡喜！
+受薦者自己生成的《免費通行證書》，並征求得到了持有有效、未逾期《通行證書》的簽署者（推薦人）簽署其《免費通行證書》；然後，如果<i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN成功認證該已簽署的《免費通行證書》，<i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN就會授權受薦者**訪問連續5天和在有效期內每天最多500M流量的VPN服務**。總的來說，受薦者獲得免費試用<i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN的機會，如果覺得好用並續時，推薦人（簽署者）更可以獲得獎勵積分。皆大歡喜！
 
 <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN will authorize a referred user who has his/her FREE CERT successfully signed (i.e. referred by existing <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN user) and validated (i.e. recognized by <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN) to **access <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN service for five (5) consecutive days with 500M of traffic quota per day**. The gist of this referral program is to encourage existing <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN users to share the free trial of <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN with friends. If some of them decide to renew, the referrers (signers) can earn redeemable points. Everyone's happy!
 
@@ -162,13 +162,13 @@ A signer (i.e. referrer) who holds a FREE CERT or an expired MEMBER CERT is not 
 Download the Citium Client installer file and then install it on its compatible operating system.
 
 {: .box-warning}
-**防止被殺後台：** 由於移動終端的操作系統存在節能和運行內存回收機制，若後台同時運行進程較多，系統會自動將優先級較低的應用進行關閉（俗稱：「被殺後台」），騰出電源和內存以保證較後啟動的應用可以保持正常運行。為了讓你的西蒂姆(Citum)客戶端內的即時聊天工具及時收到信息與順道VPN《通行證書》的推薦人簽名，有兩個辦法供你選擇防止客戶端被殺後台：1、**撥亮位于 <i class='fa fa-cogs' style='color:blue'></i> 的順道VPN切換鍵使之呈橙色 <i class='fa fa-toggle-on' style='color:orange'></i> 或綠色  <i class='fa fa-toggle-on' style='color:green'></i>**；或 2、請在網上搜索一下你所用的手機型號該如何防止其應用 app 被殺後台，按其指示步驟操作將 Citium 客戶端應用 app 在後台運行。
+**防止被殺後台：** 由於移動終端的操作系統存在節能和運行內存回收機制，若後台同時運行進程較多，系統會自動將優先級較低的應用進行關閉（俗稱：「被殺後台」），騰出電源和內存以保證較後啟動的應用可以保持正常運行。為了讓你的西蒂姆(Citum)客戶端內的即時聊天工具及時收到信息與<i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN《通行證書》的推薦人簽名，有兩個辦法供你選擇防止客戶端被殺後台：1、**撥亮位于 <i class='fa fa-cogs' style='color:blue'></i> 的<i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN切換鍵使之呈橙色 <i class='fa fa-toggle-on' style='color:orange'></i> 或綠色  <i class='fa fa-toggle-on' style='color:green'></i>**；或 2、請在網上搜索一下你所用的手機型號該如何防止其應用 app 被殺後台，按其指示步驟操作將 Citium 客戶端應用 app 在後台運行。
 <br><br>
 **Keep App Running in the Background:** Operating systems of mobile devices have battery-saving and memory-recovery mechanisms. If a lot of background processes are running at the same time, the system will automatically shut down the lower priority applications to ensure ample battery life and memory capacity to enable the rest of the applications to run normally. In order for the instant messaging chat in the Citium Client to receive messages and the signing of <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN CERT (digital certificates) in a timely manner, you are highly suggested to choose to operate one of the options below: 1. **Turn on the toggle switch of <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN in <i class='fa fa-cogs' style='color:blue'></i> so that it shows color orange <i class='fa fa-toggle-on' style='color:orange'></i> or green <i class='fa fa-toggle-on' style='color:green'></i>**; or 2. Search your device model online to find out the steps to make its app running in the background. Follow the steps to make the Citium Client app run in the background.
 
 ### 1. <i class="fa fa-user-plus" aria-hidden="true"></i> 添加好友成為 CIM 聯絡人<br>Add Friend to Contacts
 
-找一名持有有效的（即，未逾期的）順道VPN《通行證書》的好友，例如 Alice。通過頻外密鑰驗證（OOBA）添加她成爲 Citium 即時聊天應用（CIM）<i class='fa fa-envelope-square' style='color:blue'></i> 中的聯絡人。
+找一名持有有效的（即，未逾期的）<i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN《通行證書》的好友，例如 Alice。通過頻外密鑰驗證（OOBA）添加她成爲 Citium 即時聊天應用（CIM）<i class='fa fa-envelope-square' style='color:blue'></i> 中的聯絡人。
 
 Find a friend (e.g. Alice) who holds a valid (i.e. unexpired) <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN CERT. Add Alice as your new Contact in your Citium Instant Messenger (CIM) <i class='fa fa-envelope-square' style='color:blue'></i> via out-of-band authentication.
 
@@ -180,13 +180,13 @@ Go to the <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN Settings pa
 
 ### 3. <i class='fa fa-rocket'></i> 開始使用順道VPN<br>Start Surfing on LubeVPN
 
-在「設定」<i class='fa fa-cogs' style='color:blue'></i>，撥亮順道VPN的切換鍵請求服務授權。如果授權成功，切換鍵轉成綠色 <i class='fa fa-toggle-on' style='color:green'></i>。
+在「設定」<i class='fa fa-cogs' style='color:blue'></i>，撥亮<i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN的切換鍵請求服務授權。如果授權成功，切換鍵轉成綠色 <i class='fa fa-toggle-on' style='color:green'></i>。
 
 In General Settings <i class='fa fa-cogs' style='color:blue'></i>, turn on the <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN toggle switch to request authorization to VPN service. Toggle switch turns to green <i class='fa fa-toggle-on' style='color:green'></i> if the authorization succeeds.
 
 ## <i class="fa fa-calendar-plus-o" aria-hidden="true"></i> 通行證書續時<br>CERT Renewal
 
-順道VPN N以现收现付的方式向付费会员提供VPN服务，以维护全球多个服务器。
+<i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN N以现收现付的方式向付费会员提供VPN服务，以维护全球多个服务器。
 
 <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN provided VPN service to paying members on a pay-as-you-go basis to maintain multiple servers around the world.
 
@@ -204,7 +204,7 @@ In General Settings <i class='fa fa-cogs' style='color:blue'></i>, turn on the <
  {: .box-success}
  **† 流量封頂（/30日）**：每個流量封頂越期不補：激活起每30天一個週期限流，用不完的流量不能補償到下一個週期。
 <br>
-**‡ 相當於流媒體（/30日）**：假設的大前提是順道VPN會員用戶只用於觀看 YouTube 標準制式的 480p 視頻，而這種制式的視頻約每小時消耗264 MB的順道VPN流量。那麼，如果會員按30日續時，則可以在每30日享用高達380小時；如果會員按180日續時，則可以在每30日享用高達417小時；如果會員按360日續時，則可以在每30日享用高達455小時。
+**‡ 相當於流媒體（/30日）**：假設的大前提是<i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN會員用戶只用於觀看 YouTube 標準制式的 480p 視頻，而這種制式的視頻約每小時消耗264 MB的<i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN流量。那麼，如果會員按30日續時，則可以在每30日享用高達380小時；如果會員按180日續時，則可以在每30日享用高達417小時；如果會員按360日續時，則可以在每30日享用高達455小時。
 
 ### <i class="fa fa-shopping-cart" aria-hidden="true"></i> 續時抵值形式<br>Payment Methods
 
