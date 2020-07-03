@@ -35,7 +35,7 @@ Citium Client app and its Instant Messenger (CIM) <i class='fa fa-envelope-squar
 3. He/she must holds a valid <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN CERT <i class='fa fa-certificate' style='color:green'></i>
 4. <i class='fa fa-gears' style='color:blue'></i> > <i class='fa fa-certificate' style='color:blue'></i> > <i class="fa fa-files-o" aria-hidden="true"></i>  Copy your FREE CERT <i class='fa fa-certificate'></i>
 5. <i class='fa fa-envelope-square' style='color:blue'></i> > <i class="fa fa-clipboard" aria-hidden="true"></i> Paste it to the Contact
-6. Ask him/her to sign your FREE CERT <i class='fa fa-certificate'></i>
+6. Wait for him/her to sign your FREE CERT <i class='fa fa-certificate'></i>
 7. <i class='fa fa-envelope-square' style='color:blue'></i> > <i class='fa fa-toggle-on' style='color:green'></i> Start the FREE Trial
 
 The signed FREE CERT <i class='fa fa-certificate' style='color:green'></i> functioning as a ticket/pass authorizes you to access a Free Trial of <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN. You can read [more detailed instructions](#-%E5%AE%89%E8%A3%9D%E8%88%87%E8%A9%A6%E7%94%A8installation--trial) at the end of this page.
