@@ -124,7 +124,7 @@ In General Settings <i class='fa fa-cogs' style='color:blue'></i>, turn on the <
 
 ## <i class="fa fa-calendar-plus-o" aria-hidden="true"></i> 通行證書續時<br>CERT Renewal
 
-<i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN N以现收现付的方式向付费会员提供VPN服务，以维护全球多个服务器。
+<i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN以现收现付的方式向付费会员提供VPN服务，以维护全球多个服务器。
 
 <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN provided VPN service to paying members on a pay-as-you-go basis to maintain multiple servers around the world.
 
