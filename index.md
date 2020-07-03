@@ -17,9 +17,9 @@ googlefonts: ["Roboto Condensed"]
 
 ### <i class="fa fa-globe" aria-hidden="true"></i> 繞過萬里網審<br>Censorship Circumvention
 
-基於[西蒂姆(Citum)](../citium_what_for)獨特設計的去中心化網絡身份及數據混淆技術，能讓《順道VPN》的用戶自由自在地上網。換句話說，因為《順道VPN》能繞過最嚴峻的網絡審查（**甚至是其他VPN服務商無法繞過的**），所以用戶能順暢地讀取和瀏覽任何受封鎖內容。		
+<i class='fa fa-rocket' style='color:GoldenRod'></i> 《順道VPN》是基於[西蒂姆(Citum)](../citium_what_for)建立的。西蒂姆的去中心化網絡身份及數據混淆技術能讓《順道VPN》的用戶匿名地、自由自在地上網。除此之外，<i class='fa fa-rocket' style='color:GoldenRod'></i>《順道VPN》能繞過最嚴峻的網絡審查（**甚至是其他VPN服務商無法繞過的**），所以其用戶能順暢無阻地讀取和瀏覽任何全世界任何一個受到互聯網審查的網站。		
 
-Uniquely designed decentralized network identity and data obfuscation technology based on [Citium](../citium_what_for) enable LubeVPN users to surf the Internet freely. In other words, LubeVPN can **circumvent the strictest Internet censorship that most other VPN service providers cannot circumvent** so that users can access and surf any blocked content smoothly.
+<i class='fa fa-rocket' style='color:GoldenRod'></i> LubeVPN is built on [Citium](../citium_what_for). Citium's decentralized network identity and data obfuscation technology enables <i class='fa fa-rocket' style='color:GoldenRod'></i> LubeVPN users to surf the Internet anonymously and freely. Moreover, LubeVPN can **circumvent the strictest Internet censorship that most other VPN service providers cannot circumvent** so that users can access and surf any blocked content smoothly.
 
 #### <i class="fa fa-thumb-tack" aria-hidden="true"></i> 傳統VPN翻墙的疼點<br>Pain Point of Conventional VPN
 
