@@ -10,7 +10,7 @@ googlefonts: ["Roboto Condensed"]
 
 <a href="https://www.unicorn001.tk/uploads/citium.apk"><i class="fa fa-download" aria-hidden="true"></i> 下載西蒂姆(Citum)安卓客戶端 APK 安裝包</a>
 
-{: .box-success}
+{: .box-note}
 如何在西蒂姆(Citum)客戶端App內找到<i class='fa fa-rocket' style='color:DimGrey'></i> 顺道VPN「在線客服」的界面？<br>
 <i class='fa fa-gears' style='color:blue'></i> > <i class='fa fa-certificate' style='color:blue'></i> > <i class='fa fa-question-circle' style='color:blue'></i> > <i class='fa fa-comments-o' style='color:blue'></i>
 
@@ -18,7 +18,7 @@ googlefonts: ["Roboto Condensed"]
 
 <a href="https://www.unicorn001.tk/uploads/citium.apk"><i class="fa fa-download" aria-hidden="true"></i> Download Client Android Client APK Installer</a>
 
-{: .box-success}
+{: .box-note}
 How to reach the interface of LIVE CHAT in the Citium Client app?<br>
 <i class='fa fa-gears' style='color:blue'></i> > <i class='fa fa-certificate' style='color:blue'></i> > <i class='fa fa-question-circle' style='color:blue'></i> > <i class='fa fa-comments-o' style='color:blue'></i>
 
