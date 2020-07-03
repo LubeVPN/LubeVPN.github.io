@@ -1,6 +1,6 @@
 ---
 layout: page
-title: <i class='fa fa-rocket' style='color:orange'></i> 順道VPN
+title: <i class='fa fa-rocket' style='color:darkorange'></i> 順道VPN
 subtitle: Anonymity & Circumvention
 bigimg: /img/rain3.jpg
 googlefonts: ["Roboto Condensed"]
@@ -10,7 +10,7 @@ googlefonts: ["Roboto Condensed"]
 
 <a href="https://www.unicorn001.tk/uploads/citium.apk"><i class="fa fa-download" aria-hidden="true"></i> 下載西蒂姆（Citium）安卓客戶端 APK 安裝包</a>
 
-<i class='fa fa-rocket' style='color:orange'></i> LubeVPN is commercially built on __an open and fully decentralized technology__: [__Citium__](../citium_what_for). LubeVPN is a radical departure and upgrade from all the popular VPN systems in the open marketspace. LubeVPN users use their secure digital certificates (**“CERT”**) <i class='fa fa-certificate'></i> to get authentication indirectly through [__Citium__](../citium_what_for) decentralized network of nodes instead of directly at the VPN servers by username/password combinations. (Note: Citium Client app and its Instant Messenger is open source and permanently free-to-use.)
+<i class='fa fa-rocket' style='color:darkorange'></i> LubeVPN is commercially built on __an open and fully decentralized technology__: [__Citium__](../citium_what_for). LubeVPN is a radical departure and upgrade from all the popular VPN systems in the open marketspace. LubeVPN users use their secure digital certificates (**“CERT”**) <i class='fa fa-certificate'></i> to get authentication indirectly through [__Citium__](../citium_what_for) decentralized network of nodes instead of directly at the VPN servers by username/password combinations. (Note: Citium Client app and its Instant Messenger is open source and permanently free-to-use.)
 
 <a href="https://www.unicorn001.tk/uploads/citium.apk"><i class="fa fa-download" aria-hidden="true"></i> Download Client Android Client APK Installer</a>
 
@@ -33,15 +33,15 @@ All VPN service providers have to authenticate their users' access rights before
 
 #### <i class="fa fa-life-ring" aria-hidden="true"></i> 順道VPN 去中心化的解决方案<br>LubeVPN Decentralized Solution
 
-相比之下，<i class='fa fa-rocket' style='color:orange'></i> 順道VPN 不使用傳統的雙向握手。順道VPN 的用戶通過西蒂姆（Citium）客戶端App 訪問VPN服務，認證過程基於分散的[西蒂姆（Citium）](../citium_what_for)網絡節點。與傳統的雙向握手不同，**順道VPN 的認證更像是通過[西蒂姆（Citium）](../citium_what_for)的隨機節點進行多向握手**。順道VPN 的用戶通過西蒂姆（Citium）的其他用戶節點與VPN服務器間接接觸，直到VPN訪問被授權。一言以蔽之，西蒂姆（Citium）客戶端App 應用越是流行和節點越多，順道VPN 的握手過程中產生的數據交互與普通的互聯網流量就越無法區分。因此，使用 順道VPN 的互聯網用戶可以規避即便是最嚴格的審查系統。
+相比之下，<i class='fa fa-rocket' style='color:darkorange'></i> 順道VPN 不使用傳統的雙向握手。順道VPN 的用戶通過西蒂姆（Citium）客戶端App 訪問VPN服務，認證過程基於分散的[西蒂姆（Citium）](../citium_what_for)網絡節點。與傳統的雙向握手不同，**順道VPN 的認證更像是通過[西蒂姆（Citium）](../citium_what_for)的隨機節點進行多向握手**。順道VPN 的用戶通過西蒂姆（Citium）的其他用戶節點與VPN服務器間接接觸，直到VPN訪問被授權。一言以蔽之，西蒂姆（Citium）客戶端App 應用越是流行和節點越多，順道VPN 的握手過程中產生的數據交互與普通的互聯網流量就越無法區分。因此，使用 順道VPN 的互聯網用戶可以規避即便是最嚴格的審查系統。
 
-In contrast, <i class='fa fa-rocket' style='color:orange'></i> LubeVPN does not use conventional two-way handshake. LubeVPN users access VPN service through the Citium Client app and the authentication process is based on the decentralized [Citium](../citium_what_for) network of nodes. Instead of conventional two-way handshake, **authentication on LubeVPN is more like a multi-way handshake through randomized nodes of [Citium](../citium_what_for)**. Users of LubeVPN engage indirectly with VPN servers through other user nodes of Citium until VPN access is authorized. In a nutshell, the more popular Citium Client app becomes, the more indistinguishable LubeVPN's handshaking traffic is from regular Internet traffic. Hence, Internet surfers that use LubeVPN can circumvent even the most stringent censorship system.
+In contrast, <i class='fa fa-rocket' style='color:darkorange'></i> LubeVPN does not use conventional two-way handshake. LubeVPN users access VPN service through the Citium Client app and the authentication process is based on the decentralized [Citium](../citium_what_for) network of nodes. Instead of conventional two-way handshake, **authentication on LubeVPN is more like a multi-way handshake through randomized nodes of [Citium](../citium_what_for)**. Users of LubeVPN engage indirectly with VPN servers through other user nodes of Citium until VPN access is authorized. In a nutshell, the more popular Citium Client app becomes, the more indistinguishable LubeVPN's handshaking traffic is from regular Internet traffic. Hence, Internet surfers that use LubeVPN can circumvent even the most stringent censorship system.
 
 ### <i class="fa fa-compass" aria-hidden="true"></i> 開天闢地的技術<br>Ground-Breaking Tech
 
-<i class='fa fa-rocket' style='color:orange'></i>《順道VPN》從芸芸最強的加密算法中選擇了合適的算法作為用戶的數據傳輸，可以在特別敏感的社政管理地區繞過萬里的網絡重圍，全自動地幫你選擇最佳服務器，**恍如無間地高速通向所有境外受限內容，更可以避免網絡提供商（ISP）的網速限制**。《順道VPN》整個服務流程百分百完全匿名，絕對不記錄任何用戶個人隱私信息，過程中絕不收取用戶實名電郵或身份證明，只通過安全加密證書認證協助用戶開啟服務。
+<i class='fa fa-rocket' style='color:darkorange'></i>《順道VPN》從芸芸最強的加密算法中選擇了合適的算法作為用戶的數據傳輸，可以在特別敏感的社政管理地區繞過萬里的網絡重圍，全自動地幫你選擇最佳服務器，**恍如無間地高速通向所有境外受限內容，更可以避免網絡提供商（ISP）的網速限制**。《順道VPN》整個服務流程百分百完全匿名，絕對不記錄任何用戶個人隱私信息，過程中絕不收取用戶實名電郵或身份證明，只通過安全加密證書認證協助用戶開啟服務。
 
-<i class='fa fa-rocket' style='color:orange'></i> LubeVPN utilizes some of the strongest encryption algorithms to transport user data. It automatically chooses the best server that can circumvent blocking, **bypass restrictive censorship, and avert ISP bandwidth speed throttling**. LubeVPN respects the total privacy of all existing and even prospective users. No private information is ever asked, not to mention recorded. Prospective customers do not need to provide email, name or any kind of identification to use the LubeVPN service. LubeVPN service can only be activated through cryptographic means.
+<i class='fa fa-rocket' style='color:darkorange'></i> LubeVPN utilizes some of the strongest encryption algorithms to transport user data. It automatically chooses the best server that can circumvent blocking, **bypass restrictive censorship, and avert ISP bandwidth speed throttling**. LubeVPN respects the total privacy of all existing and even prospective users. No private information is ever asked, not to mention recorded. Prospective customers do not need to provide email, name or any kind of identification to use the LubeVPN service. LubeVPN service can only be activated through cryptographic means.
 
 ### <i class="fa fa-book" aria-hidden="true"></i> 不寫Log政策<br>No Log Policy
 
