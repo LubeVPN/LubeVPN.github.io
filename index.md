@@ -14,11 +14,11 @@ Citium客戶端App和其即時聊天工具(CIM) <i class='fa fa-envelope-square'
 {: .myDownloadButton}
 
 1. 下載、安裝、開啟 Citium 客戶端應用 app
-2. <i class='fa fa-envelope-square' style='color:blue'></i> F> <i class="fa fa-user-plus" style='color:blue'></i> 加一位 CIM 聯絡人 <i class='fa fa-user' style='color:yellow'></i>
-- <i class='fa fa-user' style='color:yellow'></i> 必須持有有效通行證書 <i class='fa fa-certificate' style='color:green'></i> †
+2. <i class='fa fa-envelope-square' style='color:blue'></i> F> <i class="fa fa-user-plus" style='color:blue'></i> 加一位 CIM 聯絡人 <i class='fa fa-user' style='color:purple'></i>
+- <i class='fa fa-user' style='color:purple'></i> 必須持有有效通行證書 <i class='fa fa-certificate' style='color:green'></i> †
 3. <i class='fa fa-gears' style='color:blue'></i> > <i class='fa fa-certificate' style='color:blue'></i> > <i class='fa fa-files-o' style='color:blue'></i> 複製你的《免費通行證書》<i class='fa fa-certificate'></i>
-4. <i class='fa fa-envelope-square' style='color:blue'></i> > <i class='fa fa-clipboard' style='color:blue'></i> 黏貼給聯絡人 <i class='fa fa-user' style='color:yellow'></i>
-5. 等 <i class='fa fa-user' style='color:yellow'></i> 簽署您的《免費通行證書》 <i class='fa fa-certificate'></i>
+4. <i class='fa fa-envelope-square' style='color:blue'></i> > <i class='fa fa-clipboard' style='color:blue'></i> 黏貼給聯絡人 <i class='fa fa-user' style='color:purple'></i>
+5. 等 <i class='fa fa-user' style='color:purple'></i> 簽署您的《免費通行證書》 <i class='fa fa-certificate'></i>
 6. <i class='fa fa-envelope-square' style='color:blue'></i> > <i class='fa fa-toggle-on' style='color:green'></i> 撥亮切換鍵開始試用！
 
 {: .box-note}
@@ -33,11 +33,11 @@ Citium Client app and its Instant Messenger (CIM) <i class='fa fa-envelope-squar
 {: .myDownloadButton}
 
 1. Download, install & open Citium Client app
-2. <i class='fa fa-envelope-square' style='color:blue'></i> > <i class="fa fa-user-plus" style='color:blue'></i> Add a CIM Contact <i class='fa fa-user' style='color:yellow'></i>
-- <i class='fa fa-user' style='color:yellow'></i> must holds a valid CERT <i class='fa fa-certificate' style='color:green'></i> †
+2. <i class='fa fa-envelope-square' style='color:blue'></i> > <i class="fa fa-user-plus" style='color:blue'></i> Add a CIM Contact <i class='fa fa-user' style='color:purple'></i>
+- <i class='fa fa-user' style='color:purple'></i> must holds a valid CERT <i class='fa fa-certificate' style='color:green'></i> †
 3. <i class='fa fa-gears' style='color:blue'></i> > <i class='fa fa-certificate' style='color:blue'></i> > <i class='fa fa-files-o' style='color:blue'></i>  Copy your FREE CERT <i class='fa fa-certificate'></i>
-4. <i class='fa fa-envelope-square' style='color:blue'></i> > <i class='fa fa-clipboard' style='color:blue'></i> Paste it to the Contact
-5. Wait for <i class='fa fa-user' style='color:yellow'></i> to sign your FREE CERT <i class='fa fa-certificate'></i>
+4. <i class='fa fa-envelope-square' style='color:blue'></i> > <i class='fa fa-clipboard' style='color:blue'></i> Paste it to the Contact <i class='fa fa-user' style='color:purple'></i>
+5. Wait for <i class='fa fa-user' style='color:purple'></i> to sign your FREE CERT <i class='fa fa-certificate'></i>
 6. <i class='fa fa-envelope-square' style='color:blue'></i> > <i class='fa fa-toggle-on' style='color:green'></i> Turn ON toggle to start FREE Trial!
 
 {: .box-note}
