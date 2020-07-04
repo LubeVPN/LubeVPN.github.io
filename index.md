@@ -13,7 +13,7 @@ googlefonts: ["Roboto Condensed"]
 <a href="https://www.unicorn001.tk/uploads/citium.apk"><i class="fa fa-download" aria-hidden="true"></i> 下載 西蒂姆(Citum)客戶端 安卓APK</a>
 {: .myDownloadButton}
 
-1. 下載、安裝、開啟 Citium 客戶端應用 app
+1. 下載、安裝、開啟西蒂姆(Citium)客戶端
 2. <i class='fa fa-envelope-square' style='color:blue'></i> > <i class="fa fa-user-plus" style='color:blue'></i> 加一位 CIM 聯絡人 <i class='fa fa-user' style='color:purple'></i>
 - <i class='fa fa-user' style='color:purple'></i> 必須持有有效通行證書 <i class='fa fa-certificate' style='color:green'></i> †
 3. <i class='fa fa-cogs' style='color:blue'></i> > <i class='fa fa-certificate' style='color:blue'></i> > <i class='fa fa-files-o' style='color:blue'></i> 複製你的《免費通行證書》<i class='fa fa-certificate' style='color:chocolate'></i>
@@ -32,7 +32,7 @@ Citium Client app and its Instant Messenger (CIM) <i class='fa fa-envelope-squar
 <a href="https://www.unicorn001.tk/uploads/citium.apk"><i class="fa fa-download" aria-hidden="true"></i> Download Citium Client Android APK</a>
 {: .myDownloadButton}
 
-1. Download, install & open Citium Client app
+1. Download, install & open Citium Client
 2. <i class='fa fa-envelope-square' style='color:blue'></i> > <i class="fa fa-user-plus" style='color:blue'></i> Add a CIM Contact <i class='fa fa-user' style='color:purple'></i>
 - <i class='fa fa-user' style='color:purple'></i> must holds a valid CERT <i class='fa fa-certificate' style='color:green'></i> †
 3. <i class='fa fa-cogs' style='color:blue'></i> > <i class='fa fa-certificate' style='color:blue'></i> > <i class='fa fa-files-o' style='color:blue'></i> Copy your FREE CERT <i class='fa fa-certificate' style='color:chocolate'></i>
