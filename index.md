@@ -16,14 +16,14 @@ Citium客戶端App和其即時聊天工具(CIM) <i class='fa fa-envelope-square'
 1. 下載、安裝、開啟 Citium 客戶端應用 app
 2. <i class='fa fa-envelope-square' style='color:blue'></i> F> <i class="fa fa-user-plus" style='color:blue'></i> 加一位 CIM 聯絡人 <i class='fa fa-user' style='color:purple'></i>
 - <i class='fa fa-user' style='color:purple'></i> 必須持有有效通行證書 <i class='fa fa-certificate' style='color:green'></i> †
-3. <i class='fa fa-gears' style='color:blue'></i> > <i class='fa fa-certificate' style='color:blue'></i> > <i class='fa fa-files-o' style='color:blue'></i> 複製你的《免費通行證書》<i class='fa fa-certificate'></i>
+3. <i class='fa fa-gears' style='color:blue'></i> > <i class='fa fa-certificate' style='color:blue'></i> > <i class='fa fa-files-o' style='color:blue'></i> 複製你的《免費通行證書》<i class='fa fa-certificate' style='color:chocolate'></i>
 4. <i class='fa fa-envelope-square' style='color:blue'></i> > <i class='fa fa-clipboard' style='color:blue'></i> 黏貼給聯絡人 <i class='fa fa-user' style='color:purple'></i>
-5. 等 <i class='fa fa-user' style='color:purple'></i> 簽署您的《免費通行證書》 <i class='fa fa-certificate'></i>
+5. 等 <i class='fa fa-user' style='color:purple'></i> 簽署您的《免費通行證書》 <i class='fa fa-certificate' style='color:chocolate'></i>
 6. <i class='fa fa-envelope-square' style='color:blue'></i> > <i class='fa fa-toggle-on' style='color:green'></i> 撥亮切換鍵開始試用！
 
 {: .box-note}
 † **有效通行證書** <i class='fa fa-certificate' style='color:green'></i> 是已簽署的和未過期的《通行證書》。它好比一張入場券能授權持有人使用 <i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN服務。參閱[更詳盡說明](#-%E5%AE%89%E8%A3%9D%E8%88%87%E8%A9%A6%E7%94%A8installation--trial)。<br>
-**有效通行證書** <i class='fa fa-certificate' style='color:green'></i> 更可以讓持有者簽署其西蒂姆即時聊天工具上其他聯絡人的《免費通行證書》；假如他們試用服務後決定成為續時抵值會員，簽署者更可以賺取獎勵積分！參閱[推薦人計劃](../referral)。
+**有效通行證書** <i class='fa fa-certificate' style='color:green'></i> 更可以讓持有者簽署其西蒂姆即時聊天工具上其他聯絡人的《免費通行證書》<i class='fa fa-certificate' style='color:chocolate'></i>；假如他們試用服務後決定成為續時抵值會員，簽署者更可以賺取獎勵積分！參閱[推薦人計劃](../referral)。
 
 <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN is commercially built on __an open and fully decentralized technology__: [__Citium__](../citium_what_for). It is a radical departure and upgrade from all the popular VPN systems in the open marketspace, instantiating a new type of VPN service. Users authenticate indirectly through [__Citium__](../citium_what_for) decentralized network of nodes using their secure digital certificates (**“CERT”**) <i class='fa fa-certificate'></i> instead of directly through the VPN servers using username/password combinations.
 
@@ -35,9 +35,9 @@ Citium Client app and its Instant Messenger (CIM) <i class='fa fa-envelope-squar
 1. Download, install & open Citium Client app
 2. <i class='fa fa-envelope-square' style='color:blue'></i> > <i class="fa fa-user-plus" style='color:blue'></i> Add a CIM Contact <i class='fa fa-user' style='color:purple'></i>
 - <i class='fa fa-user' style='color:purple'></i> must holds a valid CERT <i class='fa fa-certificate' style='color:green'></i> †
-3. <i class='fa fa-gears' style='color:blue'></i> > <i class='fa fa-certificate' style='color:blue'></i> > <i class='fa fa-files-o' style='color:blue'></i>  Copy your FREE CERT <i class='fa fa-certificate'></i>
+3. <i class='fa fa-gears' style='color:blue'></i> > <i class='fa fa-certificate' style='color:blue'></i> > <i class='fa fa-files-o' style='color:blue'></i> Copy your FREE CERT <i class='fa fa-certificate' style='color:chocolate'></i>
 4. <i class='fa fa-envelope-square' style='color:blue'></i> > <i class='fa fa-clipboard' style='color:blue'></i> Paste it to the Contact <i class='fa fa-user' style='color:purple'></i>
-5. Wait for <i class='fa fa-user' style='color:purple'></i> to sign your FREE CERT <i class='fa fa-certificate'></i>
+5. Wait for <i class='fa fa-user' style='color:purple'></i> to sign your FREE CERT <i class='fa fa-certificate' style='color:chocolate'></i>
 6. <i class='fa fa-envelope-square' style='color:blue'></i> > <i class='fa fa-toggle-on' style='color:green'></i> Turn on toggle to start FREE Trial!
 
 {: .box-note}
@@ -80,7 +80,7 @@ Lube VPN does not record network routing information, such as originating IP and
 
 ## <i class="fa fa-shield" aria-hidden="true"></i> 用戶信息安全<br>User InfoSec
 
-傳統用戶管理系統依賴中央化服務器的關系型數據庫記錄用戶註冊、推薦人與受薦人之間的關系，安全和匿名程度都比較低。反觀，<i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN的用戶登記和推薦系統是通過數字簽名和數字證書以P2P的形式來綁定的。更具體來說，<i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN不單不記錄任何用戶信息，就連推薦系統都用了推薦人的獨特數字簽名和受薦人持有的簽名數字證書（即，已簽署的《免費通行證書》）來安全地、隐蔽地綁定彼此的關系， **不會被記錄在任何第三方關係型數據庫上，有效地防範用戶個人數據洩露與關聯性信息分析於未然**。
+傳統用戶管理系統依賴中央化服務器的關系型數據庫記錄用戶註冊、推薦人與受薦人之間的關系，安全和匿名程度都比較低。反觀，<i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN的用戶登記和推薦系統是通過數字簽名和數字證書以P2P的形式來綁定的。更具體來說，<i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN不單不記錄任何用戶信息，就連推薦系統都用了推薦人的獨特數字簽名和受薦人持有的簽名數字證書（即，已簽署的《免費通行證書》來安全地、隐蔽地綁定彼此的關系， **不會被記錄在任何第三方關係型數據庫上，有效地防範用戶個人數據洩露與關聯性信息分析於未然**。
 
 Traditional user management systems rely on relational databases on centralized servers to record user registrations and the referral relationships. That regime is prone to security and privacy breach. In contrast, <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN's referral relationships are recorded by securely and privately binding digital signatures and their signed certificates in a peer-to-peer fashion. More specifically, <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN does not ask for or record any user information. A referral relationship in <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN is securely bound based on the unique digital signature of the referrer and the signed digital certificate (i.e. signed FREE CERT) held by the referred user, **not recorded in any third-party party relational database, effectively preempting user data breach and link analysis**.
 
