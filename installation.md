@@ -8,12 +8,13 @@ googlefonts: ["Roboto Condensed"]
 
 下載 Citium 客戶端的安裝文件，並安裝上其適配的操作系統上。
 
+<a href="https://www.unicorn001.tk/uploads/citium.apk"><i class="fa fa-download" aria-hidden="true"></i> 下載 西蒂姆(Citum)客戶端 安卓APK</a>
+{: .myDownloadButton}
+
 Download the Citium Client installer file and then install it on its compatible operating system.
 
-{: .box-warning}
-**防止被殺後台：** 由於移動終端的操作系統存在節能和運行內存回收機制，若後台同時運行進程較多，系統會自動將優先級較低的應用進行關閉（俗稱：「被殺後台」），騰出電源和內存以保證較後啟動的應用可以保持正常運行。為了讓你的西蒂姆(Citum)客戶端內的即時聊天工具及時收到信息與<i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN《通行證書》的推薦人簽名，有兩個辦法供你選擇防止客戶端被殺後台：1、**撥亮位于 <i class='fa fa-cogs' style='color:blue'></i> 的<i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN切換鍵使之呈橙色 <i class='fa fa-toggle-on' style='color:#ff6d12'></i> 或綠色  <i class='fa fa-toggle-on' style='color:green'></i>**；或 2、請在網上搜索一下你所用的手機型號該如何防止其應用 app 被殺後台，按其指示步驟操作將 Citium 客戶端應用 app 在後台運行。
-<br><br>
-**Keep App Running in the Background:** Operating systems of mobile devices have battery-saving and memory-recovery mechanisms. If a lot of background processes are running at the same time, the system will automatically shut down the lower priority applications to ensure ample battery life and memory capacity to enable the rest of the applications to run normally. In order for the instant messaging chat in the Citium Client to receive messages and the signing of <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN CERT (digital certificates) in a timely manner, you are highly suggested to choose to operate one of the options below: 1. **Turn on the toggle switch of <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN in <i class='fa fa-cogs' style='color:blue'></i> so that it shows color orange <i class='fa fa-toggle-on' style='color:#ff6d12'></i> or green <i class='fa fa-toggle-on' style='color:green'></i>**; or 2. Search your device model online to find out the steps to make its app running in the background. Follow the steps to make the Citium Client app run in the background.
+<a href="https://www.unicorn001.tk/uploads/citium.apk"><i class="fa fa-download" aria-hidden="true"></i> Download Citium Client Android APK</a>
+{: .myDownloadButton}
 
 ### 1. <i class="fa fa-user-plus" aria-hidden="true"></i> 添加好友成為 CIM 聯絡人<br>Add Friend to Contacts
 
@@ -32,3 +33,8 @@ Go to the Certificate page  <i class='fa fa-certificate' style='color:blue'></i>
 在「設定」<i class='fa fa-cogs' style='color:blue'></i>，撥亮<i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN的切換鍵請求服務授權。如果授權成功，切換鍵轉成綠色 <i class='fa fa-toggle-on' style='color:green'></i>。
 
 In General Settings <i class='fa fa-cogs' style='color:blue'></i>, turn on the <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN toggle switch to request authorization to VPN service. Toggle switch turns to green <i class='fa fa-toggle-on' style='color:green'></i> if the authorization succeeds.
+
+{: .box-warning}
+**防止被殺後台：** 由於移動終端的操作系統存在節能和運行內存回收機制，若後台同時運行進程較多，系統會自動將優先級較低的應用進行關閉（俗稱：「被殺後台」），騰出電源和內存以保證較後啟動的應用可以保持正常運行。為了讓你的西蒂姆(Citum)客戶端內的即時聊天工具及時收到信息與<i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN《通行證書》的推薦人簽名，有兩個辦法供你選擇防止客戶端被殺後台：1、**撥亮位于 <i class='fa fa-cogs' style='color:blue'></i> 的<i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN切換鍵使之呈橙色 <i class='fa fa-toggle-on' style='color:#ff6d12'></i> 或綠色  <i class='fa fa-toggle-on' style='color:green'></i>**；或 2、請在網上搜索一下你所用的手機型號該如何防止其應用 app 被殺後台，按其指示步驟操作將 Citium 客戶端應用 app 在後台運行。
+<br><br>
+**Keep App Running in the Background:** Operating systems of mobile devices have battery-saving and memory-recovery mechanisms. If a lot of background processes are running at the same time, the system will automatically shut down the lower priority applications to ensure ample battery life and memory capacity to enable the rest of the applications to run normally. In order for the instant messaging chat in the Citium Client to receive messages and the signing of <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN CERT (digital certificates) in a timely manner, you are highly suggested to choose to operate one of the options below: 1. **Turn on the toggle switch of <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN in <i class='fa fa-cogs' style='color:blue'></i> so that it shows color orange <i class='fa fa-toggle-on' style='color:#ff6d12'></i> or green <i class='fa fa-toggle-on' style='color:green'></i>**; or 2. Search your device model online to find out the steps to make its app running in the background. Follow the steps to make the Citium Client app run in the background.
