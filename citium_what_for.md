@@ -11,7 +11,7 @@ googlefonts: ["Roboto Condensed"]
 傳統來說，為了方便用戶使用密碼系統，折衷起見，中心化的系統的「權益持份者」(stakeholders)持有用戶的賬戶ID、密碼和個人信息授權訪問和服務。但往往這些折衷都會引致無可挽回的副作用，例如數據洩露、強迫和勒索攻擊。反之，西蒂姆(Citum)設計者對密碼系統有極高的要求，作出了兩個悲觀但嚴謹的設計前設：
 
 1. **密碼系統中的任何「權益持份者」（用戶節點或服務節點）本質都邪惡和容易犯錯；**
-2. **「權益持份者」持有的任何權利和權力都可能對某些其他密碼系統參與者者生壞影響。**
+2. **「權益持份者」可能持有的任何權利和權力都將會對負面影響某些其他系統參與者。**
 
 幸運的是，現代密碼學技術賦予了設計者空間創造更優質的密碼系統：既可以剝奪這些傳統常規的權利和權力，同時不影響密碼系統的整體可用性！西蒂姆(Citum)充分利用了這些久經考驗的技術，創製了一個免費的、開源代碼的、完全去中心化的、[無需准入許可的區塊鏈系統](https://en.wikipedia.org/wiki/Blockchain#Permissionless)，並採用了密碼學上堅不可摧的信息安全機制，例如 __混合加密系統__、__門限加密系統__、__無差別網樹多點傳送__（IMTM） 和 __分身馬甲帳號__。西蒂姆(Citum)當前的版本能兼容 __文字__、__音像__、__視像__ 和 __即時音訊__ 的數據。使用西蒂姆(Citum)建造的去中心化應用程序（dApp）能享有非凡的數據安全功能，例如 __可推诿性__，非常適合用於建造 **[OTS無記錄通訊](https://en.wikipedia.org/wiki/Off-the-Record_Messaging)即時通訊系統**（OTS-IMS）。
 
@@ -20,7 +20,7 @@ It is fallacious thinking to appeal to novelty and centralized authority. But un
 Conventionally, compromising with usability, centralized stakeholders of a cryptosystem hold users' account ID, password, and personal information to authorize access and service, which may all lead to irreparable blowback, such as data breaches, coercion and blackmail attacks. In contrast, cryptosystem designers of Citium propose two pessimistic yet stringent design premises:
 
 1. **any single stakeholder (i.e. user node & service node) in a cryptosystem is evil by nature and fallible;**
-2. **whatever rights and power a stakeholder holds may adversely affect some participants in the cryptosystem.**
+2. **whatever rights and power stakeholders may hold will adversely affect some other system participants.**
 
 Luckily, modern cryptography technologies enable designers to create better cryptosystem: mutilating these rights and power while retaining the overall usability of cryptosystems! Citium take full advantage of these time-tested proven technologies to create a free, open-source, fully decentralized, [permissionless blockchain](https://en.wikipedia.org/wiki/Blockchain#Permissionless) that features [cryptanalytically unbreakable](https://en.wikipedia.org/wiki/Information-theoretic_security) cryptosystems and InfoSec mechanisms,  such as [**Hybrid Cryptosystem**](https://en.wikipedia.org/wiki/Hybrid_cryptosystem), [threshold cryptosystem](https://en.wikipedia.org/wiki/Threshold_cryptosystem), **indiscriminate mesh-tree multicast** (IMTM), and **sockpuppetry**. Citium's current build is capable of serving **text**, **image**, **video** and **real-time voice** data. Decentralized Apps (dApps) built on Citium can enjoy extraordinary data security features, such as **deniability**, which is well-suited to build [**Off-the-Record Messaging (OTR)**](https://en.wikipedia.org/wiki/Off-the-Record_Messaging) **Instant Messenger System**.
 
