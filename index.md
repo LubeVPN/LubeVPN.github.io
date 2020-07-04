@@ -14,8 +14,11 @@ googlefonts: ["Roboto Condensed"]
 
 西蒂姆(Citium)客戶端App和其內置的即時聊天工具(CIM) <i class='fa fa-envelope-square' style='color:blue'></i> 對所有人開源及永久免費使用。
 
-<a href="https://www.unicorn001.tk/uploads/citium.apk"><i class="fa fa-download" aria-hidden="true"></i> 下載 西蒂姆(Citum)客戶端 安卓APK</a>
+Citium Client app and its Instant Messenger (CIM) <i class='fa fa-envelope-square' style='color:blue'></i> is open-source and permanently free-to-use for everyone.
+
+<a href="https://www.unicorn001.tk/uploads/citium.apk"><i class="fa fa-download" aria-hidden="true"></i> 下載 西蒂姆(Citum)客戶端 安卓APK</a><br><a href="https://www.unicorn001.tk/uploads/citium.apk"><i class="fa fa-download" aria-hidden="true"></i> Download Citium Client Android APK</a>
 {: .myDownloadButton}
+
 
 1. 下載、安裝、開啟西蒂姆(Citium)客戶端
 2. <i class='fa fa-envelope-square' style='color:blue'></i> > <i class="fa fa-user-plus" style='color:blue'></i> 加一位 CIM 聯絡人 <i class='fa fa-user' style='color:purple'></i>
@@ -28,11 +31,6 @@ googlefonts: ["Roboto Condensed"]
 {: .box-note}
 † **有效通行證書** <i class='fa fa-certificate' style='color:green'></i> 是已簽署的和未過期的《通行證書》。它好比一張入場券能授權持有人使用 <i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN服務。參閱[安裝試用](../installation)。<br>
 **有效通行證書** <i class='fa fa-certificate' style='color:green'></i> 更可以讓持有者簽署其西蒂姆即時聊天工具上其他聯絡人的《免費通行證書》<i class='fa fa-certificate' style='color:chocolate'></i>；假如他們試用服務後決定成為續時抵值會員，簽署者更可以賺取獎勵積分！參閱[推薦人計劃](../referral)。
-
-Citium Client app and its Instant Messenger (CIM) <i class='fa fa-envelope-square' style='color:blue'></i> is open-source and permanently free-to-use for everyone.
-
-<a href="https://www.unicorn001.tk/uploads/citium.apk"><i class="fa fa-download" aria-hidden="true"></i> Download Citium Client Android APK</a>
-{: .myDownloadButton}
 
 1. Download, install & open Citium Client
 2. <i class='fa fa-envelope-square' style='color:blue'></i> > <i class="fa fa-user-plus" style='color:blue'></i> Add a CIM Contact <i class='fa fa-user' style='color:purple'></i>

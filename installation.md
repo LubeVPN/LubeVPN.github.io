@@ -8,10 +8,10 @@ googlefonts: ["Roboto Condensed"]
 
 下載 Citium 客戶端的安裝文件，並安裝上其適配的操作系統上。
 
+Download the Citium Client installer file and then install it on its compatible operating system.
+
 <a href="https://www.unicorn001.tk/uploads/citium.apk"><i class="fa fa-download" aria-hidden="true"></i> 下載 西蒂姆(Citum)客戶端 安卓APK</a><br><a href="https://www.unicorn001.tk/uploads/citium.apk"><i class="fa fa-download" aria-hidden="true"></i> Download Citium Client Android APK</a>
 {: .myDownloadButton}
-
-Download the Citium Client installer file and then install it on its compatible operating system.
 
 ### 1. <i class="fa fa-user-plus" aria-hidden="true"></i> 添加好友成為 CIM 聯絡人<br>Add Friend to Contacts
 
