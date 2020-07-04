@@ -8,6 +8,10 @@ googlefonts: ["Roboto Condensed"]
 
 <i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN是**基於開源及完全去中心化**的[__西蒂姆(Citum)__](../citium_what_for)開發的互聯網隱私及信息加速商業服務應用。它把坊間流行的VPN系統作出了比較重大的改良和升級，實現了一种新型的VPN服务。用戶以安全數碼證書（**“通行證書”**）<i class='fa fa-certificate'></i> 間接地通過[西蒂姆(Citum)](../citium_what_for)的去中心化網絡節點獲取用戶身份認證，而不是使用用戶名及密碼組合在VPN服務器上直接進行認證。
 
+<i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN is commercially built on __an open and fully decentralized technology__: [__Citium__](../citium_what_for). It is a radical departure and upgrade from all the popular VPN systems in the open marketspace, instantiating a new type of VPN service. Users authenticate indirectly through [__Citium__](../citium_what_for) decentralized network of nodes using their secure digital certificates (**“CERT”**) <i class='fa fa-certificate'></i> instead of directly through the VPN servers using username/password combinations.
+
+### <i class="fa fa-spinner" aria-hidden="true"></i> 免費試用<br>FREE Trial
+
 西蒂姆(Citium)客戶端App和其內置的即時聊天工具(CIM) <i class='fa fa-envelope-square' style='color:blue'></i> 對所有人開源及永久免費使用。
 
 <a href="https://www.unicorn001.tk/uploads/citium.apk"><i class="fa fa-download" aria-hidden="true"></i> 下載 西蒂姆(Citum)客戶端 安卓APK</a>
@@ -22,10 +26,8 @@ googlefonts: ["Roboto Condensed"]
 6. <i class='fa fa-cogs' style='color:blue'></i> > <i class='fa fa-toggle-on' style='color:green'></i> 撥亮切換鍵開始試用！
 
 {: .box-note}
-† **有效通行證書** <i class='fa fa-certificate' style='color:green'></i> 是已簽署的和未過期的《通行證書》。它好比一張入場券能授權持有人使用 <i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN服務。參閱[更詳盡說明](#-%E5%AE%89%E8%A3%9D%E8%88%87%E8%A9%A6%E7%94%A8installation--trial)。<br>
+† **有效通行證書** <i class='fa fa-certificate' style='color:green'></i> 是已簽署的和未過期的《通行證書》。它好比一張入場券能授權持有人使用 <i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN服務。參閱[安裝試用](../installation)。<br>
 **有效通行證書** <i class='fa fa-certificate' style='color:green'></i> 更可以讓持有者簽署其西蒂姆即時聊天工具上其他聯絡人的《免費通行證書》<i class='fa fa-certificate' style='color:chocolate'></i>；假如他們試用服務後決定成為續時抵值會員，簽署者更可以賺取獎勵積分！參閱[推薦人計劃](../referral)。
-
-<i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN is commercially built on __an open and fully decentralized technology__: [__Citium__](../citium_what_for). It is a radical departure and upgrade from all the popular VPN systems in the open marketspace, instantiating a new type of VPN service. Users authenticate indirectly through [__Citium__](../citium_what_for) decentralized network of nodes using their secure digital certificates (**“CERT”**) <i class='fa fa-certificate'></i> instead of directly through the VPN servers using username/password combinations.
 
 Citium Client app and its Instant Messenger (CIM) <i class='fa fa-envelope-square' style='color:blue'></i> is open-source and permanently free-to-use for everyone.
 
@@ -100,35 +102,6 @@ Traditional user management systems rely on relational databases on centralized 
 **溫馨提醒:** 每一個持有已簽署的《通行證書》的持有者都有責任不丟失自己的《通行證書》 。尤其要小心，**不要不小心清除了存儲《通行證書》的 Citium 客戶端 app 的數據**，因為已簽署的《通行證書》是唯一的能證明推薦人與受薦人關系的證據。用戶不論任何原因遺失《通行證書》，如卸載並重裝 Citium 客戶端 app，遺失或更換手機，平板或電腦而未預先備份《通行證書》，用戶將永久地無法重新登入、亦同時失去該《通行證書》的存取及使用權，並且會永久失去《通行證書》關聯的 Citium 即時通訊工具的通訊帳戶、聯絡人列表、對話紀錄及所有通訊存儲內的多媒體資料和其使用權。而<i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN的客服、代理及管理員於任何情況下均無法協助用戶重新登入、存取及使用該《通行證書》，這也是我們安保設計的精妙之處。
 <br><br>
 **GENTLE REMINDER:** Every holder of the signed CERTs is responsible for not losing one's own signed CERT. Be careful **not to accidentally clear the data of the Citium Client app** that stores the signed CERT because it is the only evidence to prove the user registration status, as well as the referral relationship between its user and its signer. If a user loses the signed CERT for any reason (e.g. uninstalls and reinstalls the Citium Client App; loses or replaces the mobile phone, tablet or computer; fails to back up the CERT in advance), the user will no longer be able to log back in, permanently lose access access to service, including everything related to Citium Instant Messenger, such as Contacts list, its chat history and its multimedia contents. <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN's customer service representatives, partnership agents and administrators are under no circumstances able to assist the user to log in, access and use the CERT again, which is the beauty of our security design.
-
-## <i class="fa fa-database" aria-hidden="true"></i> 安裝與試用<br>Installation & Trial
-
-下載 Citium 客戶端的安裝文件，並安裝上其適配的操作系統上。
-
-Download the Citium Client installer file and then install it on its compatible operating system.
-
-{: .box-warning}
-**防止被殺後台：** 由於移動終端的操作系統存在節能和運行內存回收機制，若後台同時運行進程較多，系統會自動將優先級較低的應用進行關閉（俗稱：「被殺後台」），騰出電源和內存以保證較後啟動的應用可以保持正常運行。為了讓你的西蒂姆(Citum)客戶端內的即時聊天工具及時收到信息與<i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN《通行證書》的推薦人簽名，有兩個辦法供你選擇防止客戶端被殺後台：1、**撥亮位于 <i class='fa fa-cogs' style='color:blue'></i> 的<i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN切換鍵使之呈橙色 <i class='fa fa-toggle-on' style='color:#ff6d12'></i> 或綠色  <i class='fa fa-toggle-on' style='color:green'></i>**；或 2、請在網上搜索一下你所用的手機型號該如何防止其應用 app 被殺後台，按其指示步驟操作將 Citium 客戶端應用 app 在後台運行。
-<br><br>
-**Keep App Running in the Background:** Operating systems of mobile devices have battery-saving and memory-recovery mechanisms. If a lot of background processes are running at the same time, the system will automatically shut down the lower priority applications to ensure ample battery life and memory capacity to enable the rest of the applications to run normally. In order for the instant messaging chat in the Citium Client to receive messages and the signing of <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN CERT (digital certificates) in a timely manner, you are highly suggested to choose to operate one of the options below: 1. **Turn on the toggle switch of <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN in <i class='fa fa-cogs' style='color:blue'></i> so that it shows color orange <i class='fa fa-toggle-on' style='color:#ff6d12'></i> or green <i class='fa fa-toggle-on' style='color:green'></i>**; or 2. Search your device model online to find out the steps to make its app running in the background. Follow the steps to make the Citium Client app run in the background.
-
-### 1. <i class="fa fa-user-plus" aria-hidden="true"></i> 添加好友成為 CIM 聯絡人<br>Add Friend to Contacts
-
-找一名持有有效的（即，未逾期的）<i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN《通行證書》的好友，例如 Alice。通過頻外密鑰驗證（OOBA）添加她成爲 Citium 即時聊天應用（CIM）<i class='fa fa-envelope-square' style='color:blue'></i> 中的聯絡人。
-
-Find a friend (e.g. Alice) who holds a valid (i.e. unexpired) <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN CERT. Add Alice as your new Contact in your Citium Instant Messenger (CIM) <i class='fa fa-envelope-square' style='color:blue'></i> via out-of-band authentication.
-
-### 2. <i class="fa fa-plug" aria-hidden="true"></i> 順道VPN試用激活<br>Activate Trial
-
-你自己的加速器設置頁面，創建一張屬於你自己的《免費通行證書》，其詳情將會被自動複製到設備的剪贴板。在你與 Alice 的聊天對話框中黏貼、發送該詳情給她，然後等待她簽署它。Alice 完成簽署它後，你會在對話框中收到一個互動信息按鈕，你按下該按鈕即可完成導入該已簽署的《免費通行證書》到設備內。
-
-Go to the <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN Settings page, create a FREE CERT of your own, which details will be automatically copied to your device's clipboard. Paste and send the details via the dialogue box between you and Alice and wait for her to sign it. Once Alice signs it, you will receive	an interactive message button in the dialogue box. You press the button to import the signed FREE CERT to your device.
-
-### 3. <i class='fa fa-rocket'></i> 開始使用順道VPN<br>Start Surfing on LubeVPN
-
-在「設定」<i class='fa fa-cogs' style='color:blue'></i>，撥亮<i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN的切換鍵請求服務授權。如果授權成功，切換鍵轉成綠色 <i class='fa fa-toggle-on' style='color:green'></i>。
-
-In General Settings <i class='fa fa-cogs' style='color:blue'></i>, turn on the <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN toggle switch to request authorization to VPN service. Toggle switch turns to green <i class='fa fa-toggle-on' style='color:green'></i> if the authorization succeeds.
 
 ## <i class="fa fa-calendar-plus-o" aria-hidden="true"></i> 通行證書續時<br>CERT Renewal
 
