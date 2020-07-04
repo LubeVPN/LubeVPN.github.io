@@ -38,7 +38,7 @@ Citium Client app and its Instant Messenger (CIM) <i class='fa fa-envelope-squar
 3. <i class='fa fa-gears' style='color:blue'></i> > <i class='fa fa-certificate' style='color:blue'></i> > <i class='fa fa-files-o' style='color:blue'></i>  Copy your FREE CERT <i class='fa fa-certificate'></i>
 4. <i class='fa fa-envelope-square' style='color:blue'></i> > <i class='fa fa-clipboard' style='color:blue'></i> Paste it to the Contact <i class='fa fa-user' style='color:purple'></i>
 5. Wait for <i class='fa fa-user' style='color:purple'></i> to sign your FREE CERT <i class='fa fa-certificate'></i>
-6. <i class='fa fa-envelope-square' style='color:blue'></i> > <i class='fa fa-toggle-on' style='color:green'></i> Turn ON toggle to start FREE Trial!
+6. <i class='fa fa-envelope-square' style='color:blue'></i> > <i class='fa fa-toggle-on' style='color:green'></i> Turn on toggle to start FREE Trial!
 
 {: .box-note}
 † A **valid CERT** <i class='fa fa-certificate' style='color:green'></i> is a signed & unexpired CERT, functioning as a ticket/pass, authorizes its holder to access <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN service. [For detailed instructions](#-%E5%AE%89%E8%A3%9D%E8%88%87%E8%A9%A6%E7%94%A8installation--trial) at the end of this page.<br>
