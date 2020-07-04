@@ -8,7 +8,7 @@ googlefonts: ["Roboto Condensed"]
 
 <i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN是**基於開源及完全去中心化**的[__西蒂姆(Citum)__](../citium_what_for)開發的互聯網隱私及信息加速商業服務應用。它把坊間流行的VPN系統作出了比較重大的改良和升級，實現了一种新型的VPN服务。用戶以安全數碼證書（**“通行證書”**）<i class='fa fa-certificate'></i> 間接地通過[西蒂姆(Citum)](../citium_what_for)的去中心化網絡節點獲取用戶身份認證，而不是使用用戶名及密碼組合在VPN服務器上直接進行認證。
 
-西蒂姆(Citium)客戶端App和其內置的即時聊天工具(CIM) <i class='fa fa-envelope-square' style='color:blue'></i> 對所有人開源及免費永久使用。
+西蒂姆(Citium)客戶端App和其內置的即時聊天工具(CIM) <i class='fa fa-envelope-square' style='color:blue'></i> 對所有人開源及永久免費使用。
 
 <a href="https://www.unicorn001.tk/uploads/citium.apk"><i class="fa fa-download" aria-hidden="true"></i> 下載 西蒂姆(Citum)客戶端 安卓APK</a>
 {: .myDownloadButton}
