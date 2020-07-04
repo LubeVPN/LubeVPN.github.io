@@ -14,16 +14,16 @@ Citium客戶端App和其即時聊天工具(CIM) <i class='fa fa-envelope-square'
 {: .myDownloadButton}
 
 1. 下載、安裝、開啟 Citium 客戶端應用 app
-2. <i class='fa fa-envelope-square' style='color:blue'></i> > <i class="fa fa-user-plus" style='color:blue'></i> 加一位 CIM 聯絡人 <i class="fa fa-user" aria-hidden="true"></i>
-- 該聯絡人必須持有有效通行證書 <i class='fa fa-certificate' style='color:green'></i> †
+2. <i class='fa fa-envelope-square' style='color:blue'></i> F> <i class="fa fa-user-plus" style='color:blue'></i> 加一位 CIM 聯絡人 <i class='fa fa-user' style='color:yellow'></i>
+- <i class='fa fa-user' style='color:yellow'></i> 必須持有有效通行證書 <i class='fa fa-certificate' style='color:green'></i> †
 3. <i class='fa fa-gears' style='color:blue'></i> > <i class='fa fa-certificate' style='color:blue'></i> > <i class='fa fa-files-o' style='color:blue'></i> 複製你的《免費通行證書》<i class='fa fa-certificate'></i>
-4. <i class='fa fa-envelope-square' style='color:blue'></i> > <i class='fa fa-clipboard' style='color:blue'></i> 黏貼給聯絡人
-5. 等他/她簽署您的《免費通行證書》 <i class='fa fa-certificate'></i>
-6. <i class='fa fa-envelope-square' style='color:blue'></i> > <i class='fa fa-toggle-on' style='color:green'></i> 開始免費試用
+4. <i class='fa fa-envelope-square' style='color:blue'></i> > <i class='fa fa-clipboard' style='color:blue'></i> 黏貼給聯絡人 <i class='fa fa-user' style='color:yellow'></i>
+5. 等 <i class='fa fa-user' style='color:yellow'></i> 簽署您的《免費通行證書》 <i class='fa fa-certificate'></i>
+6. <i class='fa fa-envelope-square' style='color:blue'></i> > <i class='fa fa-toggle-on' style='color:green'></i> 撥亮切換鍵開始試用！
 
 {: .box-note}
 † **有效通行證書** <i class='fa fa-certificate' style='color:green'></i> 是已簽署的和未過期的《通行證書》。它好比一張入場券能授權持有人使用 <i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN服務。參閱[更詳盡說明](#-%E5%AE%89%E8%A3%9D%E8%88%87%E8%A9%A6%E7%94%A8installation--trial)。<br>
-**有效通行證書** <i class='fa fa-certificate' style='color:green'></i> 更可以讓持有者簽署其西蒂姆即時聊天工具上其他聯絡人的《免費通行證書》；假如他們試用服務後決定成為續時抵值會員，簽署者更可以賺取獎勵積分！參閱[獎勵人計劃](../referral)。
+**有效通行證書** <i class='fa fa-certificate' style='color:green'></i> 更可以讓持有者簽署其西蒂姆即時聊天工具上其他聯絡人的《免費通行證書》；假如他們試用服務後決定成為續時抵值會員，簽署者更可以賺取獎勵積分！參閱[推薦人計劃](../referral)。
 
 <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN is commercially built on __an open and fully decentralized technology__: [__Citium__](../citium_what_for). It is a radical departure and upgrade from all the popular VPN systems in the open marketspace, instantiating a new type of VPN service. Users authenticate indirectly through [__Citium__](../citium_what_for) decentralized network of nodes using their secure digital certificates (**“CERT”**) <i class='fa fa-certificate'></i> instead of directly through the VPN servers using username/password combinations.
 
@@ -33,12 +33,12 @@ Citium Client app and its Instant Messenger (CIM) <i class='fa fa-envelope-squar
 {: .myDownloadButton}
 
 1. Download, install & open Citium Client app
-2. <i class='fa fa-envelope-square' style='color:blue'></i> > <i class="fa fa-user-plus" style='color:blue'></i> Add a CIM Contact <i class="fa fa-user" aria-hidden="true"></i>
-- who must holds a valid CERT <i class='fa fa-certificate' style='color:green'></i> †
+2. <i class='fa fa-envelope-square' style='color:blue'></i> > <i class="fa fa-user-plus" style='color:blue'></i> Add a CIM Contact <i class='fa fa-user' style='color:yellow'></i>
+- <i class='fa fa-user' style='color:yellow'></i> must holds a valid CERT <i class='fa fa-certificate' style='color:green'></i> †
 3. <i class='fa fa-gears' style='color:blue'></i> > <i class='fa fa-certificate' style='color:blue'></i> > <i class='fa fa-files-o' style='color:blue'></i>  Copy your FREE CERT <i class='fa fa-certificate'></i>
 4. <i class='fa fa-envelope-square' style='color:blue'></i> > <i class='fa fa-clipboard' style='color:blue'></i> Paste it to the Contact
-5. Wait for him/her to sign your FREE CERT <i class='fa fa-certificate'></i>
-6. <i class='fa fa-envelope-square' style='color:blue'></i> > <i class='fa fa-toggle-on' style='color:green'></i> Start the FREE Trial
+5. Wait for <i class='fa fa-user' style='color:yellow'></i> to sign your FREE CERT <i class='fa fa-certificate'></i>
+6. <i class='fa fa-envelope-square' style='color:blue'></i> > <i class='fa fa-toggle-on' style='color:green'></i> Turn ON toggle to start FREE Trial!
 
 {: .box-note}
 † A **valid CERT** <i class='fa fa-certificate' style='color:green'></i> is a signed & unexpired CERT, functioning as a ticket/pass, authorizes its holder to access <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN service. [For detailed instructions](#-%E5%AE%89%E8%A3%9D%E8%88%87%E8%A9%A6%E7%94%A8installation--trial) at the end of this page.<br>
@@ -80,24 +80,24 @@ Lube VPN does not record network routing information, such as originating IP and
 
 ## <i class="fa fa-shield" aria-hidden="true"></i> 用戶信息安全<br>User InfoSec
 
-傳統用戶管理系統依賴中央化服務器的關系型數據庫記錄用戶註冊、推薦人與受薦者之間的關系，安全和匿名程度都比較低。反觀，<i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN的用戶登記和推薦系統是通過數字簽名和數字證書以P2P的形式來綁定的。更具體來說，<i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN不單不記錄任何用戶信息，就連推薦系統都用了推薦人的獨特數字簽名和受薦者持有的簽名數字證書（即，已簽署的《免費通行證書》）來安全地、隐蔽地綁定彼此的關系， **不會被記錄在任何第三方關係型數據庫上，有效地防範用戶個人數據洩露與關聯性信息分析於未然**。
+傳統用戶管理系統依賴中央化服務器的關系型數據庫記錄用戶註冊、推薦人與受薦人之間的關系，安全和匿名程度都比較低。反觀，<i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN的用戶登記和推薦系統是通過數字簽名和數字證書以P2P的形式來綁定的。更具體來說，<i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN不單不記錄任何用戶信息，就連推薦系統都用了推薦人的獨特數字簽名和受薦人持有的簽名數字證書（即，已簽署的《免費通行證書》）來安全地、隐蔽地綁定彼此的關系， **不會被記錄在任何第三方關係型數據庫上，有效地防範用戶個人數據洩露與關聯性信息分析於未然**。
 
 Traditional user management systems rely on relational databases on centralized servers to record user registrations and the referral relationships. That regime is prone to security and privacy breach. In contrast, <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN's referral relationships are recorded by securely and privately binding digital signatures and their signed certificates in a peer-to-peer fashion. More specifically, <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN does not ask for or record any user information. A referral relationship in <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN is securely bound based on the unique digital signature of the referrer and the signed digital certificate (i.e. signed FREE CERT) held by the referred user, **not recorded in any third-party party relational database, effectively preempting user data breach and link analysis**.
 
 ### <i class='fa fa-certificate'></i> 通行證書系統<br>CERT System
 
-順道VPN用戶使用安全數字證書（“通行證書”） <i class='fa fa-certificate'></i> 來訪問VPN服務，而不是用戶名/密碼組合。有兩種<i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN的通行證書：**《免費通行證書》和《會員通行證書》**。一張已簽署和有效的《免費通行證書》授權其持有人訪問<i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN的免費試用。所有《會員通行證書》都是源自和續時自《免費通行證書》。**《會員通行證書》** 持有者不單享受更高級的<i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN服務和推薦新用戶到<i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN，每當受薦者續時後，他更 **能賺取可兌換的積分**。
+順道VPN用戶使用安全數字證書（“通行證書”） <i class='fa fa-certificate'></i> 來訪問VPN服務，而不是用戶名/密碼組合。有兩種<i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN的通行證書：**《免費通行證書》和《會員通行證書》**。一張已簽署和有效的《免費通行證書》授權其持有人訪問<i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN的免費試用。所有《會員通行證書》都是源自和續時自《免費通行證書》。**《會員通行證書》** 持有者不單享受更高級的<i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN服務和推薦新用戶到<i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN，每當受薦人續時後，他更 **能賺取可兌換的積分**。
 
 <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN users use secure digital certificates (“CERTs”) <i class='fa fa-certificate'></i> to access VPN service instead of username/password combinations. There are two kinds of CERT in <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN: **FREE CERT and MEMBER CERT**. A signed and validated FREE CERT authorizes its holder to access a free trial of <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN. All MEMBER CERTs are originated and renewed from FREE CERT. A **MEMBER CERT holder** not only enjoys a higher level of <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN service and refers new users to <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN, he/she **earns redeemable points** whenever the referred users renew their CERTs.
 
 ### <i class="fa fa-pencil-square-o"></i> 簽署 和 <i class="fa fa-check-square-o"></i> 認證 <br>Signing & Validation
 
-<i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN是不會任意地接受任何一個《免費通行證書》的認證請求的，而是僅限於由持有有效的（未過期的）通行證書的簽署者簽署過的《免費通行證書》。簡單來說，**只有被現有<i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN用戶簽署過的《免費通行證書》，<i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN才會接受其請求** 去認證它。認證通過後，持有該《免費通行證書》的受薦者才能獲得授權訪問<i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN的VPN服務。
+<i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN是不會任意地接受任何一個《免費通行證書》的認證請求的，而是僅限於由持有有效的（未過期的）通行證書的簽署者簽署過的《免費通行證書》。簡單來說，**只有被現有<i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN用戶簽署過的《免費通行證書》，<i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN才會接受其請求** 去認證它。認證通過後，持有該《免費通行證書》的受薦人才能獲得授權訪問<i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN的VPN服務。
 
 <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN will not accept validation requests from any FREE CERT unless it is signed by one who holds a valid (i.e. unexpired) CERT. Simply put, **<i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN only validates FREE CERTs signed by existing users**. Once a validation succeeds, the holder of the valid FREE CERT is authorized to access <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN service.
 
 {: .box-warning}
-**溫馨提醒:** 每一個持有已簽署的《通行證書》的持有者都有責任不丟失自己的《通行證書》 。尤其要小心，**不要不小心清除了存儲《通行證書》的 Citium 客戶端 app 的數據**，因為已簽署的《通行證書》是唯一的能證明推薦人與受薦者關系的證據。用戶不論任何原因遺失《通行證書》，如卸載並重裝 Citium 客戶端 app，遺失或更換手機，平板或電腦而未預先備份《通行證書》，用戶將永久地無法重新登入、亦同時失去該《通行證書》的存取及使用權，並且會永久失去《通行證書》關聯的 Citium 即時通訊工具的通訊帳戶、聯絡人列表、對話紀錄及所有通訊存儲內的多媒體資料和其使用權。而<i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN的客服、代理及管理員於任何情況下均無法協助用戶重新登入、存取及使用該《通行證書》，這也是我們安保設計的精妙之處。
+**溫馨提醒:** 每一個持有已簽署的《通行證書》的持有者都有責任不丟失自己的《通行證書》 。尤其要小心，**不要不小心清除了存儲《通行證書》的 Citium 客戶端 app 的數據**，因為已簽署的《通行證書》是唯一的能證明推薦人與受薦人關系的證據。用戶不論任何原因遺失《通行證書》，如卸載並重裝 Citium 客戶端 app，遺失或更換手機，平板或電腦而未預先備份《通行證書》，用戶將永久地無法重新登入、亦同時失去該《通行證書》的存取及使用權，並且會永久失去《通行證書》關聯的 Citium 即時通訊工具的通訊帳戶、聯絡人列表、對話紀錄及所有通訊存儲內的多媒體資料和其使用權。而<i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN的客服、代理及管理員於任何情況下均無法協助用戶重新登入、存取及使用該《通行證書》，這也是我們安保設計的精妙之處。
 <br><br>
 **GENTLE REMINDER:** Every holder of the signed CERTs is responsible for not losing one's own signed CERT. Be careful **not to accidentally clear the data of the Citium Client app** that stores the signed CERT because it is the only evidence to prove the user registration status, as well as the referral relationship between its user and its signer. If a user loses the signed CERT for any reason (e.g. uninstalls and reinstalls the Citium Client App; loses or replaces the mobile phone, tablet or computer; fails to back up the CERT in advance), the user will no longer be able to log back in, permanently lose access access to service, including everything related to Citium Instant Messenger, such as Contacts list, its chat history and its multimedia contents. <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN's customer service representatives, partnership agents and administrators are under no circumstances able to assist the user to log in, access and use the CERT again, which is the beauty of our security design.
 
