@@ -14,7 +14,7 @@ Citium客戶端App和其即時聊天工具(CIM) <i class='fa fa-envelope-square'
 {: .myDownloadButton}
 
 1. 下載、安裝、開啟 Citium 客戶端應用 app
-2. <i class='fa fa-envelope-square' style='color:blue'></i> F> <i class="fa fa-user-plus" style='color:blue'></i> 加一位 CIM 聯絡人 <i class='fa fa-user' style='color:purple'></i>
+2. <i class='fa fa-envelope-square' style='color:blue'></i> > <i class="fa fa-user-plus" style='color:blue'></i> 加一位 CIM 聯絡人 <i class='fa fa-user' style='color:purple'></i>
 - <i class='fa fa-user' style='color:purple'></i> 必須持有有效通行證書 <i class='fa fa-certificate' style='color:green'></i> †
 3. <i class='fa fa-gears' style='color:blue'></i> > <i class='fa fa-certificate' style='color:blue'></i> > <i class='fa fa-files-o' style='color:blue'></i> 複製你的《免費通行證書》<i class='fa fa-certificate' style='color:chocolate'></i>
 4. <i class='fa fa-envelope-square' style='color:blue'></i> > <i class='fa fa-clipboard' style='color:blue'></i> 黏貼發送給 <i class='fa fa-user' style='color:purple'></i>
