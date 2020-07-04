@@ -2,7 +2,7 @@
 layout: page
 title: 順道VPN安裝試用
 subtitle: Installation & Trial
-bigimg: /img/rain3.jpg
+bigimg: /img/leaf.jpg
 googlefonts: ["Roboto Condensed"]
 ---
 
