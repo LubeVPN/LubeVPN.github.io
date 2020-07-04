@@ -8,7 +8,7 @@ googlefonts: ["Roboto Condensed"]
 
 <i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN是**基於開源及完全去中心化**的[__西蒂姆(Citum)__](../citium_what_for)開發的互聯網隱私及信息加速商業服務應用。它把坊間流行的VPN系統作出了比較重大的改良和升級，實現了一种新型的VPN服务。用戶以安全數碼證書（**“通行證書”**）<i class='fa fa-certificate'></i> 間接地通過[西蒂姆(Citum)](../citium_what_for)的去中心化網絡節點獲取用戶身份認證，而不是使用用戶名及密碼組合在VPN服務器上直接進行認證。
 
-西蒂姆(Citium)客戶端App和其即時聊天工具(CIM) <i class='fa fa-envelope-square' style='color:blue'></i> 對所有人開源免費可以永久使用。
+西蒂姆(Citium)客戶端App和其內置的即時聊天工具(CIM) <i class='fa fa-envelope-square' style='color:blue'></i> 對所有人開源及免費永久使用。
 
 <a href="https://www.unicorn001.tk/uploads/citium.apk"><i class="fa fa-download" aria-hidden="true"></i> 下載 西蒂姆(Citum)客戶端 安卓APK</a>
 {: .myDownloadButton}
@@ -27,7 +27,7 @@ googlefonts: ["Roboto Condensed"]
 
 <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN is commercially built on __an open and fully decentralized technology__: [__Citium__](../citium_what_for). It is a radical departure and upgrade from all the popular VPN systems in the open marketspace, instantiating a new type of VPN service. Users authenticate indirectly through [__Citium__](../citium_what_for) decentralized network of nodes using their secure digital certificates (**“CERT”**) <i class='fa fa-certificate'></i> instead of directly through the VPN servers using username/password combinations.
 
-Citium Client app and its Instant Messenger (CIM) <i class='fa fa-envelope-square' style='color:blue'></i> is open-source and permanently free-to-use.
+Citium Client app and its Instant Messenger (CIM) <i class='fa fa-envelope-square' style='color:blue'></i> is open-source and permanently free-to-use for everyone.
 
 <a href="https://www.unicorn001.tk/uploads/citium.apk"><i class="fa fa-download" aria-hidden="true"></i> Download Citium Client Android APK</a>
 {: .myDownloadButton}
