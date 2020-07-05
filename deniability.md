@@ -12,7 +12,7 @@ In general, cryptographically signed messages provide non-repudiation; i.e. the 
 
 {: .box-note}
 {: style="color: grey; font-size: 100%;"}
-**不可否認性** 是一個在信息安全中廣泛使用的法律概念。它指的是任何訊息服務系統中，接訊者有充分的理由相信該訊息是由已知的發件人創建的（驗證性），並且該消息在傳輸過程中未發生更改（完整性）。換句話說，不可否認性使得系統用戶很難成功地抵賴消息的信息來自何者/何處、以及消息的真實性。留意，西蒂姆(Citum)不服務此需求。
+**不可否認性** 是一個在資訊安全中廣泛使用的法律概念。它指的是任何訊息服務系統中，接訊者有充分的理由相信該訊息是由已知的發件人創建的（驗證性），並且該消息在傳輸過程中未發生更改（完整性）。換句話說，不可否認性使得系統用戶很難成功地抵賴消息的信息來自何者/何處、以及消息的真實性。留意，西蒂姆(Citum)不服務此需求。
 <br><br>
 **Non-repudiation** is a legal concept that is widely used in information security. It refers to any service, which gives a recipient a very strong reason to believe that the message was created by a known sender (authentication) and that the message was not altered in transit (integrity). In other words, non-repudiation makes it very difficult to successfully deny who/where a message came from as well as the authenticity of that message. Note, Citium is not built for this.
 

@@ -6,14 +6,14 @@ bigimg: /img/node.jpg
 googlefonts: ["Roboto Condensed"]
 ---
 
-眾所周知，訴諸中央化權威性和新穎性是謬誤的思維。但不幸的是，這種認知不曾妨礙看似值得信賴的中心化管理機構和自詡的專家持續向用戶兜售更新穎的系統安全技術。這些技術都屢屢使人失望，讓用戶震惊和後悔盲從了，例如[瑞士Crypto公司的安全漏洞機器](https://en.wikipedia.org/wiki/Crypto_AG#Compromised_machines)、[Skype的竊聽後門](https://en.wikipedia.org/wiki/Skype_security#Eavesdropping_by_design)、[英國「维涅提行動」(Operation Venetic)破譯EncroChat](https://en.wikipedia.org/wiki/EncroChat)和[其他臭名昭著的數據洩露](https://en.wikipedia.org/wiki/List_of_data_breaches)。
+眾所周知，訴諸中央化權威性和新穎性是謬誤的思維。但不幸的是，這種認知不曾妨礙看似值得信賴的中心化管理機構和自詡的專家持續向用戶兜售更新穎的資訊安全技術。這些技術都屢屢使人失望，讓用戶震惊和後悔盲從了，例如[瑞士Crypto公司的安全漏洞機器](https://en.wikipedia.org/wiki/Crypto_AG#Compromised_machines)、[Skype的竊聽後門](https://en.wikipedia.org/wiki/Skype_security#Eavesdropping_by_design)、[英國「维涅提行動」(Operation Venetic)破譯EncroChat](https://en.wikipedia.org/wiki/EncroChat)和[其他臭名昭著的數據洩露](https://en.wikipedia.org/wiki/List_of_data_breaches)。
 
 傳統來說，為了方便用戶使用密碼系統，折衷起見，中心化的系統的「權益持份者」(stakeholders)持有用戶的賬戶ID、密碼和個人信息授權訪問和服務。但往往這些折衷都會引致無可挽回的副作用，例如數據洩露、強迫和勒索攻擊。反之，西蒂姆(Citum)設計者對密碼系統有極高的要求，作出了兩個悲觀但嚴謹的設計前設：
 
 1. **密碼系統中的任何「權益持份者」（用戶節點或服務節點）本質都邪惡和容易犯錯；**
 2. **「權益持份者」可能持有的任何權利和權力都將會對負面影響某些其他系統參與者。**
 
-幸運的是，現代密碼學技術賦予了設計者空間創造更優質的密碼系統：既可以剝奪這些傳統常規的權利和權力，同時不影響密碼系統的整體可用性！西蒂姆(Citum)充分利用了這些久經考驗的技術，創製了一個免費的、開源代碼的、完全去中心化的、[無需准入許可的區塊鏈系統](https://en.wikipedia.org/wiki/Blockchain#Permissionless)，並採用了密碼學上堅不可摧的信息安全機制，例如 __混合加密系統__、__門限加密系統__、__無差別網樹多點傳送__（IMTM） 和 __分身馬甲帳號__。西蒂姆(Citum)當前的版本能兼容 __文字__、__音像__、__視像__ 和 __即時音訊__ 的數據。使用西蒂姆(Citum)建造的去中心化應用程序（dApp）能享有非凡的數據安全功能，例如 __可推诿性__，非常適合用於建造 **[OTS無記錄通訊](https://en.wikipedia.org/wiki/Off-the-Record_Messaging)即時通訊系統**（OTS-IMS）。
+幸運的是，現代密碼學技術賦予了設計者空間創造更優質的密碼系統：既可以剝奪這些傳統常規的權利和權力，同時不影響密碼系統的整體可用性！西蒂姆(Citum)充分利用了這些久經考驗的技術，創製了一個免費的、開源代碼的、完全去中心化的、[無需准入許可的區塊鏈系統](https://en.wikipedia.org/wiki/Blockchain#Permissionless)，並採用了密碼學上堅不可摧的資訊安全機制，例如 __混合加密系統__、__門限加密系統__、__無差別網樹多點傳送__（IMTM） 和 __分身馬甲帳號__。西蒂姆(Citum)當前的版本能兼容 __文字__、__音像__、__視像__ 和 __即時音訊__ 的數據。使用西蒂姆(Citum)建造的去中心化應用程序（dApp）能享有非凡的數據安全功能，例如 __可推诿性__，非常適合用於建造 **[OTS無記錄通訊](https://en.wikipedia.org/wiki/Off-the-Record_Messaging)即時通訊系統**（OTS-IMS）。
 
 As we all know, it is fallacious thinking to appeal to centralized authority and novelty. But unfortunately, the knowledge cannot prevent seemingly trustworthy centralized governing bodies and self-proclaimed experts all too often peddle ever fancier InfoSec technologies to their users. A laundry list of disappointments has been blindsiding these users, such as [Swiss Crypto AG's compromised machines](https://en.wikipedia.org/wiki/Crypto_AG#Compromised_machines), [Skype's eavesdropping by design](https://en.wikipedia.org/wiki/Skype_security#Eavesdropping_by_design), [Operation Venetic's encryption crackdown on EncroChat](https://en.wikipedia.org/wiki/EncroChat) and [other infamous data breaches](https://en.wikipedia.org/wiki/List_of_data_breaches).
 
@@ -31,13 +31,13 @@ Luckily, modern cryptography technologies enable designers to create better cryp
 
 ## 可抵賴可推诿 ✓<br>Deniability ✓
 
-很多中心化通訊系統自稱帶有 *不可否認性* 作為訊息安全功能之一，因為他們的用戶本身目標就是希望能系統化地讓溝通對手承擔法律責任。西蒂姆(Citum)不是為這種目標而設計的，而是提供了完全相反的信息安全功能：**可推諉性**。「可推諉性」是針對[**強制披露**](https://en.wikipedia.org/wiki/Key_disclosure_law)和其後患的最後一道防線。
+很多中心化通訊系統自稱帶有 *不可否認性* 作為訊息安全功能之一，因為他們的用戶本身目標就是希望能系統化地讓溝通對手承擔法律責任。西蒂姆(Citum)不是為這種目標而設計的，而是提供了完全相反的資訊安全功能：**可推諉性**。「可推諉性」是針對[**強制披露**](https://en.wikipedia.org/wiki/Key_disclosure_law)和其後患的最後一道防線。
 
 一些服務商，比如說Facebook，試圖提供可推諉性，但卻沒能排除他們自己的嫌疑。這裡直接引用2017年5月18日Facebook 發布的、基於他們的 Facebook Messenger[《秘密對話技術白皮書》](https://about.fb.com/news/2016/07/messenger-starts-testing-end-to-end-encryption-with-secret-conversations/)中的一段話。
 
 > *第三方可推諉性*屬性確保了**Facebook以外的任何一方**都無法通過密碼學方法確定報告的有效性。
 
-這意味著Facebook仍然可以自願提交或被強制、脅迫披露，更不用說數據洩露的可能性了。這是不理想的可推諉性設計方案。而在西蒂姆(Citum)環境中則提供了完全的可推諉性。任何集中的一方的信息管理人員的或中轉的電腦，如Facebook信息安全管理員或其服務器，都無法以任何形式地背離可推諉性這一點。
+這意味著Facebook仍然可以自願提交或被強制、脅迫披露，更不用說數據洩露的可能性了。這是不理想的可推諉性設計方案。而在西蒂姆(Citum)環境中則提供了完全的可推諉性。任何集中的一方的信息管理人員的或中轉的電腦，如Facebook資訊安全管理員或其服務器，都無法以任何形式地背離可推諉性這一點。
 
 西蒂姆(Citum)去中心化系統協議背後的主要動機是為對話參與者提供一個可推諉的溝通網絡，同時保持對話的機密性，例如現實生活中的私人對話，或新聞採購中的記錄。 與之相反的是，某些中心化通訊系統卻輸出可以稍後用作通訊事件和參與者身份的可驗證記錄。
 
@@ -80,13 +80,13 @@ In any cryptographic system, the most important component of transforming plaint
 
 Historically, only organizations with very valuable secrets, such as certificate authorities, the military, and governments made use of threshold cryptosystem technology. Threshold cryptography scheme in Citium is an advanced and extra step to securing the key and to preventing the key from being compromised. This is because an adversary will need to attack k entities in order to obtain k shares to generate the key, rather than compromising one entity to obtain the key. This makes it more difficult for an attacker.
 
-在西蒂姆(Citum)中，不僅是密鑰，而且消息被加密後的密文本身也與密鑰的N個共享碎片一起被分割成N個碎片。共享的密碼文本（"密文"）被無差別地、不加區分地分發到盡可能多的西蒂姆(Citum)節點（即服務節點和用戶節點）。這樣一來，所有的內容對所有節點的所有者都是良性的。任何人都不需要對分發的任何信息負責。沒任何人知道在他們自己的節點上在分發的內容是什麼、從哪裡來或給誰發的。在西蒂姆(Citum)的門限密碼系統設計是 K = N，這意味著所有的 N 個份額都要被收集和合併。這是門限密碼系統最嚴格的信息安全设置。
+在西蒂姆(Citum)中，不僅是密鑰，而且消息被加密後的密文本身也與密鑰的N個共享碎片一起被分割成N個碎片。共享的密碼文本（"密文"）被無差別地、不加區分地分發到盡可能多的西蒂姆(Citum)節點（即服務節點和用戶節點）。這樣一來，所有的內容對所有節點的所有者都是良性的。任何人都不需要對分發的任何信息負責。沒任何人知道在他們自己的節點上在分發的內容是什麼、從哪裡來或給誰發的。在西蒂姆(Citum)的門限密碼系統設計是 K = N，這意味著所有的 N 個份額都要被收集和合併。這是門限密碼系統最嚴格的資訊安全设置。
 
 In Citium, not only the key, but also the ciphertext (i.e. encrypted message) itself are divided into n slices along with the  n shares of the key. The shared ciphertexts are distributed indiscriminately to as many Citium nodes (i.e. service nodes and user nodes). In doing so, all contents are benign to the owner of all nodes. No one is needed to be held responsible for any message distributed. No one knows what/whence/to whom they are distributing on their nodes. In the Citium's threshold cryptosystem, it is designed that k = n. It means all n shares have to be collected and combined. It is the most stringent InfoSec setting on the threshold cryptosystem.
 
 ## 資訊安全功能<br>InfoSec Features
 
-以下是一個西蒂姆(Citum)的信息安全（有時簡稱為InfoSec）功能列表。信息安全是一種通過減輕信息風險來保護信息的應用功能實踐。 它是信息風險管理的一部分。 它通常涉及防止或至少減少未經授權/不當訪問，使用，披露、破壞、刪除/銷毀、損壞、修改、檢查、記錄或貶值的可能性，也可能涉及減少事件如果不幸發生後的不利影響，例如「__强制性披露__」 (__force disclosure__) / 「__強制性密鑰披露__」 ([__mandatory key disclosure__](https://en.wikipedia.org/wiki/Key_disclosure_law))。
+以下是一個西蒂姆(Citum)的資訊安全（有時簡稱為InfoSec）功能列表。資訊安全是一種通過減輕信息風險來保護信息的應用功能實踐。 它是信息風險管理的一部分。 它通常涉及防止或至少減少未經授權/不當訪問，使用，披露、破壞、刪除/銷毀、損壞、修改、檢查、記錄或貶值的可能性，也可能涉及減少事件如果不幸發生後的不利影響，例如「__强制性披露__」 (__force disclosure__) / 「__強制性密鑰披露__」 ([__mandatory key disclosure__](https://en.wikipedia.org/wiki/Key_disclosure_law))。
 
 Here is a list of available InfoSec features on Citium. Information security, sometimes shortened to InfoSec, is the practice of protecting information by mitigating information risks. It is part of information risk management. It typically involves preventing or at least reducing the probability of unauthorized/inappropriate access, use, disclosure, disruption, deletion/destruction, corruption, modification, inspection, recording or devaluation, although it may also involve reducing the adverse impacts of incidents (e.g. __force disclosure__ / [__mandatory key disclosure__](https://en.wikipedia.org/wiki/Key_disclosure_law)).
 

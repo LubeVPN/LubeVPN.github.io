@@ -77,7 +77,7 @@ In contrast, <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN users do
 
 Lube VPN does not record network routing information, such as originating IP and device. <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN is also technically designed so that it is inherently incapable to record and will **not record any user information** such as name, phone or ID. <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN only records VPN traffic volume usage to ensure quality of service and to prevent service misuse. Users can feel secure because the usage is exclusively allowed to be accessed on a one-on-one basis: one (1) <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN cryptographically secure certificate can only be used on one (1) device at the same time. **Simultaneous access of one certificate on multiple devices is prohibited**.
 
-## <i class="fa fa-shield" aria-hidden="true"></i> 用戶信息安全<br>User InfoSec
+## <i class="fa fa-shield" aria-hidden="true"></i> 用戶資訊安全<br>User InfoSec
 
 傳統用戶管理系統依賴中央化服務器的關系型數據庫記錄用戶註冊、推薦人與受薦人之間的關系，安全和匿名程度都比較低。反觀，<i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN的用戶登記和推薦系統是通過數字簽名和數字證書以P2P的形式來綁定的。更具體來說，<i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN不單不記錄任何用戶信息，就連推薦系統都用了推薦人的獨特數字簽名和受薦人持有的簽名數字證書（即，已簽署的《免費通行證書》來安全地、隐蔽地綁定彼此的關系， **不會被記錄在任何第三方關係型數據庫上，有效地防範用戶個人數據洩露與關聯性信息分析於未然**。
 
