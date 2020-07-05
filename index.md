@@ -10,7 +10,17 @@ googlefonts: ["Roboto Condensed"]
 
 <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN is commercially built on __an open and fully decentralized technology__: [__Citium__](../citium_what_for). It is a radical departure and upgrade from all the popular VPN systems in the open marketspace, instantiating a new type of VPN service. Users authenticate indirectly through [__Citium__](../citium_what_for) decentralized network of nodes using their secure digital certificates (**“CERT”**) <i class='fa fa-certificate'></i> instead of directly through the VPN servers using username/password combinations.
 
-### <i class="fa fa-spinner" aria-hidden="true"></i> 免費試用<br>FREE Trial
+## <i class="fa fa-spinner" aria-hidden="true"></i> 免費試用<br>FREE TRIAL
+
+您必須通過已經在使用順道VPN的人幫你簽署您的安全數碼證書（**“通行證書”**）<i class='fa fa-certificate'></i>才可以享受免費試用。如果您並不認識誰已經在用，請通過西蒂姆(Citium)客戶端的內置的在線客服 <i class='fa fa-comments-o'> 聯絡我們：<i class='fa fa-gears' style='color:blue'></i> > <i class='fa fa-certificate' style='color:blue'></i> > <i class='fa fa-question-circle' style='color:#ff6d12'></i> > <i class='fa fa-comments-o' style='color:#ff6d12'></i>.
+
+You need someone who's already using LubeVPN to sign your secure digital certificates (**“CERT”**) <i class='fa fa-certificate'></i> in order to enjoy the FREE TRIAL. If you do not know someone who does, please contact our LIVE HELP <i class='fa fa-comments-o'>. You can find it in the Citium Client app: <i class='fa fa-gears' style='color:blue'></i> > <i class='fa fa-certificate' style='color:blue'></i> > <i class='fa fa-question-circle' style='color:#ff6d12'></i> > <i class='fa fa-comments-o' style='color:#ff6d12'></i>.
+
+{: .box-note}
+如何在西蒂姆(Citum)客戶端App內找到<i class='fa fa-rocket' style='color:DimGrey'></i> 顺道VPN「在線客服」？<br>
+How to reach the interface of LIVE CHAT in the Citium Client app?<br>
+<i class='fa fa-gears' style='color:blue'></i> > <i class='fa fa-certificate' style='color:blue'></i> > <i class='fa fa-question-circle' style='color:#ff6d12'></i> > <i class='fa fa-comments-o' style='color:#ff6d12'></i>
+
 
 <a href="https://www.unicorn001.tk/uploads/citium.apk"><i class="fa fa-download" aria-hidden="true"></i> 下載及安装西蒂姆(Citum)客戶端 安卓APK</a><br><a href="https://www.unicorn001.tk/uploads/citium.apk"><i class="fa fa-download" aria-hidden="true"></i> Download and Install Citium Client Android APK</a>
 {: .myDownloadButton}
