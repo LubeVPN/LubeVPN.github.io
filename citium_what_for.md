@@ -9,9 +9,9 @@ googlefonts: ["Roboto Condensed"]
 眾所周知，訴諸中央化權威性和新穎性是謬誤的思維。但不幸的是，這種認知不曾妨礙看似值得信賴的中心化管理機構和自詡的專家持續向用戶兜售更新穎的資訊安全技術。可惜這些技術屢屢發生意外，更讓用戶後悔盲從了，例如[瑞士Crypto公司的安全漏洞機器](https://en.wikipedia.org/wiki/Crypto_AG#Compromised_machines)、[Skype的竊聽後門](https://en.wikipedia.org/wiki/Skype_security#Eavesdropping_by_design)、[英國「维涅提行動」(Operation Venetic)破譯EncroChat](https://en.wikipedia.org/wiki/EncroChat)和[其他臭名昭著的數據洩露](https://en.wikipedia.org/wiki/List_of_data_breaches)。有見及此，西蒂姆(Citum)作出了三個悲觀但嚴謹的資訊安全設計前設。
 
 |:--:|:--|
-| **無人可信** | 密碼系統中的<br>任何參與者都邪惡和容易犯錯 |
-| **權力腐敗** | 一個用戶持有的<br>任何權利都將會產生負面影響 |
-| **加密無用** | 任何密文都不會<br>比其純文本的安全程度高 |
+| **無人可信** | 密碼系統中的任何參與者<br>都邪惡和容易犯錯 |
+| **權力腐敗** | 一個用戶持有的任何權利<br>都將會產生負面影響 |
+| **加密無用** | 任何密文都不會比其<br>純文本的安全程度高 |
 
 傳統來說，為了方便用戶使用密碼系統，折衷起見，中心化的系統的「權益持份者」(stakeholders)持有用戶的賬戶ID、密碼和個人信息授權訪問和服務。但往往這些折衷辦法都會引致無可挽回的副作用，例如數據洩露、強迫和勒索攻擊。幸運的是，現代密碼學技術賦予了設計者空間創造更優質的密碼系統：既可以剝奪這些傳統常規的權利和權力，同時不影響密碼系統的整體可用性！西蒂姆(Citum)充分利用了這些久經考驗的技術構建了一個免費的、開源代碼的、完全去中心化的、[無需准入許可的區塊鏈系統](https://en.wikipedia.org/wiki/Blockchain#Permissionless)，並採用了密碼學上堅不可摧的資訊安全機制，例如 __混合加密系統__、__門限加密系統__、__無差別網樹多點傳送__（IMTM） 和 __分身馬甲帳號__。西蒂姆(Citum)當前的版本能兼容 __文字__、__音像__、__視像__ 和 __即時音訊__ 的數據。使用西蒂姆(Citum)建造的去中心化應用程序（dApp）能享有非凡的數據安全功能，例如 __可推诿性__，非常適合用於建造 **[OTS無記錄通訊](https://en.wikipedia.org/wiki/Off-the-Record_Messaging)即時通訊系統**（OTS-IMS）。
 
