@@ -8,7 +8,7 @@ googlefonts: ["Roboto Condensed"]
 
 眾所周知，訴諸中央化權威性和新穎性是謬誤的思維。但不幸的是，這種認知不曾妨礙看似值得信賴的中心化管理機構和自詡的專家持續向用戶兜售更新穎的資訊安全技術。可惜這些技術屢屢發生意外，更讓用戶後悔盲從了，例如[瑞士Crypto公司的安全漏洞機器](https://en.wikipedia.org/wiki/Crypto_AG#Compromised_machines)、[Skype的竊聽後門](https://en.wikipedia.org/wiki/Skype_security#Eavesdropping_by_design)、[英國「维涅提行動」(Operation Venetic)破譯EncroChat](https://en.wikipedia.org/wiki/EncroChat)和[其他臭名昭著的數據洩露](https://en.wikipedia.org/wiki/List_of_data_breaches)。有見及此，西蒂姆(Citum)作出了三個悲觀但嚴謹的資訊安全設計前設。
 
-|:--:|:--|
+|--:|:--|
 | **無人可信** | 密碼系統中的任何參與者<br>都邪惡和容易犯錯 |
 | **權力腐敗** | 一個用戶持有的任何權利<br>都將會產生負面影響 |
 | **加密無用** | 任何密文都不會比其<br>純文本的安全程度高 |
@@ -17,7 +17,7 @@ googlefonts: ["Roboto Condensed"]
 
 As we all know, it is fallacious thinking to appeal to centralized authority and novelty. But unfortunately, this knowledge cannot prevent seemingly trustworthy centralized governing bodies and self-proclaimed experts from peddling ever fancier InfoSec technologies to their users. A laundry list of disappointments has been blindsiding these users, such as [Swiss Crypto AG's compromised machines](https://en.wikipedia.org/wiki/Crypto_AG#Compromised_machines), [Skype's eavesdropping by design](https://en.wikipedia.org/wiki/Skype_security#Eavesdropping_by_design), [Operation Venetic's encryption crackdown on EncroChat](https://en.wikipedia.org/wiki/EncroChat) and [other infamous data breaches](https://en.wikipedia.org/wiki/List_of_data_breaches). In view of these repeated incidents, Citium proposes three (3) pessimistic yet stringent InfoSec design premises.
 
-|:--:|:--|
+|--:|:--|
 | **Trust<br>No One** | Any participant in a cryptosystem is evil by nature and fallible. |
 | **Power<br>Corrupts** | Whatever rights a user may hold will have adversely affect. |
 | **Encrypt<br>in Vain** | Any ciphertext is not more secure than its plaintext counterpart. |
