@@ -6,7 +6,7 @@ bigimg: /img/node.jpg
 googlefonts: ["Roboto Condensed"]
 ---
 
-眾所周知，訴諸中央化權威性和新穎性是謬誤的思維。但不幸的是，這種認知不曾妨礙看似值得信賴的中心化管理機構和自詡的專家持續向用戶兜售更新穎的資訊安全技術。這些技術都屢屢使人失望，讓用戶震惊和後悔盲從了，例如[瑞士Crypto公司的安全漏洞機器](https://en.wikipedia.org/wiki/Crypto_AG#Compromised_machines)、[Skype的竊聽後門](https://en.wikipedia.org/wiki/Skype_security#Eavesdropping_by_design)、[英國「维涅提行動」(Operation Venetic)破譯EncroChat](https://en.wikipedia.org/wiki/EncroChat)和[其他臭名昭著的數據洩露](https://en.wikipedia.org/wiki/List_of_data_breaches)。有見及此，西蒂姆(Citum)作出了兩個悲觀但嚴謹的資訊安全設計前設：
+眾所周知，訴諸中央化權威性和新穎性是謬誤的思維。但不幸的是，這種認知不曾妨礙看似值得信賴的中心化管理機構和自詡的專家持續向用戶兜售更新穎的資訊安全技術。可惜這些技術屢屢發生意外，更讓用戶後悔盲從了，例如[瑞士Crypto公司的安全漏洞機器](https://en.wikipedia.org/wiki/Crypto_AG#Compromised_machines)、[Skype的竊聽後門](https://en.wikipedia.org/wiki/Skype_security#Eavesdropping_by_design)、[英國「维涅提行動」(Operation Venetic)破譯EncroChat](https://en.wikipedia.org/wiki/EncroChat)和[其他臭名昭著的數據洩露](https://en.wikipedia.org/wiki/List_of_data_breaches)。有見及此，西蒂姆(Citum)作出了兩個悲觀但嚴謹的資訊安全設計前設：
 
 1. **密碼系統中的任何「權益持份者」（用戶節點或服務節點）本質都邪惡和容易犯錯；**
 2. **「權益持份者」可能持有的任何權利和權力都將會對負面影響某些其他系統參與者。**
