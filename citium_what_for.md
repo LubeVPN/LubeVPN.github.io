@@ -6,7 +6,7 @@ bigimg: /img/node.jpg
 googlefonts: ["Roboto Condensed"]
 ---
 
-訴諸新穎性和中央化權威性是謬誤的思維。但不幸地，常規的網絡安全一直專注於由自詡的專家和看似值得信賴的管理機構所兜售的更新穎技術。這些技術都屢屢令人失望，歷來有被詳盡記載和被檢討，例如[瑞士Crypto公司的安全漏洞機器](https://en.wikipedia.org/wiki/Crypto_AG#Compromised_machines)、[Skype的竊聽後門](https://en.wikipedia.org/wiki/Skype_security#Eavesdropping_by_design)、[英國「维涅提行動」(Operation Venetic)破譯EncroChat](https://en.wikipedia.org/wiki/EncroChat)和[其他臭名昭著的數據洩露](https://en.wikipedia.org/wiki/List_of_data_breaches)。
+眾所周知，訴諸中央化權威性和新穎性是謬誤的思維。但不幸的是，這種認知不曾妨礙看似值得信賴的中心化管理機構和自詡的專家持續向用戶兜售更新穎的系統安全技術。這些技術都屢屢使人失望，讓用戶震惊和後悔盲從了，例如[瑞士Crypto公司的安全漏洞機器](https://en.wikipedia.org/wiki/Crypto_AG#Compromised_machines)、[Skype的竊聽後門](https://en.wikipedia.org/wiki/Skype_security#Eavesdropping_by_design)、[英國「维涅提行動」(Operation Venetic)破譯EncroChat](https://en.wikipedia.org/wiki/EncroChat)和[其他臭名昭著的數據洩露](https://en.wikipedia.org/wiki/List_of_data_breaches)。
 
 傳統來說，為了方便用戶使用密碼系統，折衷起見，中心化的系統的「權益持份者」(stakeholders)持有用戶的賬戶ID、密碼和個人信息授權訪問和服務。但往往這些折衷都會引致無可挽回的副作用，例如數據洩露、強迫和勒索攻擊。反之，西蒂姆(Citum)設計者對密碼系統有極高的要求，作出了兩個悲觀但嚴謹的設計前設：
 
@@ -15,7 +15,7 @@ googlefonts: ["Roboto Condensed"]
 
 幸運的是，現代密碼學技術賦予了設計者空間創造更優質的密碼系統：既可以剝奪這些傳統常規的權利和權力，同時不影響密碼系統的整體可用性！西蒂姆(Citum)充分利用了這些久經考驗的技術，創製了一個免費的、開源代碼的、完全去中心化的、[無需准入許可的區塊鏈系統](https://en.wikipedia.org/wiki/Blockchain#Permissionless)，並採用了密碼學上堅不可摧的信息安全機制，例如 __混合加密系統__、__門限加密系統__、__無差別網樹多點傳送__（IMTM） 和 __分身馬甲帳號__。西蒂姆(Citum)當前的版本能兼容 __文字__、__音像__、__視像__ 和 __即時音訊__ 的數據。使用西蒂姆(Citum)建造的去中心化應用程序（dApp）能享有非凡的數據安全功能，例如 __可推诿性__，非常適合用於建造 **[OTS無記錄通訊](https://en.wikipedia.org/wiki/Off-the-Record_Messaging)即時通訊系統**（OTS-IMS）。
 
-It is fallacious thinking to appeal to novelty and centralized authority. But unfortunately, conventional cybersecurity has been focusing on ever fancier technologies peddled by self-proclaimed experts and seemingly trustworthy centralized governing bodies. A laundry list of disappointments has been documented and reviewed, such as [Swiss Crypto AG's compromised machines](https://en.wikipedia.org/wiki/Crypto_AG#Compromised_machines), [Skype's eavesdropping by design](https://en.wikipedia.org/wiki/Skype_security#Eavesdropping_by_design), [Operation Venetic's encryption crackdown on EncroChat](https://en.wikipedia.org/wiki/EncroChat) and [other infamous data breaches](https://en.wikipedia.org/wiki/List_of_data_breaches).
+As we all know, it is fallacious thinking to appeal to centralized authority and novelty. But unfortunately, the knowledge cannot prevent seemingly trustworthy centralized governing bodies and self-proclaimed experts all too often peddle ever fancier InfoSec technologies to their users. A laundry list of disappointments has been blindsiding these users, such as [Swiss Crypto AG's compromised machines](https://en.wikipedia.org/wiki/Crypto_AG#Compromised_machines), [Skype's eavesdropping by design](https://en.wikipedia.org/wiki/Skype_security#Eavesdropping_by_design), [Operation Venetic's encryption crackdown on EncroChat](https://en.wikipedia.org/wiki/EncroChat) and [other infamous data breaches](https://en.wikipedia.org/wiki/List_of_data_breaches).
 
 Conventionally, compromising with usability, centralized stakeholders of a cryptosystem hold users' account ID, password, and personal information to authorize access and service, which may all lead to irreparable blowback, such as data breaches, coercion and blackmail attacks. In contrast, cryptosystem designers of Citium propose two pessimistic yet stringent design premises:
 
