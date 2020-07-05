@@ -106,9 +106,9 @@ Lube VPN does not record network routing information, such as originating IP and
 
 ## <i class="fa fa-calendar-plus-o" aria-hidden="true"></i> 通行證書續時<br>CERT Renewal
 
-<i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN以现收现付的方式向付费会员提供VPN服务，以维护全球多个服务器。
+<i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN以現收現付的方式向付費會員提供VPN服務，因為VPN流量需要我們維護部署在全球多國的VPN服務器。
 
-<i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN provided VPN service to paying members on a pay-as-you-go basis to maintain multiple servers around the world.
+<i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN provided VPN service to paying members on a pay-as-you-go basis because the sheer traffic volume of VPN require us to maintain multiple servers in different countries around the world.
 
 ### <i class="fa fa-clock-o" aria-hidden="true"></i> 續時抵值費率<br>Renewal Rate
 
