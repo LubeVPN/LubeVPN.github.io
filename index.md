@@ -19,29 +19,33 @@ Citium Client app and its Instant Messenger (CIM) <i class='fa fa-envelope-squar
 <a href="https://www.unicorn001.tk/uploads/citium.apk"><i class="fa fa-download" aria-hidden="true"></i> 下載 西蒂姆(Citum)客戶端 安卓APK</a><br><a href="https://www.unicorn001.tk/uploads/citium.apk"><i class="fa fa-download" aria-hidden="true"></i> Download Citium Client Android APK</a>
 {: .myDownloadButton}
 
+找一名持有有效的（即，未逾期的）<i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN《通行證書》的好友，例如 Alice。通過頻外密鑰驗證（OOBA）添加她成爲 Citium 即時聊天應用（CIM）<i class='fa fa-envelope-square' style='color:blue'></i> 中的聯絡人。于通行證書版面  <i class='fa fa-certificate' style='color:blue'></i> 創建一張屬於你自己的《免費通行證書》，其詳情將會被自動複製到設備的剪贴板。在你與 Alice 的聊天對話框中黏貼、發送該詳情給她，然後等待她簽署它。Alice 完成簽署它後，你會在對話框中收到一個互動信息按鈕，你按下該按鈕即可完成導入該已簽署的《免費通行證書》到設備內。在「設定」<i class='fa fa-cogs' style='color:blue'></i>，撥亮<i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN的切換鍵請求服務授權。如果授權成功，切換鍵轉成綠色 <i class='fa fa-toggle-on' style='color:green'></i>。
+
+Find a friend (e.g. Alice) who holds a valid (i.e. unexpired) <i class='fa fa-rocket'></i> LubeVPN CERT. Add Alice as your new Contact in your Citium Instant Messenger (CIM) <i class='fa fa-envelope-square' style='color:blue'></i> via out-of-band authentication. Go to the Certificate page <i class='fa fa-certificate' style='color:blue'></i> to copy your CERT, paste and send the details via the dialogue box between you and Alice and wait for her to sign it. Once Alice signs it, you will receive an interactive message button in the dialogue box. You press the button to import the signed FREE CERT to your device. In General Settings <i class='fa fa-cogs' style='color:blue'></i>, turn on the <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN toggle switch to request authorization to VPN service. Toggle switch turns to green <i class='fa fa-toggle-on' style='color:green'></i> if the authorization succeeds.
+
 1. 下載、安裝、開啟西蒂姆(Citium)客戶端
 2. <i class='fa fa-envelope-square' style='color:blue'></i> > <i class="fa fa-user-plus" style='color:blue'></i> 加一位 CIM 聯絡人 <i class='fa fa-user' style='color:purple'></i>
 - <i class='fa fa-user' style='color:purple'></i> 必須持有有效通行證書 <i class='fa fa-certificate' style='color:green'></i> †
+- 通過頻外密鑰驗證（OOBA）添加 <i class='fa fa-user' style='color:purple'></i>
 3. <i class='fa fa-cogs' style='color:blue'></i> > <i class='fa fa-certificate' style='color:blue'></i> > <i class='fa fa-files-o' style='color:blue'></i> 複製你的《免費通行證書》<i class='fa fa-certificate' style='color:chocolate'></i>
 4. <i class='fa fa-envelope-square' style='color:blue'></i> > <i class='fa fa-clipboard' style='color:blue'></i> 黏貼發送 <i class='fa fa-certificate' style='color:chocolate'></i> 給 <i class='fa fa-user' style='color:purple'></i>
 5. 等 <i class='fa fa-user' style='color:purple'></i> 簽署您的 <i class='fa fa-certificate' style='color:chocolate'></i>
 6. <i class='fa fa-cogs' style='color:blue'></i> > <i class='fa fa-toggle-on' style='color:green'></i> 撥亮切換鍵開始試用！
 
 {: .box-note}
-† **有效通行證書** <i class='fa fa-certificate' style='color:green'></i> 是已簽署的和未過期的《通行證書》。它好比一張入場券能授權持有人使用 <i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN服務。參閱[安裝試用](../installation)。<br>
-**有效通行證書** <i class='fa fa-certificate' style='color:green'></i> 更可以讓持有者簽署其西蒂姆即時聊天工具上其他聯絡人的《免費通行證書》<i class='fa fa-certificate' style='color:chocolate'></i>；假如他們試用服務後決定成為續時抵值會員，簽署者更可以賺取獎勵積分！參閱[推薦人計劃](../referral)。
+† **有效通行證書** <i class='fa fa-certificate' style='color:green'></i> 是已簽署的和未過期的《通行證書》。它好比一張入場券能授權持有人使用 <i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN服務。**有效通行證書** <i class='fa fa-certificate' style='color:green'></i> 更可以讓持有者簽署其西蒂姆即時聊天工具上其他聯絡人的《免費通行證書》<i class='fa fa-certificate' style='color:chocolate'></i>；假如他們試用服務後決定成為續時抵值會員，簽署者更可以賺取獎勵積分！參閱[推薦人計劃](../referral)。
 
 1. Download, install & open Citium Client
 2. <i class='fa fa-envelope-square' style='color:blue'></i> > <i class="fa fa-user-plus" style='color:blue'></i> Add a CIM Contact <i class='fa fa-user' style='color:purple'></i>
 - <i class='fa fa-user' style='color:purple'></i> must holds a valid CERT <i class='fa fa-certificate' style='color:green'></i> †
+- Add <i class='fa fa-user' style='color:purple'></i> via out-of-band authentication.
 3. <i class='fa fa-cogs' style='color:blue'></i> > <i class='fa fa-certificate' style='color:blue'></i> > <i class='fa fa-files-o' style='color:blue'></i> Copy your FREE CERT <i class='fa fa-certificate' style='color:chocolate'></i>
 4. <i class='fa fa-envelope-square' style='color:blue'></i> > <i class='fa fa-clipboard' style='color:blue'></i> Paste & send <i class='fa fa-certificate' style='color:chocolate'></i> to <i class='fa fa-user' style='color:purple'></i>
 5. Wait for <i class='fa fa-user' style='color:purple'></i> to sign your <i class='fa fa-certificate' style='color:chocolate'></i>
 6. <i class='fa fa-cogs' style='color:blue'></i> > <i class='fa fa-toggle-on' style='color:green'></i> Turn on toggle to start FREE Trial!
 
 {: .box-note}
-† A **valid CERT** <i class='fa fa-certificate' style='color:green'></i> is a signed & unexpired CERT, functioning as a ticket/pass, authorizes its holder to access <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN service. Read the [Install Trial](../installation) page for more information.<br>
-A **valid CERT** <i class='fa fa-certificate' style='color:green'></i> also enables its holder to sign the FREE CERTs of his/her Citium Instant Messenger (CIM) Contacts. If they decides to pay for or renew their memberships, he/she is eligible to earn redeemable points! Read the [Referral Program](../referral) page for more information.
+† A **valid CERT** <i class='fa fa-certificate' style='color:green'></i> is a signed & unexpired CERT, functioning as a ticket/pass, authorizes its holder to access <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN service. A **valid CERT** <i class='fa fa-certificate' style='color:green'></i> also enables its holder to sign the FREE CERTs of his/her Citium Instant Messenger (CIM) Contacts. If they decides to pay for or renew their memberships, he/she is eligible to earn redeemable points! Read the [Referral Program](../referral) page for more information.
 
 ## <i class="fa fa-globe" aria-hidden="true"></i> 繞過萬里網審<br>Censorship Circumvention
 
