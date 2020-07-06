@@ -10,9 +10,9 @@ googlefonts: ["Roboto Condensed"]
 
 |#| **設計前設** | 描述 |
 |:--:|:--:|:--|
-|1| **無人可信** | 密碼系統中的任何參與者<br>都邪惡和容易犯錯 |
-|2| **權力腐敗** | 一個用戶持有的任何權利<br>都將會產生負面影響 |
-|3| **天下无密** | 任何密文都不會比其<br>純文本的安全程度高 |
+|**1**| **無人可信** | 密碼系統中的任何參與者<br>都邪惡和容易犯錯 |
+|**2**| **權力腐敗** | 一個用戶持有的任何權利<br>都將會產生負面影響 |
+|**3**| **天下无密** | 任何密文都不會比其<br>純文本的安全程度高 |
 
 在西蒂姆的密碼系統生態內進行任何資訊交互，即使是有 **1、參與者作惡**；**2、權柄被濫用**；和 **3、密文被破解**，西蒂姆用戶都能理直氣壯地否認哪怕是他本人曾經參與過的資訊交互行為。這種 **「可推諉性」** 的安全設計**大大降低了任何競爭對手和司法機關偵查取證的慾望**，因為西蒂姆的設計註定其資訊本質真假難辨，不論規模多麼龐大、做工多麼精細的網絡安全偵查取證，最終都只會是徒勞無功的。
 
@@ -20,9 +20,9 @@ As we all know, it is fallacious thinking to appeal to centralized authority and
 
 |#| **Design Premises** | Description |
 |:--:|:--:|:--|
-|1| **Trust No One** | Any participant in a cryptosystem<br>is evil by nature and fallible. |
-|2| **Power Corrupts** | Whatever rights a user may hold<br>will have adversely affect. |
-|3| **No Secrecy** | Any ciphertext is not more secure<br>than its plaintext counterpart. |
+|**1**| **Trust No One** | Any participant in a cryptosystem<br>is evil by nature and fallible. |
+|**2**| **Power Corrupts** | Whatever rights a user may hold<br>will have adversely affect. |
+|**3**| **No Secrecy** | Any ciphertext is not more secure<br>than its plaintext counterpart. |
 
 Data interactions within the cryptosystem of Citium, even if there are successfully orchestrated **1. mischief**; **2. power abuse;** and **3. ciphertext hack**, user can justifiably deny that he or she has ever been involved. **Reputability greatly reduces the desire of any competitor or judicial authority to investigate and obtain evidence** because all security forensics are futile, no matter how extensive and meticulous they are. Citium design inevitably makes the data itself inadmissible.
 
