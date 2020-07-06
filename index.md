@@ -6,9 +6,9 @@ bigimg: /img/rain3.jpg
 googlefonts: ["Roboto Condensed"]
 ---
 
-<i class='fa fa-rocket' style='color:DimGrey'></i> **順道VPN** 是基於開源及完全去中心化的[__西蒂姆(Citum)__](../citium_what_for)開發的 **突破網絡審查（陸：翻墻、科學上網）的VPN工具**。它把坊間流行的VPN系統作出了比較重大的改良和升級，幫助用戶克服了重大應用疼點。<i class='fa fa-rocket' style='color:DimGrey'></i> **順道VPN** 用戶以安全數碼證書（**“通行證書”**）<i class='fa fa-certificate'></i> 間接地通過[西蒂姆(Citum)](../citium_what_for)的去中心化網絡節點獲取用戶身份認證，而不是使用用戶名及密碼組合在VPN服務器上直接進行認證。
+<i class='fa fa-rocket' style='color:DimGrey'></i> **順道VPN** 是基於開源及完全去中心化的[__西蒂姆(Citum)__](../citium_what_for)開發的 **突破網絡審查（陸：翻墻、科學上網）的VPN工具**。它把坊間流行的VPN系統作出了比較重大的改良和升級，幫助用戶克服了重大應用[技術疼點](#-%E5%82%B3%E7%B5%B1vpn%E7%BF%BB%E5%A2%99%E7%9A%84%E7%96%BC%E9%BB%9Epain-point)。<i class='fa fa-rocket' style='color:DimGrey'></i> **順道VPN** 用戶以安全數碼證書（**“通行證書”**）<i class='fa fa-certificate'></i> 間接地通過[西蒂姆(Citum)](../citium_what_for)的去中心化網絡節點獲取用戶身份認證，而不是使用用戶名及密碼組合在VPN服務器上直接進行認證。
 
-<i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN is an VPN Internet censorship circumvention application built on an open-source and fully decentralized technology: [__Citium__](../citium_what_for). It is a radical departure and upgrade from all the popular VPN systems in the open marketspace, overcoming a major pain point experienced by most of their users. <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN users authenticate indirectly through [__Citium__](../citium_what_for) decentralized network of nodes using their secure digital certificates (**“CERT”**) <i class='fa fa-certificate'></i> instead of directly through the VPN servers using username/password combinations.
+<i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN is an VPN Internet censorship circumvention application built on an open-source and fully decentralized technology: [__Citium__](../citium_what_for). It is a radical departure and upgrade from all the popular VPN systems in the open marketspace, resolving a major [technical pain point](#-%E5%82%B3%E7%B5%B1vpn%E7%BF%BB%E5%A2%99%E7%9A%84%E7%96%BC%E9%BB%9Epain-point). <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN users authenticate indirectly through [__Citium__](../citium_what_for) decentralized network of nodes using their secure digital certificates (**“CERT”**) <i class='fa fa-certificate'></i> instead of directly through the VPN servers using username/password combinations.
 
 ## <i class="fa fa-spinner" aria-hidden="true"></i> 免費試用<br>FREE TRIAL
 
@@ -55,7 +55,7 @@ Find a friend (e.g. Alice) who holds a valid (i.e. unexpired) <i class='fa fa-ro
 
 <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN is built on [Citium](../citium_what_for). Citium's decentralized network identity and data obfuscation technology enables <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN users to surf the Internet anonymously and freely. Moreover, <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN can **circumvent the strictest Internet censorship that most other VPN service providers cannot circumvent** so that users can access and surf any blocked content smoothly.
 
-### <i class="fa fa-thumb-tack" aria-hidden="true"></i> 傳統VPN翻墙的疼點<br>Pain Point
+### <i class="fa fa-thumb-tack" aria-hidden="true"></i> 傳統VPN技術疼點<br>Technical Pain Point
 
 一方面，世界各地的監管部門利用互聯網審查系統來控制和壓制互聯網內容；另一方面，網民千方百計地設法規避，例用VPN軟件服務去訪問封禁了的網域和IP地址。這些VPN軟件服務有時候能奏效，但絕大多數都不起作用，因為監管部門一直在升級他們的審查技術。個別審查機制的技術領先程度已經超出了一般人的想象，不止限制用戶訪問敏感的網絡域名和IP地址，更會使用機器學習算法來分析互聯網訊息交互數據，鎖定VPN的訊息交互特征以阻止其用戶訪問服務。**那些還在用老套的「用戶名/密碼」組合去作為身份驗證機制的VPN服務，在這些侵擾性審查機制面前顯得不堪一擊、格外脆弱**。
 
