@@ -40,7 +40,7 @@ Find a friend (e.g. Alice) who holds a valid (i.e. unexpired) <i class='fa fa-ro
 2. <i class='fa fa-envelope-square' style='color:blue'></i> > <i class="fa fa-user-plus" style='color:blue'></i> Add a CIM Contact <i class='fa fa-user' style='color:purple'></i>
 - <i class='fa fa-user' style='color:purple'></i> must holds a valid CERT <i class='fa fa-certificate' style='color:green'></i> †
 - Add <i class='fa fa-user' style='color:purple'></i> via out-of-band authentication.
-3. <i class='fa fa-cogs' style='color:blue'></i> > <i class='fa fa-certificate' style='color:blue'></i> > <i class='fa fa-files-o' style='color:blue'></i> Copy your FREE CERT <i class='fa fa-certificate' style='color:chocolate'></i>
+3. <i class='fa fa-cogs' style='color:blue'></i> > <i class='fa fa-certificate' style='color:blue'></i> > <i class='fa fa-files-o' style='color:blue'></i> Copy FREE CERT <i class='fa fa-certificate' style='color:chocolate'></i>
 4. <i class='fa fa-envelope-square' style='color:blue'></i> > <i class='fa fa-clipboard' style='color:blue'></i> Paste & send <i class='fa fa-certificate' style='color:chocolate'></i> to <i class='fa fa-user' style='color:purple'></i>
 5. Wait for <i class='fa fa-user' style='color:purple'></i> to sign your <i class='fa fa-certificate' style='color:chocolate'></i>
 6. <i class='fa fa-cogs' style='color:blue'></i> > <i class='fa fa-toggle-on' style='color:green'></i> Turn on toggle.
