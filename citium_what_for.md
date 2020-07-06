@@ -21,7 +21,7 @@ As we all know, it is fallacious thinking to appeal to centralized authority and
 
 |#| **Design Premises** | Description |
 |:--:|:--:|:--|
-|**1**| **Trust<br>No One** | Any participant in a cryptosystemis evil by nature and fallible. |
+|**1**| **Trust<br>No One** | Any participant in a cryptosystem is evil by nature and fallible. |
 |**2**| **Power<br>Corrupts** | Whatever rights a user may hold will have adversely affect. |
 |**3**| **No<br>Secrecy** | Any ciphertext is not more secure than its plaintext counterpart. |
 
