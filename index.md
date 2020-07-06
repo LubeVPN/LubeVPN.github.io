@@ -65,7 +65,7 @@ On the one hand, regulators use Internet censorship systems to control and suppr
 
 All VPN service providers have to authenticate their users' access rights before authorizing access. Conventional VPN service providers authenticate their users through user-side client to VPN-side server communication (i.e. two-way handshake <i class="fa fa-exchange" aria-hidden="true"></i>), which exhibit easily detectable traffic patterns. In fact, **the more popular a VPN service becomes, the more susceptible it is to suppression** because its tens of thousands of two-way handshake that happens on the Internet are simply too conspicuous. Hence, most of the popular VPN brands fail to circumvent network censorship that's getting more and more stringent.
 
-### <i class="fa fa-life-ring" aria-hidden="true"></i> 順道VPN 去中心化的解决方案<br>LubeVPN Decentralized Solution
+### <i class="fa fa-life-ring" aria-hidden="true"></i> 去中心化的解决方案<br>Decentralized Solution
 
 相比之下，<i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN 的用戶不使用傳統的、與VPN服務器的雙向握手 <i class="fa fa-exchange" aria-hidden="true"></i> 進行認證，而是通[西蒂姆(Citum)](../citium_what_for)的分佈式網絡節點進行認證。與傳統的雙向握手不同，**<i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN 的認證更像是通過[西蒂姆(Citum)](../citium_what_for)的隨機節點進行多向握手 <i class="fa fa-random" aria-hidden="true"></i>**。用戶只可以通過西蒂姆(Citum)網絡節點間接地與VPN服務器接觸，直到VPN訪問被授權為止，不產生明顯訊息交互特征。事實上，西蒂姆(Citum)客戶端App應用越是流行（即，節點越多），用戶認證過程中產生的多向握手 <i class="fa fa-random" aria-hidden="true"></i> 與普通的互聯網數據就越無法被區分。因此，使用<i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN的互聯網用戶可以規避即便是最嚴酷的審查技術。
 
