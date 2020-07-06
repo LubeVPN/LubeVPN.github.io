@@ -6,9 +6,9 @@ bigimg: /img/rain3.jpg
 googlefonts: ["Roboto Condensed"]
 ---
 
-<i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN是**基於開源及完全去中心化**的[__西蒂姆(Citum)__](../citium_what_for)開發的互聯網隱私及信息加速商業服務應用。它把坊間流行的VPN系統作出了比較重大的改良和升級，實現了一种新型的VPN服务。用戶以安全數碼證書（**“通行證書”**）<i class='fa fa-certificate'></i> 間接地通過[西蒂姆(Citum)](../citium_what_for)的去中心化網絡節點獲取用戶身份認證，而不是使用用戶名及密碼組合在VPN服務器上直接進行認證。
+<i class='fa fa-rocket' style='color:DimGrey'></i> **順道VPN** 是基於開源及完全去中心化的[__西蒂姆(Citum)__](../citium_what_for)開發的 **突破網絡審查（陸：翻墻、科學上網）的VPN工具**。它把坊間流行的VPN系統作出了比較重大的改良和升級，幫助用戶克服了重大應用疼點。<i class='fa fa-rocket' style='color:DimGrey'></i> **順道VPN** 用戶以安全數碼證書（**“通行證書”**）<i class='fa fa-certificate'></i> 間接地通過[西蒂姆(Citum)](../citium_what_for)的去中心化網絡節點獲取用戶身份認證，而不是使用用戶名及密碼組合在VPN服務器上直接進行認證。
 
-<i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN is commercially built on __an open and fully decentralized technology__: [__Citium__](../citium_what_for). It is a radical departure and upgrade from all the popular VPN systems in the open marketspace, instantiating a new type of VPN service. Users authenticate indirectly through [__Citium__](../citium_what_for) decentralized network of nodes using their secure digital certificates (**“CERT”**) <i class='fa fa-certificate'></i> instead of directly through the VPN servers using username/password combinations.
+<i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN is an VPN Internet censorship circumvention application built on an open-source and fully decentralized technology: [__Citium__](../citium_what_for). It is a radical departure and upgrade from all the popular VPN systems in the open marketspace, overcoming a major pain point experienced by most of their users. <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN users authenticate indirectly through [__Citium__](../citium_what_for) decentralized network of nodes using their secure digital certificates (**“CERT”**) <i class='fa fa-certificate'></i> instead of directly through the VPN servers using username/password combinations.
 
 ## <i class="fa fa-spinner" aria-hidden="true"></i> 免費試用<br>FREE TRIAL
 
