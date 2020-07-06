@@ -55,7 +55,7 @@ Find a friend (e.g. Alice) who holds a valid (i.e. unexpired) <i class='fa fa-ro
 
 <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN is built on [Citium](../citium_what_for). Citium's decentralized network identity and data obfuscation technology enables <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN users to surf the Internet anonymously and freely. Moreover, <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN can **circumvent the strictest Internet censorship that most other VPN service providers cannot circumvent** so that users can access and surf any blocked content smoothly.
 
-### <i class="fa fa-thumb-tack" aria-hidden="true"></i> 傳統VPN翻墙的疼點<br>Conventional VPN Pain Point
+### <i class="fa fa-thumb-tack" aria-hidden="true"></i> 傳統VPN翻墙的疼點<br>Pain Point
 
 一方面，世界各地的監管部門利用互聯網審查系統來控制和壓制互聯網內容；另一方面，網民千方百計地設法規避，例用VPN軟件服務去訪問封禁了的網域和IP地址。這些VPN軟件服務有時候能奏效，但絕大多數都不起作用，因為監管部門一直在升級他們的審查技術。個別審查機制的技術領先程度已經超出了一般人的想象，不止限制用戶訪問敏感的網絡域名和IP地址，更會使用機器學習算法來分析互聯網訊息交互數據，鎖定VPN的訊息交互特征以阻止其用戶訪問服務。**那些還在用老套的「用戶名/密碼」組合去作為身份驗證機制的VPN服務，在這些侵擾性審查機制面前顯得不堪一擊、格外脆弱**。
 
