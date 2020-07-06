@@ -24,7 +24,7 @@ As we all know, it is fallacious thinking to appeal to centralized authority and
 |**2**| **Power Corrupts** | Whatever rights a user may hold<br>will have adversely affect. |
 |**3**| **No Secrecy** | Any ciphertext is not more secure<br>than its plaintext counterpart. |
 
-Data interactions within the cryptosystem of Citium, even if there are successfully orchestrated **1. mischief**; **2. power abuse;** and **3. ciphertext hack**, users can justifiably deny that they have ever been involved. **Reputability greatly reduces the desire of any competitor or judicial authority to investigate and obtain evidence** because all security forensics are futile, no matter how extensive and meticulous they are. Citium design inevitably makes the data source obscured and inadmissible.
+Data forensics within the cryptosystem of Citium, even if there are successfully orchestrated through **1. defection**; **2. power abuse;** and **3. ciphertext hack**, users can still justifiably deny that they have ever been involved. **Reputability greatly reduces the desire of any competitor or judicial authority to investigate and obtain evidence** because all security forensics are futile, no matter how extensive and meticulous they are. Citium inevitably makes the data source obscured and inadmissible.
 
 ## 西蒂姆簡介<br>Citium Overview
 
