@@ -133,12 +133,12 @@ Lube VPN does not record network routing information, such as originating IP and
 <i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN用戶可以通過多種 __抵值形式__ 來 __續時__（延長接受服務的週期）。暫時提供給用戶續時的抵值形式有：
 
 {: style="color: DarkRed; font-size: 80%;"}
-| <i class="fa fa-shopping-cart" aria-hidden="true"></i> | 抵值<br>形式 | 優點 | 缺點 |
-|:--:|:--:|:--|:--|
-| <i class="fa fa-btc" aria-hidden="true"></i> | 加密電子幣 | 快捷<br>匿名 | 用戶需懂操作<br>加密電子貨幣交易 |
-| <i class="fa fa-jpy" aria-hidden="true"></i> | 中港台常用 | 快捷<br>简便 | 支付渠道需要<br>索取用户电子邮件 |
-| <i class="fa fa-cloud" aria-hidden="true"></i> | [虛擬卡卡密](../payment_cards) | 快捷<br>簡便 | 卡銷售方可能<br>需索個人身份資料 |
-| <i class="fa fa-envelope" aria-hidden="true"></i> | [實體卡卡劵](../payment_cards) | 免ID<br>資料 | 一般可能需時<br>一至三天才能抵值 |
+| <i class="fa fa-shopping-cart" aria-hidden="true"></i> | 抵值<br>形式 | 優點 |
+|:--:|:--:|:--|
+| <i class="fa fa-btc" aria-hidden="true"></i> | 加密電子幣 | 快捷<br>匿名 |
+| <i class="fa fa-jpy" aria-hidden="true"></i> | 中港台常用 | 快捷<br>简便 |
+| <i class="fa fa-cloud" aria-hidden="true"></i> | [虛擬卡卡密](../payment_cards) | 快捷<br>簡便 |
+| <i class="fa fa-envelope" aria-hidden="true"></i> | [實體卡卡劵](../payment_cards) | 免ID<br>資料 |
 
 用戶先自行選擇一種抵值形式（不允許多種形式混合），採購足夠額度的抵值商品。採購成功後，請隨時通過西蒂姆(Citum)客戶端App內的在線客服[聯絡官方客戶服務](../contact_us)，讓我們協助您完成續時抵值的餘下手續。注：<i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN官方客服只經由西蒂姆(Citum)客戶端App內的在線客服提供咨詢和抵值服務。
 
