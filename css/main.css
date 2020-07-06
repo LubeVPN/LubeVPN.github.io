@@ -853,3 +853,21 @@ pre {
 	position:relative;
 	top:1px;
 }
+
+/* Main Level */
+ul{
+  margin-left:5px;
+  padding-left: 0px;
+}
+
+/* Second Level */
+ul ul{
+  margin-left:7px;
+  padding-left: 0px;
+}
+
+/* Third Level */
+ul ul ul{
+  margin-left:9px;
+  padding-left: 0px;
+}
