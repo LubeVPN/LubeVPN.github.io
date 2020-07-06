@@ -1,19 +1,18 @@
 ---
 layout: page
-title: 為何用西蒂姆？
+title: 西蒂姆
 subtitle: Why use Citium?
 bigimg: /img/node.jpg
 googlefonts: ["Roboto Condensed"]
 ---
 
-眾所周知，訴諸中央化權威性和新穎性是謬誤的思維。但不幸的是，這種認知不曾妨礙看似值得信賴的中心化管理機構和自詡的專家持續向用戶兜售更新穎的資訊安全技術。可惜這些技術屢屢發生意外，例如[瑞士Crypto公司的安全漏洞機器](https://en.wikipedia.org/wiki/Crypto_AG#Compromised_machines)、[Skype的竊聽後門](https://en.wikipedia.org/wiki/Skype_security#Eavesdropping_by_design)、[英國「维涅提行動」(Operation Venetic)破譯EncroChat](https://en.wikipedia.org/wiki/EncroChat)和[其他臭名昭著的數據洩露](https://en.wikipedia.org/wiki/List_of_data_breaches)。這些種種意外都讓用戶後悔盲從，不應該再盲目相信業界推廣的各種看似專業的安全技術。有見及此，西蒂姆(Citum)作出了三個悲觀但嚴謹的資訊安全設計前設。
+**為什麼要使用西蒂姆(Citium)？** 眾所周知，訴諸中央化權威性和新穎性是謬誤的思維。但不幸的是，這種認知不曾妨礙看似值得信賴的中心化管理機構和自詡的專家持續向用戶兜售更新穎的資訊安全技術。可惜這些技術屢屢發生意外，例如[瑞士Crypto公司的安全漏洞機器](https://en.wikipedia.org/wiki/Crypto_AG#Compromised_machines)、[Skype的竊聽後門](https://en.wikipedia.org/wiki/Skype_security#Eavesdropping_by_design)、[英國「维涅提行動」(Operation Venetic)破譯EncroChat](https://en.wikipedia.org/wiki/EncroChat)和[其他臭名昭著的數據洩露](https://en.wikipedia.org/wiki/List_of_data_breaches)。這些種種意外都讓用戶後悔盲從，不應該再盲目相信業界推廣的各種看似專業的安全技術。有見及此，西蒂姆(Citum)作出了三個悲觀但嚴謹的資訊安全設計前設。
 
 |#| **設計前設** | 描述 |
 |:--:|:--:|:--|
-|**1**| **無人可信** | 密碼系統中的任何參與者<br>都邪惡和容易犯錯 |
-|**2**| **權力腐敗** | 一個用戶持有的任何權利<br>都將會產生負面影響 |
-|**3**| **天下無密** | 任何密文都不會比其<br>純文本的安全程度高 |
-|**4**| **言行** | 任何密文都不會比其<br>純文本的安全程度高 |
+|**1**| **無人<br>可信** | 密碼系統中的任何參與者都邪惡和容易犯錯 |
+|**2**| **權力<br>腐敗** | 一個用戶持有的任何權利都將會產生負面影響 |
+|**3**| **天下<br>無密** | 任何密文都不會比其純文本的安全程度高 |
 
 
 就算一個入侵者成功通過 **1、挑撥策反**；**2、濫用權柄**；或 **3、破解密文** 發現了私人數據，西蒂姆用戶都能理直氣壯地否認曾經參與過，因為西蒂姆的設計註定其資訊本質真假難辨，不論規模多麼龐大、做工多麼精細的網絡安全偵查取證，最終都只會是徒勞無功的。**「可推諉性」大大降低了任何競爭對手和司法機關偵查取證的慾望**。
@@ -22,9 +21,9 @@ As we all know, it is fallacious thinking to appeal to centralized authority and
 
 |#| **Design Premises** | Description |
 |:--:|:--:|:--|
-|**1**| **Trust No One** | Any participant in a cryptosystem<br>is evil by nature and fallible. |
-|**2**| **Power Corrupts** | Whatever rights a user may hold<br>will have adversely affect. |
-|**3**| **No Secrecy** | Any ciphertext is not more secure<br>than its plaintext counterpart. |
+|**1**| **Trust<br>No One** | Any participant in a cryptosystemis evil by nature and fallible. |
+|**2**| **Power<br>Corrupts** | Whatever rights a user may hold will have adversely affect. |
+|**3**| **No<br>Secrecy** | Any ciphertext is not more secure than its plaintext counterpart. |
 
 In face of an intruder successfully uncovering private data in Citium through **1. inciting defection**; **2. power abuse;** or **3. ciphertext hack**, Citium users can still justifiably deny that they have ever been involved because all security forensics are futile, no matter how extensive and meticulous they are. Citium inevitably makes the data source obscured and inadmissible. **Reputability greatly reduces the desire of any competitor or judicial authority to investigate and obtain evidence**.
 
