@@ -8,7 +8,7 @@ googlefonts: ["Roboto Condensed"]
 
 **為什麼要使用西蒂姆(Citium)？** 眾所周知，訴諸中央化權威性和新穎性是謬誤的思維。但不幸的是，這種認知不曾妨礙看似值得信賴的中心化管理機構和自詡的專家持續向用戶兜售更新穎的資訊安全技術。可惜這些技術屢屢發生意外，例如[瑞士Crypto公司的安全漏洞機器](https://en.wikipedia.org/wiki/Crypto_AG#Compromised_machines)、[Skype的竊聽後門](https://en.wikipedia.org/wiki/Skype_security#Eavesdropping_by_design)、[英國「维涅提行動」(Operation Venetic)破譯EncroChat](https://en.wikipedia.org/wiki/EncroChat)和[其他臭名昭著的數據洩露](https://en.wikipedia.org/wiki/List_of_data_breaches)。這些種種意外都讓用戶後悔盲從，不應該再盲目相信業界推廣的各種看似專業的安全技術。有見及此，西蒂姆(Citum)作出了三個悲觀但嚴謹的資訊安全設計前設。
 
-|#| **設計前設** | 描述 |
+|#| **設計<br>前設** | 描述 |
 |:--:|:--:|:--|
 |**1**| **無人<br>可信** | 密碼系統中的任何參與者都邪惡和容易犯錯 |
 |**2**| **權力<br>腐敗** | 一個用戶持有的任何權利都將會產生負面影響 |
