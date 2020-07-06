@@ -116,7 +116,7 @@ Lube VPN does not record network routing information, such as originating IP and
 
 推廣活動期間，費率按續時週期收費。一次性續時週期越長則折扣優惠越大、可享受流量封頂越大。
 
- {: style="color: navy; font-size: 120%; table-align: center;"}
+ {: style="color: navy; font-size: 90%; table-align: center;"}
  | 套餐<br>價格<br>(美元) | 享用<br>時長<br>(日)  | 流量<br>封頂<br>(/30日) | 相當於<br>流媒體<br>(/30日) |
  |:--:|--:|:--:|:--:|
  | $12.95 | 30 | 100 GB † | 380 hr ‡ |
@@ -133,7 +133,7 @@ Lube VPN does not record network routing information, such as originating IP and
 <i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN用戶可以通過多種 __抵值形式__ 來 __續時__（延長接受服務的週期）。暫時提供給用戶續時的抵值形式有：
 
 {: style="color: DarkRed; font-size: 80%;"}
-| <i class="fa fa-shopping-cart" aria-hidden="true"></i> | 抵值形式 | 優點 | 缺點 |
+| <i class="fa fa-shopping-cart" aria-hidden="true"></i> | 抵值<br>形式 | 優點 | 缺點 |
 |:--:|:--:|:--|:--|
 | <i class="fa fa-btc" aria-hidden="true"></i> | 加密電子幣 | 快捷<br>匿名 | 用戶需懂操作<br>加密電子貨幣交易 |
 | <i class="fa fa-jpy" aria-hidden="true"></i> | 中港台常用 | 快捷<br>简便 | 支付渠道需要<br>索取用户电子邮件 |
