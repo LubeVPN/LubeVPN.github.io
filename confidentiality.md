@@ -6,9 +6,9 @@ bigimg: /img/conf.jpg
 googlefonts: ["Roboto Condensed"]
 ---
 
-大多數傳統即時通訊系統（IMS）是基於中心化身份驗證和授權機制去確保資訊安全的，可惜任何中央化的系統都無可避免地需要承擔[數據洩露](https://en.wikipedia.org/wiki/Data_breach)的風險。（[詳述](../fallible_providers)）對比起來，西蒂姆(Citum)是由眾多節點網絡鋪墊出來的去中心化系統，在它的基礎上面搭建的IMS就不再需要承擔這種風險。舉例，假設兩個用戶試圖在西蒂姆(Citum)通訊。發件人是 Alice，預期收件人是 Bob。第三者是無法確認得知自己是否已經正確地解密得到 Alice 給 Bob 的訊息的，因為西蒂姆(Citum)用了以下的安全機制：1、[**PGP加密**](https://zh.wikipedia.org/zh-tw/PGP)；2、__無差別網樹多點傳送（IMTM）__**門限加密系統**；3、**秘鑰/信息疑義**。PGP太流行了，不需要再解釋了。但是「密鑰/消息疑義」比較少人認識，而「IMTM門限加密系統」是西蒂姆(Citum)獨有的，所以我們會花更多的時間來解釋它們的資訊安全優勢。
+大多數傳統即時通訊系統（IMS）是基於中心化身份驗證和授權機制去確保資訊安全的，可惜任何中央化的系統都無可避免地需要承擔[數據洩露](https://en.wikipedia.org/wiki/Data_breach)的風險。（[詳述](../fallible_providers)）對比起來，西蒂姆(Citum)是由眾多網絡節點 <i class='fa fa-cubes'></i> 鋪墊出來的去中心化系統，在它的基礎上面搭建的IMS就不再需要承擔這種風險。舉例，假設兩個用戶試圖在西蒂姆(Citum)通訊。發件人是 Alice，預期收件人是 Bob。第三者是無法確認得知自己是否已經正確地解密得到 Alice 給 Bob 的訊息的，因為西蒂姆(Citum)用了以下的安全機制：1、[**PGP加密**](https://zh.wikipedia.org/zh-tw/PGP)；2、__無差別網樹多點傳送（IMTM）__**門限加密系統**；3、**秘鑰/信息疑義**。PGP太流行了，不需要再解釋了。但是「密鑰/消息疑義」比較少人認識，而「IMTM門限加密系統」是西蒂姆(Citum)獨有的，所以我們會花更多的時間來解釋它們的資訊安全優勢。
 
-Most of the conventional instant messenger systems (IMS) are built on a centralized authentication and authorization regime. Unfortunately, any centralized system is inherently susceptible to [data breach](https://en.wikipedia.org/wiki/Data_breach). ([More info here.](../fallible_providers)) In contract, IMS built on top of Citium, paved by a network of decentralized nodes, is not at risk. For example, suppose that two users are trying to communicate with each other on Citium. Sender is Alice and the intended recipient is Bob. No third party can know for sure if he or she has been correctly deciphering a message from Alice to Bob because Citium utilizes the following security mechanisms: 1. [**Pretty Good Privacy (PGP) Encryption**](https://en.wikipedia.org/wiki/Pretty_Good_Privacy); 2. **indiscriminate mesh-tree multicast (IMTM) threshold cryptosystem**; and 3. **Key/Message Equivocation**. PGP is too popular to need further explanation. But since the IMTM threshold cryptosystem is unique to Citium and key/message equivocation is less known, we are going to spend more time explaining their InfoSec advantages.
+Most of the conventional instant messenger systems (IMS) are built on a centralized authentication and authorization regime. Unfortunately, any centralized system is inherently susceptible to [data breach](https://en.wikipedia.org/wiki/Data_breach). ([More info here.](../fallible_providers)) In contract, IMS built on top of Citium, paved by a network of decentralized nodes <i class='fa fa-cubes'></i>, is not at risk. For example, suppose that two users are trying to communicate with each other on Citium. Sender is Alice and the intended recipient is Bob. No third party can know for sure if he or she has been correctly deciphering a message from Alice to Bob because Citium utilizes the following security mechanisms: 1. [**Pretty Good Privacy (PGP) Encryption**](https://en.wikipedia.org/wiki/Pretty_Good_Privacy); 2. **indiscriminate mesh-tree multicast (IMTM) threshold cryptosystem**; and 3. **Key/Message Equivocation**. PGP is too popular to need further explanation. But since the IMTM threshold cryptosystem is unique to Citium and key/message equivocation is less known, we are going to spend more time explaining their InfoSec advantages.
 
 ![Cipher](/img/flow.svg "Citium Off-the-Record Messaging Instant Messenger System"){: .center-block :}
 
@@ -64,19 +64,19 @@ Finally, the correct plaintext (M) is revealed and delivered to Bob.
 
 ### IMTM門限加密系統<br>IMTM Threshold Cryptosystem
 
-**IMTM門限加密系統** 意味著 __一個消息的密文是被加密算法劃分成多個碎片__，這些碎片又通過網狀樹多點傳送、不加選擇地分佈到盡可能多的節點上，有效地抑止關聯鏈結分析的可能，和去除任何因為單點攻擊成功而導致的數據洩露。
+**IMTM門限加密系統** 意味著 __一個消息的密文是被加密算法劃分成多個碎片__，這些碎片又通過網狀樹多點傳送、不加選擇地分佈到盡可能多的節點 <i class='fa fa-cubes'></i> 上，有效地抑止關聯鏈結分析的可能，和去除任何因為單點攻擊成功而導致的數據洩露。
 
-**Indiscriminate mesh-tree multicast (IMTM) threshold cryptosystem** means that __a ciphertext is cryptographically split into multiple slices__, which in turn are distributed indiscriminately to as many nodes as possible by mesh-tree multicasting, effectively preempting [link analysis](https://en.wikipedia.org/wiki/Link_analysis) and eliminating data breach due to failure at any single point.
+**Indiscriminate mesh-tree multicast (IMTM) threshold cryptosystem** means that __a ciphertext is cryptographically split into multiple slices__, which in turn are distributed indiscriminately to as many nodes  <i class='fa fa-cubes'></i> as possible by mesh-tree multicasting, effectively preempting [link analysis](https://en.wikipedia.org/wiki/Link_analysis) and eliminating data breach due to failure at any single point.
 
-為了使預期收件人（Bob）解密來自發件人（Alice）的消息，Bob必須獲取指定的私鑰來解密消息。 Bob必須通過 __無差別網樹多點傳送__（IMTM）來盡可能多的節點作請求，直到收集齊全所有密文碎片為止。__只有接訊者（Bob）才能將所有密文碎片重新統一併起來才能生成有效的源文本，成功解鎖Alice留給她的加密的信息__。
+為了使預期收件人（Bob）解密來自發件人（Alice）的消息，Bob必須獲取指定的私鑰來解密消息。 Bob必須通過 __無差別網樹多點傳送__（IMTM）來盡可能多的節點 <i class='fa fa-cubes'></i> 作請求，直到收集齊全所有密文碎片為止。__只有接訊者（Bob）才能將所有密文碎片重新統一併起來才能生成有效的源文本，成功解鎖Alice留給她的加密的信息__。
 
-In order for the intended recipient (Bob) to correctly decrypt the message from the sender (Alice), Bob has to obtain all slices of the ciphertext and to decrypt it with the right key. Bob has to make request to as many nodes as he can through **indiscriminate mesh-tree multicast** (IMTM) until he collects all the slices. _Only the intended recipient (Bob) can correctly reunite and decrypt all slices of the ciphertext_.
+In order for the intended recipient (Bob) to correctly decrypt the message from the sender (Alice), Bob has to obtain all slices of the ciphertext and to decrypt it with the right key. Bob has to make request to as many nodes <i class='fa fa-cubes'></i> as he can through **indiscriminate mesh-tree multicast** (IMTM) until he collects all the slices. _Only the intended recipient (Bob) can correctly reunite and decrypt all slices of the ciphertext_.
 
 {: .box-warning}
 {: style="color: grey; font-size: 100%;"}
-__加密分析學上無法破解__：除非某駭客能夠劫持擁有相關密文碎片的每個節點，然後使用只是理論上存在的量子計算機解密所有密文碎片，否則密文碎片在傳輸期間不會對消息的機密性造成任何威脅。
+__加密分析學上無法破解__：除非某駭客能夠劫持擁有相關密文碎片的所有節點 <i class='fa fa-cubes'></i>，然後使用只是理論上存在的量子計算機解密所有密文碎片，否則密文碎片在傳輸期間不會對消息的機密性造成任何威脅。
 <br><br>
-__Cryptanalytically Unbreakable__: Unless some hackers can hijack every node that holds the pertaining sliced ciphertexts and decipher them all with a quantum computer that only exists in theory, nothing during transit of the pertaining sliced ciphertexts can threaten the confidentiality of the message.
+__Cryptanalytically Unbreakable__: Unless some hackers can hijack all node <i class='fa fa-cubes'></i> that holds the pertaining sliced ciphertexts and decipher them all with a quantum computer that only exists in theory, nothing during transit of the pertaining sliced ciphertexts can threaten the confidentiality of the message.
 
 ### 秘鑰/信息疑義<br>Key/Message Equivocation
 
