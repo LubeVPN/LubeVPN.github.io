@@ -33,7 +33,7 @@ As we all know, it is fallacious thinking to appeal to centralized authority and
 
 In view of these repeated incidents, Citium proposes three (3) pessimistic yet stringent InfoSec design premises.
 
-{: style="color: navy; font-size: 100%;"}
+{: style="color: navy; font-size: 90%;"}
 |#| **Design Premises** | Description |
 |:--:|:--:|:--|
 |**1**| **Trust<br>No One** | Participant is fallible. |
