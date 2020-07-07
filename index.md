@@ -11,7 +11,7 @@ googlefonts: ["Roboto Condensed"]
 <a href="https://www.unicorn001.tk/uploads/citium.apk"><i class="fa fa-download" aria-hidden="true"></i> 西蒂姆客戶端 安卓apk</a>
 {: .myDownloadButton}
 
-<br>注：西蒂姆(Citium)客戶端App和其內置的即時聊天工具(CIM) <i class='fa fa-envelope-o' style='color:blue'></i> 對所有人開源及永久免費使用。
+注：西蒂姆(Citium)客戶端App和其內置的即時聊天工具(CIM) <i class='fa fa-envelope-o' style='color:blue'></i> 對所有人開源及永久免費使用。
 
 <i class='fa fa-rocket' style='color:DimGrey'></i> **LubeVPN is a VPN Internet censorship circumvention application** built on an open-source and fully decentralized technology: [__Citium__](../citium_what_for). It is a radical departure and upgrade from all the popular VPN systems in the open marketspace, resolving a major [technical pain point](#-%E5%82%B3%E7%B5%B1vpn%E7%BF%BB%E5%A2%99%E7%9A%84%E7%96%BC%E9%BB%9Epain-point). <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN users authenticate indirectly through [__Citium__](../citium_what_for) decentralized network of nodes using their secure digital certificates (**“CERT”**) <i class='fa fa-certificate'></i> instead of directly through the VPN servers using username/password combinations.
 
