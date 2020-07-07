@@ -22,9 +22,9 @@ Note: Citium Client app and its Instant Messenger (CIM) <i class='fa fa-envelope
 
 ## <i class="fa fa-spinner" aria-hidden="true"></i> 免費試用<br>FREE TRIAL
 
-您必須通過已經在使用 <i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN的人幫你簽署您的安全數碼證書（**“通行證書”**）<i class='fa fa-certificate'></i> 才可以享受免費試用。如果您誰都不認識，請您通過西蒂姆(Citium)客戶端App的內置的在線客服 <i class='fa fa-comments-o'></i> 聯絡我們。您可以按以下路徑找到在線客服：<br><i class='fa fa-gears' style='color:blue'></i> > <i class='fa fa-certificate' style='color:blue'></i> > <i class='fa fa-question-circle' style='color:#ff6d12'></i> > <i class='fa fa-comments-o' style='color:#ff6d12'></i>
+您必須經由現有 <i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN用戶推薦才可獲取免費試用。如果您誰都不認識，請您通過西蒂姆(Citium)客戶端App的內置的在線客服 <i class='fa fa-comments-o'></i> 聯絡我們。您可以按以下路徑找到在線客服：<br><i class='fa fa-gears' style='color:blue'></i> > <i class='fa fa-certificate' style='color:blue'></i> > <i class='fa fa-question-circle' style='color:#ff6d12'></i> > <i class='fa fa-comments-o' style='color:#ff6d12'></i>
 
-You need someone who's already using <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN to sign your secure digital certificates (**“CERT”**) <i class='fa fa-certificate'></i> in order to enjoy the FREE TRIAL. If you do not know someone who does, please contact our LIVE HELP <i class='fa fa-comments-o'></i>. You can find it in the Citium Client app by navigating as follows:<br><i class='fa fa-gears' style='color:blue'></i> > <i class='fa fa-certificate' style='color:blue'></i> > <i class='fa fa-question-circle' style='color:#ff6d12'></i> > <i class='fa fa-comments-o' style='color:#ff6d12'></i>
+You need to know someone who's already using <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN to refer you in order to get the FREE TRIAL. If you do not know anyone, please contact our LIVE HELP <i class='fa fa-comments-o'></i>. You can find it in the Citium Client app by navigating as follows:<br><i class='fa fa-gears' style='color:blue'></i> > <i class='fa fa-certificate' style='color:blue'></i> > <i class='fa fa-question-circle' style='color:#ff6d12'></i> > <i class='fa fa-comments-o' style='color:#ff6d12'></i>
 
 ### <i class="fa fa-wrench"></i> 申辦流程<br>Requisition
 
