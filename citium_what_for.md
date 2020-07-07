@@ -16,7 +16,7 @@ googlefonts: ["Roboto Condensed"]
 |**3**| **天下無密** | 加密文並不安全 |
 
 
-就算一個入侵者成功通過 **1、挑撥策反**；**2、權柄濫用**；或 **3、破解密文** 揭發了本來不想被外人得知的私人數據內容，西蒂姆用戶都能理直氣壯地否認曾經參與過分發這些數據，因為西蒂姆的設計註定其資訊本質真假難辨，不論規模多麼龐大、做工多麼精細的網絡安全偵查取證，最終都只會是徒勞無功的。**「可推諉性」大大降低了任何競爭對手和司法機關偵查取證的慾望**。
+入侵者通過種種手段入侵西蒂姆(Citium)的數據，例如通過 **1、挑撥策反**；**2、權柄濫用**；或 **3、破解密文** 這些方法，最後成功地揭發了本來不想被外人得知的私人數據內容。即使事已至此，西蒂姆用戶都能理直氣壯地否認參與分發這些數據內容，因為西蒂姆的設計註定其資訊本質真假難辨，不論規模多麼龐大、做工多麼精細的網絡安全偵查取證，最終都只會是徒勞無功的。西蒂姆的 **「可推諉性」資訊安全特征大大降低了競爭對手或司法機關偵查或取證對付西蒂姆用戶的慾望**。
 
 As we all know, it is fallacious thinking to appeal to centralized authority and novelty. But unfortunately, this knowledge cannot prevent seemingly trustworthy centralized governing bodies and self-proclaimed experts from peddling ever fancier InfoSec technologies to their users. A laundry list of disappointments has been blindsiding these users, such as [Swiss Crypto AG's compromised machines](https://en.wikipedia.org/wiki/Crypto_AG#Compromised_machines), [Skype's eavesdropping by design](https://en.wikipedia.org/wiki/Skype_security#Eavesdropping_by_design), [Operation Venetic's encryption crackdown on EncroChat](https://en.wikipedia.org/wiki/EncroChat) and [other infamous data breaches](https://en.wikipedia.org/wiki/List_of_data_breaches). In view of these repeated incidents, Citium proposes three (3) pessimistic yet stringent InfoSec design premises.
 
@@ -27,7 +27,7 @@ As we all know, it is fallacious thinking to appeal to centralized authority and
 |**2**| **Power<br>Corrupts** | Rights are exploitable. |
 |**3**| **No<br>Secrecy** | Ciphertext is vulnerable. |
 
-In face of an intruder successfully uncovering private data in Citium through **1. inciting defection**; **2. power abuse;** or **3. ciphertext hack**, Citium users can still justifiably deny that they have ever been involved because all security forensics are futile, no matter how extensive and meticulous they are. Citium inevitably makes the data source obscured and inadmissible. **Reputability greatly reduces the desire of any competitor or judicial authority to investigate and obtain evidence**.
+In face of an intruder successfully uncovering private data in Citium through **1. inciting defection**; **2. power abuse;** or **3. ciphertext hack**, Citium users can still justifiably deny that they have ever been involved because all security forensics are futile, no matter how extensive and meticulous they are. Citium inevitably makes the data source obscured and inadmissible. **Reputability, as an InfoSec feature, greatly reduces the desire of any competitor or judicial authority to investigate or obtain evidence against users of Citium**.
 
 ## 西蒂姆簡介<br>Overview
 
