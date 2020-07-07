@@ -53,17 +53,17 @@ Citium take full advantage of these time-tested proven technologies to establish
 
 > *第三方可推諉性*屬性確保了**Facebook以外的任何一方**都無法通過密碼學方法確定報告的有效性。
 
-這意味著Facebook仍然可以自願提交或被強制、脅迫披露，更不用說數據洩露的可能性了。這是不理想的可推諉性設計方案。而在西蒂姆(Citum)環境中則提供了完全的可推諉性。任何集中的一方的信息管理人員的或中轉的電腦，如Facebook資訊安全管理員或其服務器，都無法以任何形式地背離可推諉性這一點。
+這意味著 **Facebook仍然可以自願提交或被強制、脅迫披露，更不用說數據洩露的可能性了**。這種極其量是半生不熟的「可推諉性」。反觀，西蒂姆(Citum)提供了「完全的可推諉性」(full deniability)；沒有參與者或中轉機器可以以任何形式犧牲「可推諉性」。
 
 西蒂姆(Citum)去中心化系統協議背後的主要動機是為對話參與者提供一個可推諉的溝通網絡，同時保持對話的機密性，例如現實生活中的私人對話，或新聞採購中的記錄。 與之相反的是，某些中心化通訊系統卻輸出可以稍後用作通訊事件和參與者身份的可驗證記錄。
 
-Many centralized communication systems claim to have *non-repudiability* as one of their infosec features because their users purposely want to systematically hold their communicating parties legally accountable. Citium does not cater to that purpose. In fact, Citium offers the complete opposite: **deniability**, which is the last line of defense against [**forced disclosure**](https://en.wikipedia.org/wiki/Key_disclosure_law) and its repercussions.
+Many centralized communication systems claim to have *non-repudiability* as one of their FnfoSec features because their users purposely want to systematically hold their communicating parties legally accountable. Citium does not cater to that purpose. In fact, Citium offers the complete opposite: **deniability**, which is the last line of defense against [**forced disclosure**](https://en.wikipedia.org/wiki/Key_disclosure_law) and its repercussions.
 
 Some service providers, such as Facebook, are trying to offer deniability but they fail to rule themselves out of the picture. Here a direct quote from the [Technical Whitepaper of Messenger Secret Conversations](https://about.fb.com/news/2016/07/messenger-starts-testing-end-to-end-encryption-with-secret-conversations/) in Facebook Messenger published on May 18, 2017:
 
 > "[T]he *third-party deniability* property ensures that **no party outside of Facebook** can cryptographically determine the validity of a report."
 
-It implies that Facebook can still be voluntarily submitting to or be compelled by forced disclosure and coercion, not to mention the chance of data breach. This is not ideal at all. In the Citium environment, full deniability is offered. No centralized party (e.g. data administrator) or mediatory machines (e.g. Facebook's servers) can compromise deniability in any way.  
+It implies that **Facebook can still be voluntarily submitting to or be compelled by forced disclosure and coercion, not to mention the chance of data breach**. This is a half-baked deniability at best. In contrast, Citium offers full deniability; no participants or mediatory machines can compromise deniability in any way.  
 
 The primary motivation behind Citium decentralized system protocol is to provide a deniable communication network for the conversation participants while keeping conversations confidential, like a private conversation in real life, or off the record in journalism sourcing. This is in contrast with some other centralized communication systems that produce output which can be later used as a verifiable record of the communication event and the identities of the participants.
 
