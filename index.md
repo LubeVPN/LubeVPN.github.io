@@ -32,7 +32,7 @@ You need someone who's already using <i class='fa fa-rocket' style='color:DimGre
 2. <i class='fa fa-cogs' style='color:blue'></i> > <i class='fa fa-certificate' style='color:blue'></i> > <i class='fa fa-files-o' style='color:blue'></i> 複製通行證書 <i class='fa fa-certificate' style='color:chocolate'></i>
 - <i class='fa fa-envelope-o' style='color:blue'></i> > <i class='fa fa-clipboard' style='color:blue'></i> 黏貼發送 <i class='fa fa-certificate' style='color:chocolate'></i> 給 <i class='fa fa-user' style='color:purple'></i>
 - 等 <i class='fa fa-user' style='color:purple'></i> 簽署 <i class="fa fa-pencil-square-o"></i> 您的 <i class='fa fa-certificate' style='color:chocolate'></i>
-- 導入 <i class='fa fa-database'></i> 已簽署通行證書 <i class='fa fa-certificate' style='color:green'>
+- 導入 <i class='fa fa-database'></i> 已被簽署通行證書 <i class='fa fa-certificate' style='color:green'>
 3. <i class='fa fa-cogs' style='color:blue'></i> 撥熄再撥亮切換鍵進行認證 <i class='fa fa-check-square-o'></i>
 - <i class='fa fa-toggle-on' style='color:green'></i> 綠色代表認證成功
 - 開始免费試用！
