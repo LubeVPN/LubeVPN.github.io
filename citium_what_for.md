@@ -22,7 +22,7 @@ googlefonts: ["Roboto Condensed"]
 |**2**| **權力腐敗** | 權利即系統漏洞 |
 |**3**| **天下無密** | 加密文並不安全 |
 
-資訊安全入侵者大可以通過種種手段入侵西蒂姆(Citium)的數據，例如通過 **1、挑撥策反**；**2、權柄濫用**；或 **3、破解密文** 這些方法。我們更進一步假設這些入侵者最後竟然成功地揭發了本來不想被外人得知的私人數據內容！事已至此，西蒂姆用戶都依然能理直氣壯地否認參與分發這些數據內容，因為西蒂姆的系統設計註定其資訊本質真假難辨；不論規模多麼龐大、做工多麼精細的網絡安全偵查取證，最終都只會是徒勞無功的。西蒂姆的 **「可推諉性」資訊安全特征大大降低了競爭對手或司法機關偵查或取證對付西蒂姆用戶的慾望**。
+資訊安全入侵者大可以通過種種手段入侵西蒂姆(Citium)的數據，例如通過 **1、挑撥策反**；**2、權柄濫用**；或 **3、破解密文** 這些方法。我們更進一步假設這些入侵者最後竟然成功地揭發了本來不想被外人得知的私人數據內容！事已至此，西蒂姆用戶都依然能理直氣壯地否認參與分發這些數據內容，因為西蒂姆的系統設計註定其資訊本質真假難辨；不論規模多麼龐大、做工多麼精細的網絡安全偵查取證，最終都只會是徒勞無功的。西蒂姆的 **「可推諉性」資訊安全功能大大降低了競爭對手或司法機關偵查或取證對付西蒂姆用戶的慾望**。
 
 As we all know, it is fallacious thinking to appeal to centralized authority and novelty. But unfortunately, this knowledge cannot prevent seemingly trustworthy centralized governing bodies and self-proclaimed experts from peddling ever fancier InfoSec technologies to their users. A laundry list of disappointments has been blindsiding these users, such as
 
