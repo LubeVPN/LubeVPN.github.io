@@ -13,7 +13,7 @@ googlefonts: ["Roboto Condensed"]
   - [破譯EncroChat](https://en.wikipedia.org/wiki/EncroChat)
   - [其他臭名昭著的數據洩露](https://en.wikipedia.org/wiki/List_of_data_breaches)
 
-這些種種意外都讓用戶後悔盲從，不應該再盲目相信業界推廣的各種看似專業的安全技術。有見及此，西蒂姆(Citum)作出了三個悲觀但嚴謹的資訊安全設計前設。
+這些種種意外都讓用戶後悔盲從，不應該再盲目相信業界推廣的各種只是看似專業的安全技術。有見及此，西蒂姆(Citum)作出了三個悲觀但嚴謹的資訊安全設計前設。
 
 {: style="color: navy; font-size: 100%;"}
 |#| **設計前設** | 描述 |
