@@ -15,7 +15,6 @@ googlefonts: ["Roboto Condensed"]
 |**2**| **權力腐敗** | 權利即系統漏洞 |
 |**3**| **天下無密** | 加密文並不安全 |
 
-
 入侵者通過種種手段入侵西蒂姆(Citium)的數據，例如通過 **1、挑撥策反**；**2、權柄濫用**；或 **3、破解密文** 這些方法，最後成功地揭發了本來不想被外人得知的私人數據內容。即使事已至此，西蒂姆用戶都能理直氣壯地否認參與分發這些數據內容，因為西蒂姆的設計註定其資訊本質真假難辨，不論規模多麼龐大、做工多麼精細的網絡安全偵查取證，最終都只會是徒勞無功的。西蒂姆的 **「可推諉性」資訊安全特征大大降低了競爭對手或司法機關偵查或取證對付西蒂姆用戶的慾望**。
 
 As we all know, it is fallacious thinking to appeal to centralized authority and novelty. But unfortunately, this knowledge cannot prevent seemingly trustworthy centralized governing bodies and self-proclaimed experts from peddling ever fancier InfoSec technologies to their users. A laundry list of disappointments has been blindsiding these users, such as [Swiss Crypto AG's compromised machines](https://en.wikipedia.org/wiki/Crypto_AG#Compromised_machines), [Skype's eavesdropping by design](https://en.wikipedia.org/wiki/Skype_security#Eavesdropping_by_design), [Operation Venetic's encryption crackdown on EncroChat](https://en.wikipedia.org/wiki/EncroChat) and [other infamous data breaches](https://en.wikipedia.org/wiki/List_of_data_breaches). In view of these repeated incidents, Citium proposes three (3) pessimistic yet stringent InfoSec design premises.
@@ -84,7 +83,6 @@ The communication mechanism used by both CIM and SafeMail is the "Safe Data Tran
 Most instant messenger systems are designed that messages are directly pushed onto the client apps of the intended recipients. However, in Citium Instant Messenger (CIM) system <i class='fa fa-envelope-square' style='color:blue'></i>, push notification is limited to a generic text reminder (i.e. "You have a new message.") and a very thin slice of the message encrypted in a ciphertext being sent to the intended recipients. The intended recipients are required to actively fetch the remaining slices on their own from the sea of Citium nodes (i.e. service nodes and user nodes), and eventually, recombining with the thin slice at hand to acquire the original, correct message.
 
 ## 門限加密系統<br>Threshold Cryptography
-
 
 在任何密碼系統中，將純文本訊息轉換為密文再轉換回來的最重要組成部分是密鑰。 密鑰是密碼學整體安全性的基礎，這意味著密鑰的保護也已成為重要的命題。 可以減少密鑰洩露風險的一種方法是門限加密。 門限加密學的基本思想是，在將密鑰分發給相關節點之前，將其分為 N 個份額。 為了再次生成密鑰，不需要所有共享。 相反，一個實體只能組合 K 個份額（稱為門限）來重建密鑰。 換句話說，即使將密鑰分為 N 個份額，也僅需要 K 個份額即可重建密鑰。
 
