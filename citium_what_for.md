@@ -23,9 +23,9 @@ As we all know, it is fallacious thinking to appeal to centralized authority and
 {: style="color: navy; font-size: 90%;"}
 |#| **Design Premises** | Description |
 |:--:|:--:|:--|
-|**1**| **Trust<br>No One** | All participants are fallible. |
-|**2**| **Power<br>Corrupts** | Rights adversely affect. |
-|**3**| **No<br>Secrecy** | Ciphertext is unsecure. |
+|**1**| **Trust<br>No One** | Participant is fallible. |
+|**2**| **Power<br>Corrupts** | Rights are exploitable. |
+|**3**| **No<br>Secrecy** | Ciphertext is vulnerable. |
 
 In face of an intruder successfully uncovering private data in Citium through **1. inciting defection**; **2. power abuse;** or **3. ciphertext hack**, Citium users can still justifiably deny that they have ever been involved because all security forensics are futile, no matter how extensive and meticulous they are. Citium inevitably makes the data source obscured and inadmissible. **Reputability greatly reduces the desire of any competitor or judicial authority to investigate and obtain evidence**.
 
