@@ -10,7 +10,7 @@ googlefonts: ["Roboto Condensed"]
 
   - [瑞士Crypto公司的安全漏洞機器](https://en.wikipedia.org/wiki/Crypto_AG#Compromised_machines)
   - [Skype的竊聽後門](https://en.wikipedia.org/wiki/Skype_security#Eavesdropping_by_design)
-  - [英國「维涅提行動」(Operation Venetic)破譯EncroChat](https://en.wikipedia.org/wiki/EncroChat)和
+  - [破譯EncroChat](https://en.wikipedia.org/wiki/EncroChat)和
   - [其他臭名昭著的數據洩露](https://en.wikipedia.org/wiki/List_of_data_breaches)
 
 這些種種意外都讓用戶後悔盲從，不應該再盲目相信業界推廣的各種看似專業的安全技術。有見及此，西蒂姆(Citum)作出了三個悲觀但嚴謹的資訊安全設計前設。
@@ -28,7 +28,7 @@ As we all know, it is fallacious thinking to appeal to centralized authority and
 
   - [Swiss Crypto AG's compromised machines](https://en.wikipedia.org/wiki/Crypto_AG#Compromised_machines)
   - [Skype's eavesdropping by design](https://en.wikipedia.org/wiki/Skype_security#Eavesdropping_by_design)
-  - [Operation Venetic's encryption crackdown on EncroChat](https://en.wikipedia.org/wiki/EncroChat) and
+  - [Crackdown on EncroChat](https://en.wikipedia.org/wiki/EncroChat) and
   - [other infamous data breaches](https://en.wikipedia.org/wiki/List_of_data_breaches).
 
 In view of these repeated incidents, Citium proposes three (3) pessimistic yet stringent InfoSec design premises.
