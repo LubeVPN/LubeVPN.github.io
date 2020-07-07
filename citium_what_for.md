@@ -16,7 +16,7 @@ googlefonts: ["Roboto Condensed"]
 |**3**| **天下無密** | 加密文並不安全 |
 
 
-就算一個入侵者成功通過 **1、挑撥策反**；**2、權柄濫用**；或 **3、破解密文** 發現了私人數據，西蒂姆用戶都能理直氣壯地否認曾經參與過，因為西蒂姆的設計註定其資訊本質真假難辨，不論規模多麼龐大、做工多麼精細的網絡安全偵查取證，最終都只會是徒勞無功的。**「可推諉性」大大降低了任何競爭對手和司法機關偵查取證的慾望**。
+就算一個入侵者成功通過 **1、挑撥策反**；**2、權柄濫用**；或 **3、破解密文** 揭發了本來不想被外人得知的私人數據內容，西蒂姆用戶都能理直氣壯地否認曾經參與過分發這些數據，因為西蒂姆的設計註定其資訊本質真假難辨，不論規模多麼龐大、做工多麼精細的網絡安全偵查取證，最終都只會是徒勞無功的。**「可推諉性」大大降低了任何競爭對手和司法機關偵查取證的慾望**。
 
 As we all know, it is fallacious thinking to appeal to centralized authority and novelty. But unfortunately, this knowledge cannot prevent seemingly trustworthy centralized governing bodies and self-proclaimed experts from peddling ever fancier InfoSec technologies to their users. A laundry list of disappointments has been blindsiding these users, such as [Swiss Crypto AG's compromised machines](https://en.wikipedia.org/wiki/Crypto_AG#Compromised_machines), [Skype's eavesdropping by design](https://en.wikipedia.org/wiki/Skype_security#Eavesdropping_by_design), [Operation Venetic's encryption crackdown on EncroChat](https://en.wikipedia.org/wiki/EncroChat) and [other infamous data breaches](https://en.wikipedia.org/wiki/List_of_data_breaches). In view of these repeated incidents, Citium proposes three (3) pessimistic yet stringent InfoSec design premises.
 
