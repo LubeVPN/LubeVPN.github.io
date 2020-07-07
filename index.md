@@ -6,12 +6,15 @@ bigimg: /img/rain3.jpg
 googlefonts: ["Roboto Condensed"]
 ---
 
-<a href="https://www.unicorn001.tk/uploads/citium.apk"><i class="fa fa-download" aria-hidden="true"></i> 西蒂姆客戶端 安卓apk</a><br><a href="https://www.unicorn001.tk/uploads/citium.apk"><i class="fa fa-download" aria-hidden="true"></i> Citium Client Android apk</a>
-{: .myDownloadButton}
-
 <i class='fa fa-rocket' style='color:DimGrey'></i> **順道VPN** 是基於開源及完全去中心化的[__西蒂姆(Citum)__](../citium_what_for)開發的 **突破網絡審查（陸：翻墻、科學上網）的VPN工具**。它把坊間流行的VPN系統作出了比較重大的改良和升級，幫助用戶克服了重大應用[技術疼點](#-%E5%82%B3%E7%B5%B1vpn%E7%BF%BB%E5%A2%99%E7%9A%84%E7%96%BC%E9%BB%9Epain-point)。<i class='fa fa-rocket' style='color:DimGrey'></i> **順道VPN** 用戶以安全數碼證書（**“通行證書”**）<i class='fa fa-certificate'></i> 間接地通過[西蒂姆(Citum)](../citium_what_for)的去中心化網絡節點獲取用戶身份認證，而不是使用用戶名及密碼組合在VPN服務器上直接進行認證。
 
+<a href="https://www.unicorn001.tk/uploads/citium.apk"><i class="fa fa-download" aria-hidden="true"></i> 西蒂姆客戶端 安卓apk</a>
+{: .myDownloadButton}
+
 <i class='fa fa-rocket' style='color:DimGrey'></i> **LubeVPN is a VPN Internet censorship circumvention application** built on an open-source and fully decentralized technology: [__Citium__](../citium_what_for). It is a radical departure and upgrade from all the popular VPN systems in the open marketspace, resolving a major [technical pain point](#-%E5%82%B3%E7%B5%B1vpn%E7%BF%BB%E5%A2%99%E7%9A%84%E7%96%BC%E9%BB%9Epain-point). <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN users authenticate indirectly through [__Citium__](../citium_what_for) decentralized network of nodes using their secure digital certificates (**“CERT”**) <i class='fa fa-certificate'></i> instead of directly through the VPN servers using username/password combinations.
+
+<a href="https://www.unicorn001.tk/uploads/citium.apk"><i class="fa fa-download" aria-hidden="true"></i> Citium Client Android apk</a>
+{: .myDownloadButton}
 
 ## <i class="fa fa-spinner" aria-hidden="true"></i> 免費試用<br>FREE TRIAL
 
