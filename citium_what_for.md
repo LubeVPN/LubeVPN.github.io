@@ -40,7 +40,7 @@ In view of these repeated incidents, Citium proposes three (3) pessimistic yet s
 |**2**| **Power<br>Corrupts** | Rights are exploitable. |
 |**3**| **No<br>Secrecy** | Cipher is vulnerable. |
 
-In face of an intruder successfully uncovering private data in Citium through **1. inciting defection**; **2. power abuse;** or **3. ciphertext hack**, Citium users can still justifiably deny that they have ever been involved because all security forensics are futile, no matter how extensive and meticulous they are. Citium inevitably makes the data source obscured and inadmissible. **Reputability, as an InfoSec feature, greatly reduces the desire of any competitor or judicial authority to investigate or obtain evidence against users of Citium**.
+In face of an intruder successfully uncovering private data in Citium through **1. inciting defection**; **2. power abuse;** or **3. ciphertext hack**, Citium users can still justifiably deny that they have ever been involved because all security forensics are futile, no matter how extensive and meticulous they are. Citium inevitably makes the data source obscured and inadmissible. Besides, **Deniability, as an InfoSec feature, greatly reduces the desire of any competitor or judicial authority to investigate or obtain evidence against users of Citium**.
 
 ## 西蒂姆簡介<br>Overview
 
