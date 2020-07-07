@@ -8,19 +8,19 @@ googlefonts: ["Roboto Condensed"]
 
 **為什麼要使用西蒂姆(Citium)？** 眾所周知，訴諸中央化權威性和新穎性是謬誤的思維。但不幸的是，這種認知不曾妨礙看似值得信賴的中心化管理機構和自詡的專家持續向用戶兜售更新穎的資訊安全技術。可惜這些技術屢屢發生意外，例如[瑞士Crypto公司的安全漏洞機器](https://en.wikipedia.org/wiki/Crypto_AG#Compromised_machines)、[Skype的竊聽後門](https://en.wikipedia.org/wiki/Skype_security#Eavesdropping_by_design)、[英國「维涅提行動」(Operation Venetic)破譯EncroChat](https://en.wikipedia.org/wiki/EncroChat)和[其他臭名昭著的數據洩露](https://en.wikipedia.org/wiki/List_of_data_breaches)。這些種種意外都讓用戶後悔盲從，不應該再盲目相信業界推廣的各種看似專業的安全技術。有見及此，西蒂姆(Citum)作出了三個悲觀但嚴謹的資訊安全設計前設。
 
-{: style="color: navy; font-size: 90%; table-align: center;"}
-|#| **設計<br>前設** | 描述 |
+{: style="color: navy; font-size: 80%;"}
+|#| **設計前設** | 描述 |
 |:--:|:--:|:--|
-|**1**| **無人<br>可信** | 密碼系統中的任何參與者都邪惡和容易犯錯 |
-|**2**| **權力<br>腐敗** | 一個用戶持有的任何權利都將會產生負面影響 |
-|**3**| **天下<br>無密** | 任何密文都不會比其純文本的安全程度高 |
+|**1**| **無人可信** | 密碼系統中的任何參與者都邪惡和容易犯錯 |
+|**2**| **權力腐敗** | 一個用戶持有的任何權利都將會產生負面影響 |
+|**3**| **天下無密** | 任何密文都不會比其純文本的安全程度高 |
 
 
 就算一個入侵者成功通過 **1、挑撥策反**；**2、濫用權柄**；或 **3、破解密文** 發現了私人數據，西蒂姆用戶都能理直氣壯地否認曾經參與過，因為西蒂姆的設計註定其資訊本質真假難辨，不論規模多麼龐大、做工多麼精細的網絡安全偵查取證，最終都只會是徒勞無功的。**「可推諉性」大大降低了任何競爭對手和司法機關偵查取證的慾望**。
 
 As we all know, it is fallacious thinking to appeal to centralized authority and novelty. But unfortunately, this knowledge cannot prevent seemingly trustworthy centralized governing bodies and self-proclaimed experts from peddling ever fancier InfoSec technologies to their users. A laundry list of disappointments has been blindsiding these users, such as [Swiss Crypto AG's compromised machines](https://en.wikipedia.org/wiki/Crypto_AG#Compromised_machines), [Skype's eavesdropping by design](https://en.wikipedia.org/wiki/Skype_security#Eavesdropping_by_design), [Operation Venetic's encryption crackdown on EncroChat](https://en.wikipedia.org/wiki/EncroChat) and [other infamous data breaches](https://en.wikipedia.org/wiki/List_of_data_breaches). In view of these repeated incidents, Citium proposes three (3) pessimistic yet stringent InfoSec design premises.
 
-{: style="color: navy; font-size: 90%; table-align: center;"}
+{: style="color: navy; font-size: 80%;"}
 |#| **Design Premises** | Description |
 |:--:|:--:|:--|
 |**1**| **Trust<br>No One** | Any participant in a cryptosystem is evil by nature and fallible. |
