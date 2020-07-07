@@ -25,7 +25,7 @@ As we all know, it is fallacious thinking to appeal to centralized authority and
 |:--:|:--:|:--|
 |**1**| **Trust<br>No One** | Participant is fallible. |
 |**2**| **Power<br>Corrupts** | Rights are exploitable. |
-|**3**| **No<br>Secrecy** | Ciphertext is vulnerable. |
+|**3**| **No<br>Secrecy** | Cipher is vulnerable. |
 
 In face of an intruder successfully uncovering private data in Citium through **1. inciting defection**; **2. power abuse;** or **3. ciphertext hack**, Citium users can still justifiably deny that they have ever been involved because all security forensics are futile, no matter how extensive and meticulous they are. Citium inevitably makes the data source obscured and inadmissible. **Reputability, as an InfoSec feature, greatly reduces the desire of any competitor or judicial authority to investigate or obtain evidence against users of Citium**.
 
