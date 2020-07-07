@@ -20,7 +20,7 @@ googlefonts: ["Roboto Condensed"]
 
 As we all know, it is fallacious thinking to appeal to centralized authority and novelty. But unfortunately, this knowledge cannot prevent seemingly trustworthy centralized governing bodies and self-proclaimed experts from peddling ever fancier InfoSec technologies to their users. A laundry list of disappointments has been blindsiding these users, such as [Swiss Crypto AG's compromised machines](https://en.wikipedia.org/wiki/Crypto_AG#Compromised_machines), [Skype's eavesdropping by design](https://en.wikipedia.org/wiki/Skype_security#Eavesdropping_by_design), [Operation Venetic's encryption crackdown on EncroChat](https://en.wikipedia.org/wiki/EncroChat) and [other infamous data breaches](https://en.wikipedia.org/wiki/List_of_data_breaches). In view of these repeated incidents, Citium proposes three (3) pessimistic yet stringent InfoSec design premises.
 
-{: style="color: navy; font-size: 80%;"}
+{: style="color: navy; font-size: 90%;"}
 |#| **Design Premises** | Description |
 |:--:|:--:|:--|
 |**1**| **Trust<br>No One** | All participants are fallible. |
