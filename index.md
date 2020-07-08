@@ -28,7 +28,7 @@ Foremost, you need to know someone who's already using <i class='fa fa-rocket' s
 
 ### <i class="fa fa-wrench"></i> 申辦流程<br>Requisition
 
-找一名持有有效的（即，未逾期的）<i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN《通行證書》<i class='fa fa-certificate' style='color:green'></i> 的好友，例如 Alice。通過頻外密鑰驗證（OOBA）添加她成爲 Citium 即時聊天應用（CIM）<i class='fa fa-envelope-o' style='color:blue'></i> 中的聯絡人。于「通行證書」版面 <i class='fa fa-certificate' style='color:blue'></i> 複製您的《通行證書》<i class='fa fa-certificate' style='color:chocolate'></i> 詳情到設備的剪贴板。在你與 Alice 的聊天對話框中黏貼、發送該詳情給她，然後等待她簽署 <i class="fa fa-pencil-square-o"></i> 它。Alice 簽署完畢後，你會在對話框中收到一個互動信息按鈕。您按下該按鈕後即可完成導入 <i class='fa fa-database'></i> 該已被簽署的《通行證書》<i class='fa fa-certificate' style='color:green'></i> 到設備內。在「設定」版面 <i class='fa fa-cogs' style='color:blue'></i>，撥熄再撥亮 <i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN的切換鍵去認證 <i class='fa fa-check-square-o'></i> 已簽署的證書 <i class='fa fa-certificate' style='color:blue'></i>。如果認證成功，切換鍵將會轉成綠色 <i class='fa fa-toggle-on' style='color:green'></i>。
+找一名持有有效的（即，未逾期的）<i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN《通行證書》<i class='fa fa-certificate' style='color:green'></i> 的好友，例如 Alice。通過頻外密鑰驗證（OOBA）添加她成爲 Citium 即時聊天應用（CIM）<i class='fa fa-envelope-o' style='color:blue'></i> 中的聯絡人。于「通行證書」版面 <i class='fa fa-certificate' style='color:blue'></i> 複製您的《通行證書》<i class='fa fa-certificate' style='color:chocolate'></i> 詳情到設備的剪贴板。在你與 Alice 的聊天對話框中黏貼、發送該詳情給她，然後等待她簽署 <i class="fa fa-pencil-square-o"></i> 它。Alice 簽署完畢後，你會在對話框中收到一個互動信息按鈕。您按下該按鈕後即可完成導入 <i class='fa fa-database'></i> 該已被簽署的《通行證書》<i class='fa fa-certificate' style='color:orchid'></i> 到設備內。在「設定」版面 <i class='fa fa-cogs' style='color:blue'></i>，撥熄再撥亮 <i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN的切換鍵去認證 <i class='fa fa-check-square-o'></i> 已簽署的證書 <i class='fa fa-certificate' style='color:blue'></i>。如果認證成功，切換鍵將會轉成綠色 <i class='fa fa-toggle-on' style='color:green'></i>。
 
 1. <i class='fa fa-envelope-o' style='color:blue'></i> > <i class="fa fa-user-plus" style='color:blue'></i> 加一位 CIM 聯絡人 <i class='fa fa-user' style='color:purple'></i>
 - <i class='fa fa-user' style='color:purple'></i> 必須持有有效通行證書 <i class='fa fa-certificate' style='color:green'></i> †
@@ -36,7 +36,7 @@ Foremost, you need to know someone who's already using <i class='fa fa-rocket' s
 2. <i class='fa fa-cogs' style='color:blue'></i> > <i class='fa fa-certificate' style='color:blue'></i> > <i class='fa fa-files-o' style='color:blue'></i> 複製通行證書 <i class='fa fa-certificate' style='color:chocolate'></i>
 - <i class='fa fa-envelope-o' style='color:blue'></i> > <i class='fa fa-clipboard' style='color:blue'></i> 黏貼發送 <i class='fa fa-certificate' style='color:chocolate'></i> 給 <i class='fa fa-user' style='color:purple'></i>
 - 等 <i class='fa fa-user' style='color:purple'></i> 簽署 <i class="fa fa-pencil-square-o"></i> 您的 <i class='fa fa-certificate' style='color:chocolate'></i>
-- 導入 <i class='fa fa-database'></i> 已被簽署通行證書 <i class='fa fa-certificate' style='color:green'>
+- 導入 <i class='fa fa-database'></i> 已被簽署通行證書 <i class='fa fa-certificate' style='color:orchid'>
 3. <i class='fa fa-cogs' style='color:blue'></i> 撥熄再撥亮切換鍵進行認證 <i class='fa fa-check-square-o'></i>
 - <i class='fa fa-toggle-on' style='color:green'></i> 綠色代表認證成功
 - 開始免费試用！
@@ -53,7 +53,7 @@ Find a friend (e.g. Alice) who holds a valid (i.e. unexpired) <i class='fa fa-ro
 2. <i class='fa fa-cogs' style='color:blue'></i> > <i class='fa fa-certificate' style='color:blue'></i> > <i class='fa fa-files-o' style='color:blue'></i> Copy CERT <i class='fa fa-certificate' style='color:chocolate'></i>
 - <i class='fa fa-envelope-o' style='color:blue'></i> > <i class='fa fa-clipboard' style='color:blue'></i> Paste & send <i class='fa fa-certificate' style='color:chocolate'></i> to <i class='fa fa-user' style='color:purple'></i>
 - Wait for <i class='fa fa-user' style='color:purple'></i> to sign <i class="fa fa-pencil-square-o"></i> your <i class='fa fa-certificate' style='color:chocolate'></i>
-- Import <i class='fa fa-database'></i> signed CERT <i class='fa fa-certificate' style='color:green'>
+- Import <i class='fa fa-database'></i> signed CERT <i class='fa fa-certificate' style='color:orchid'>
 3. <i class='fa fa-cogs' style='color:blue'></i> Turn off and on toggle.
 - <i class='fa fa-toggle-on' style='color:green'></i> GREEN means validation succeeds.
 - Start the FREE TRIAL!
