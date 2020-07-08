@@ -20,7 +20,7 @@ googlefonts: ["Roboto Condensed"]
 
 Note: Citium Client app and its Instant Messenger (CIM) <i class='fa fa-envelope-o' style='color:blue'></i> is open-source and permanently free-to-use for everyone.
 
-## <i class="fa fa-spinner" aria-hidden="true"></i> 免費試用<br>FREE TRIAL
+## <i class="fa fa-spinner" aria-hidden="true"></i> 免費試用 <i class='fa fa-certificate' style='color:orchid'></i><br>FREE TRIAL
 
 前提是，您必須經由現有 <i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN用戶推薦才可獲取免費試用。如果不認識，請您通過西蒂姆(Citium)客戶端App的內置的在線客服 <i class='fa fa-comments-o'></i> 聯絡我們。您可以按以下路徑找到在線客服：<br><i class='fa fa-gears' style='color:blue'></i> > <i class='fa fa-certificate' style='color:blue'></i> > <i class='fa fa-question-circle' style='color:#ff6d12'></i> > <i class='fa fa-comments-o' style='color:#ff6d12'></i>
 
@@ -118,7 +118,7 @@ Lube VPN does not record network routing information, such as originating IP and
 <br><br>
 **GENTLE REMINDER:** Every holder of the signed CERTs is responsible for not losing one's own signed CERT. Be careful **not to accidentally clear the data of the Citium Client app** that stores the signed CERT because it is the only evidence to prove the user registration status, as well as the referral relationship between its user and its signer. If a user loses the signed CERT for any reason (e.g. uninstalls and reinstalls the Citium Client App; loses or replaces the mobile phone, tablet or computer; fails to back up the CERT in advance), the user will no longer be able to log back in, permanently lose access access to service, including everything related to Citium Instant Messenger, such as Contacts list, its chat history and its multimedia contents. <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN's customer service representatives, partnership agents and administrators are under no circumstances able to assist the user to log in, access and use the CERT again, which is the beauty of our security design.
 
-## <i class="fa fa-calendar-plus-o" aria-hidden="true"></i> 通行證書續時<br>CERT Renewal
+## <i class="fa fa-calendar-plus-o" aria-hidden="true"></i> 通行證書續時 <i class='fa fa-certificate' style='color:DarkKhaki'></i><br>CERT Renewal
 
 <i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN以現收現付的方式向付費通行證書 <i class='fa fa-certificate' style='color:DarkKhaki'></i> 持有者提供VPN服務，因為VPN流量需要我們維護部署在全球多國的VPN服務器。
 
