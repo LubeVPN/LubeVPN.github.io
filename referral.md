@@ -24,7 +24,7 @@ A referrer can sign an unlimited number of FREE CERT to one's Citium Contacts (r
 
 ### <i class="fa fa-bullhorn" aria-hidden="true"></i> 有效《免費通行證書》認證上限<br>FREE CERT Validation Limit
 
-任何一名簽署者可以簽署無限量張《免費通行證書》但是《免費通行證書》的「有效性」卻是受到了該簽署者的證書持有狀態限制的。**如果簽署者個人只持有已授權的《免費通行證書》**，按先到先得的原則，顺道VPN **只會認證其中兩（2）張他簽署的《免費通行證書》**。顺道VPN將不會再受理晚來的認證請求。換句話說，<i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN在認證完畢頭兩（2）張來訪請求認證的《免費通行證書》後就開始拒絕晚來的認證請求，直到簽署者自己持有的《免費通行證書》被「續時」。屆時，顺道VPN將恢復受理晚來的、有限張數的、他簽署的《免費通行證書》的認證請求。
+任何一名簽署者可以簽署無限量張《免費通行證書》但是《免費通行證書》的「有效性」卻是受到了該簽署者的證書持有狀態限制的。**如果簽署者個人只持有已授權的《免費通行證書》**，按先到先得的原則，順道VPN **只會認證其中兩（2）張他簽署的《免費通行證書》**。順道VPN將不會再受理晚來的認證請求。換句話說，<i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN在認證完畢頭兩（2）張來訪請求認證的《免費通行證書》後就開始拒絕晚來的認證請求，直到簽署者自己持有的《免費通行證書》被「續時」。屆時，順道VPN將恢復受理晚來的、有限張數的、他簽署的《免費通行證書》的認證請求。
 
 Any signer (referrer) can sign an unlimited number of FREE CERT but the “validity” of FREE CERT is constrained by the CERT holding status of the signer. If the **signer only holds a valid FREE CERT** at the time validation, <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN will **only validate two (2) of the FREE CERTs that he/she signs** on a first-come, first-served basis. <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN will not validate latecomers. In other words, <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN will deny further validation requests after validating the first and second requests until the signer of the FREE CERTs renews his/her own FREE CERT to MEMBER CERT. By then, <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN will resume accepting a limited number of the late-coming requests for validating FREE CERTs that he/she signs.
 

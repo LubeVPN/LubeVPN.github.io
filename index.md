@@ -155,7 +155,7 @@ Lube VPN does not record network routing information, such as originating IP and
 用戶先自行選擇一種抵值形式（不允許多種形式混合），採購足夠額度的抵值商品。採購成功後，請隨時通過西蒂姆(Citum)客戶端App內的在線客服[聯絡官方客戶服務](../contact_us)，讓我們協助您完成續時抵值的餘下手續。注：<i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN官方客服只經由西蒂姆(Citum)客戶端App內的在線客服提供咨詢和抵值服務。
 
 {: .box-note}
-如何在西蒂姆(Citum)客戶端App內找到<i class='fa fa-rocket' style='color:DimGrey'></i> 顺道VPN「在線客服」？<br>
+如何在西蒂姆(Citum)客戶端App內找到<i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN「在線客服」？<br>
 How to reach the interface of LIVE CHAT in the Citium Client app?<br>
 <i class='fa fa-gears' style='color:blue'></i> > <i class='fa fa-certificate' style='color:blue'></i> > <i class='fa fa-question-circle' style='color:#ff6d12'></i> > <i class='fa fa-comments-o' style='color:#ff6d12'></i>
 
@@ -173,7 +173,7 @@ How to reach the interface of LIVE CHAT in the Citium Client app?<br>
 {: .myButton}
 
 {: .box-note}
-如何在西蒂姆(Citum)客戶端App內找到<i class='fa fa-rocket' style='color:DimGrey'></i> 顺道VPN「在線客服」？<br>
+如何在西蒂姆(Citum)客戶端App內找到<i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN「在線客服」？<br>
 How to reach the interface of LIVE CHAT in the Citium Client app?<br>
 <i class='fa fa-gears' style='color:blue'></i> > <i class='fa fa-certificate' style='color:blue'></i> > <i class='fa fa-question-circle' style='color:#ff6d12'></i> > <i class='fa fa-comments-o' style='color:#ff6d12'></i>
 
@@ -185,6 +185,6 @@ How to reach the interface of LIVE CHAT in the Citium Client app?<br>
 {: .myButton}
 
 {: .box-note}
-如何在西蒂姆(Citum)客戶端App內找到<i class='fa fa-rocket' style='color:DimGrey'></i> 顺道VPN「在線客服」？<br>
+如何在西蒂姆(Citum)客戶端App內找到<i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN「在線客服」？<br>
 How to reach the interface of LIVE CHAT in the Citium Client app?<br>
 <i class='fa fa-gears' style='color:blue'></i> > <i class='fa fa-certificate' style='color:blue'></i> > <i class='fa fa-question-circle' style='color:#ff6d12'></i> > <i class='fa fa-comments-o' style='color:#ff6d12'></i>

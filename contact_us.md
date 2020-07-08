@@ -6,7 +6,7 @@ bigimg: /img/rainbow_cr.jpg
 googlefonts: ["Roboto Condensed"]
 ---
 
-在以下辦公時間內，您可以通過西蒂姆(Citum)客户端 App 内的在線客服 <i class='fa fa-comments-o'></i> 與 <i class='fa fa-rocket' style='color:DimGrey'></i> 顺道VPN客戶服務代表溝通；而在辦公時間外，請您留言，我們將在辦公時間內回復您：
+在以下辦公時間內，您可以通過西蒂姆(Citum)客户端 App 内的在線客服 <i class='fa fa-comments-o'></i> 與 <i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN客戶服務代表溝通；而在辦公時間外，請您留言，我們將在辦公時間內回復您：
 
 - GMT+8，中國時間、上海、香港、臺北
   - 星期一至六，14時15分 至 16時45分
@@ -16,7 +16,7 @@ googlefonts: ["Roboto Condensed"]
 <i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN 團隊深感抱歉，因為目前辦公時間比較短。我們將在日後逐漸延長在線客服辦公時間。
 
  {: .box-note}
-如何在西蒂姆(Citum)客戶端App內找到<i class='fa fa-rocket' style='color:DimGrey'></i> 顺道VPN「在線客服」？<br>
+如何在西蒂姆(Citum)客戶端App內找到<i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN「在線客服」？<br>
 <i class='fa fa-gears' style='color:blue'></i> > <i class='fa fa-certificate' style='color:blue'></i> > <i class='fa fa-question-circle' style='color:#ff6d12'></i> > <i class='fa fa-comments-o' style='color:#ff6d12'></i>
 
 During service hour, you can securely and anonymously communicate with <i class='fa fa-rocket' style='color:DimGrey'></i>LubeVPN representatives through in-app LIVE CHAT <i class='fa fa-comments-o'></i> on Citium Client App. During non-office hour, please leave us a message and we'll get back to you during office hours:
