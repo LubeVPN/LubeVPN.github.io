@@ -63,7 +63,7 @@ Find a friend (e.g. Alice) who holds a valid (i.e. unexpired) <i class='fa fa-ro
 
 ## <i class="fa fa-globe" aria-hidden="true"></i> 繞過萬里網審<br>Censorship Circumvention
 
-<i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN是基於[西蒂姆(Citum)](../citium_what_for)建立的。西蒂姆的去中心化網絡身份及數據混淆技術能讓<i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN的用戶匿名地、自由自在地上網。除此之外，<i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN能繞過最嚴峻的網絡審查（**甚至是其他VPN服務商無法繞過的**），所以其用戶能順暢無阻地讀取和瀏覽任何全世界任何一個受到互聯網審查封禁的網站。		
+<i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN是基於[西蒂姆(Citum)](../citium_what_for)建立的。西蒂姆的去中心化網絡身份及數據混淆技術能讓 <i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN的用戶匿名地、自由自在地上網。除此之外，<i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN能繞過最嚴峻的網絡審查（**甚至是其他VPN服務商無法繞過的**），所以其用戶能順暢無阻地讀取和瀏覽任何全世界任何一個受到互聯網審查封禁的網站。		
 
 <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN is built on [Citium](../citium_what_for). Citium's decentralized network identity and data obfuscation technology enables <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN users to surf the Internet anonymously and freely. Moreover, <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN can **circumvent the strictest Internet censorship that most other VPN service providers cannot circumvent** so that users can access and surf any blocked content smoothly.
 
