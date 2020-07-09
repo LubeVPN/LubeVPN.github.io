@@ -38,8 +38,8 @@ Foremost, you need to know someone who's already using <i class='fa fa-rocket' s
 - 等 <i class='fa fa-user' style='color:purple'></i> 簽署 <i class="fa fa-pencil-square-o"></i> 您的 <i class='fa fa-certificate' style='color:chocolate'></i>
 - 導入 <i class='fa fa-database'></i> 已被簽署通行證書 <i class='fa fa-certificate' style='color:orchid'>
 3. <i class='fa fa-cogs' style='color:blue'></i> > <i class='fa fa-toggle-off'></i> > <i class='fa fa-toggle-on'></i> 認證有效性 <i class='fa fa-check-square-o'></i>
-- <i class='fa fa-toggle-on' style='color:green'></i> 綠色代表認證成功
-- 開始免费試用！
+- <i class='fa fa-toggle-on' style='color:green'></i> VPN服務授權成功 <i class='fa fa-rocket'></i>  
+- <i class='fa fa-toggle-on' style='color:orange'></i> 只能用模擬網絡 <i class='fa fa-key'></i>
 
 {: .box-note}
 † **有效通行證書** <i class='fa fa-certificate' style='color:green'></i> 是已簽署的和未過期的《通行證書》<i class='fa fa-certificate' style='color:green'></i>。它好比一張入場券能授權持有人使用 <i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN服務。**有效通行證書** <i class='fa fa-certificate' style='color:green'></i> 更可以讓持有者簽署 <i class="fa fa-pencil-square-o"></i> 其西蒂姆即時聊天工具上其他聯絡人的《通行證書》<i class='fa fa-certificate' style='color:chocolate'></i>；假如他們試用服務後決定成為續時抵值會員，簽署者更可以賺取獎勵積分！參閱[推薦人計劃](../referral)。
@@ -55,8 +55,8 @@ Find a friend (e.g. Alice) who holds a valid (i.e. unexpired) <i class='fa fa-ro
 - Wait for <i class='fa fa-user' style='color:purple'></i> to sign <i class="fa fa-pencil-square-o"></i> your <i class='fa fa-certificate' style='color:chocolate'></i>
 - Import <i class='fa fa-database'></i> signed CERT <i class='fa fa-certificate' style='color:orchid'>
 3. <i class='fa fa-cogs' style='color:blue'></i> > <i class='fa fa-toggle-off'></i> > <i class='fa fa-toggle-on'></i> Validate CERT <i class='fa fa-check-square-o'></i>
-- <i class='fa fa-toggle-on' style='color:green'></i> GREEN means validation succeeds.
-- Start the FREE TRIAL!
+- <i class='fa fa-toggle-on' style='color:green'></i> VPN access authorized <i class='fa fa-rocket'></i>
+- <i class='fa fa-toggle-on' style='color:orange'></i> Simulation Network only <i class='fa fa-key'></i> 
 
 {: .box-note}
 † A **valid CERT** <i class='fa fa-certificate' style='color:green'></i> is a signed & unexpired CERT <i class='fa fa-certificate' style='color:green'></i>, functioning as a ticket/pass, authorizes its holder to access <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN service. A **valid CERT** <i class='fa fa-certificate' style='color:green'></i> also enables its holder to sign <i class="fa fa-pencil-square-o"></i> the CERTs of his/her Citium Instant Messenger (CIM) Contacts. If they decides to pay for or renew their memberships, he/she is eligible to earn redeemable points! Please read the [Referral Program](../referral) for more information.
