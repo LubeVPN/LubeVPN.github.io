@@ -46,7 +46,7 @@ In face of an intruder successfully uncovering private data in Citium through **
 
 傳統來說，為了方便用戶使用密碼系統，折衷起見，中心化的系統的「權益持份者」(stakeholders)持有用戶的賬戶ID、密碼和個人信息授權訪問和服務。但往往這些折衷辦法都會引致無可挽回的副作用，例如數據洩露、強迫和勒索攻擊。幸運的是，現代密碼學技術賦予了設計者空間創造更優質的密碼系統：既可以祛除這些傳統常規的權利和權力，同時又不影響密碼系統的整體可用性！
 
-西蒂姆(Citum)充分利用了這些久經考驗的技術構建了一個免費的、開源代碼的、完全去中心化的、[無需准入許可的區塊鏈系統](https://en.wikipedia.org/wiki/Blockchain#Permissionless)，並採用了密碼學上堅不可摧的資訊安全機制，例如 __混合加密系統__、__門限加密系統__、__無差別網樹多點傳送__（IMTM） 和 __分身馬甲帳號__。西蒂姆(Citum)當前的版本能兼容 __文字__、__音像__、__視像__ 和 __即時音訊__ 的數據。使用西蒂姆(Citum)建造的去中心化應用程序（dApp）能享有非凡的數據安全功能，例如 __可推诿性__，非常適合用於建造 **[OTS無記錄通訊](https://en.wikipedia.org/wiki/Off-the-Record_Messaging)即時通訊系統**（OTS-IMS）。
+西蒂姆(Citum)充分利用了這些久經考驗的技術構建了一個免費的、開源代碼的、完全去中心化的、[無需准入許可的區塊鏈系統](https://en.wikipedia.org/wiki/Blockchain#Permissionless)，並採用了密碼學上堅不可摧的資訊安全機制，例如 __混合加密系統__、__門限加密系統__、__無差別網樹多點傳送__（IMTM） 和 __分身馬甲帳號__。西蒂姆(Citum)當前的版本能兼容 __文字__、__音像__、__視像__ 和 __即時音訊__ 的數據。使用西蒂姆(Citum)建造的去中心化應用程序（dApp）能享有非凡的數據安全功能，例如 __可推諉性__，非常適合用於建造 **[OTS無記錄通訊](https://en.wikipedia.org/wiki/Off-the-Record_Messaging)即時通訊系統**（OTS-IMS）。
 
 {: .box-success}
 **服務器IP地址混淆：** 服務器IP地址混淆（SIPO）是西蒂姆(Citum)的獨特功能，可以讓HTML5的內容訪問者既可以訪問到內容但無從得知其服務器的來源IP地址，不單能有效 **防止分散式阻斷服務攻擊（DDoS）**，更可以從IP地理情報層面杜絕情報收集，有效 **防止網絡服務器被拆卸和扣押**。
@@ -58,7 +58,7 @@ Citium take full advantage of these time-tested proven technologies to establish
 {: .box-success}
 **Server IP Obfuscation:** Server IP Obfuscation (SIPO) is a unique feature of Citium. It can hide a server's originating IP address from its visitors while letting them visit HTML5-based content on the server seamlessly. Not only can SIPO effectively **prevent distributed denial-of-service (DDoS) attacks**, but it can also curtail IP intelligence gathering (e.g. geolocation lookup), effectively **preventing web server takedown and seizure**.
 
-## 可抵賴可推诿 ✓<br>Deniability ✓
+## 可抵賴可推諉 ✓<br>Deniability ✓
 
 很多中心化通訊系統自稱帶有 *不可否認性* 作為訊息安全功能之一，因為他們的用戶本身目標就是希望能系統化地讓溝通對手承擔法律責任。西蒂姆(Citum)不是為這種目標而設計的，而是提供了完全相反的資訊安全功能：**可推諉性**。「可推諉性」是針對[**強制披露**](https://en.wikipedia.org/wiki/Key_disclosure_law)和其後患的最後一道防線。
 
@@ -126,7 +126,7 @@ Here is a list of available InfoSec features on Citium. Information security, so
 | ✓ | 可用性<br>Availability | 阻斷服務攻擊<br>DDoS Attack |
 | ✓ | 授權性<br>Authorization | 特權提升<br>Privilege Escalation |
 | ✓ | 驗證性<br>Authentication | 欺骗<br>Spoofing |
-| ✓ | 可推诿性<br>Deniability | 強制型透漏<br>Forced Disclosure |
+| ✓ | 可推諉性<br>Deniability | 強制型透漏<br>Forced Disclosure |
 | ✗ | 不可否認性<br>Non-Repudiation | 可否認性<br>Repudiation |
 
 {: .box-note}
@@ -136,6 +136,6 @@ Here is a list of available InfoSec features on Citium. Information security, so
 :closed_lock_with_key:: ✓ available feature; ✗ unavailable feature
 
 ### 下一章 / NEXT CHAPTER
-[**可推诿性和不可否認性**](../deniability)<br>
+[**可推諉性和不可否認性**](../deniability)<br>
 [**Deniability & Non-Repudiation**](../deniability)
 {: .myButton}

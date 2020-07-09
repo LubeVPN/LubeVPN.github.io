@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 可抵賴可推诿
+title: 可抵賴可推諉
 subtitle: Deniability ✓<br>Non-Repudiation ✗
 bigimg: /img/brick.jpg
 googlefonts: ["Roboto Condensed"]
