@@ -56,7 +56,7 @@ Find a friend (e.g. Alice) who holds a valid (i.e. unexpired) <i class='fa fa-ro
 - Import <i class='fa fa-database'></i> signed CERT <i class='fa fa-certificate' style='color:orchid'>
 3. <i class='fa fa-cogs' style='color:blue'></i> > <i class='fa fa-toggle-off'></i> > <i class='fa fa-toggle-on'></i> Validate <i class="fa fa-check-square-o"></i> your <i class='fa fa-certificate' style='color:orchid'>
 - <i class='fa fa-toggle-on' style='color:green'></i> Success <i class="fa fa-check-square-o"></i>; VPN <i class='fa fa-rocket'></i> Starts!
-- <i class='fa fa-toggle-on' style='color:orange'></i> Fail <i class="fa fa-check-square-o"></i>; SimuNet <i class='fa fa-key'></i> Only.
+- <i class='fa fa-toggle-on' style='color:orange'></i> Fail <i class="fa fa-check-square-o"></i>; Simulated Net <i class='fa fa-key'></i> Only.
 
 {: .box-note}
 † A **valid CERT** <i class='fa fa-certificate' style='color:green'></i> is a signed & unexpired CERT <i class='fa fa-certificate' style='color:green'></i>, functioning as a ticket/pass, authorizes its holder to access <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN service. A **valid CERT** <i class='fa fa-certificate' style='color:green'></i> also enables its holder to sign <i class="fa fa-pencil-square-o"></i> the CERTs of his/her Citium Instant Messenger (CIM) Contacts. If they decides to pay for or renew their memberships, he/she is eligible to earn redeemable points! Please read the [Referral Program](../referral) for more information.
