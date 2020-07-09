@@ -37,7 +37,7 @@ Foremost, you need to know someone who's already using <i class='fa fa-rocket' s
 - <i class='fa fa-envelope-o' style='color:blue'></i> > <i class='fa fa-clipboard' style='color:blue'></i> 黏貼發送 <i class='fa fa-certificate' style='color:chocolate'></i> 給 <i class='fa fa-user' style='color:purple'></i>
 - 等 <i class='fa fa-user' style='color:purple'></i> 簽署 <i class="fa fa-pencil-square-o"></i> 您的 <i class='fa fa-certificate' style='color:chocolate'></i>
 - 導入 <i class='fa fa-database'></i> 已被簽署通行證書 <i class='fa fa-certificate' style='color:orchid'>
-3. <i class='fa fa-cogs' style='color:blue'></i> > <i class='fa fa-toggle-off'></i> > <i class='fa fa-toggle-on'></i> 熄亮切換鍵去認證證書 <i class='fa fa-check-square-o'></i>
+3. <i class='fa fa-cogs' style='color:blue'></i> > <i class='fa fa-toggle-off'></i> > <i class='fa fa-toggle-on'></i> 認證有效性 <i class='fa fa-check-square-o'></i>
 - <i class='fa fa-toggle-on' style='color:green'></i> 綠色代表認證成功
 - 開始免费試用！
 
@@ -54,7 +54,7 @@ Find a friend (e.g. Alice) who holds a valid (i.e. unexpired) <i class='fa fa-ro
 - <i class='fa fa-envelope-o' style='color:blue'></i> > <i class='fa fa-clipboard' style='color:blue'></i> Paste & send <i class='fa fa-certificate' style='color:chocolate'></i> to <i class='fa fa-user' style='color:purple'></i>
 - Wait for <i class='fa fa-user' style='color:purple'></i> to sign <i class="fa fa-pencil-square-o"></i> your <i class='fa fa-certificate' style='color:chocolate'></i>
 - Import <i class='fa fa-database'></i> signed CERT <i class='fa fa-certificate' style='color:orchid'>
-3. <i class='fa fa-cogs' style='color:blue'></i> > <i class='fa fa-toggle-off'></i> > <i class='fa fa-toggle-on'></i> Off and on toggle to validate CERT <i class='fa fa-check-square-o'></i>
+3. <i class='fa fa-cogs' style='color:blue'></i> > <i class='fa fa-toggle-off'></i> > <i class='fa fa-toggle-on'></i> Validate CERT <i class='fa fa-check-square-o'></i>
 - <i class='fa fa-toggle-on' style='color:green'></i> GREEN means validation succeeds.
 - Start the FREE TRIAL!
 
