@@ -37,7 +37,7 @@ Foremost, you need to know someone who's already using <i class='fa fa-rocket' s
 - <i class='fa fa-envelope-o' style='color:blue'></i> > <i class='fa fa-clipboard' style='color:blue'></i> 黏貼發送 <i class='fa fa-certificate' style='color:chocolate'></i> 給 <i class='fa fa-user' style='color:purple'></i>
 - 等 <i class='fa fa-user' style='color:purple'></i> 簽署 <i class="fa fa-pencil-square-o"></i> 您的 <i class='fa fa-certificate' style='color:chocolate'></i>
 - 導入 <i class='fa fa-database'></i> 已被簽署通行證書 <i class='fa fa-certificate' style='color:orchid'>
-3. <i class='fa fa-cogs' style='color:blue'></i> > <i class='fa fa-toggle-off'></i> > <i class='fa fa-toggle-on'></i> 認證有效性 <i class='fa fa-check-square-o'></i>
+3. <i class='fa fa-cogs' style='color:blue'></i> > <i class='fa fa-toggle-off'></i> > <i class='fa fa-toggle-on'></i> 認證 <i class="fa fa-check-square-o"></i> 您的 <i class='fa fa-certificate' style='color:orchid'>
 - <i class='fa fa-toggle-on' style='color:green'></i> VPN服務授權成功 <i class='fa fa-rocket'></i>  
 - <i class='fa fa-toggle-on' style='color:orange'></i> 只能用模擬網絡 <i class='fa fa-key'></i>
 
@@ -54,9 +54,9 @@ Find a friend (e.g. Alice) who holds a valid (i.e. unexpired) <i class='fa fa-ro
 - <i class='fa fa-envelope-o' style='color:blue'></i> > <i class='fa fa-clipboard' style='color:blue'></i> Paste & send <i class='fa fa-certificate' style='color:chocolate'></i> to <i class='fa fa-user' style='color:purple'></i>
 - Wait for <i class='fa fa-user' style='color:purple'></i> to sign <i class="fa fa-pencil-square-o"></i> your <i class='fa fa-certificate' style='color:chocolate'></i>
 - Import <i class='fa fa-database'></i> signed CERT <i class='fa fa-certificate' style='color:orchid'>
-3. <i class='fa fa-cogs' style='color:blue'></i> > <i class='fa fa-toggle-off'></i> > <i class='fa fa-toggle-on'></i> Validate CERT <i class='fa fa-check-square-o'></i>
+3. <i class='fa fa-cogs' style='color:blue'></i> > <i class='fa fa-toggle-off'></i> > <i class='fa fa-toggle-on'></i> Validate <i class="fa fa-check-square-o"></i> your <i class='fa fa-certificate' style='color:orchid'>
 - <i class='fa fa-toggle-on' style='color:green'></i> VPN access authorized <i class='fa fa-rocket'></i>
-- <i class='fa fa-toggle-on' style='color:orange'></i> Simulation Network only <i class='fa fa-key'></i> 
+- <i class='fa fa-toggle-on' style='color:orange'></i> Simulation Network only <i class='fa fa-key'></i>
 
 {: .box-note}
 † A **valid CERT** <i class='fa fa-certificate' style='color:green'></i> is a signed & unexpired CERT <i class='fa fa-certificate' style='color:green'></i>, functioning as a ticket/pass, authorizes its holder to access <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN service. A **valid CERT** <i class='fa fa-certificate' style='color:green'></i> also enables its holder to sign <i class="fa fa-pencil-square-o"></i> the CERTs of his/her Citium Instant Messenger (CIM) Contacts. If they decides to pay for or renew their memberships, he/she is eligible to earn redeemable points! Please read the [Referral Program](../referral) for more information.
