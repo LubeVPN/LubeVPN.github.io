@@ -1,0 +1,197 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+<title>西蒂姆（Citium）</title>
+<meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0">
+<meta name="keywords" content="Pango123,SDTP,SafeEmail,BitLetter,Privacy Protection,Block Chain,Peer to Peer">
+
+<!-- Site CSS -->
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@3.3.7/dist/css/bootstrap.min.css" rel="stylesheet">
+<link href="https://cdn.jsdelivr.net/npm/font-awesome@4.7.0/css/font-awesome.min.css" rel="stylesheet">
+<link href="site.min.css" rel="stylesheet">
+<link rel="icon" href="data:;base64,=">
+<!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+<!--[if lt IE 9]>
+  <script src="https://cdn.jsdelivr.net/npm/html5shiv@3.7.3/dist/html5shiv.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/respond.js@1.4.2/dest/respond.min.js"></script>
+<![endif]-->
+
+<script>
+  var _hmt = _hmt || [];
+</script>
+
+
+</head>
+  <body>
+	  
+  <div class="jumbotron masthead">
+  <div class="container">
+    <h1>西蒂姆</h1>
+    <h2>首次啟動西蒂姆（Citium）<br/>點擊「創建新身份」按鈕</h2>
+    <p class="masthead-button-links">
+      <a id='android_button' class="btn btn-lg btn-primary btn-shadow" href="https://www.unicorn001.tk/uploads/citium1026.apk" style="display:none;">安卓端APK下載</a>
+      <div id='iso_button' class="btn btn-lg btn-primary btn-shadow" style="display:none;">蘋果設備請靜候</div>
+      <div id='wxtip_button' class="btn btn-lg btn-primary btn-shadow" style="display:none;">点击右上角转入浏览器下载</div>
+    </p>
+  </div>
+</div>
+
+  <div class="bc-social">
+    <div class="container">
+      <ul class="bc-social-buttons">
+        <li class="social-forum">
+          <a class="" href="https://t.me/unicorn001" title="TG社區" target="_blank" onclick="_hmt.push(['_trackEvent', 'masthead', 'click'])">
+            <i class="fa fa-comments"></i> TG社區
+          </a>
+        </li>
+        <li class="social-arxiv">
+          <a href="https://arxiv.org/abs/1902.09115" title="論文" target="_blank" onclick="_hmt.push(['_trackEvent', 'masthead', 'click'])"><i class="fa fa-file"></i> 論文(非白皮書)</a>
+        </li>
+      </ul>
+    </div>
+  </div>
+
+
+  <div class="container projects">
+
+    <div class="projects-header page-header">
+	  <h2>基于BitTorrent技術</h2>
+    <h2>完全去中心化的平台</h2>
+    <h2>確保私隱和通訊安全</h2>
+      <p>現在已經有首輪影藝製作全球電視直播服務商加盟，也有跨域VPN服務商助你遨遊網際網絡匿名上網！您除了可以盡情享受種種免費服務外，更歡迎您通過本應用的內置在線客服跟我們取得聯繫，探討如何讓您的業務也加盟西蒂姆（Citium）平台，讓更多人可以成為您的用戶！</p>
+    </div>
+
+    <div class="row">
+        <div class="col-md-4">
+          <div class="thumbnail">
+            <div style="font-size: 40px;max-width: 100%;text-align: center;font-weight: bold;line-height: 150px;height: 150px;background-color: #66347b;color: #fff;">為何用西蒂姆？</div>
+            <div class="caption">
+              <h3>
+                  <div><span style='font-weight:bold;'>拒絕訴諸權威</span><br><small> 拒絕訴諸新穎</small></div>
+              </h3>
+              <p>西蒂姆（Citium）與常規的權威和標新立異的網絡安全辦法形成了鮮明的對比。西蒂姆（Citium）假設任何個別的「權益持份者」（用戶節點或服務節點）本質上都是邪惡的；意思是，單個權益持份者把持的任何權力都可能對某些人產生不利影響。幸運的是，現代密碼學技術賦予了密碼系統設計者空間施展，我們可以剝奪傳統意義上的利益相關者所擁有的權力（如授權權、持有用戶的賬戶ID、密碼和個人信息等）而不影響密碼系統的整體可用性。</p>
+            </div>
+          </div>
+        </div>
+      
+        <div class="col-md-4">
+          <div class="thumbnail">
+            <div style="font-size: 40px;max-width: 100%;text-align: center;font-weight: bold;line-height: 150px;height: 150px;background-color: #ff2222;color: #eee;">可抵賴可推诿</div>
+            <div class="caption">
+              <h3>
+                  <div><span style='font-weight:bold;'>去中心化安全保護</span><br><small>無後顧之憂的網絡通訊</small></div>
+              </h3>
+              <p>西蒂姆（Citium）去中心化系統協議背後的主要動機是為對話參與者提供一個可推諉的溝通網絡，同時保持對話的機密性（猶如現實生活中的私人對話，或新聞採購中的記錄）。與之相反的是某些中心化通訊系統卻輸出可以稍後用作通訊事件和參與者身份的可驗證記錄。</p>
+            </div>
+          </div>
+        </div>
+      
+        <div class="col-md-4">
+          <div class="thumbnail">
+            <div style="font-size: 40px;max-width: 100%;text-align: center;font-weight: bold;line-height: 150px;height: 150px;background-color: #1fa08f;color: #fff;">SafeMail / SDTP</div>
+            <div class="caption">
+              <h3>
+                  <div><span style='font-weight:bold;'>承傳開源安全系統</span><br><small>源代碼隨時可供安檢</small></div>
+              </h3>
+              <p>西蒂姆（Citium）繼承自開源項目SafeMail。儘管西蒂姆（Citium）即時通訊系統項目與 SafeMail 協議完全兼容，但我們還是決定將其稱為 Citium Instant Messenger（CIM）而不是 Citium Mail，因為用戶界面和實際使用感覺就像市場上的大多數即時通訊程序。CIM和SafeMail都使用的通信機制是「安全數據傳輸協議」 SDTP。 SDTP規定，所有形式的通信都將相同的通用通知推送給預期的接收者。收到通知後，要求預期的收件人自己檢索消息。</p>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-md-4">
+          <div class="thumbnail">
+            <div style="font-size: 40px;max-width: 100%;text-align: center;font-weight: bold;line-height: 150px;height: 150px;background-color: #3186b7;color: #fff;">反大數據</div>
+            <div class="caption">
+              <h3>
+                  <div><span style='font-weight:bold;'>無法辨識真僞的數據</span><br><small>軍事應用級別的門限加密系統</small></div>
+              </h3>
+              <p>在任何密碼系統中，將純文本訊息轉換為密文再轉換回來的最重要組成部分是密鑰。 密鑰是密碼學整體安全性的基礎，這意味著密鑰的保護也已成為重要的命題。 可以減少密鑰洩露風險的一種方法是門限加密。 門限加密學的基本思想是，在將密鑰分發給相關節點之前，將其分為 N 個份額。 為了再次生成密鑰，不需要所有共享。 相反，一個實體只能組合 K 個份額（稱為門限）來重建密鑰。 換句話說，即使將密鑰分為 N 個份額，也僅需要 K 個份額即可重建密鑰。歷來只有具有非常有價值的秘密（例如證書頒發機構，軍隊和政府所隱藏的）才使用門限加密系統技術。西蒂姆（Citium）的門限加密方案是確保密鑰安全並防止密鑰被洩露的額外步驟。這是因為對手將需要攻擊 K 個節點以便獲得 K 個份額來生成密鑰，而不是損害一個節點則可來獲取密鑰。這使得攻擊難度大增。在西蒂姆（Citium）中，不僅是密鑰，而且消息被加密後的密文本身也與密鑰的N個共享碎片一起被分割成N個碎片。共享的密碼文本（”密文”）被無差別地、不加區分地分發到盡可能多的西蒂姆（Citium）節點（即服務節點和用戶節點）。這樣一來，所有的內容對所有節點的所有者都是良性的。任何人都不需要對分發的任何信息負責。沒任何人知道在他們自己的節點上在分發的內容是什麼、從哪裡來或給誰發的。在西蒂姆（Citium）的門限密碼系統設計是 K = N，這意味著所有的 N 個份額都要被收集和合併。這是門限密碼系統最嚴格的信息安全设置。</p>
+            </div>
+          </div>
+        </div>
+      
+        <div class="col-md-4">
+          <div class="thumbnail">
+            <div style="font-size: 40px;max-width: 100%;text-align: center;font-weight: bold;line-height: 150px;height: 150px;background-color: #e5d04a;color: #222;">人人可節點</div>
+            <div class="caption">
+              <h3>
+                  <div><span style='font-weight:bold;'>無需進入或許可</span><br><small>任何人任何時間都可以成爲服務節點中的一個！</small></div>
+              </h3>
+              <p>西蒂姆（Citium）作為一個免費的、開源代碼的、完全去中心化的、無需准入許可的區塊鏈系統 的好處是 抗审查。沒人可被阻止在西蒂姆（Citium）上架設節點。節點的運營商，例如OTS即時聊天工具提供商（IMSP），可以向通過其西蒂姆（Citium）節點訪問的用戶宣傳自己的資料（例如，商業廣告內容）。發件人可以自由選擇IMSP的服務節點去中繼信息給預期收件人。任何兩個用戶（例如Alice和Bob）都可以隨時通過任何西蒂姆（Citium）的IMSP進行安全和可推諉的通訊而無需徵詢任何其他人的許可。但當然，任何一個西蒂姆（Citium）服務節點都有權拒絕服務或拒絕中繼涉嫌濫用服務的節點。完全取決於每個參與者的自由自決。無論從哪個網絡層面查看西蒂姆（Citium）的數據，所有數據看起來都是雷同的。沒有第三者（哪怕是最先進的機器學習人工智能）可以確認數據是否被偽造或篡改了，因為每個人都可以偽造和篡改其他人的數據。簡而言之，除非另有明確證據說明，否則 所有數據均假定為未知來源（被偽造了）且不可信（被篡改過）。</p>
+            </div>
+          </div>
+        </div>
+      
+        <div class="col-md-4">
+          <div class="thumbnail">
+            <div style="font-size: 40px;max-width: 100%;text-align: center;font-weight: bold;line-height: 150px;height: 150px;background-color: #4fa722;color: #eee;">分身馬甲帳號</div>
+            <div class="caption">
+              <h3>
+                  <div><span style='font-weight:bold;'>再更進一步增強可推諉性</span><br><small> 所有西蒂姆（Citium）節點上的數據生命週期都被限制了長度。舉例，身處在用戶移動節點上的密文碎片是默認在24小時後 自焚 的。當事人可以直接告訴脅迫者，系統早已按照公佈的時間表故意抹掉自己的信息，因此不能交出信息。</small></div>
+              </h3>
+              <p>分身馬甲帳號（Sockpuppets）是一個 反監控的軟件對策 / software measure of countersurveillance。在西蒂姆（Citium）中，分身馬甲帳號 的機制註定了 任何用戶都可以偽裝成其他用戶，就連用戶帳戶的暱稱也並非獨一無二性的！不論從哪個角度來看，沒人能確定哪個賬戶屬於誰的。西蒂姆（Citium）的「分身馬甲帳號」機制規定一個用戶賬戶不可以與另一位用戶賬戶直接溝通，而只能通過西蒂姆（Citium）中的「分身馬甲帳號」間接溝通。所有用戶賬號都是「分身馬甲帳號」，而每個帳號都貌似是一個反監控的誘餌。一個賬戶在替持賬用戶通訊或僅僅只是在替其他用戶扮演「分身馬甲帳號」去通訊（替其他賬戶通過 無差別網樹多點傳送（IMTM）溝通），除了持賬用戶本人之外，任何其他人都無從推敲亦無法證明。</p>
+            </div>
+          </div>
+        </div>
+
+    </div>
+  </div>
+  <!-- /.container -->
+
+
+
+    <footer class="footer ">
+  <div class="container">
+    <div class="row footer-bottom">
+      <ul class="list-inline text-center">
+        <li><a href="https://www.lubevpn.com/confidentiality/" target="_blank">機密|完整|可用性</a></li><li>了解更多西蒂姆的安全原理</li>
+      </ul>
+    </div>
+  </div>
+</footer>
+
+<!-- Bootstrap core JavaScript
+================================================== -->
+<!-- Placed at the end of the document so the pages load faster -->
+<script src="https://cdn.jsdelivr.net/npm/jquery@1.12.4/dist/jquery.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@3.3.7/dist/js/bootstrap.min.js"></script>
+
+
+<script>
+    var g_isMobile = false,
+    g_biOS = false,
+    g_bInWX = false;
+
+    function _checkBrowserType(){
+        var ua = navigator.userAgent.toLowerCase();
+        var ipad = ua.match(/(ipad).*os\s([\d_]+)/),
+            isIphone = !ipad && ua.match(/(iphone\sos)\s([\d_]+)/),
+            isAndroid = ua.match(/(android)\s+([\d.]+)/);
+        g_isMobile = (isIphone || isAndroid)?true:false;
+
+        if(ua.match(/iphone/i)=="iphone"){
+            g_biOS = true;
+        }
+        if (ua.match(/micromessenger/i)=="micromessenger") {
+            g_bInWX = true;
+        }
+    }
+
+    _checkBrowserType();
+
+    if(g_biOS == true){
+        $("#iso_button").show();
+    }else{
+        if(g_bInWX == true){
+            $("#wxtip_button").show();
+        }else{
+            $("#android_button").show();
+        }
+    }
+
+</script>
+
+  </body>
+</html>

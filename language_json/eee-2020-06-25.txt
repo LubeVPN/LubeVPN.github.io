@@ -1,0 +1,24 @@
+"error": {
+	"zh":"該獎券憑證碼已經被使用過簽署順道VPN通行證書所以現在它已經無法再被用於簽署您的通行證書。如果您無法獲取其他未被使用過的、新的獎券憑證碼了，但又希望繼續使用順道VPN服務，敬請諮詢本應用App內置的在線客服有關更多續時抵值相關的申請和付款辦法。[1005]",
+	"en":"This Coupon Code has been used to sign your LubeVPN CERT. If you have no other Coupon Code to use please contact our in-app LIVE HELP for more information for renewal. We will guide you through the application and payment process. [1005]"
+}
+
+"error": {
+	"zh":"您的順道VPN通行證書已經通過其他形式進行過認證，例如好友聯絡人幫您的通行證書數字簽名過，或，您曾經為您的證書抵值付費過；所以您的證書現在是無法再使用獎券来續時的。如果您希望繼續使用順道VPN服務，敬請諮詢本應用App內置的在線客服有關更多續時抵值相關的申請和付款辦法。[1001]",
+	"en":"Your LubeVPN CERT has been signed with some other methods, such as signed by one of your CIM Contacts or renewal through payment. Therefore, it is now impossible to use Coupon to renew your LubeVPN CERT. Please contact our in-app LIVE HELP for more information to renew. We will guide you through the application and payment process. [1001]"
+}
+
+
+"error": {
+	"zh":"一張順道VPN通行證書最多可以最多可以使用50個獎券簽署，但您的通行證書已超過該限制，所以您無法使用該獎券憑證碼去簽署您的通行證書了。如果您希望繼續使用順道VPN服務，敬請諮詢本應用App內置的在線客服有關更多續時抵值相關的申請和付款辦法。[1003]",
+	"en":"Coupon can be applied on a LubeVPN CERT for not more than fifty (50) times. Your LubeVPN CERT had been renewed by Coupon for fifty times already; therefore, you could not use this Coupon Code to renew your LubeVPN CERT. Please contact our in-app LIVE HELP for more information to renew. We will guide you through the application and payment process. [1003]"
+}
+
+"error": {
+	"zh":"您的舊獎券已經過期，但現在您的順道VPN通行證書正在處於12小時冷卻期。冷卻期過後您才可以使用新的獎券憑證碼簽署通行證書。 12小時冷卻期期間，如果您希望繼續使用順道VPN服務，敬請諮詢本應用App內置的在線客服有關更多續時抵值相關的申請和付款辦法。[1004]",
+	"en":"Your existing Coupon Code has expired. Your LubeVPN CERT is undergoing a 12-hour cooling-off period. You cannot use new Coupon Code until the cooling-off period ends. In the mean time, please contact our in-app LIVE HELP for more information to renew. We will guide you through the application and payment process. [1004]"
+}
+
+_s.m_Pdlg.find("[name='dialog_content_loading_span']").text(g_language=="en"?"Error: Abnormal signature!":"錯誤：簽名異常！");
+_s.m_Pdlg.find("[name='dialog_content_loading_span']").text(g_language=="en"?"Data acquisition failed, please try again later!":"數據獲取失敗，請稍後再試！");
+_s.m_Pdlg.find("[name='dialog_content_loading_span']").text(g_language=="en"?"The Coupon Code is validated and has successfully signed your LubeVPN CERT! Go to General Settings page. Turn off and then turn on the LubeVPN toggle switch. The switch will be in GREEN color, indicating LubeVPN service access has successfully been authorized. You may start surf securely and anonymously! ":"獎券已成功簽署順道VPN通行證書！請去「設定」頁面，撥熄並再次撥亮開關鍵。開關鍵會呈現綠色，代表順道VPN服務已被成功授權訪問。你可以正式開始安全和匿名地上網了！");

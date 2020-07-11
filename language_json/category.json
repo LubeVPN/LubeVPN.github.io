@@ -1,0 +1,150 @@
+{
+	"categorys":[
+		{
+			"icon":"fa fa-question-circle",
+			"color":"#1B9AF7",
+			"title":{
+				"en":"Why is LubeVPN so good at Internet censorship circumvention?",
+				"zh":"為什麼 順道VPN 突破網絡審查的效果如此顯著？"
+			},
+			"resume":{
+				"en":"<p>Uniquely designed decentralized network identity and data obfuscation technology based on Citium enable LubeVPN users to surf the Internet freely. In other words, LubeVPN can circumvent the most stringent Internet censorship that other VPN service providers cannot circumvent so that users can access and surf any blocked content smoothly. </p>",
+				"zh":"<p>基於 西蒂姆（Citium）獨特設計的去中心化網絡身份及數據混淆技術，能讓《順道VPN》的用戶自由自在地上網。換句話說，因為《順道VPN》能繞過最嚴峻的網絡審查（甚至是其他VPN服務商無法繞過的），所以用戶能順暢地讀取和瀏覽任何受封鎖內容。</p>"
+			}
+		},
+		{
+			"icon":"fa fa-question-circle",
+			"color":"#1B9AF7",
+			"title":{
+				"en":"What are the pain point of conventional VPN?",
+				"zh":"傳統用來突破網絡審查的工具的疼點是什麼？"
+			},
+			"resume":{
+				"en":"<p>On the one hand, regulators use Internet censorship systems to control and suppress Internet contents. On the other hand, Internet surfers use software, such as VPN, to circumvent the suppression so that they can access suppressed web domains and IP addresses. Some can succeed but most fail because regulators are always upgrading their censorship mechanism. The extent of Internet censorship of some regulators has gone beyond just limiting user access to sensitive web domains and IP addresses. Their censorship mechanisms have even started to use machine learning algorithms to analyze Internet traffic data in order to block VPN service access. VPN services that are still using username/password combination as authentication regime are exceptionally vulnerable to this kind of obtrusive Internet censorship. Why is that so? </p><p>All VPN service providers have to authenticate their users’ access rights before authorizing access. Conventional VPN service providers authenticate their users through user-side client to VPN-side server communication (i.e. two-way handshake), which exhibit easily detectable traffic patterns. In fact, the more popular a VPN service becomes, the more susceptible it is to suppression because its tens of thousands of two-way handshake that happens on the Internet are simply too conspicuous. Hence, most of the popular VPN brands fail to circumvent network censorship that’s getting more and more stringent. </p>",
+				"zh":"<p>一方面，監管部門利用互聯網審查系統來控制和壓制互聯網內容。另一方面，網民利用VPN等軟件來規避壓制，使其能夠訪問被壓制的網域和IP地址。有的可以成功，但大多數都會失敗，因為監管部門一直在升級審查機制。一些監管機構的互聯網審查機制的程度已經超出了僅僅限制用戶訪問敏感的網絡域和IP地址的範圍。他們的審查機制甚至已經開始使用機器學習算法來分析互聯網流量數據，以阻止VPN服務的訪問。仍在使用用戶名/密碼組合作為身份驗證機制的VPN服務，在這種侵擾性的互聯網審查機制面前顯得格外脆弱。為什麽會出現這種情況呢？</p><p>因為所有的VPN服務提供商在授權訪問之前，都必須對用戶的訪問權限進行認證。傳統的VPN服務提供商通過用戶端客戶端與VPN端服務器之間的通信（即雙向握手）對用戶進行身份驗證，表現出容易被檢測到的流量模式。事實上，一個VPN服務越是流行，就越是容易被打壓，因為它在互聯網上發生的成千上萬的雙向握手，簡直太顯眼了。因此，大多數流行的VPN品牌都無法規避越來越嚴格的網絡審查制度。 </p>"
+			}
+		},
+		{
+			"icon":"fa fa-question-circle",
+			"color":"#1B9AF7",
+			"title":{
+				"en":"LubeVPN's decentralized Internet censorship circumvention",
+				"zh":"順道VPN 的去中心化的突破網絡審查方案"
+			},
+			"resume":{
+				"en":"<p>LubeVPN does not use conventional two-way handshake during user authentication. LubeVPN users access VPN service through the Citium Client app and the authentication process is based on the decentralized Citium network of nodes. Instead of conventional two-way handshake, authentication on LubeVPN is more like a multi-way handshake through randomized nodes of Citium. Users of LubeVPN engage indirectly with VPN servers through other user nodes of Citium until VPN access is authorized. In a nutshell, the more popular Citium Client app becomes, the more indistinguishable LubeVPN’s handshaking traffic is from regular Internet traffic. Hence, Internet surfers that use LubeVPN can circumvent even the most stringent censorship system.</p>",
+				"zh":"<p>順道VPN 不使用傳統的雙向握手（two-way handshake）去做用戶認證。順道VPN 的用戶通過西蒂姆（Citium）客戶端App 訪問VPN服務，認證過程基於去中心化的西蒂姆（Citium）網絡節點。與傳統的雙向握手不同，順道VPN 的認證更像是通過西蒂姆（Citium）的隨機節點進行多向握手。順道VPN 的用戶通過西蒂姆（Citium）的其他用戶節點與VPN服務器間接接觸，直到VPN訪問被授權。一言以蔽之，西蒂姆（Citium）客戶端App 應用越是流行和節點越多，順道VPN 的握手過程中產生的數據交互與普通的互聯網流量就越無法區分。因此，使用 順道VPN 的互聯網用戶可以規避即便是最嚴格的審查系統。 </p>"
+			}
+		},
+
+
+		{
+			"icon":"fa fa-question-circle",
+			"color":"#1B9AF7",
+			"title":{
+				"en":"Support VoIP of IM (WhatsApp, Telegram & WeChat)?",
+				"Zh":"支持即時聊天軟件系統的即時語音聊天嗎？"
+			},
+			"resume":{
+				"en":"<p>LubeVPN does not support real-time audio or video communication (VoIP). In other words, real-time voice chat on WhatsApp, Telegram and WeChat does not work if LubeVPN is enabled. Real-time audio or video raises the risk of exposing the user's identity. If VoIP operators are  coerced to give up their user identities by the authorities, LubeVPN is best suited to prevent data breach because LubeVPN does not record any information of users. </p>",
+				"zh":"<p>順道VPN 並不支持 WhatsApp、電報（Telegram）或微信等各營運商的點對點即時音頻或視像串流通訊，因為所有點對點的即時串流通訊均有機會曝露用戶身份資料和信息被留意及監察的風險。尤其當營運商被監管機構威逼，必須提供有關用戶終端資料時候，順道VPN 的機制可以有效避免用戶信息洩露。因為順道VPN 於去中心化的用戶認證基制杜絕任何途徑記錄任何用戶資料，故此當然不能向任何人提供任何資料。</p>"
+			}
+		},
+		{
+			"icon":"fa fa-question-circle",
+			"color":"#1B9AF7",
+			"title":{
+				"en":"Does LubeVPN support Smart Routing?",
+				"zh":"順道VPN 支持智能路由嗎？"
+			},
+			"resume":{
+				"en":"<p>LubeVPN Smart Routing automatically selects the best suited VPN routing servers for users so that they can have the best surfing experience. We believe every earthling has the right to access information.</p>",
+				"zh":"<p>順道VPN 自動幫用戶選擇最佳VPN路由服務器。有別於市面上各VPN要求客戶自行勾選IP國家所在地，順道VPN 的 Smart Routing（智能路由）會根據用戶所需流量及地緣因素自行安排最佳通路從而抵抗大數據特徵辨識，優化網速及繞過受資訊審查區地域，以提供無縫資訊連接。我們深信資訊自由是屬於每個地球人的權利。</p>"
+			}
+		},
+		{
+			"icon":"fa fa-question-circle",
+			"color":"#1B9AF7",
+			"title":{
+				"en":"Why so different from other VPNs?",
+				"zh":"為什麼順道VPN操作起來感覺與別不同？"
+			},
+			"resume":{
+				"en":"<p>LubeVPN does not publicly accept new user registration unless one is referred by an existing user. In other words, one must first find a referrer who is an existing LubeVPN user to refer him/her before he/she can request LubeVPN to validate his/her rights and to authorize his/her access to its VPN service. If you are not connected to any referrer, you should contact our in-app LIVE HELP to see if we can recommend one to you. LubeVPN utilizes a secure electronic signature system to manage user referral and registration workflows instead of the username/password regime traditionally utilized by most of the other online service providers because only by utilizing the electronic signature system can we maximize security and anonymity for all parties. </p><p>Traditional user and referral system rely on relational databases on centralized servers to record the referral relationships. That regime is prone to security and privacy breach. In contrast, LubeVPN's referral relationships are recorded by securely and privately binding digital signatures and their signed certificates in a peer-to-peer fashion. More specifically, a referral relationship in LubeVPN is securely bound based on the unique digital signature of the referrer and the signed digital certificate (i.e. signed FREE CERT) held by the referred user, not recorded in any third-party party relational database, preempting data breach. In LubeVPN, referred users are each responsible to initiate the referral and registration process by creating a FREE CERT, which is an easy, one-click, one-time and free of charge action performed on everyone's own device. Next, they may ask for their referrers to sign their FREE CERTs. Once signed, the referral relationship between a referrer (i.e. signer) and the referred user (i.e. the creator and holder of a CERT) are permanently bound to the signed CERT even if the holder later decide to renew it (i.e. paying and subscribing for MEMBER CERTS). </p><p>LubeVPN will not validate anyone's CERT unless one's CERT is signed by an existing user (i.e. referrer) who holds a valid (i.e. unexpired) CERT. Once validated, the holder of the CERT is authorized to access LubeVPN service. Every holder of the signed CERTS is responsible for not losing one's own signed CERT (e.g. accidentally clearing the data of the Citium Client app that stores it) because the signed CERT is the only evidence to prove the referral relationship between the referrer and the referred user.</p>",
+				"zh":"<p>順道VPN是不公開接受所有新用戶申請的，必須由現有用戶推薦的新用戶，順道VPN才會考慮接受申請。換句話說，一個用戶請求順道VPN認證他的資質和授權他訪問它的VPN服務之前，必先獲得順道VPN的現有用戶的推薦。如你還未有推薦人推薦，請嘗試聯繫我們於App內的在線客服提供協助。順道VPN是使用了一套安全電子簽名系統來管理用戶舉薦和註冊流程，而不是像大多數其他在線服務提供商那樣選用傳統的用戶名和用戶密碼制度，因為通過使用我們的電子簽名系統才可以最大程度地提高所有服務參與者的使用安全性和匿名性。</p><p>傳統用戶系統依賴中央化服務器的關系型數據庫記錄推薦人與受薦者之間的關系，安全和匿名程度都比較低。反觀，順道VPN的用戶和推薦系統是通過數字簽名和數字證書以點對點（P2P）的形式來綁定的；更具體來說，是推薦人的獨特數字簽名和受薦者持有的簽名數字證書（即，已簽署的《免費通行證書》）來安全地、隐蔽地綁定彼此的關系，而不會被記錄在任何第三方關係型數據庫上，防範信息洩露於未然。在順道VPN中，受薦者用戶都需要自己動手創建一個《免費通行證書》來啟動推薦和註冊流程的；這是一個簡單的、一鍵式的、一次性的、在每個受薦者自己的設備上執行的、免費的操作。接下來，他們可以要求自己的推薦人在《免費通行證書》上簽署。一旦《免費通行證書》被簽署後，推薦人（即，簽署者）和受薦者（即，《免費通行證書》的創建者及持有者）之間的推薦關系將永久綁定在已簽署的《通行證書》上，即使《通行證書》持有者之後決定「續時」它（即，付費和訂閱《會員通行證書》），彼此關係都不會消失。</p><p>請注意，順道VPN是不會任意地接受任何一個《免費通行證書》的認證請求的；持有有效（即，未逾期）《通行證書》的現有用戶的數字簽名簽署過的《免費通行證書》，相當於說被現有順道VPN用戶簽署過的《免費通行證書》，順道VPN才會接受請求去認證它。認證通過後，持有該《免費通行證書》的受薦者才能獲得授權訪問順道VPN的VPN服務。每一個持有已簽署的《通行證書》的持有者都有責任不丟失自己的《通行證書》 （例如：不小心清除了存儲《通行證書》的 Citium 客戶端應用程序的數據），因為已簽署的《通行證書》是唯一的能證明推薦人與受薦者關系的證據。"
+			}
+		},
+		{
+			"icon":"fa fa-bullhorn",
+			"color":"#ef5308",
+			"title":{
+				"en":"FREE CERT Signer Referral Incentive Program",
+				"zh":"《免費通行證書》簽署者推薦獎勵計劃"
+			},
+			"resume":{
+				"en":"<p><p>In LubeVPN, referred users are each responsible to initiate the referral and registration process by creating one’s own FREE CERT, which is an easy, one-click, one-time and free of charge action performed on everyone’s own device. Next, they may ask for their referrers to sign their FREE CERTs. Once signed, the referral relationship between a referrer (i.e. signer) and the referred user (i.e. the creator and holder of a CERT) are permanently bound to the signed CERT even if the holder later decide to renew it (i.e. paying and subscribing for MEMBER CERTs).</p><p>A referrer can sign an unlimited number of FREE CERT to one’s Citium Contacts (referred users) upon their requests, the number of valid FREE CERTs that one can sign are limited; and their validity is only revealed when the referred users (holders of the FREE CERTs) attempt to validate them. LubeVPN validates FREE CERTs on a first-come, first-served basis. The earlier a FREE CERT is signed doesn’t necessarily means that it has a higher chance of being validated, but rather depends on who first tries to validate one’s. In other words, there is a quota on the number of times the FREE CERTs that you signed can be validated by LubeVPN. The quota is determined by the level of your own membership level and the number of times that you have renewed them. The higher your MEMBER CERT level and the more time it is renewed, the higher the quota for signing valid FREE CERT.</p><p>Any signer (referrer) can sign an unlimited number of FREE CERT but the “validity” of FREE CERT is constrained by the CERT holding status of the signer. If the signer only holds a valid FREE CERT at the time validation, LubeVPN will only validate two (2) of the FREE CERTs that he/she signs on a first-come, first-served basis. LubeVPN will not validate latecomers. In other words, LubeVPN will deny further validation requests after validating the first and second requests until the signer of the FREE CERTs renews his/her own FREE CERT to MEMBER CERT. By then, LubeVPN will resume accepting a limited number of the late-coming requests for validating FREE CERTs that he/she signs.</p><p>The number of late-coming FREE CERTs requesting validation is also limited based on their signer’s valid signing quota (“quota”), which varies based on the membership level of the signer and his/her number of renewals. Every time a signer (i.e. referrer) has his/her own CERT renewed to MEMBER CERT level at:<ul><li>30-DAY, quota increased by 18</li><li>180-DAY, quota increased by 28</li><li>360-DAY, quota increased by 48</li></ul></p><p>A signer (i.e. referrer) who holds a FREE CERT or an expired MEMBER CERT is not entitled to earn anything. The signer of invalid FREE CERTs, even if they are renewed to MEMBER CERTs, is not entitled to earn anything. But as long as one holds a valid (i.e. unexpired) MEMBER CERT, he/she is entitled to earn redeemable points whenever the valid FREE CERTs that he/she has signed are renewed (i.e. paid and subscribed for MEMBER CERTs). Points can be gifted among MEMBER CERTS or redeemed for time extension on MEMBER CERTS. Every ten (10) points can redeem for seventy-two (72) hours of extension on a MEMBER CERT. Every time the CERT of a referred user is renewed to:<ul><li>30-DAY, its signer can earn 8 pts</li><li>180-DAY, its signer can earn 50 pts</li><li>360-DAY, its signer can earn 100 pts</li></ul></p><p>LubeVPN will authorize a referred user who has his/her FREE CERT successfully signed (i.e. referred by existing LubeVPN user) and validated (i.e. recognized by LubeVPN) to access LubeVPN service for five (5) consecutive days with 500M of traffic quota per day. The gist of this referral program is to encourage existing LubeVPN users to share the free trial of LubeVPN with friends. If some of them decide to renew, the referrers (signers) can earn redeemable points. Everyone’s happy!</p>",
+				"zh":"<p>在順道VPN中，受薦者用戶都需要自己動手 創建一個個人專屬的《免費通行證書》 來啟動推薦和註冊流程的；這是一個簡單的、一鍵式的、一次性的、 在每個受薦者自己的設備上執行的、免費的操作。接下來，他們可以要求自己的推薦人在《免費通行證書》上簽署。一旦《免費通行證書》被簽署後，推薦人（即，簽署者）和受薦者（即，《免費通行證書》的創建者及持有者）之間的推薦關系將永久綁定在已簽署的《通行證書》上，即使《通行證書》持有者之後決定「續時」它（即，付費和訂閱《會員通行證書》），彼此關係都不會消失。</p><p>一位推薦人是可以根據 Citium 聯系人的請求，去無限量地簽署《免費通行證書》的，但他所簽署 有效的《免費通行證書》卻是有限的；有效性，又是當受薦者嘗試認證它的時候才揭曉的。順道VPN是按照「先到先得」的原則來認證《免費通行證書》的有效性的。然而，被更早簽署的《免費通行證書》不必然就更有效，而是 視乎哪位先去嘗試認證而論優先次序 的。換句話說，不論你簽署了多少張《免費通行證書》，能被順道VPN成功認證的張數是有配額限制的，而該配額是根據你身為簽署者（推薦人）本人持有的通行證的等級與續時次數而決定。你的通行證等級越高、續時次數越多，可獲簽署有效的《免費通行證》的配額則越多。</p><p>任何一名簽署者可以簽署無限量張《免費通行證書》但是《免費通行證書》的「有效性」卻是受到了該簽署者的證書持有狀態限制的。如果簽署者個人只持有已授權的《免費通行證書》，按先到先得的原則，顺道VPN 只會認證其中兩（2）張他簽署的《免費通行證書》。顺道VPN將不會再受理晚來的認證請求。換句話說，順道VPN在認證完畢頭兩（2）張來訪請求認證的《免費通行證書》後就開始拒絕晚來的認證請求，直到簽署者自己持有的《免費通行證書》被「續時」。屆時，顺道VPN將恢復受理晚來的、有限張數的、他簽署的《免費通行證書》的認證請求。</p><p>晚來的《免費通行證書》認證請求也是有上限的，而該上限是根據簽署者（即，推薦人）的有效簽署配額（“配額”）而定的。這些晚來的《免費通行證書》的簽署者本人持有的通行證書續時等級和次數越多，累計配額則越多。規則如下，每當簽署者本人持有的通行證書續時至：<ul><li>30日套餐，配額獲添18張</li><li>180日套餐，配額獲添28張</li><li>360日套餐，配額獲添48張</li></ul></p><p>持有《免費通行證書》或逾期《會員通行證書》的簽署者（即，推薦人）不能獲得任何獎勵。簽署者簽署過的無效《免費通行證書》即使被續時到了《會員通行證書》，簽署者都不能獲得任何獎勵。但只要你持有一張有效的（即，未逾期的）《會員通行證書》，你所曾簽署過的、有效的《免費通行證書》被續時後，你都可以獲得相應的可兌換獎勵積分。獎勵積分可在《會員通行證書》之间相互贈與或兌換《會員通行證書》時長延展。每拾（10）點獎勵積分可兌換柒拾貳（72）小時《通行證書》時長延展。每當受薦者的通行證書續時至：<ul><li>30日套餐，其簽署者均可獲得8點</li><li>180日套餐，其簽署者均可獲得50點</li><li>360日套餐，其簽署者均可獲得100點</li></ul></p><p>受薦者自己生成的《免費通行證書》，並征求得到了持有有效、未逾期《通行證書》的簽署者（推薦人）簽署其《免費通行證書》；然後，如果順道VPN成功認證該已簽署的《免費通行證書》，順道VPN就會授權受薦者訪問連續5天和在有效期內每天最多500M流量的VPN服務。總的來說，受薦者獲得免費試用順道VPN的機會，如果覺得好用並續時，推薦人（簽署者）更可以獲得獎勵積分。皆大歡喜！</p>"
+			}
+		},
+		{
+			"icon":"fa fa-question-circle",
+			"color":"#1B9AF7",
+			"title":{
+				"en":"How to try LubeVPN service for free?",
+				"zh":"如何能免費地嘗試順道VPN服務？"
+			},
+			"resume":{
+				"en":"<p>Find a friend (e.g. Alice) who holds a valid (i.e. unexpired) LubeVPN CERT. </p><ul><li style='list-style-type:none;'>1. Add Alice as your new Contact in your Citium Instant Messenger (CIM) via out-of-band authentication.</li><li style='list-style-type:none;'>2. Go to the LubeVPN Settings page, create a FREE CERT, which details will be automatically copied to your device's clipboard. </li><li style='list-style-type:none;'>3. Paste and send the details via the dialogue box between you and Alice and wait for her to sign it. </li><li style='list-style-type:none;'>4. Once Alice signs it, you will receive an interactive message button in the dialogue box. You press the button to import the signed FREE CERT to your device. </li><li style='list-style-type:none;'>5. Turn on the LubeVPN toggle switch to request authorization to VPN service. Toggle switch turns to green if the authorization succeeds.</li></ul>",
+				"zh":"<p>找一名持有有效的（即，未逾期的）順道VPN《通行證書》的好友，例如 Alice。</p><ul><li style='list-style-type:none;'>1、通過頻外密鑰驗證（OOBA）添加她成爲 Citium 即時聊天應用（CIM）中的聯絡人。</li><li style='list-style-type:none;'>2、在你自己的加速器設置頁面，創建一張《免費通行證書》，其詳情將會被自動複製到設備的剪贴板。</li><li style='list-style-type:none;'>3、在你與Alice的聊天對話框中黏貼、發送該詳情給她，然後等待她簽署它。</li><li style='list-style-type:none;'>4、Alice 完成簽署後，你會在對話框中收到一個互動信息按鈕，你按下該按鈕即可完成導入已簽署的《免費通行證書》到設備內。</li><li>5、撥亮順道VPN的切換鍵請求服務授權。如果授權成功，切換鍵轉成綠色。</li></ul>"
+			}
+		},
+		{
+			"icon":"fa fa-question-circle",
+			"color":"#1B9AF7",
+			"title":{
+				"en":"How to use LubeVPN on my other devices?",
+				"zh":"如何在我的其他設備使用順道VPN？"
+			},
+			"resume":{
+				"en":"<p>Simply install the Citium Client (i.e. this app) on your other device. Add that device as your new Contact in Citium Instant Messenger (CIM). Share your LubeVPN CERT to that device.</p><p>Note that you can share your LubeVPN CERT to an unlimited number of your own devices but you cannot use the same CERT on more than one device at the same time, otherwise the traffic data will be cluttered the service will stop working. </p>",
+				"zh":"<p>先在其他設備上安裝 Citium 客戶端（即本應用App）。添加該設備成為你的新 Citium 即時聊天應用（CIM）聯絡人。分享你的《通行證書》給該設備。</p><p>你可以將你的順道VPN《通行證書》分享到無限個其他設備，但留意一張《通行證書》並不能同時被超過一台設備同時使用，否則會造成流量數據混亂而都無法正常使用服務。</p>"
+			}
+		},
+		{
+			"icon":"fa fa-question-circle",
+			"color":"#1B9AF7",
+			"title":{
+				"en":"Why keep Client Client App running in the background important and how to achieve that?",
+				"zh":"如何防止西蒂姆（Citium）客户端被殺後台？"
+			},
+			"resume":{
+				"en":"<p>Operating systems of mobile devices have battery-saving and memory-recovery mechanisms. If a lot of background processes are running at the same time, the system will automatically shut down the lower priority applications to ensure ample battery life and memory capacity to enable the rest of the applications to run normally. In order for the instant messaging chat in the Citium Client to receive messages and the signing of LubeVPN CERT (digital certificates) in a timely manner, you are highly suggested to choose to operate one of the options below: 1. Turn on the toggle switch of LubeVPN so that it shows color orange or green; or 2. Search your device model online to find out the steps to make its app running in the background. Follow the steps to make the Citium Client app run in the background. </p>",
+				"zh":"<p>由於移動終端的操作系統存在節能和運行內存回收機制，若後台同時運行進程較多，系統會自動將優先級較低的應用進行關閉（俗稱：「被殺後台」），騰出電源和內存以保證較後啟動的應用可以保持正常運行。為了讓你的西蒂姆（Citium）客戶端內的即時聊天工具及時收到信息與順道VPN《通行證書》的推薦人簽名，有兩個辦法供你選擇防止客戶端被殺後台：1、撥亮順道VPN的切換鍵使之呈橙色或綠色；或 2、請在網上搜索一下你所用的手機型號該如何防止其應用 app 被殺後台，按其指示步驟操作將 Citium 客戶端應用 app 在後台運行。</p>"
+			}
+		},
+		{
+			"icon":"fa fa-question-circle",
+			"color":"#1B9AF7",
+			"title":{
+				"en":"How to renew (i.e. pay & subscribe) MEMBER CERT?",
+				"zh":"如何續時（即，付費和訂閱會籍）我的《通行證書》？"
+			},
+			"resume":{
+				"en":"<p>Renewal option is in the bottom of this screen. Select a membership option, and then press Confirm. Immediately, you are authorized to access the LubeVPN service. This is a gesture of goodwill on the part of our LIVE HELP team.</p><p>But please be sure to contact the in-app LIVE HELP to validate your payment within the next 24 hours, or else your newly renewed MEMBER CERT will expire after 24 hours. </p><p>For detailed payment methods:</p><p style='text-align: center;'><i class='fa fa-android' style='color: #22ad02;'></i>&nbsp;&nbsp;&nbsp;&nbsp;<a href='https://www.lubevpn.com/' target='_blank'>LubeVPN Official Site</a></p><p>LubeVPN accepts virtual coin payment through the internationally renowned Coinbase Commerce cryptocurrency payment wallet. The cryptocurrencies accepted are Bitcoin, Bitcoin Cash, Dai, Ethereum, Litecoin, and USD Coin (USDC). Choose the renewal period and finish the payment. Once you have done so, contact our in-app LIVE HELP so that we can help you complete the rest of the renewal process.</p><p style='text-align: center;'><i class='fa fa-android' style='color: #22ad02;'></i>&nbsp;&nbsp;&nbsp;&nbsp;<a href='https://commerce.coinbase.com/checkout/d3b2abdd-a42d-4636-a020-977df3348813' target='_blank'>30-DAY Renewal @ $12.95 USDC</a></p><p style='text-align: center;'><i class='fa fa-android' style='color: #22ad02;'></i>&nbsp;&nbsp;&nbsp;&nbsp;<a href='https://commerce.coinbase.com/checkout/44e644c9-1704-4c3a-9469-3a9ce073f577' target='_blank'>180-DAY Renewal @ $57.45 USDC</a></p><p style='text-align: center;'><i class='fa fa-android' style='color: #22ad02;'></i>&nbsp;&nbsp;&nbsp;&nbsp;<a href='https://commerce.coinbase.com/checkout/752a5a80-2f06-44e3-954a-d25c10dacf18' target='_blank'>360-DAY Renewal @ $86.15 USDC</a></p><p>Payment methods that are popular in China, Hong Kong, and Taiwan are provided by etickets.hk. Finish the payment through the link below and contact our in-app LIVE HELP so that we can help you complete the rest of the renewal process.</p><p style='text-align: center;'><i class='fa fa-android' style='color: #22ad02;'></i>&nbsp;&nbsp;&nbsp;&nbsp;<a href='https://etickets.hk/en/project/lubevpn' target='_blank'>30/180/360-DAY Renewal Options</a></p>",
+				"zh":"<p>續時（即，付費和訂閱會籍）選項在本頁面底部。選擇你所需《會員通行證書》套餐，按確認鍵後即可立即得到授權使用順道VPN服務。這是我們在線客服團隊的一種對您表示誠信的方式。</p><p>但請您務必在開通後的24小時內聯系順道VPN在線客服進行核實您已經完成抵值付費，否則你剛剛續時確認完畢的《會員通行證書》將在24小時後逾期失效。</p><p>我們提供了多個方便你操作的付費抵值辦法。詳情請參考：</p><p style='text-align: center;'><i class='fa fa-android' style='color: #22ad02;'></i>&nbsp;&nbsp;&nbsp;&nbsp;<a href='https://www.lubevpn.com/' target='_blank'>順道VPN 官網</a></p><p>順道VPN（LubeVPN）通過國際知名的 Coinbase Commerce 加密幣充值接口和錢包接受抵值。接受的各種流行加密幣種有 Bitcoin、Bitcoin Cash、Dai、Ethereum、Litecoin 和 USD Coin。請按您希望抵值的續時週期點擊進入 Coinbase Commerce 充值購買所需的等值。完成後，聯繫App內的在線客服，讓我們協助您完成續時抵值的餘下手續。</p><p style='text-align: center;'><i class='fa fa-android' style='color: #22ad02;'></i>&nbsp;&nbsp;&nbsp;&nbsp;<a href='https://commerce.coinbase.com/checkout/d3b2abdd-a42d-4636-a020-977df3348813' target='_blank'>30日續時需$12.95 USD抵值</a></p><p style='text-align: center;'><i class='fa fa-android' style='color: #22ad02;'></i>&nbsp;&nbsp;&nbsp;&nbsp;<a href='https://commerce.coinbase.com/checkout/44e644c9-1704-4c3a-9469-3a9ce073f577' target='_blank'>180日續時需$57.45 USD抵值</a></p><p style='text-align: center;'><i class='fa fa-android' style='color: #22ad02;'></i>&nbsp;&nbsp;&nbsp;&nbsp;<a href='https://commerce.coinbase.com/checkout/752a5a80-2f06-44e3-954a-d25c10dacf18' target='_blank'>360日續時需$86.15 USD抵值</a></p><p>中港台常用抵值辦法，由「易電票」（https://etickets.hk/）提供，敬請在支付完成後，聯繫App內的在線客服，讓我們協助您完成續時抵值的餘下手續。</p><p style='text-align: center;'><i class='fa fa-android' style='color: #22ad02;'></i>&nbsp;&nbsp;&nbsp;&nbsp;<a href='https://etickets.hk/en/project/lubevpn' target='_blank'>30日/180日/360日續時抵值</a></p>"
+			}
+		},
+		{
+			"icon":"fa fa-download",
+			"color":"#249203",
+			"title":{
+				"en":"Where to download Citium Client apps for other OS?",
+				"Zh":"在哪裡下載兼容其他操作系統的 Citium 客戶端應用軟體？"
+			},
+			"resume":{
+				"en":"<p style='text-align: center;'><i class='fa fa-android' style='color: #22ad02;'></i>&nbsp;&nbsp;&nbsp;&nbsp;<a href='https://www.pango123.org/uploads/bitletter.apk' target='_blank'>Download Android apk Installer</a></p><p style='text-align: center;'><i class='fa fa-windows' style='color: #4579de;'></i>&nbsp;&nbsp;&nbsp;&nbsp;<a href='https://www.pango123.org/uploads/semapp-win-x64.zip' target='_blank'>Download Windows 10 executable installer</a></p><p style='text-align: center;'><i class='fa fa-apple' style='color: #eee;'></i>&nbsp;&nbsp;&nbsp;&nbsp;<a href='https://www.pango123.org/uploads/semapp-darwin-x64.zip' target='_blank'>Download Mac app Installer</a></p><p style='text-align: center;'><i class='fa fa-linux' style='color: #a30dbb;'></i>&nbsp;&nbsp;&nbsp;&nbsp;<a href='https://www.pango123.org/uploads/semapp-linux-x64.tar.xz' target='_blank'>Download Linux bin installer</a></p>",
+				"zh":"<p style='text-align: center;'><i class='fa fa-android' style='color: #22ad02;'></i>&nbsp;&nbsp;&nbsp;&nbsp;<a href='https://www.pango123.org/uploads/bitletter.apk' target='_blank'>安卓APK下載</a></p><p style='text-align: center;'><i class='fa fa-windows' style='color: #4579de;'></i>&nbsp;&nbsp;&nbsp;&nbsp;<a href='https://www.pango123.org/uploads/semapp-win-x64.zip' target='_blank'>Win10-Exe下載</a></p><p style='text-align: center;'><i class='fa fa-apple' style='color: #eee;'></i>&nbsp;&nbsp;&nbsp;&nbsp;<a href='https://www.pango123.org/uploads/semapp-darwin-x64.zip' target='_blank'>Mac-APP下載</a></p><p style='text-align: center;'><i class='fa fa-linux' style='color: #a30dbb;'></i>&nbsp;&nbsp;&nbsp;&nbsp;<a href='https://www.pango123.org/uploads/semapp-linux-x64.tar.xz' target='_blank'>Linux-Bin下載</a></p>"
+			}
+		}
+	]
+}

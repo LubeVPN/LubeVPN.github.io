@@ -1,0 +1,24 @@
+"error": {
+	"zh":"該獎券已經被使用。[1005]",
+	"en":"該獎券已經被使用。[1005]"
+}
+
+"error": {
+	"zh":"無法使用獎券獲取小額時長，詳情請諮詢客服。[1001]",
+	"en":"無法使用獎券獲取小額時長，詳情請諮詢客服。[1001]"
+}
+
+
+"error": {
+	"zh":"獎券最多可以使用50次，先已超過該限制。[1003]",
+	"en":"獎券最多可以使用50次，先已超過該限制。[1003]"
+}
+
+"error": {
+	"zh":"獎券只能在12小時內兌換一次。[1004]",
+	"en":"獎券只能在12小時內兌換一次。[1004]"
+}
+
+_s.m_Pdlg.find("[name='dialog_content_loading_span']").text(g_language=="en"?"Error: Abnormal signature!":"錯誤：簽名異常！");
+_s.m_Pdlg.find("[name='dialog_content_loading_span']").text(g_language=="en"?"Data acquisition failed, please try again later!":"數據獲取失敗，請稍後再試！");
+_s.m_Pdlg.find("[name='dialog_content_loading_span']").text(g_language=="en"?"The lottery is valid!":"獎券已生效！");

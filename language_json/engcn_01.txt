@@ -1,0 +1,44 @@
+_node.find("[name='dialog_title']").text(g_language=="en"?"Copy and paste the Coupon Code into the input field.":"請將獎券憑證碼復制到輸入框內");
+_node.find("[name='confirmbtn']").text(g_language=="en"?"Confirm":"確認");
+_node.find("[name='cancelbtn']").text(g_language=="en"?"Cancel":"取消");
+_node.find("[name='exc_input']").attr('placeholder',g_language=="en"?"Coupon Code":"獎券憑證碼");
+_node.find("[name='dialog_content_loading_span']").text(g_language=="en"?"Verifying the Coupon Code……":"正在核實獎券……");
+
+
+//这里参照
+_s.m_Pdlg.find("[name='dialog_content']").html("Option to renew LubeVPN MEMBER CERT is effective till："+_resText+". Contact in-app LIVE HELP as soon as you can to verify your renewal payment or seek help for payment options. The quickest and easiest option is to go to LubeVPN Official Site (www.LubeVPN.com) and use the internationally renowned Coinbase Commerce cryptocurrency payment gateway to pay for your renewal. The cryptocurrencies accepted are Bitcoin, Bitcoin Cash, Dai, Ethereum, Litecoin, and USD Coin (USDC). Choose the renewal period and finish the payment. Once you have done so, contact our in-app LIVE HELP so that we can help you complete the rest of the renewal process.").show();
+//英文为
+_s.m_Pdlg.find("[name='dialog_content']").html("順道VPN續費選項已生效，有效期至："+_resText+"，請盡快聯系本應用App內的在線客服核實抵值付款或咨詢相關手續。如果想直接採用最快和最方便的付款辦法，您可以先通過順道VPN官網首頁（www.LubeVPN.com）點擊國際知名的 Coinbase Commerce 加密幣充值接口去進行抵值。我們接受的各種流行加密幣種有 Bitcoin、Bitcoin Cash、Dai、Ethereum、Litecoin 和 USD Coin。請按您希望抵值的續時週期點擊進入 Coinbase Commerce 充值購買所需的等值。完成後，聯繫App內的在線客服，讓我們協助您完成續時抵值的餘下手續。").show();
+
+
+_s.m_Pdlg.find("[name='dialog_content']").text(g_language=="en"?"Renewal payment confirmation is successful. ":"續時抵值審核成功。").show();
+_s.m_Pdlg.find("[name='dialog_content']").text(g_language=="en"?"續費失敗，請稍後再試，或與客服諮詢。":"續費失敗，請稍後再試，或與客服諮詢。").show();
+
+
+_node.find("[name='dialog_title']").text(g_language=="en"?"LubeVPN MEMBER CERT Renewal":"順道VPN會員通行證書續時");
+_node.find("[name='dialog_content']").text(g_language=="en"?"Contact in-app LIVE HELP as soon as you can to verify your renewal payment or seek help for payment options; or else the LubeVPN service will cease to function after 24 hours. ":"請選擇續時抵值週期，確認後將立刻開通並可使用。請盡快聯系本應用App內的在線客服核實抵值付款或咨詢相關手續，否則順道VPN將在24小時後被禁用。");
+_node.find("[name='confirmbtn']").text(g_language=="en"?"Confirm":"確認");
+_node.find("[name='cancelbtn']").text(g_language=="en"?"Cancel":"取消");
+_node.find("[name='hr1_span']").text(g_language=="en"?"30-DAY Renewal @ $12.95 USDC":"30日續時需$12.95 USD抵值");
+_node.find("[name='hr2_span']").text(g_language=="en"?"180-DAY Renewal @ $57.45 USDC":"180日續時需$57.45 USD抵值");
+_node.find("[name='hr3_span']").text(g_language=="en"?"360-DAY Renewal @ $86.15 USDC":"360日續時需$86.15 USD抵值");
+
+
+_node.find("[name='dialog_content']").text(g_language=="en"?"CERT verification fails. Try again later or contact our in-app LIVE HELP for more information. ":"證書檢驗失敗，請稍後再試，或與客服諮詢。");
+
+
+// 2020-06-18 這個之前翻譯漏了，現在補上：
+var _content_h = g_language=="en"?"Reset your Community Forum password to: <br><span style='color:#08a7c3;'>":"重置討論區的登錄密碼是：<br><span style='color:#08a7c3;'>";
+var _content_t = g_language=="en"?"</span><br>We highly suggest you to modify your login & password information after your initial login to the forum.":"</span><br>建議您首次登入討論區後即修改登入和密碼信息。<br><br>";
+
+
+// 2020-06-18 修改後的內容如下
+var _content = g_language=="en"?"Our LIVE HELP official service hour is available on: <br>https://www.lubevpn.com/contact_us/<br>Feel free to send us your question here. We might even respond right away during non-service hour if any of our staff is just so-happens to be online. You can also leave us message on the Community Forum: <br>https://payment.lubevpn.com/login<br>Your forum login is assigned: <br><div style='color:#08a7c3;margin-bottom: 5px;text-align: center;'>vpnuser":"在線客服的辦公時間在官網公告：<br>https://www.lubevpn.com/contact_us/<br>你也可以登入我們的官方討論區發問和了解更多其他用戶也遇過的問題：<br>https://payment.lubevpn.com/login<br>你的討論區登錄帳號是：<br><div style='color:#08a7c3;margin-bottom: 5px;text-align: center;'>vpnuser";
+
+
+
+var subBuff = [];
+subBuff.push("<div style='overflow: hidden;padding-left: 4px;text-align: center;margin: 10px auto;'><button name='webpasswd_reset' class='button button-primary button-rounded button-tiny' style='font-size: 12px;padding: 0px 10px;margin: 0 12px;'>");
+subBuff.push(g_language=="en"?"PASSWORD RESET":"密碼重置");
+subBuff.push("</button></div>");
+var _contentB = g_language=="en"?"If you have forgotten the forum password, click the PASSWORD RESET button to get a new one. <br>":"如果忘記了討論區密碼，請點擊密碼重置按鈕進行重置。<br>";

@@ -1,0 +1,196 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+<title>獨角獸</title>
+<meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0">
+<meta name="keywords" content="Pango123,SDTP,SafeEmail,BitLetter,Privacy Protection,Block Chain,Peer to Peer">
+
+<!-- Site CSS -->
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@3.3.7/dist/css/bootstrap.min.css" rel="stylesheet">
+<link href="https://cdn.jsdelivr.net/npm/font-awesome@4.7.0/css/font-awesome.min.css" rel="stylesheet">
+<link href="site.min.css" rel="stylesheet">
+<link rel="icon" href="data:;base64,=">
+<!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+<!--[if lt IE 9]>
+  <script src="https://cdn.jsdelivr.net/npm/html5shiv@3.7.3/dist/html5shiv.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/respond.js@1.4.2/dest/respond.min.js"></script>
+<![endif]-->
+
+<script>
+  var _hmt = _hmt || [];
+</script>
+
+
+</head>
+  <body>
+	  
+  <div class="jumbotron masthead">
+  <div class="container">
+    <h1>比特訊</h1>
+    <h2>基於BitTorrent與SDTP技術的一個，<br/>完全去中心化的、隱私保護的、互聯通訊應用</h2>
+    <p class="masthead-button-links">
+      <a id='android_button' class="btn btn-lg btn-primary btn-shadow" href="https://www.unicorn001.tk/uploads/citium1026.apk" style="display:none;">安卓端APK下載</a>
+      <div id='iso_button' class="btn btn-lg btn-primary btn-shadow" style="display:none;">蘋果設備請靜候</div>
+      <div id='wxtip_button' class="btn btn-lg btn-primary btn-shadow" style="display:none;">点击右上角转入浏览器下载</div>
+    </p>
+  </div>
+</div>
+
+  <div class="bc-social">
+    <div class="container">
+      <ul class="bc-social-buttons">
+        <li class="social-forum">
+          <a class="" href="https://t.me/unicorn001" title="TG社區" target="_blank" onclick="_hmt.push(['_trackEvent', 'masthead', 'click'])">
+            <i class="fa fa-comments"></i> TG社區
+          </a>
+        </li>
+        <li class="social-arxiv">
+          <a href="https://arxiv.org/abs/1902.09115" title="論文" target="_blank" onclick="_hmt.push(['_trackEvent', 'masthead', 'click'])"><i class="fa fa-file"></i> 論文(非白皮書)</a>
+        </li>
+      </ul>
+    </div>
+  </div>
+
+
+  <div class="container projects">
+
+    <div class="projects-header page-header">
+	  <h2>惟有數學</h2>
+      <h3>才能保護隱私數據和通訊安全</h3>
+      <p>任何中心機構信誓旦旦地承諾，都只是信口那麼一說而已。</p>
+    </div>
+
+    <div class="row">
+        <div class="col-md-4">
+          <div class="thumbnail">
+            <div style="font-size: 40px;max-width: 100%;text-align: center;font-weight: bold;line-height: 150px;height: 150px;background-color: #66347b;color: #fff;">完全去中心化</div>
+            <div class="caption">
+              <h3>
+                  <div><span style='font-weight:bold;'>無法拒絕參與</span><br><small> 意願也無法被代表</small></div>
+              </h3>
+              <p>沒人能阻止你參與或離開這個世界。直白的理解就是，沒人能拒絕你注冊成爲系統的用戶，因爲降生不需要注冊；也沒有人因爲不細化就刪除你的身份，因爲還有其他喜歡你的人存在。</p>
+            </div>
+          </div>
+        </div>
+      
+        <div class="col-md-4">
+          <div class="thumbnail">
+            <div style="font-size: 40px;max-width: 100%;text-align: center;font-weight: bold;line-height: 150px;height: 150px;background-color: #ff2222;color: #eee;">保密 VS 加密</div>
+            <div class="caption">
+              <h3>
+                  <div><span style='font-weight:bold;'>隱私保護得靠保密</span><br><small> 加密的等級很明顯要低於保密的等級</small></div>
+              </h3>
+              <p>首先加密很重要，然《比特訊》採用的SDTP是屬於更高的保密級別。非技術性的表述是：你可以冒充成爲世界上的任何人，任何人也可以冒充你；只有你自己能證明你的存在，你的真僞。一段需要保密的數據，只有被你的授權確認的才能看見，那麼只要不是被你授權的數據則都是假的。</p>
+            </div>
+          </div>
+        </div>
+      
+        <div class="col-md-4">
+          <div class="thumbnail">
+            <div style="font-size: 40px;max-width: 100%;text-align: center;font-weight: bold;line-height: 150px;height: 150px;background-color: #1fa08f;color: #fff;">點對點就安全？</div>
+            <div class="caption">
+              <h3>
+                  <div><span style='font-weight:bold;'>接線員崗位很關鍵</span><br><small> 接線員工作繁忙，肯定無暇在幫你點對點聯通線路後進行偷窺的</small></div>
+              </h3>
+              <p>加密信息的確很難破解，通訊軌跡和通訊頻率被掌握了，如果你認爲人工智能和大數據分析是僞科學，那麼……那麼……，好吧，我只得認可這個掩耳盜鈴的安全。《比特訊》每個人都是接線員，信息被僞造、混淆、打散後傳遞。</p>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-md-4">
+          <div class="thumbnail">
+            <div style="font-size: 40px;max-width: 100%;text-align: center;font-weight: bold;line-height: 150px;height: 150px;background-color: #3186b7;color: #fff;">反大數據</div>
+            <div class="caption">
+              <h3>
+                  <div><span style='font-weight:bold;'>無法辨識真僞的數據</span><br><small> 讓人工智能在數據海洋中去篩選分析吧！</small></div>
+              </h3>
+              <p>《比特訊》採用SDTP技術，其核心就是數據人人可僞造，人人篡改，除非發起人自己證明。其實這與比特幣的理念一致，沒有打包入塊的數據，亦無法被證明真僞。《比特訊》認爲，私有數據無需要被其他人偷窺，那麼最好的保護方式就是海量的僞造且無法被證明。</p>
+            </div>
+          </div>
+        </div>
+      
+        <div class="col-md-4">
+          <div class="thumbnail">
+            <div style="font-size: 40px;max-width: 100%;text-align: center;font-weight: bold;line-height: 150px;height: 150px;background-color: #e5d04a;color: #222;">人人可節點</div>
+            <div class="caption">
+              <h3>
+                  <div><span style='font-weight:bold;'>服務節點不是去中心的</span><br><small> 但，任何人任何時間都可以成爲服務節點中的一個！</small></div>
+              </h3>
+              <p>做節點的好處是你可以無限制的向使用該節點服務的人提供廣告服務。當然，用戶選擇使用哪些節點的服務，是用戶的權利。用戶可以拒絕選擇作惡的節點，節點也可以拒絕作惡的用戶，這是自由公平的選擇。</p>
+            </div>
+          </div>
+        </div>
+      
+        <div class="col-md-4">
+          <div class="thumbnail">
+            <div style="font-size: 40px;max-width: 100%;text-align: center;font-weight: bold;line-height: 150px;height: 150px;background-color: #4fa722;color: #eee;">應用服務保護</div>
+            <div class="caption">
+              <h3>
+                  <div><span style='font-weight:bold;'>爲應用服務提供保護</span><br><small> 如果你的互聯網應用受到網絡攻擊，你可以使用《比特訊》的服務保護。</small></div>
+              </h3>
+              <p>《比特訊》會讓衆多的參與者去分擔攻擊，無論攻擊是流量形式的還是其他形式的。當然，這不是免費的，你需要《比特訊》區塊鏈的礦工去頒發保護證書，幫你的服務分發數據資源(CDN)，確認服務身份(DNS)，抗擊各種網絡攻擊(高防)。它基於智能合約，遠比機構承諾靠譜、高效。</p>
+            </div>
+          </div>
+        </div>
+
+    </div>
+  </div>
+  <!-- /.container -->
+
+
+
+    <footer class="footer ">
+  <div class="container">
+    <div class="row footer-bottom">
+      <ul class="list-inline text-center">
+        <li><a href="https://www.unicorn001.tk" target="_blank">UNICORN001.TK</a></li><li>致力於互聯網隱私保護技術</li>
+      </ul>
+    </div>
+  </div>
+</footer>
+
+<!-- Bootstrap core JavaScript
+================================================== -->
+<!-- Placed at the end of the document so the pages load faster -->
+<script src="https://cdn.jsdelivr.net/npm/jquery@1.12.4/dist/jquery.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@3.3.7/dist/js/bootstrap.min.js"></script>
+
+
+<script>
+    var g_isMobile = false,
+    g_biOS = false,
+    g_bInWX = false;
+
+    function _checkBrowserType(){
+        var ua = navigator.userAgent.toLowerCase();
+        var ipad = ua.match(/(ipad).*os\s([\d_]+)/),
+            isIphone = !ipad && ua.match(/(iphone\sos)\s([\d_]+)/),
+            isAndroid = ua.match(/(android)\s+([\d.]+)/);
+        g_isMobile = (isIphone || isAndroid)?true:false;
+
+        if(ua.match(/iphone/i)=="iphone"){
+            g_biOS = true;
+        }
+        if (ua.match(/micromessenger/i)=="micromessenger") {
+            g_bInWX = true;
+        }
+    }
+
+    _checkBrowserType();
+
+    if(g_biOS == true){
+        $("#iso_button").show();
+    }else{
+        if(g_bInWX == true){
+            $("#wxtip_button").show();
+        }else{
+            $("#android_button").show();
+        }
+    }
+
+</script>
+
+  </body>
+</html>
