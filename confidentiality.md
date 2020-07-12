@@ -86,7 +86,7 @@ In the Citium cryptosystem, an enemy hacker or a cryptanalyst might be able to i
 
 ![Cipher](/img/equivocation.svg "Key/Message Equivocation"){: .center-block :}
 
-密鑰和消息疑義則是衡量一個密碼系統在只對密鑰和消息進行密碼文本攻擊下對密鑰和消息的強度。密鑰疑義和消息疑義是指在已知明文攻擊下的密鑰和明文攻擊下的密鑰強度。收到的密文越長，密碼分析員發現秘鑰或明文的概率就越大。密碼分析員成功破譯文本的機率一般會隨著密文文本長度的增加而增加。在西蒂姆(Citum)中，碎片化的密文是最大限度地減小了單個密文的大小，從而最大限度加強了加密強度。
+密鑰和消息疑義則是衡量一個密碼系統在只對密鑰和消息進行密碼文本攻擊下對密鑰和消息的強度。密鑰疑義和消息疑義是指在已知明文攻擊下的密鑰和明文攻擊下的密鑰強度。收到的密文越長，密碼分析員發現秘鑰或明文的概率就越大。密碼分析員成功破譯文本的機率一般會隨著密文文本長度的增加而增加。在西蒂姆(Citum)中，碎片化的密文是最大限度地縮小了單個密文，從而最大程度地加強了加密安全強度。
 
 The key and message equivocation are a measure for the strength of a cipher system under a ciphertext only attack for the key and message respectively. Key Equivocation and Message Equivocation refer to key strength under known plaintext attacks and key strength under plaintext attacks. The longer the received ciphertext, the greater the probability that the cryptanalyst will discover the secret key or plaintext. The probability of a cryptanalyst successfully deciphering a ciphertext generally increases with the length of the ciphertext. In Citium, the sliced ciphertexts minimize the size of the individual ciphertext so that the strength of the cipher is maximized.
 

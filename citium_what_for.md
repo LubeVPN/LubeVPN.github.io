@@ -66,7 +66,7 @@ Citium take full advantage of these time-tested proven technologies to establish
 
 > *第三方可推諉性*屬性確保了**Facebook以外的任何一方**都無法通過密碼學方法確定報告的有效性。
 
-這意味著 **Facebook仍然可以自願提交或被強制、脅迫披露，更不用說數據洩露的可能性了**。這種極其量是半生不熟的「可推諉性」。反觀，西蒂姆(Citum)提供了「完全的可推諉性」(full deniability)；沒有參與者或中轉機器可以以任何形式犧牲「可推諉性」。
+這意味著 **Facebook仍然可能被強制脅迫披露，甚至自願接受監控，更不用說數據洩露的可能性了**。所以，Facebook 的秘密對話功能極其量提供了半生不熟的「可推諉性」。反觀，西蒂姆(Citum)提供了「完全的可推諉性」(full deniability)；沒有參與者或中轉機器可以以任何形式犧牲「可推諉性」。
 
 西蒂姆(Citum)去中心化系統協議背後的主要動機是為對話參與者提供一個可推諉的溝通網絡，同時保持對話的機密性，例如現實生活中的私人對話，或新聞採購中的記錄。 與之相反的是，某些中心化通訊系統卻輸出可以稍後用作通訊事件和參與者身份的可驗證記錄。
 
@@ -76,23 +76,23 @@ Some service providers, such as Facebook, are trying to offer deniability but th
 
 > "[T]he *third-party deniability* property ensures that **no party outside of Facebook** can cryptographically determine the validity of a report."
 
-It implies that **Facebook can still be voluntarily submitting to or be compelled by forced disclosure and coercion, not to mention the chance of data breach**. This is a half-baked deniability at best. In contrast, Citium offers full deniability; no participants or mediatory machines can compromise deniability in any way.  
+It implies that **Facebook can still be vulnerable to forced disclosure and or even voluntarily submitting to surveillance, not to mention the chance of data breach**. Thus, Secret Conversations of Facebook's Messenger offers half-baked deniability at best. In contrast, Citium offers full deniability; no participant or mediatory machine can compromise deniability in any way.  
 
 The primary motivation behind Citium decentralized system protocol is to provide a deniable communication network for the conversation participants while keeping conversations confidential, like a private conversation in real life, or off the record in journalism sourcing. This is in contrast with some other centralized communication systems that produce output which can be later used as a verifiable record of the communication event and the identities of the participants.
 
 ## SafeMail & SDTP
 
-西蒂姆(Citum)繼承自開源項目[SafeMail](https://github.com/maikejonne/safeemail)。儘管西蒂姆(Citum)即時通訊系統項目與 SafeMail 協議完全兼容，但我們還是決定將其稱為 Citium Instant Messenger（CIM）<i class='fa fa-envelope-o' style='color:blue'></i> 而不是Citium Mail，因為用戶界面和實際使用感覺就像市場上的大多數即時通訊程序。
+西蒂姆(Citum)繼承自開源項目：[Bitmessage](https://en.wikipedia.org/wiki/Bitmessage) 與 [SafeMail](https://github.com/maikejonne/safeemail)。儘管西蒂姆(Citum)即時通訊系統項目與 SafeMail 協議完全兼容，但我們還是決定將其稱為 Citium Instant Messenger（CIM）<i class='fa fa-envelope-o' style='color:blue'></i> 而不是Citium Mail，因為它很多方面（用戶界面和操作）形似大多數市場上流行的即時聊天工具軟件。
 
 CIM和SafeMail都使用的通信機制是「安全數據傳輸協議」 [SDTP](https://en.wikiversity.org/zh-tw/SDTP)。 SDTP規定，所有形式的通信都將相同的通用通知推送給預期的接收者。收到通知後，要求預期的收件人自己檢索消息。
 
-Citium is inherited from the open-source project [SafeMail](https://github.com/maikejonne/safeemail). Although the Citium Instant Messenger project is fully compatible with SafeMail protocol, we decide to call it Citium Instant Messenger (CIM) <i class='fa fa-envelope-o' style='color:blue'></i> instead of Citium Mail because the user interface and the actual usage feel like most of the instant messengers in the marketplace.
+Citium is inherited from the open-source projects: [Bitmessage](https://en.wikipedia.org/wiki/Bitmessage) and [SafeMail](https://github.com/maikejonne/safeemail). Although the Citium Instant Messenger project is fully compatible with SafeMail protocol, we decide to call it Citium Instant Messenger (CIM) <i class='fa fa-envelope-o' style='color:blue'></i> instead of Citium Mail because it is in many ways (e.g. the user interface and operation) more akin to most of the popular instant messengers in the marketplace.
 
 The communication mechanism used by both CIM and SafeMail is the "Safe Data Transfer Protocol" [(Safe Data Transfer Protocol)](https://en.wikiversity.org/zh-tw/SDTP). SDTP dictates that all forms of communication push the same generic notification to the intended recipients. Once notified, the intended recipients are required to retrieve the messages on their own.
 
 ### Push & Pull（Fitch）<br>推播與拉取（撲捉）
 
-大多數即時通訊系統都設計為將通訊信息主動推播到預期收件人的客戶端應用程序上。然而，在西蒂姆(Citum)即時通信系統（CIM）<i class='fa fa-envelope-o' style='color:blue'></i> 中，推送通知只限於一般的文字提醒（即"You have a new message."；中文翻譯："您有一條新消息。"），並以加密的加密文本（"密文"）的方式將消息的極微小的片斷發送給目標收件人。預期的收件人需要自己去從芸芸眾多西蒂姆(Citum)的節點 <i class='fa fa-cubes'></i>（即服務和用戶節點）去撲捉、拉取消息，最終與其手頭上收到了的極微小的片斷重組一起，才能獲取原有的、正確的信息。
+大多數即時通訊系統都設計為將通訊信息主動推播到「預期收件人」(intended recipients)的客戶端應用程序上。然而，在西蒂姆(Citum)即時通信系統（CIM）<i class='fa fa-envelope-o' style='color:blue'></i> 中，推送通知只限於一般的文字提醒（即“You have a new message.”；中文翻譯：“您有一條新消息”），並以加密的加密文本（“密文”）的方式將消息的極微小的片斷發送給目標收件人。預期的收件人需要自己去從芸芸眾多西蒂姆(Citum)的節點 <i class='fa fa-cubes'></i>（即服務和用戶節點）去撲捉、拉取消息，最終與其手頭上收到了的極微小的片斷重組一起，才能獲取原有的、正確的信息。
 
 Most instant messenger systems are designed that messages are directly pushed onto the client apps of the intended recipients. However, in Citium Instant Messenger (CIM) system <i class='fa fa-envelope-o' style='color:blue'></i>, push notification is limited to a generic text reminder (i.e. "You have a new message.") and a very thin slice of the message encrypted in a ciphertext being sent to the intended recipients. The intended recipients are required to actively fetch the remaining slices on their own from the sea of Citium nodes <i class='fa fa-cubes'></i> (i.e. service & user nodes), and eventually, recombining with the thin slice at hand to acquire the original, correct message.
 
