@@ -189,23 +189,31 @@ How to reach the interface of LIVE CHAT in the Citium Client app?<br>
 
 Netflix special discount brought to you by <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN: 50% OFF from <i class='fa fa-video-camera'></i> Netflix official price!
 
-All Family Packs offer Netflix Premium Ultra HD (4K) Streaming Service direct from Netflix. Each Pack includes one (1) Master Account and four (4) Profile Accounts for your family members. Note that you cannot change the login name of the Netflix Master Account assigned to you but you can customize the password of the Master Account. In other words, each Family Pack can concurrently support up to five (5) devices allowing you and your family members to access Netflix service from non-mainland China IPs (e.g. IPs from Macau, Hong Kong and Taiwan, US, UK, Australia, Canada etc). Family Pack offers three options as follows:
+All Family Plan offer Netflix Premium Ultra HD (4K) Streaming Service direct from Netflix. Each Plan includes one (1) Master Account and four (4) Profile Accounts for your family members. Note that you cannot change the login name of the Netflix Master Account assigned to you but you can customize the password of the Master Account. In other words, each Family Plan can concurrently support up to five (5) devices allowing you and your family members to access Netflix service from non-mainland China IPs (e.g. IPs from Macau, Hong Kong and Taiwan, US, UK, Australia, Canada etc). Family Plan offers three options as follows:
 
-- Plan Jr. (≈ 6.50 USD):
+- **Plan Jr. (≈ 6.50 USD)**:
   - <i class='fa fa-video-camera'></i> Netflix Premium 1 Month
-- Plan Plus (≈ 35.00 USD):
+- **Plan Plus (≈ 35.00 USD)**:
   - <i class='fa fa-video-camera'></i> Netflix Premium 6 Months
-- Plan Jumbo (≈ 74.00 USD):
+- **Plan Jumbo (≈ 74.00 USD)**:
   - <i class='fa fa-video-camera'></i> Netflix Premium 12 Months
 
-If you intend to access Netflix from mainland China, please select the Bundled Packs below because Netflix has a [IP Restricted Area Policy](https://help.netflix.com/legal/termsofuse). Each Bundled Pack already includes all service features in the corresponding Plan above. The added <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN service allows you to access Netflix both from mainland China and internationally. Each of them has a 30-Day VPN traffic quota, which is reset on every 30th day since the day of activation. The unused leftover traffic quota will not rollover to the next period.
+If you intend to access Netflix from mainland China, please select the Bundled Pack below because Netflix has a [IP Restricted Area Policy](https://help.netflix.com/legal/termsofuse). Each Bundled Pack already includes all service features in the corresponding Plan above. The added <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN service allows you to access Netflix both from mainland China and internationally. Each of them has a 30-Day VPN traffic quota, which is reset on every 30th day since the day of activation. The unused leftover traffic quota will not rollover to the next period.
 
-- Bundled Plan Jr. (≈ 18.45 USD):
+- **Bundled Pack Jr. (≈ 18.45 USD)**:
   - <i class='fa fa-video-camera'></i> Netflix Premium 1 Month
   - <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN 30-Day (100 GB/30-Day)
-- Bundled Plan Plus (≈ 88.70 USD):
+- **Bundled Pack Plus (≈ 88.70 USD)**:
   - <i class='fa fa-video-camera'></i> Netflix Premium 6 Months
   - <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN 180-Day (110 GB/30-Day)
-- Bundled Plan Jumbo (≈ 148.80 USD):
+- **Bundled Pack Jumbo (≈ 148.80 USD)**:
   - <i class='fa fa-video-camera'></i> Netflix Premium 12 Months
   - <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN 360-Day (120 GB/30-Day)
+
+  [<i class="fa fa-shopping-cart" aria-hidden="true"></i> Netflix Plan / Bundled Plan](https://etickets.hk/en/project/lubevpn-netflix/)
+  {: .myButton}
+
+  {: .box-note}
+  如何在西蒂姆(Citum)客戶端App內找到 <i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN「在線客服」？<br>
+  How to reach the interface of LIVE CHAT in the Citium Client app?<br>
+  <i class='fa fa-gears' style='color:blue'></i> > <i class='fa fa-certificate' style='color:blue'></i> > <i class='fa fa-question-circle' style='color:#ff6d12'></i> > <i class='fa fa-comments-o' style='color:#ff6d12'></i>
