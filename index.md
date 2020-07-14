@@ -191,11 +191,11 @@ Netflix special discount brought to you by <i class='fa fa-rocket' style='color:
 
 All Family Plan offer Netflix Premium Ultra HD (4K) Streaming Service direct from Netflix. Each Plan includes one (1) Master Account and four (4) Profile Accounts for your family members. Note that you cannot change the login name of the Netflix Master Account assigned to you but you can customize the password of the Master Account. In other words, each Family Plan can concurrently support up to five (5) devices allowing you and your family members to access Netflix service from non-mainland China IPs (e.g. IPs from Macau, Hong Kong and Taiwan, US, UK, Australia, Canada etc). Family Plan offers three options as follows:
 
-- **Plan Jr. (≈ 6.50 USD)**:
+- **Plan Jr. (6.50 USD)**:
   - <i class='fa fa-video-camera'></i> Netflix Premium 1 Month
-- **Plan Plus (≈ 35.00 USD)**:
+- **Plan Plus (35.00 USD)**:
   - <i class='fa fa-video-camera'></i> Netflix Premium 6 Months
-- **Plan Jumbo (≈ 74.00 USD)**:
+- **Plan Jumbo (74.00 USD)**:
   - <i class='fa fa-video-camera'></i> Netflix Premium 12 Months
 
 Payment gateway of **Netflix Plan Jr./Plus/Jumbo** is offered by [eTickets.hk](https://etickets.hk/).
@@ -207,13 +207,13 @@ Please contact our LIVE HELP <i class='fa fa-comments-o'></i> as soon as you fin
 
 If you intend to access Netflix from mainland China, please select the Bundled Plan below because Netflix has a [IP Restricted Area Policy](https://help.netflix.com/legal/termsofuse). Each Bundled Plan already includes all service features in the corresponding Plan above. The added <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN service allows you to access Netflix both from mainland China and aboard. Each of them has a 30-Day VPN traffic quota, which is reset on every 30th day since the day of activation. The unused leftover traffic quota will not rollover to the next period.
 
-- **Bundled Plan Jr. (≈ 18.45 USD)**:
+- **Bundled Plan Jr. (18.45 USD)**:
   - <i class='fa fa-video-camera'></i> Netflix Premium 1 Month
   - <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN 30-Day (100 GB/30-Day)
-- **Bundled Plan Plus (≈ 88.70 USD)**:
+- **Bundled Plan Plus (88.70 USD)**:
   - <i class='fa fa-video-camera'></i> Netflix Premium 6 Months
   - <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN 180-Day (110 GB/30-Day)
-- **Bundled Plan Jumbo (≈ 148.80 USD)**:
+- **Bundled Plan Jumbo (148.80 USD)**:
   - <i class='fa fa-video-camera'></i> Netflix Premium 12 Months
   - <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN 360-Day (120 GB/30-Day)
 
