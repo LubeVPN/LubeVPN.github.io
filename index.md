@@ -200,7 +200,7 @@ All Family Plan offer Netflix Premium Ultra HD (4K) Streaming Service direct fro
 
 Payment gateway of **Netflix Plan Jr./Plus/Jumbo** is offered by [eTickets.hk](https://etickets.hk/).
 
-[<i class="fa fa-shopping-cart" aria-hidden="true"></i> Netflix Plan](https://etickets.hk/en/project/lubevpn-netflix/)
+[<i class="fa fa-shopping-cart" aria-hidden="true"></i> Netflix Plan Jr./Plus/Jumbo](https://etickets.hk/en/project/lubevpn-netflix/)
 {: .myButton}
 
 Please contact our LIVE HELP <i class='fa fa-comments-o'></i> as soon as you finished the payment. You can find it in the Citium Client app by navigating as follows:<br><i class='fa fa-gears' style='color:blue'></i> > <i class='fa fa-certificate' style='color:blue'></i> > <i class='fa fa-question-circle' style='color:#ff6d12'></i> > <i class='fa fa-comments-o' style='color:#ff6d12'></i>
@@ -219,7 +219,7 @@ If you intend to access Netflix from mainland China, please select the Bundled P
 
 Payment gateway of **Bundled Plan Jr./Plus/Jumbo** is offered by [eTickets.hk](https://etickets.hk/).
 
-[<i class="fa fa-shopping-cart" aria-hidden="true"></i> Bundled Plan](https://etickets.hk/en/project/lubevpn-netflix/)
+[<i class="fa fa-shopping-cart" aria-hidden="true"></i> Bundled Plan Jr./Plus/Jumbo](https://etickets.hk/en/project/lubevpn-netflix/)
 {: .myButton}
 
 Please contact our LIVE HELP <i class='fa fa-comments-o'></i> as soon as you finished the payment. You can find it in the Citium Client app by navigating as follows:<br><i class='fa fa-gears' style='color:blue'></i> > <i class='fa fa-certificate' style='color:blue'></i> > <i class='fa fa-question-circle' style='color:#ff6d12'></i> > <i class='fa fa-comments-o' style='color:#ff6d12'></i>
