@@ -198,7 +198,7 @@ All Family Plan offer Netflix Premium Ultra HD (4K) Streaming Service direct fro
 - **Plan Jumbo (≈ 74.00 USD)**:
   - <i class='fa fa-video-camera'></i> Netflix Premium 12 Months
 
-Payment gateway of **Netflix Plan** is offered by [eTickets.hk](https://etickets.hk/).
+Payment gateway of **Netflix Plan Jr./Plus/Jumbo** is offered by [eTickets.hk](https://etickets.hk/).
 
 [<i class="fa fa-shopping-cart" aria-hidden="true"></i> Netflix Plan](https://etickets.hk/en/project/lubevpn-netflix/)
 {: .myButton}
@@ -217,7 +217,7 @@ If you intend to access Netflix from mainland China, please select the Bundled P
   - <i class='fa fa-video-camera'></i> Netflix Premium 12 Months
   - <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN 360-Day (120 GB/30-Day)
 
-Payment gateway of **Bundled Plan** is offered by [eTickets.hk](https://etickets.hk/).
+Payment gateway of **Bundled Plan Jr./Plus/Jumbo** is offered by [eTickets.hk](https://etickets.hk/).
 
 [<i class="fa fa-shopping-cart" aria-hidden="true"></i> Bundled Plan](https://etickets.hk/en/project/lubevpn-netflix/)
 {: .myButton}
