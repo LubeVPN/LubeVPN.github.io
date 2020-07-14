@@ -198,6 +198,13 @@ All Family Plan offer Netflix Premium Ultra HD (4K) Streaming Service direct fro
 - **Plan Jumbo (≈ 74.00 USD)**:
   - <i class='fa fa-video-camera'></i> Netflix Premium 12 Months
 
+Payment gateway of **Netflix Plan** is offered by [eTickets.hk](https://etickets.hk/).
+
+[<i class="fa fa-shopping-cart" aria-hidden="true"></i> Netflix Plan](https://etickets.hk/en/project/lubevpn-netflix/)
+{: .myButton}
+
+Please contact our LIVE HELP <i class='fa fa-comments-o'></i> as soon as you finished the payment. You can find it in the Citium Client app by navigating as follows:<br><i class='fa fa-gears' style='color:blue'></i> > <i class='fa fa-certificate' style='color:blue'></i> > <i class='fa fa-question-circle' style='color:#ff6d12'></i> > <i class='fa fa-comments-o' style='color:#ff6d12'></i>
+
 If you intend to access Netflix from mainland China, please select the Bundled Plan below because Netflix has a [IP Restricted Area Policy](https://help.netflix.com/legal/termsofuse). Each Bundled Plan already includes all service features in the corresponding Plan above. The added <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN service allows you to access Netflix both from mainland China and internationally. Each of them has a 30-Day VPN traffic quota, which is reset on every 30th day since the day of activation. The unused leftover traffic quota will not rollover to the next period.
 
 - **Bundled Plan Jr. (≈ 18.45 USD)**:
@@ -210,7 +217,9 @@ If you intend to access Netflix from mainland China, please select the Bundled P
   - <i class='fa fa-video-camera'></i> Netflix Premium 12 Months
   - <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN 360-Day (120 GB/30-Day)
 
-Payment gateway of **Netflix Plan** / **Bundled Plan** is offered by [eTickets.hk](https://etickets.hk/). Please contact our LIVE HELP <i class='fa fa-comments-o'></i> as soon as you finished the payment. You can find it in the Citium Client app by navigating as follows:<br><i class='fa fa-gears' style='color:blue'></i> > <i class='fa fa-certificate' style='color:blue'></i> > <i class='fa fa-question-circle' style='color:#ff6d12'></i> > <i class='fa fa-comments-o' style='color:#ff6d12'></i>
+Payment gateway of **Bundled Plan** is offered by [eTickets.hk](https://etickets.hk/).
 
-[<i class="fa fa-shopping-cart" aria-hidden="true"></i> Netflix Plan / Bundled Plan](https://etickets.hk/en/project/lubevpn-netflix/)
+[<i class="fa fa-shopping-cart" aria-hidden="true"></i> Bundled Plan](https://etickets.hk/en/project/lubevpn-netflix/)
 {: .myButton}
+
+Please contact our LIVE HELP <i class='fa fa-comments-o'></i> as soon as you finished the payment. You can find it in the Citium Client app by navigating as follows:<br><i class='fa fa-gears' style='color:blue'></i> > <i class='fa fa-certificate' style='color:blue'></i> > <i class='fa fa-question-circle' style='color:#ff6d12'></i> > <i class='fa fa-comments-o' style='color:#ff6d12'></i>
