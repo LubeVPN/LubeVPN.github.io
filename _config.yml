@@ -24,8 +24,8 @@ navbar-links:
 #  絕不寫Log政策<br>No Log Policy: "no_log_policy"
 #  開天闢地的技術<br>Technology: "technology"
 #  去中心化網絡<br>Citium: "citium"
-  西蒂姆客戶端<br>Download Citium:
-    - 安卓客戶端<br>Android APK: "https://www.unicorn001.tk/uploads/citium.apk"
+  下載西蒂姆客戶端<br>Download Citium:
+    - 安卓客戶端APK<br>Android APK: "https://www.unicorn001.tk/uploads/citium.apk"
   產品服務支持<br>Support:
     - Windows版本安裝<br>Windows Version: "windows"
     - 續時抵值：加密幣<br>Payment by Crypto: "#-%E7%BA%8C%E6%99%82%E6%8A%B5%E5%80%BC%E5%8A%A0%E5%AF%86%E5%B9%A3by-cryptocurrency"
