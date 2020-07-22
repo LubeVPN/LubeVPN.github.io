@@ -28,8 +28,9 @@ navbar-links:
     - 安卓客戶端APK<br>Android APK: "https://www.unicorn001.tk/uploads/citium.apk"
   產品服務支持<br>Support:
     - Windows版本安裝<br>Windows Version: "windows"
-    - 續時抵值：加密幣<br>Payment by Crypto: "#-%E7%BA%8C%E6%99%82%E6%8A%B5%E5%80%BC%E5%8A%A0%E5%AF%86%E5%B9%A3by-cryptocurrency"
-    - 續時抵值：中港常用<br>Payment by RMB/HKD: "#-%E7%BA%8C%E6%99%82%E6%8A%B5%E5%80%BC%E4%B8%AD%E6%B8%AF%E5%8F%B0%E5%B8%B8%E7%94%A8by-membership-credits"
+    - <i class='fa fa-btc'></i> 續時抵值：加密幣<br>Payment by Crypto: "#-%E7%BA%8C%E6%99%82%E6%8A%B5%E5%80%BC%E5%8A%A0%E5%AF%86%E5%B9%A3by-cryptocurrency"
+    - <i class='fa fa-jpy'></i> 續時抵值：中港常用<br>Payment by RMB/HKD: "#-%E7%BA%8C%E6%99%82%E6%8A%B5%E5%80%BC%E4%B8%AD%E6%B8%AF%E5%8F%B0%E5%B8%B8%E7%94%A8by-membership-credits"
+    - <i class='fa fa-video-camera'></i> 續時抵值：奈飛配套<br>Netflix Bundled Plan: "#-%E7%BA%8C%E6%99%82%E6%8A%B5%E5%80%BC%E5%A5%88%E9%A3%9B%E6%8A%98%E6%89%A3%E6%9C%8D%E5%8B%99%E9%85%8D%E5%A5%97netflix-bundled-pack"
     - 續時抵值：卡密卡劵<br>Payment by Cards: "payment_cards"
     - 推薦人計劃<br>Referral: "referral"
     - 聯繫我們<br>Contact Us: "contact_us"
