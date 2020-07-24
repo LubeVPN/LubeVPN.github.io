@@ -187,6 +187,8 @@ How to reach the interface of LIVE CHAT in the Citium Client app?<br>
 
 ### <i class='fa fa-video-camera'></i> 續時抵值：奈飛折扣服務配套<br>Netflix Bundled Plan
 
+![LubeVPN](/img/Netflix_logo.svg "Netflix" =350x){: .center-block :}
+
 Netflix special discount brought to you by <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN: 50% OFF from <i class='fa fa-video-camera'></i> Netflix official price!
 
 All Family Plan offer Netflix Premium Ultra HD (4K) Streaming Service direct from Netflix. Each Plan includes one (1) Master Account and four (4) Profile Accounts for your family members. Note that you cannot change the login username of the Netflix Master Account assigned to you but you can customize the password of the Master Account. In other words, each Family Plan can concurrently support up to five (5) devices allowing you and your family members to access Netflix service from non-mainland China IPs (e.g. IPs from Macau, Hong Kong and Taiwan, US, UK, Australia, Canada etc). Family Plan offers three options as follows:
