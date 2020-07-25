@@ -173,7 +173,7 @@ You can renew <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN through
 {: .myButton}
 
 
-### <i class="fa fa-jpy" aria-hidden="true"></i> 續時抵值：中港台法幣<br>By Fiat Currency Credits
+### <i class="fa fa-jpy" aria-hidden="true"></i> 續時抵值：中港台會員常用<br>By Fiat Membership Credits
 
 ![Fiat Currency Credits](/img/fiat_credits.svg "UnionPay, AliPay, WeChat Pay, VISA, MasterCard, AMEX, JCB, Diners Club, HSBC FPS, HSBC PayMe")
 
