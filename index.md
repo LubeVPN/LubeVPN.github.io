@@ -159,18 +159,13 @@ How to reach the interface of LIVE CHAT in the Citium Client app?<br>
 
 <i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN通過國際知名的 [Coinbase Commerce](https://commerce.coinbase.com/) 加密幣充值接口和錢包接受抵值。接受的各種流行加密幣種有 Bitcoin、Bitcoin Cash、Dai、Ethereum、Litecoin 和 USD Coin。請按您希望抵值的續時週期點擊進入 Coinbase Commerce 充值購買所需的等值。完成後，[聯繫客服](../contact_us)，讓我們協助您完成續時抵值的餘下手續。
 
-[<i class='fa fa-shopping-cart'></i> 30日續時需$12.95 USD抵值](https://commerce.coinbase.com/checkout/d3b2abdd-a42d-4636-a020-977df3348813)  
-
-[<i class='fa fa-shopping-cart'></i> 30-Day Renewal @ $12.95 USD](https://commerce.coinbase.com/checkout/d3b2abdd-a42d-4636-a020-977df3348813)
+[<i class='fa fa-shopping-cart'></i> 30日續時需$12.95 USD抵值](https://commerce.coinbase.com/checkout/d3b2abdd-a42d-4636-a020-977df3348813)<br>[<i class='fa fa-shopping-cart'></i> 30-Day Renewal @ $12.95 USD](https://commerce.coinbase.com/checkout/d3b2abdd-a42d-4636-a020-977df3348813)
 {: .myButton}
 
-[<i class='fa fa-shopping-cart'></i> 180日續時需$57.45 USD抵值](https://commerce.coinbase.com/checkout/44e644c9-1704-4c3a-9469-3a9ce073f577)  
-
-[<i class='fa fa-shopping-cart'></i> 180-Day Renewal @ $57.45 USD](https://commerce.coinbase.com/checkout/d3b2abdd-a42d-4636-a020-977df3348813)
+[<i class='fa fa-shopping-cart'></i> 180日續時需$57.45 USD抵值](https://commerce.coinbase.com/checkout/44e644c9-1704-4c3a-9469-3a9ce073f577)<br>[<i class='fa fa-shopping-cart'></i> 180-Day Renewal @ $57.45 USD](https://commerce.coinbase.com/checkout/d3b2abdd-a42d-4636-a020-977df3348813)
 {: .myButton}
 
-[<i class='fa fa-shopping-cart'></i> 360日續時需$86.15 USD抵值](https://commerce.coinbase.com/checkout/752a5a80-2f06-44e3-954a-d25c10dacf18)<br>
-[<i class='fa fa-shopping-cart'></i> 360-Day Renewal @ $86.15 USD](https://commerce.coinbase.com/checkout/d3b2abdd-a42d-4636-a020-977df3348813)
+[<i class='fa fa-shopping-cart'></i> 360日續時需$86.15 USD抵值](https://commerce.coinbase.com/checkout/752a5a80-2f06-44e3-954a-d25c10dacf18)<br>[<i class='fa fa-shopping-cart'></i> 360-Day Renewal @ $86.15 USD](https://commerce.coinbase.com/checkout/d3b2abdd-a42d-4636-a020-977df3348813)
 {: .myButton}
 
 ### <i class="fa fa-jpy" aria-hidden="true"></i> 續時抵值：中港台常用<br>By Membership Credits
