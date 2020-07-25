@@ -187,7 +187,7 @@ How to reach the interface of LIVE CHAT in the Citium Client app?<br>
 
 ### <i class='fa fa-video-camera'></i> 續時抵值：奈飛折扣服務配套<br>Netflix Bundled Plan
 
-![LubeVPN](/img/Netflix_logo.svg "Netflix" =350x){: .center-block :}
+![NETFLIX](/img/Netflix_logo.svg "Netflix"){: .center-block :}
 
 Netflix special discount brought to you by <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN: 50% OFF from <i class='fa fa-video-camera'></i> Netflix official price!
 
