@@ -24,7 +24,7 @@ Note: Citium Client app and its Instant Messenger (CIM) <i class='fa fa-envelope
 
 前提是，您必須經由現有 <i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN用戶推薦才可獲取免費試用。如果不認識，請您通過西蒂姆(Citium)客戶端App的內置的在線客服 <i class='fa fa-comments-o'></i> 聯絡我們。您可以按以下路徑找到在線客服：<br><i class='fa fa-gears' style='color:blue'></i> > <i class='fa fa-certificate' style='color:blue'></i> > <i class='fa fa-question-circle' style='color:#ff6d12'></i> > <i class='fa fa-comments-o' style='color:#ff6d12'></i>
 
-Foremost, you need to know someone who's already using <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN to refer you in order to get the FREE TRIAL. If you do not know anyone, please contact our LIVE HELP <i class='fa fa-comments-o'></i>. You can find it in the Citium Client app by navigating as follows:<br><i class='fa fa-gears' style='color:blue'></i> > <i class='fa fa-certificate' style='color:blue'></i> > <i class='fa fa-question-circle' style='color:#ff6d12'></i> > <i class='fa fa-comments-o' style='color:#ff6d12'></i>
+Foremost, you need to know someone who's already using <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN to refer you in order to get the FREE TRIAL. If you do not know anyone, please contact our LIVE HELP <i class='fa fa-comments-o'></i>. You can find <i class='fa fa-comments-o'></i> in the Citium Client app by navigating as follows:<br><i class='fa fa-gears' style='color:blue'></i> > <i class='fa fa-certificate' style='color:blue'></i> > <i class='fa fa-question-circle' style='color:#ff6d12'></i> > <i class='fa fa-comments-o' style='color:#ff6d12'></i>
 
 ### <i class="fa fa-wrench"></i> 申辦流程<br>Requisition
 
@@ -140,40 +140,42 @@ Lube VPN does not record network routing information, such as originating IP and
 
 <i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN用戶可以通過多種 __抵值形式__ 來 __續時__（延長接受服務的週期）。暫時提供給用戶續時的抵值形式有：
 
+Users can use choose from several methods to renew in order to extend the usage of <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN:
+
 {: style="color: DarkRed; font-size: 80%;"}
-| <i class="fa fa-shopping-cart" aria-hidden="true"></i> | 抵值<br>形式 | 優點 |
-|:--:|:--:|:--|
-| <i class="fa fa-btc" aria-hidden="true"></i> | 加密電子幣 | 快捷<br>匿名 |
-| <i class="fa fa-jpy" aria-hidden="true"></i> | 中港台常用 | 快捷<br>简便 |
-| <i class="fa fa-cloud" aria-hidden="true"></i> | [虛擬卡卡密](../payment_cards) | 快捷<br>簡便 |
-| <i class="fa fa-envelope" aria-hidden="true"></i> | [實體卡卡劵](../payment_cards) | 免ID<br>資料 |
+| <i class="fa fa-shopping-cart" aria-hidden="true"></i> | 抵值形式<br>Payment<br>Methods
+|:--:|:--:|
+| <i class='fa fa-btc'></i> | 加密電子幣<br>Coinbase Coins |
+| <i class='fa fa-jpy'></i> | 中港台法幣<br>Fiat Credits |
+| <i class='fa fa-video-camera'></i> | 奈飛影視套餐<br>Netflix Bundle |
+| <i class='fa fa-cloud'></i> | [虛擬卡卡密<br>Vitual Cards](../payment_cards) |
+| <i class='fa fa-envelope'></i> | [實體卡卡劵<br>Physical Cards](../payment_cards) |
 
-用戶先自行選擇一種抵值形式（不允許多種形式混合），採購足夠額度的抵值商品。採購成功後，請隨時通過西蒂姆(Citum)客戶端App內的在線客服[聯絡官方客戶服務](../contact_us)，讓我們協助您完成續時抵值的餘下手續。注：<i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN官方客服只經由西蒂姆(Citum)客戶端App內的在線客服提供咨詢和抵值服務。
+用戶先自行選擇一種抵值形式（不允許多種形式混合），採購足夠額度的抵值商品。採購成功後，敬請在支付完成後，[聯繫客服](../contact_us)，讓我們協助您完成續時抵值的餘下手續。注：<i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN官方客服只經由西蒂姆(Citum)客戶端App內的在線客服 <i class='fa fa-comments-o'></i> 咨詢：<i class='fa fa-gears' style='color:blue'></i> > <i class='fa fa-certificate' style='color:blue'></i> > <i class='fa fa-question-circle' style='color:#ff6d12'></i> > <i class='fa fa-comments-o' style='color:#ff6d12'></i>
 
-{: .box-note}
-如何在西蒂姆(Citum)客戶端App內找到<i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN「在線客服」？<br>
-How to reach the interface of LIVE CHAT in the Citium Client app?<br>
-<i class='fa fa-gears' style='color:blue'></i> > <i class='fa fa-certificate' style='color:blue'></i> > <i class='fa fa-question-circle' style='color:#ff6d12'></i> > <i class='fa fa-comments-o' style='color:#ff6d12'></i>
+Choose a payment method to your liking (mixing different methods is not allowed). After procuring sufficient amount of crypto coins, fiat credits, virtual or physical cards, you can contact our LIVE HELP <i class='fa fa-comments-o'></i> as soon as you finished the payment. You can find <i class='fa fa-comments-o'></i> in the Citium Client app by navigating as follows: <i class='fa fa-gears' style='color:blue'></i> > <i class='fa fa-certificate' style='color:blue'></i> > <i class='fa fa-question-circle' style='color:#ff6d12'></i> > <i class='fa fa-comments-o' style='color:#ff6d12'></i>
 
-### <i class="fa fa-btc" aria-hidden="true"></i> 續時抵值：加密幣<br>By Cryptocurrency
+### <i class="fa fa-btc" aria-hidden="true"></i> 續時抵值：加密幣<br>By Coinbase Coins
 
-<i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN通過國際知名的 [Coinbase Commerce](https://commerce.coinbase.com/) 加密幣充值接口和錢包接受抵值。接受的各種流行加密幣種有 Bitcoin、Bitcoin Cash、Dai、Ethereum、Litecoin 和 USD Coin。請按您希望抵值的續時週期點擊進入 Coinbase Commerce 充值購買所需的等值。完成後，[聯繫客服](../contact_us)，讓我們協助您完成續時抵值的餘下手續。
+<i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN通過國際知名的 [Coinbase Commerce](https://commerce.coinbase.com/) 加密幣充值接口和錢包接受抵值。接受的各種流行加密幣種有 <i class='fa fa-btc'></i> Bitcoin、Bitcoin Cash、Dai、Ethereum、Litecoin 和 USD Coin。請按您希望抵值的續時週期點擊進入 Coinbase Commerce 充值購買所需的等值。敬請在支付完成後，[聯繫客服](../contact_us)，讓我們協助您完成續時抵值的餘下手續。注：<i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN官方客服只經由西蒂姆(Citum)客戶端App內的在線客服 <i class='fa fa-comments-o'></i> 咨詢：<i class='fa fa-gears' style='color:blue'></i> > <i class='fa fa-certificate' style='color:blue'></i> > <i class='fa fa-question-circle' style='color:#ff6d12'></i> > <i class='fa fa-comments-o' style='color:#ff6d12'></i>
 
-[<i class='fa fa-shopping-cart'></i> 30日 續時需相當 12.95 USD 加密幣抵值](https://commerce.coinbase.com/checkout/d3b2abdd-a42d-4636-a020-977df3348813)<br>[<i class='fa fa-shopping-cart'></i> 30-Day Renewal @ 12.95 USD of Crypto](https://commerce.coinbase.com/checkout/d3b2abdd-a42d-4636-a020-977df3348813)
+You can renew <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN through [Coinbase Commerce](https://commerce.coinbase.com/) by <i class='fa fa-btc'></i> Bitcoin, Bitcoin Cash, Dai, Ethereum, Litecoin & USD Coin. Please contact our LIVE HELP <i class='fa fa-comments-o'></i> as soon as you finished the payment. You can find <i class='fa fa-comments-o'></i> in the Citium Client app by navigating as follows: <i class='fa fa-gears' style='color:blue'></i> > <i class='fa fa-certificate' style='color:blue'></i> > <i class='fa fa-question-circle' style='color:#ff6d12'></i> > <i class='fa fa-comments-o' style='color:#ff6d12'></i>
+
+[<i class='fa fa-shopping-cart'></i> 30日 續時需相當 <i class='fa fa-usd'></i>12.95 USD 加密幣抵值](https://commerce.coinbase.com/checkout/d3b2abdd-a42d-4636-a020-977df3348813)<br>[<i class='fa fa-shopping-cart'></i> 30-Day Renewal @ <i class='fa fa-usd'></i>12.95 USD of Crypto](https://commerce.coinbase.com/checkout/d3b2abdd-a42d-4636-a020-977df3348813)
 {: .myButton}
 
-[<i class='fa fa-shopping-cart'></i> 180日 續時需相當 57.45 USD 加密幣抵值](https://commerce.coinbase.com/checkout/44e644c9-1704-4c3a-9469-3a9ce073f577)<br>[<i class='fa fa-shopping-cart'></i> 180-Day Renewal @ 57.45 USD of Crypto](https://commerce.coinbase.com/checkout/d3b2abdd-a42d-4636-a020-977df3348813)
+[<i class='fa fa-shopping-cart'></i> 180日 續時需相當 <i class='fa fa-usd'></i>57.45 USD 加密幣抵值](https://commerce.coinbase.com/checkout/44e644c9-1704-4c3a-9469-3a9ce073f577)<br>[<i class='fa fa-shopping-cart'></i> 180-Day Renewal @ 57.45 USD of Crypto](https://commerce.coinbase.com/checkout/d3b2abdd-a42d-4636-a020-977df3348813)
 {: .myButton}
 
-[<i class='fa fa-shopping-cart'></i> 360日 續時需相當 86.15 USD 加密幣抵值](https://commerce.coinbase.com/checkout/752a5a80-2f06-44e3-954a-d25c10dacf18)<br>[<i class='fa fa-shopping-cart'></i> 360-Day Renewal @ 86.15 USD of Crypto](https://commerce.coinbase.com/checkout/d3b2abdd-a42d-4636-a020-977df3348813)
+[<i class='fa fa-shopping-cart'></i> 360日 續時需相當 <i class='fa fa-usd'></i>86.15 USD 加密幣抵值](https://commerce.coinbase.com/checkout/752a5a80-2f06-44e3-954a-d25c10dacf18)<br>[<i class='fa fa-shopping-cart'></i> 360-Day Renewal @ 86.15 USD of Crypto](https://commerce.coinbase.com/checkout/d3b2abdd-a42d-4636-a020-977df3348813)
 {: .myButton}
 
 
-### <i class="fa fa-jpy" aria-hidden="true"></i> 續時抵值：中港台常用<br>By Membership Credits
+### <i class="fa fa-jpy" aria-hidden="true"></i> 續時抵值：中港台法幣<br>By Fiat Currency Credits
 
 中港台常用抵值辦法，由「易電票」（[https://etickets.hk/](https://etickets.hk/)）提供，敬請在支付完成後，[聯繫客服](../contact_us)，讓我們協助您完成續時抵值的餘下手續。注：<i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN官方客服只經由西蒂姆(Citum)客戶端App內的在線客服 <i class='fa fa-comments-o'></i> 咨詢：<i class='fa fa-gears' style='color:blue'></i> > <i class='fa fa-certificate' style='color:blue'></i> > <i class='fa fa-question-circle' style='color:#ff6d12'></i> > <i class='fa fa-comments-o' style='color:#ff6d12'></i>
 
-Mainland China, Hong Kong and Taiwan users can use [eTickets.HK](https://etickets.hk/) to renew membership. Please contact our LIVE HELP <i class='fa fa-comments-o'></i> as soon as you finished the payment. You can find it in the Citium Client app by navigating as follows: <i class='fa fa-gears' style='color:blue'></i> > <i class='fa fa-certificate' style='color:blue'></i> > <i class='fa fa-question-circle' style='color:#ff6d12'></i> > <i class='fa fa-comments-o' style='color:#ff6d12'></i>
+Mainland China, Hong Kong and Taiwan users can use [eTickets.HK](https://etickets.hk/) to renew membership. Please contact our LIVE HELP <i class='fa fa-comments-o'></i> as soon as you finished the payment. You can find <i class='fa fa-comments-o'></i> in the Citium Client app by navigating as follows: <i class='fa fa-gears' style='color:blue'></i> > <i class='fa fa-certificate' style='color:blue'></i> > <i class='fa fa-question-circle' style='color:#ff6d12'></i> > <i class='fa fa-comments-o' style='color:#ff6d12'></i>
 
 [<i class="fa fa-shopping-cart" aria-hidden="true"></i> 30/180/360日的續時抵值](https://etickets.hk/en/project/lubevpn)<br>[<i class="fa fa-shopping-cart" aria-hidden="true"></i> 30/180/360-Day Renewal](https://etickets.hk/en/project/lubevpn)
 {: .myButton}
@@ -200,7 +202,7 @@ Payment gateway of **Netflix Plan Jr./Plus/Jumbo** is offered by [eTickets.hk](h
 [<i class="fa fa-shopping-cart" aria-hidden="true"></i> Netflix Plan Jr./Plus/Jumbo](https://etickets.hk/en/project/lubevpn-netflix/)
 {: .myButton}
 
-Please contact our LIVE HELP <i class='fa fa-comments-o'></i> as soon as you finished the payment. You can find it in the Citium Client app by navigating as follows:<br><i class='fa fa-gears' style='color:blue'></i> > <i class='fa fa-certificate' style='color:blue'></i> > <i class='fa fa-question-circle' style='color:#ff6d12'></i> > <i class='fa fa-comments-o' style='color:#ff6d12'></i>
+Please contact our LIVE HELP <i class='fa fa-comments-o'></i> as soon as you finished the payment. You can find <i class='fa fa-comments-o'></i> in the Citium Client app by navigating as follows:<br><i class='fa fa-gears' style='color:blue'></i> > <i class='fa fa-certificate' style='color:blue'></i> > <i class='fa fa-question-circle' style='color:#ff6d12'></i> > <i class='fa fa-comments-o' style='color:#ff6d12'></i>
 
 If you intend to access Netflix from mainland China, please select the Bundled Plan below because Netflix has a [IP Restricted Area Policy](https://help.netflix.com/legal/termsofuse). Each Bundled Plan already includes all service features in the corresponding Plan above. The added <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN service allows you to access Netflix both from mainland China and aboard. Each of them has a 30-Day VPN traffic quota, which is reset on every 30th day since the day of activation. The unused leftover traffic quota will not rollover to the next period.
 
@@ -219,4 +221,4 @@ Payment gateway of **Bundled Plan Jr./Plus/Jumbo** is offered by [eTickets.hk](h
 [<i class="fa fa-shopping-cart" aria-hidden="true"></i> Bundled Plan Jr./Plus/Jumbo](https://etickets.hk/en/project/lubevpn-netflix/)
 {: .myButton}
 
-Please contact our LIVE HELP <i class='fa fa-comments-o'></i> as soon as you finished the payment. You can find it in the Citium Client app by navigating as follows:<br><i class='fa fa-gears' style='color:blue'></i> > <i class='fa fa-certificate' style='color:blue'></i> > <i class='fa fa-question-circle' style='color:#ff6d12'></i> > <i class='fa fa-comments-o' style='color:#ff6d12'></i>
+Please contact our LIVE HELP <i class='fa fa-comments-o'></i> as soon as you finished the payment. You can find <i class='fa fa-comments-o'></i> in the Citium Client app by navigating as follows:<br><i class='fa fa-gears' style='color:blue'></i> > <i class='fa fa-certificate' style='color:blue'></i> > <i class='fa fa-question-circle' style='color:#ff6d12'></i> > <i class='fa fa-comments-o' style='color:#ff6d12'></i>
