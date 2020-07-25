@@ -36,9 +36,9 @@ Foremost, you need to know someone who's already using <i class='fa fa-rocket' s
 2. <i class='fa fa-cogs' style='color:blue'></i> > <i class='fa fa-certificate' style='color:blue'></i> > <i class='fa fa-files-o' style='color:blue'></i> 複製通行證書 <i class='fa fa-certificate' style='color:chocolate'></i>
 - <i class='fa fa-envelope-o' style='color:blue'></i> > <i class='fa fa-clipboard' style='color:blue'></i> 黏貼發送 <i class='fa fa-certificate' style='color:chocolate'></i> 給 <i class='fa fa-user' style='color:purple'></i>
 - 等 <i class='fa fa-user' style='color:purple'></i> 簽署 <i class="fa fa-pencil-square-o"></i> 您的 <i class='fa fa-certificate' style='color:chocolate'></i>
-- 導入 <i class='fa fa-database'></i> 已被簽署通行證書 <i class='fa fa-certificate' style='color:orchid'>
-3. <i class='fa fa-cogs' style='color:blue'></i> > <i class='fa fa-toggle-off'></i> > <i class='fa fa-toggle-on'></i> 認證 <i class="fa fa-check-square-o"></i> 您的 <i class='fa fa-certificate' style='color:orchid'>
-- <i class='fa fa-toggle-on' style='color:green'></i> 成功 <i class="fa fa-check-square-o"></i>；順道VPN <i class='fa fa-rocket'></i> 啟用  
+- 導入 <i class='fa fa-database'></i> 已被簽署通行證書 <i class='fa fa-certificate' style='color:orchid'></i>
+3. <i class='fa fa-cogs' style='color:blue'></i> > <i class='fa fa-toggle-off'></i> > <i class='fa fa-toggle-on'></i> 認證 <i class="fa fa-check-square-o"></i> 您的 <i class='fa fa-certificate' style='color:orchid'></i>
+- <i class='fa fa-toggle-on' style='color:green'></i> 成功 <i class="fa fa-check-square-o"></i>；順道VPN <i class='fa fa-rocket'></i> 啟用
 - <i class='fa fa-toggle-on' style='color:orange'></i> 失敗 <i class="fa fa-check-square-o"></i>；模擬網絡 <i class='fa fa-key'></i> 啟用
 
 {: .box-note}
@@ -53,8 +53,8 @@ Find a friend (e.g. Alice) who holds a valid (i.e. unexpired) <i class='fa fa-ro
 2. <i class='fa fa-cogs' style='color:blue'></i> > <i class='fa fa-certificate' style='color:blue'></i> > <i class='fa fa-files-o' style='color:blue'></i> Copy CERT <i class='fa fa-certificate' style='color:chocolate'></i>
 - <i class='fa fa-envelope-o' style='color:blue'></i> > <i class='fa fa-clipboard' style='color:blue'></i> Paste & send <i class='fa fa-certificate' style='color:chocolate'></i> to <i class='fa fa-user' style='color:purple'></i>
 - Wait for <i class='fa fa-user' style='color:purple'></i> to sign <i class="fa fa-pencil-square-o"></i> your <i class='fa fa-certificate' style='color:chocolate'></i>
-- Import <i class='fa fa-database'></i> signed CERT <i class='fa fa-certificate' style='color:orchid'>
-3. <i class='fa fa-cogs' style='color:blue'></i> > <i class='fa fa-toggle-off'></i> > <i class='fa fa-toggle-on'></i> Validate <i class="fa fa-check-square-o"></i> your <i class='fa fa-certificate' style='color:orchid'>
+- Import <i class='fa fa-database'></i> signed CERT <i class='fa fa-certificate' style='color:orchid'></i>
+3. <i class='fa fa-cogs' style='color:blue'></i> > <i class='fa fa-toggle-off'></i> > <i class='fa fa-toggle-on'></i> Validate <i class="fa fa-check-square-o"></i> your <i class='fa fa-certificate' style='color:orchid'></i>
 - <i class='fa fa-toggle-on' style='color:green'></i> Success <i class="fa fa-check-square-o"></i>; VPN <i class='fa fa-rocket'></i> Starts!
 - <i class='fa fa-toggle-on' style='color:orange'></i> Fail <i class="fa fa-check-square-o"></i>; Simulated Net <i class='fa fa-key'></i> Only.
 
