@@ -157,6 +157,8 @@ Choose a payment method to your liking (mixing different methods is not allowed)
 
 ### <i class="fa fa-btc" aria-hidden="true"></i> 續時抵值：加密幣<br>By Coinbase Coins
 
+![Acceptable Cryto Coins](/img/coinbase.svg "Acceptable Crypto Coins at Coinbase")
+
 <i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN通過國際知名的 [Coinbase Commerce](https://commerce.coinbase.com/) 加密幣充值接口和錢包接受抵值。接受的各種流行加密幣種有 <i class='fa fa-btc'></i> Bitcoin、Bitcoin Cash、Dai、Ethereum、Litecoin 和 USD Coin。請按您希望抵值的續時週期點擊進入 Coinbase Commerce 充值購買所需的等值。敬請在支付完成後，[聯繫客服](../contact_us)，讓我們協助您完成續時抵值的餘下手續。注：<i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN官方客服只經由西蒂姆(Citum)客戶端App內的在線客服 <i class='fa fa-comments-o'></i> 咨詢：<i class='fa fa-gears' style='color:blue'></i> > <i class='fa fa-certificate' style='color:blue'></i> > <i class='fa fa-question-circle' style='color:#ff6d12'></i> > <i class='fa fa-comments-o' style='color:#ff6d12'></i>
 
 You can renew <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN through [Coinbase Commerce](https://commerce.coinbase.com/) by <i class='fa fa-btc'></i> Bitcoin, Bitcoin Cash, Dai, Ethereum, Litecoin & USD Coin. Please contact our LIVE HELP <i class='fa fa-comments-o'></i> as soon as you finished the payment. You can find <i class='fa fa-comments-o'></i> in the Citium Client app by navigating as follows: <i class='fa fa-gears' style='color:blue'></i> > <i class='fa fa-certificate' style='color:blue'></i> > <i class='fa fa-question-circle' style='color:#ff6d12'></i> > <i class='fa fa-comments-o' style='color:#ff6d12'></i>
@@ -173,6 +175,8 @@ You can renew <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN through
 
 ### <i class="fa fa-jpy" aria-hidden="true"></i> 續時抵值：中港台法幣<br>By Fiat Currency Credits
 
+![Fiat Currency Credits](/img/fiat_credits.svg "UnionPay, AliPay, WeChat Pay, VISA, MasterCard, AMEX, JCB, Diners Club, HSBC FPS, HSBC PayMe")
+
 中港台常用抵值辦法，由「易電票」（[https://etickets.hk/](https://etickets.hk/)）提供，敬請在支付完成後，[聯繫客服](../contact_us)，讓我們協助您完成續時抵值的餘下手續。注：<i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN官方客服只經由西蒂姆(Citum)客戶端App內的在線客服 <i class='fa fa-comments-o'></i> 咨詢：<i class='fa fa-gears' style='color:blue'></i> > <i class='fa fa-certificate' style='color:blue'></i> > <i class='fa fa-question-circle' style='color:#ff6d12'></i> > <i class='fa fa-comments-o' style='color:#ff6d12'></i>
 
 Mainland China, Hong Kong and Taiwan users can use [eTickets.HK](https://etickets.hk/) to renew membership. Please contact our LIVE HELP <i class='fa fa-comments-o'></i> as soon as you finished the payment. You can find <i class='fa fa-comments-o'></i> in the Citium Client app by navigating as follows: <i class='fa fa-gears' style='color:blue'></i> > <i class='fa fa-certificate' style='color:blue'></i> > <i class='fa fa-question-circle' style='color:#ff6d12'></i> > <i class='fa fa-comments-o' style='color:#ff6d12'></i>
@@ -184,7 +188,7 @@ Mainland China, Hong Kong and Taiwan users can use [eTickets.HK](https://eticket
 
 ### <i class='fa fa-video-camera'></i> 續時抵值：奈飛折扣服務配套<br>Netflix Bundled Plan
 
-![NETFLIX](/img/Netflix_logo.svg "Netflix"){: .center-block :}
+![NETFLIX](/img/Netflix_logo.svg "Netflix")
 
 Netflix special discount brought to you by <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN: 50% OFF from <i class='fa fa-video-camera'></i> Netflix official price!
 
