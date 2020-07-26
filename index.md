@@ -122,21 +122,19 @@ Lube VPN does not record network routing information, such as originating IP and
 
 ### <i class="fa fa-clock-o" aria-hidden="true"></i> 續時抵值費率<br>Renewal Rate
 
-推廣活動期間，費率按續時週期收費。一次性續時週期越長則折扣優惠越大、可享受流量封頂越大。
+推廣活動期間，**費率 <i class='fa fa-bar-chart'></i>** 按續時週期收費。一次性**續時週期 <i class='fa fa-calendar'></i>** 越長則折扣優惠越大、可享受**流量封頂 <i class='fa fa-signal'></i>** 越大。每個流量封頂逾期不補：激活起每30天一個週期限流，用不完的流量不能補償到下一個週期。
 
-During our promotion period, rates will be based on the renewal period: the longer the one-time renewal timeframe, the greater the discount and the greater the traffic quota.
+During our promotion period, **rates <i class='fa fa-bar-chart'></i>** will be based on the renewal period: the longer the one-time **renewal timeframe <i class='fa fa-calendar'></i>**, the greater the discount and the greater the **traffic quota <i class='fa fa-signal'></i>**, which is reset on every 30th day since the day of activation. The unused leftover traffic quota will not rollover to the next period.
 
  {: style="color: navy; font-size: 90%; table-align: center;"}
  | <i class='fa fa-bar-chart'></i><br>USD | <i class='fa fa-calendar'></i><br>Day | <i class='fa fa-signal'></i><br>GB | <i class='fa fa-film'></i><br>Hour |
  |:--:|:--:|:--:|:--:|
- | <b>$12.95</b> | 30 | 100 | 380 |
- | <b>$57.45</b> | 180 | 110 | 417 |
- | <b>$86.15</b> | 360 | 120 | 455 |
+ | <b>$12.95</b> | 30 | ≤100 | ~380 |
+ | <b>$57.45</b> | 180 | ≤110 | ~417 |
+ | <b>$86.15</b> | 360 | ≤120 | ~455 |
 
  {: .box-success}
- **<i class='fa fa-signal'></i> 流量封頂（/30日）**：每個流量封頂越期不補：激活起每30天一個週期限流，用不完的流量不能補償到下一個週期。
-<br>
-**<i class='fa fa-film'></i> 相當於流媒體（/30日）**：假設的大前提是<i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN會員用戶只用於觀看 YouTube 標準制式的 480p 視頻，而這種制式的視頻約每小時消耗264 MB的<i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN流量。那麼，如果會員按30日續時，則可以在每30日享用高達380小時；如果會員按180日續時，則可以在每30日享用高達417小時；如果會員按360日續時，則可以在每30日享用高達455小時。
+**<i class='fa fa-film'></i> 相當於流媒體（/30日）**：假設的大前提是 <i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN會員用戶只用於觀看 YouTube 標準制式的 480p 視頻，而這種制式的視頻約每小時消耗264 MB的<i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN流量。那麼，如果會員按30日續時，則可以在每30日享用高達380小時；如果會員按180日續時，則可以在每30日享用高達417小時；如果會員按360日續時，則可以在每30日享用高達455小時。
 
 ### <i class="fa fa-shopping-cart" aria-hidden="true"></i> 續時抵值形式<br>Payment Methods
 
