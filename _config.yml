@@ -24,25 +24,25 @@ navbar-links:
 #  絕不寫Log政策<br>No Log Policy: "no_log_policy"
 #  開天闢地的技術<br>Technology: "technology"
 #  去中心化網絡<br>Citium: "citium"
-  下載西蒂姆客戶端<br>Download Citium:
-    - 安卓客戶端APK<br>Android APK: "https://www.unicorn001.tk/uploads/citium.apk"
-  產品服務支持<br>Support:
-    - Windows版本安裝<br>Windows Version: "windows"
+  <i class='fa fa-download'></i> 下載西蒂姆客戶端<br>Download Citium:
+    - <i class='fa fa-android'></i> 安卓客戶端APK<br>Android APK: "https://www.unicorn001.tk/uploads/citium.apk"
+  <i class='fa fa-volume-control-phone'></i> 產品服務支持<br>Support:
+    - <i class='fa fa-windows'></i> Windows版本安裝<br>Windows Version: "windows"
     - <i class='fa fa-btc'></i> 續時抵值：加密幣<br>Payment by Crypto: "#-%E7%BA%8C%E6%99%82%E6%8A%B5%E5%80%BC%E5%8A%A0%E5%AF%86%E5%B9%A3by-cryptocurrency"
-    - <i class='fa fa-jpy'></i> 續時抵值：中港常用<br>Payment by RMB/HKD: "#-%E7%BA%8C%E6%99%82%E6%8A%B5%E5%80%BC%E4%B8%AD%E6%B8%AF%E5%8F%B0%E5%B8%B8%E7%94%A8by-membership-credits"
+    - <i class='fa fa-jpy'></i> 續時抵值：中港台法幣<br>Payment by RMB/HKD: "#-%E7%BA%8C%E6%99%82%E6%8A%B5%E5%80%BC%E4%B8%AD%E6%B8%AF%E5%8F%B0%E5%B8%B8%E7%94%A8by-membership-credits"
     - <i class='fa fa-video-camera'></i> 續時抵值：奈飛配套<br>Netflix Bundled Plan: "#-%E7%BA%8C%E6%99%82%E6%8A%B5%E5%80%BC%E5%A5%88%E9%A3%9B%E6%8A%98%E6%89%A3%E6%9C%8D%E5%8B%99%E9%85%8D%E5%A5%97netflix-bundled-pack"
-    - 續時抵值：卡密卡劵<br>Payment by Cards: "payment_cards"
-    - 推薦人計劃<br>Referral: "referral"
-    - 聯繫我們<br>Contact Us: "contact_us"
-  西蒂姆P2P網絡<br>Citium:
-    - 為何用西蒂姆？<br>Citium's for?: "citium_what_for"
-    - 可抵賴可推諉<br>Deniability: "deniability"
+    - <i class='fa fa-credit-card'></i> 續時抵值：卡密卡劵<br>Payment by Cards: "payment_cards"
+    - <i class='fa fa-life-ring'></i> 推薦人計劃<br>Referral: "referral"
+    - <i class='fa fa-bullhorn'></i> 聯繫我們<br>Contact Us: "contact_us"
+  <i class='fa fa-universal-access'></i> 西蒂姆P2P網絡<br>Citium:
+    - <i class='fa fa-header'></i> 為何用西蒂姆？<br>Citium's for?: "citium_what_for"
+    - <i class='fa fa-blind'></i> 可抵賴可推諉<br>Deniability: "deniability"
     #- 無需准入或許可<br>Permissionless: "permissionless"
     #- 可推諉身份驗證性<br>Authentication: "authentication"
     #- 分身馬甲帳號<br>Sockpuppetry: "sockpuppetry"
-    - 機密|完整|可用性<br>Conf.|Int.|Avai.: "confidentiality"
+    - <i class='fa fa-low-vision'></i> 機密|完整|可用性<br>Conf.|Int.|Avai.: "confidentiality"
     #- 可用性<br>Availability: "availability"
-    - 不可靠的中心化<br>Fallibility: "fallible_providers"
+    - <i class='fa fa-times-circle-o'></i> 不可靠的中心化<br>Fallibility: "fallible_providers"
 
 
 #    - Learn markdown: "http://www.markdowntutorial.com/"
