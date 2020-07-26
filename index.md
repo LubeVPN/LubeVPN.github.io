@@ -191,23 +191,41 @@ Mainland China, Hong Kong and Taiwan users can use [eTickets.HK](https://eticket
 
 ![NETFLIX](/img/Netflix_logo.svg "Netflix")
 
+由<i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN為您帶來的Netflix特別折扣：從 <i class='fa fa-video-camera'></i> 奈飛 (Netflix) 官方價格起五折優惠！所有家庭計劃提供**奈飛高級超高清** (Netflix Premium Ultra HD, 4K) 流媒體服務，全球直接來自官方奈飛！
+
+所有家庭計劃提供奈飛高級超高清 (4K) 流媒體服務直接從奈飛。每個計劃包括一（1）個主賬戶和四（4）個家庭成員的檔案賬戶。請注意，您不能更改分配給您的 Netflix 主賬戶的登錄用戶名，但您可以自定義主賬戶的密碼。換句話說，每個家庭計劃可以同時支持五（5）台設備，允許您和您的家庭成員從非中國大陸IP（如澳門、香港和台灣、美國、英國、澳大利亞、加拿大等IP）訪問Netflix服務。家庭計劃提供以下三種選擇：
+
+- **單月家庭計劃 (6.50 USD)**:
+  - <i class='fa fa-video-camera'></i> Netflix 高級超高清 1个月
+- **半年家庭計劃 (35.00 USD)**:
+  - <i class='fa fa-video-camera'></i> Netflix 高超超高清 6个月
+- **全年家庭計劃 (74.00 USD)**:
+  - <i class='fa fa-video-camera'></i> Netflix 高級超高清 12个月
+
+Netflix Plan Jr./Plus/Jumbo** 的付款網關由[eTickets.hk](https://etickets.hk/tc/project/lubevpn-netflix/) 提供。
+
+[<i class="fa fa-shopping-cart" aria-hidden="true"></i> Netflix 單月/半年/全年家庭計劃](https://etickets.hk/tc/project/lubevpn-netflix/)
+{: .myButton}
+
 Netflix special discount brought to you by <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN: 50% OFF from <i class='fa fa-video-camera'></i> Netflix official price!
 
 All Family Plan offer Netflix Premium Ultra HD (4K) Streaming Service direct from Netflix. Each Plan includes one (1) Master Account and four (4) Profile Accounts for your family members. Note that you cannot change the login username of the Netflix Master Account assigned to you but you can customize the password of the Master Account. In other words, each Family Plan can concurrently support up to five (5) devices allowing you and your family members to access Netflix service from non-mainland China IPs (e.g. IPs from Macau, Hong Kong and Taiwan, US, UK, Australia, Canada etc). Family Plan offers three options as follows:
 
-- **Plan Jr. (6.50 USD)**:
+- **Family Plan Jr. (6.50 USD)**:
   - <i class='fa fa-video-camera'></i> Netflix Premium 1 Month
-- **Plan Plus (35.00 USD)**:
+- **Family Plan Plus (35.00 USD)**:
   - <i class='fa fa-video-camera'></i> Netflix Premium 6 Months
-- **Plan Jumbo (74.00 USD)**:
+- **Family Plan Jumbo (74.00 USD)**:
   - <i class='fa fa-video-camera'></i> Netflix Premium 12 Months
 
-Payment gateway of **Netflix Plan Jr./Plus/Jumbo** is offered by [eTickets.hk](https://etickets.hk/).
+Payment gateway of **Netflix Plan Jr./Plus/Jumbo** is offered by [eTickets.hk](https://etickets.hk/en/project/lubevpn-netflix/).
 
 [<i class="fa fa-shopping-cart" aria-hidden="true"></i> Netflix Plan Jr./Plus/Jumbo](https://etickets.hk/en/project/lubevpn-netflix/)
 {: .myButton}
 
 Please contact our LIVE HELP <i class='fa fa-comments-o'></i> as soon as you finished the payment. You can find <i class='fa fa-comments-o'></i> in the Citium Client app by navigating as follows:<br><i class='fa fa-gears' style='color:blue'></i> > <i class='fa fa-certificate' style='color:blue'></i> > <i class='fa fa-question-circle' style='color:#ff6d12'></i> > <i class='fa fa-comments-o' style='color:#ff6d12'></i>
+
+### <i class='fa fa-mixcloud'></i> 大陸翻墻看奈飛<br>LubeVPN + Netflix
 
 If you intend to access Netflix from mainland China, please select the Bundled Plan below because Netflix has a [IP Restricted Area Policy](https://help.netflix.com/legal/termsofuse). Each Bundled Plan already includes all service features in the corresponding Plan above. The added <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN service allows you to access Netflix both from mainland China and aboard. Each of them has a 30-Day VPN traffic quota, which is reset on every 30th day since the day of activation. The unused leftover traffic quota will not rollover to the next period.
 
