@@ -122,7 +122,7 @@ Lube VPN does not record network routing information, such as originating IP and
 
 ### <i class="fa fa-clock-o" aria-hidden="true"></i> 續時抵值費率<br>Renewal Rate
 
-推廣活動期間，**費率 <i class='fa fa-bar-chart'></i>** 按續時週期收費。一次性**續時週期 <i class='fa fa-calendar'></i>** 越長則折扣優惠越大、可享受**流量封頂 <i class='fa fa-signal'></i>** 越大。每個流量封頂逾期不補：激活起每30天一個週期限流，用不完的流量不能補償到下一個週期。
+推廣活動期間，**費率 <i class='fa fa-bar-chart'></i>** 按續時週期收費。一次性**續時週期 <i class='fa fa-calendar'></i>** 越長則折扣優惠越大、可享受**流量配額 <i class='fa fa-signal'></i>** 越大。每個週期的剩餘流量配額 <i class='fa fa-signal'></i> 逾期不留；即，激活起每30天一個週期的流量配額 <i class='fa fa-signal'></i> 如果用不完，不能留待到下一個週期繼續使用。
 
 During our promotion period, **rates <i class='fa fa-bar-chart'></i>** will be based on the renewal period: the longer the one-time **renewal timeframe <i class='fa fa-calendar'></i>**, the greater the discount and the greater the **traffic quota <i class='fa fa-signal'></i>**, which is reset on every 30th day since the day of activation. The unused leftover traffic quota will not rollover to the next period.
 
@@ -191,7 +191,7 @@ Mainland China, Hong Kong and Taiwan users can use [eTickets.HK](https://eticket
 
 ![NETFLIX](/img/Netflix_logo.svg "Netflix")
 
-由<i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN為您帶來的Netflix特別折扣：從 <i class='fa fa-video-camera'></i> 奈飛 (Netflix) 官方價格起五折優惠！所有家庭計劃提供**奈飛高級超高清** (Netflix Premium Ultra HD, 4K) 流媒體服務，全球直接來自官方奈飛！
+由 <i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN 為您帶來的奈飛特別折扣：從 <i class='fa fa-video-camera'></i> 奈飛 (Netflix) 官方價格起五折優惠！所有家庭計劃提供**奈飛高級超高清** (Netflix Premium Ultra HD, 4K) 流媒體服務，全球直接來自官方奈飛！
 
 所有家庭計劃提供直接從奈飛獲取的高級超高清流媒體服務。每個計劃包括一個主賬戶和四個家庭成員的子賬戶。請注意，您不能更改配置給您的奈飛主賬戶的登錄用戶名，但您可以自定其的密碼。換句話說，每個家庭計劃可以同時支持五台設備，允許您和您的家庭成員從非中國大陸IP（如澳門、香港和台灣、美國、英國、澳大利亞、加拿大等IP）訪問奈飛服務。家庭計劃提供以下三種選擇：
 
@@ -229,7 +229,31 @@ Please contact our LIVE HELP <i class='fa fa-comments-o'></i> as soon as you fin
 
 ### <i class='fa fa-mixcloud'></i> 大陸翻墻看奈飛<br>LubeVPN + Netflix
 
-If you intend to access Netflix from mainland China, please select the Bundled Plan below because Netflix has a [IP Restricted Area Policy](https://help.netflix.com/legal/termsofuse). Each Bundled Plan already includes all service features in the corresponding Plan above. The added <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN service allows you to access Netflix both from mainland China and aboard. Each of them has a 30-Day VPN traffic quota, which is reset on every 30th day since the day of activation. The unused leftover traffic quota will not rollover to the next period.
+如果您旅居中國大陸，希望從內地訪問奈飛，建議您選擇以下捆綁計劃，因為奈飛有[IP限制區域政策](https://help.netflix.com/legal/termsofuse)。
+
+每一個捆綁計劃都已經包含了上面相應計劃中的所有服務功能。新增的 <i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN服務可以讓您在中國大陸境內或境外都能流暢地訪問奈飛流媒服務。每一個捆綁計劃都有30天一個計算週期的VPN流量配額 <i class='fa fa-signal'></i>，自激活之日起，每30天重置一次。未使用的剩余流量配額將不會被轉入下一個30天的計算週期。
+
+- **單月捆綁家庭計劃 (18.45 USD)**:
+  - <i class='fa fa-video-camera'></i> 奈飛高級超高清 1个月
+  - <i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN 30-日 <i class='fa fa-signal'></i> 100 GB
+- **半年捆綁家庭計劃 (88.70 USD)**:
+  - <i class='fa fa-video-camera'></i> 奈飛高超超高清 6个月
+  - <i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN 180-日 <i class='fa fa-signal'></i> 110 GB
+- **全年捆綁家庭計劃 (148.80 USD)**:
+  - <i class='fa fa-video-camera'></i> 奈飛高級超高清 12个月
+  - <i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN 360-日 <i class='fa fa-signal'></i> 120 GB
+
+
+  **奈飛單月/半年/全年捆綁家庭計劃** 的付款網關由[eTickets.hk](https://etickets.hk/tc/project/lubevpn-netflix/) 提供：
+
+
+  [<i class="fa fa-shopping-cart" aria-hidden="true"></i> Netflix 單月/半年/全年捆綁家庭計劃](https://etickets.hk/tc/project/lubevpn-netflix/)
+  {: .myButton}
+
+  
+  敬請在支付完成後，[聯繫順道VPN官方客服](../contact_us)，讓我們發送相關奈飛的登錄和使用信息給您。注：<i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN官方客服只經由西蒂姆(Citum)客戶端App內的在線客服 <i class='fa fa-comments-o'></i> 提供咨詢：<i class='fa fa-gears' style='color:blue'></i> > <i class='fa fa-certificate' style='color:blue'></i> > <i class='fa fa-question-circle' style='color:#ff6d12'></i> > <i class='fa fa-comments-o' style='color:#ff6d12'></i>
+
+If you so happen traveling to China and intend to access Netflix from inside mainland China, please select the Bundled Plan below because Netflix has a [IP Restricted Area Policy](https://help.netflix.com/legal/termsofuse). Each Bundled Plan already includes all service features in the corresponding Plan above. The added <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN service allows you to access Netflix smoothly both from inside mainland China or aboard. Each of them has a 30-Day VPN traffic quota, which is reset on every 30th day since the day of activation. The unused leftover traffic quota will not rollover to the next period.
 
 - **Bundled Plan Jr. (18.45 USD)**:
   - <i class='fa fa-video-camera'></i> Netflix Premium 1 Month
