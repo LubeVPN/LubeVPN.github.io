@@ -8,19 +8,19 @@ googlefonts: ["Roboto Condensed"]
 
 <i class='fa fa-rocket' style='color:DimGrey'></i> **順道VPN** 是基於開源及完全去中心化的[__西蒂姆(Citum)__](../citium_what_for)開發的 **突破網絡審查（陸：翻墻、科學上網）的VPN工具**。它把坊間流行的VPN系統作出了比較重大的改良和升級，幫助用戶克服了重大應用[技術疼點](#-%E5%82%B3%E7%B5%B1vpn%E6%8A%80%E8%A1%93%E7%96%BC%E9%BB%9Etechnical-pain-point)。<i class='fa fa-rocket' style='color:DimGrey'></i> **順道VPN** 用戶以安全數碼證書（**“通行證書”**）<i class='fa fa-certificate'></i> 間接地通過[西蒂姆(Citum)](../citium_what_for)的去中心化網絡節點 <i class='fa fa-cubes'></i> 獲取用戶身份認證 <i class='fa fa-check-square-o'></i>，而不是使用用戶名及密碼組合在VPN服務器上直接進行認證。
 
-<a href="https://www.unicorn001.tk/uploads/citium.apk"><i class='fa fa-download" aria-hidden="true'></i> 西蒂姆客戶端 安卓apk</a>
+<a href="https://www.unicorn001.tk/uploads/citium.apk"><i class='fa fa-download'></i> 西蒂姆客戶端 安卓apk</a>
 {: .myDownloadButton}
 
 注：西蒂姆(Citium)客戶端App和其內置的即時聊天工具(CIM) <i class='fa fa-envelope-o' style='color:blue'></i> 對所有人開源及永久免費使用。
 
 <i class='fa fa-rocket' style='color:DimGrey'></i> **LubeVPN is a VPN Internet censorship circumvention application** built on an open-source and fully decentralized technology: [__Citium__](../citium_what_for). It is a radical departure and upgrade from all the popular VPN systems in the open marketspace, resolving a major [technical pain point](#-%E5%82%B3%E7%B5%B1vpn%E6%8A%80%E8%A1%93%E7%96%BC%E9%BB%9Etechnical-pain-point). <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN users authenticate indirectly through [__Citium__](../citium_what_for) decentralized network of nodes <i class='fa fa-cubes'></i> using their secure digital certificates (**“CERT”**) <i class='fa fa-certificate'></i> instead of directly through the VPN servers using username/password combinations.
 
-<a href="https://www.unicorn001.tk/uploads/citium.apk"><i class='fa fa-download" aria-hidden="true'></i> Citium Client Android apk</a>
+<a href="https://www.unicorn001.tk/uploads/citium.apk"><i class='fa fa-download'></i> Citium Client Android apk</a>
 {: .myDownloadButton}
 
 Note: Citium Client app and its Instant Messenger (CIM) <i class='fa fa-envelope-o' style='color:blue'></i> is open-source and permanently free-to-use for everyone.
 
-## <i class='fa fa-spinner" aria-hidden="true'></i> 免費試用 <i class='fa fa-certificate' style='color:orchid'></i><br>FREE TRIAL
+## <i class='fa fa-spinner'></i> 免費試用 <i class='fa fa-certificate' style='color:orchid'></i><br>FREE TRIAL
 
 前提是，您必須經由現有 <i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN用戶推薦才可獲取免費試用。如果不認識，請您通過西蒂姆(Citium)客戶端App的內置的在線客服 <i class='fa fa-comments-o'></i> 聯絡我們。您可以按以下路徑找到在線客服：<br><i class='fa fa-gears' style='color:blue'></i> > <i class='fa fa-certificate' style='color:blue'></i> > <i class='fa fa-question-circle' style='color:#ff6d12'></i> > <i class='fa fa-comments-o' style='color:#ff6d12'></i>
 
@@ -63,41 +63,41 @@ Find a friend (e.g. Alice) who holds a valid (i.e. unexpired) <i class='fa fa-ro
 
 
 
-## <i class='fa fa-globe" aria-hidden="true'></i> 繞過萬里網審<br>Censorship Circumvention
+## <i class='fa fa-globe'></i> 繞過萬里網審<br>Censorship Circumvention
 
 <i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN是基於[西蒂姆(Citum)](../citium_what_for)建立的。西蒂姆的去中心化網絡身份及數據混淆技術能讓 <i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN的用戶匿名地、自由自在地上網。除此之外，<i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN能繞過最嚴峻的網絡審查（**甚至是其他VPN服務商無法繞過的**），所以其用戶能順暢無阻地讀取和瀏覽任何全世界任何一個受到互聯網審查封禁的網站。		
 
 <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN is built on [Citium](../citium_what_for). Citium's decentralized network identity and data obfuscation technology enables <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN users to surf the Internet anonymously and freely. Moreover, <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN can **circumvent the strictest Internet censorship that most other VPN service providers cannot circumvent** so that users can access and surf any blocked content smoothly.
 
-### <i class='fa fa-thumb-tack" aria-hidden="true'></i> 傳統VPN技術疼點<br>Technical Pain Point
+### <i class='fa fa-thumb-tack'></i> 傳統VPN技術疼點<br>Technical Pain Point
 
 一方面，世界各地的監管部門利用互聯網審查系統來控制和壓制互聯網內容；另一方面，網民千方百計地設法規避，例用VPN軟件服務去訪問封禁了的網域和IP地址。這些VPN軟件服務有時候能奏效，但絕大多數都不起作用，因為監管部門一直在升級他們的審查技術。個別審查機制的技術領先程度已經超出了一般人的想象，不止限制用戶訪問敏感的網絡域名和IP地址，更會使用機器學習算法來分析互聯網訊息交互數據，鎖定VPN的訊息交互特征以阻止其用戶訪問服務。**那些還在用老套的「用戶名/密碼」組合去作為身份驗證機制的VPN服務，在這些侵擾性審查機制面前顯得不堪一擊、格外脆弱**。
 
-所有的VPN服務提供商在授權訪問之前，都必須對用戶的訪問權限進行認證。傳統的VPN服務提供商通過用戶端客戶端與VPN服務器端之間的通信（即「雙向握手」<i class='fa fa-exchange" aria-hidden="true'></i>）對用戶進行身份驗證的時候會彰顯訊息交互特征。**那些越是流行的VPN服務，就越是容易被審查機制偵查到特征**，因為流行的VPN服務在互聯網上每日發生成千上萬的雙向握手特征太過顯著。事實上，大多數馳名的VPN品牌都都無法規避越來越嚴峻的網絡審查制度。
+所有的VPN服務提供商在授權訪問之前，都必須對用戶的訪問權限進行認證。傳統的VPN服務提供商通過用戶端客戶端與VPN服務器端之間的通信（即「雙向握手」<i class='fa fa-exchange'></i>）對用戶進行身份驗證的時候會彰顯訊息交互特征。**那些越是流行的VPN服務，就越是容易被審查機制偵查到特征**，因為流行的VPN服務在互聯網上每日發生成千上萬的雙向握手特征太過顯著。事實上，大多數馳名的VPN品牌都都無法規避越來越嚴峻的網絡審查制度。
 
 On the one hand, regulators use Internet censorship systems to control and suppress Internet contents. On the other hand, Internet surfers use software, such as VPN, to circumvent the suppression so that they can access suppressed web domains and IP addresses. Some can succeed but most fail because regulators are always upgrading their censorship mechanism. The extent of Internet censorship of some regulators has gone beyond just limiting user access to sensitive web domains and IP addresses. Their censorship mechanisms have even started to use machine learning algorithms to analyze Internet traffic data in order to block VPN service access. **VPN services that are still using username/password combination as authentication regime are exceptionally vulnerable** to this kind of obtrusive Internet censorship.
 
-All VPN service providers have to authenticate their users' access rights before authorizing access. Conventional VPN service providers authenticate their users through user-side client to VPN-side server communication (i.e. two-way handshake <i class='fa fa-exchange" aria-hidden="true'></i>), which exhibit easily detectable traffic patterns. In fact, **the more popular a VPN service becomes, the more susceptible it is to suppression** because its tens of thousands of two-way handshake that happens on the Internet are simply too conspicuous. Hence, most of the popular VPN brands fail to circumvent network censorship that's getting more and more stringent.
+All VPN service providers have to authenticate their users' access rights before authorizing access. Conventional VPN service providers authenticate their users through user-side client to VPN-side server communication (i.e. two-way handshake <i class='fa fa-exchange'></i>), which exhibit easily detectable traffic patterns. In fact, **the more popular a VPN service becomes, the more susceptible it is to suppression** because its tens of thousands of two-way handshake that happens on the Internet are simply too conspicuous. Hence, most of the popular VPN brands fail to circumvent network censorship that's getting more and more stringent.
 
-### <i class='fa fa-life-ring" aria-hidden="true'></i> 去中心化的解决方案<br>Decentralized Solution
+### <i class='fa fa-life-ring'></i> 去中心化的解决方案<br>Decentralized Solution
 
-相比之下，<i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN 的用戶不使用傳統的、與VPN服務器的雙向握手 <i class='fa fa-exchange" aria-hidden="true'></i> 進行認證，而是通[西蒂姆(Citum)](../citium_what_for)的分佈式網絡節點 <i class='fa fa-cubes'></i> 進行認證 <i class='fa fa-check-square-o'></i>。與傳統的雙向握手不同，**<i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN 通過[西蒂姆(Citum)](../citium_what_for)的隨機節點 <i class='fa fa-cubes'></i> 進行多向握手 <i class='fa fa-random'></i>** 進行認證 <i class='fa fa-check-square-o'></i>。用戶只可以通過西蒂姆(Citum)網絡節點 <i class='fa fa-cubes'></i> 間接地與VPN服務器接觸，直到VPN訪問被授權為止，不產生明顯訊息交互特征。事實上，西蒂姆(Citum)客戶端App應用越是流行（即，節點 <i class='fa fa-cubes'></i> 越多），用戶認證過程中產生的多向握手 <i class='fa fa-random" aria-hidden="true'></i> 與普通的互聯網數據就越無法被區分。因此，使用<i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN的互聯網用戶可以規避即便是最嚴酷的審查技術。
+相比之下，<i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN 的用戶不使用傳統的、與VPN服務器的雙向握手 <i class='fa fa-exchange'></i> 進行認證，而是通[西蒂姆(Citum)](../citium_what_for)的分佈式網絡節點 <i class='fa fa-cubes'></i> 進行認證 <i class='fa fa-check-square-o'></i>。與傳統的雙向握手不同，**<i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN 通過[西蒂姆(Citum)](../citium_what_for)的隨機節點 <i class='fa fa-cubes'></i> 進行多向握手 <i class='fa fa-random'></i>** 進行認證 <i class='fa fa-check-square-o'></i>。用戶只可以通過西蒂姆(Citum)網絡節點 <i class='fa fa-cubes'></i> 間接地與VPN服務器接觸，直到VPN訪問被授權為止，不產生明顯訊息交互特征。事實上，西蒂姆(Citum)客戶端App應用越是流行（即，節點 <i class='fa fa-cubes'></i> 越多），用戶認證過程中產生的多向握手 <i class='fa fa-random'></i> 與普通的互聯網數據就越無法被區分。因此，使用<i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN的互聯網用戶可以規避即便是最嚴酷的審查技術。
 
-In contrast, <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN users do not use conventional two-way handshake <i class='fa fa-exchange" aria-hidden="true'></i> to communicate with VPN servers. Instead, the users communicate indirectly with VPN servers through the decentralized [Citium](../citium_what_for) network of nodes <i class='fa fa-cubes'></i>. **Authentication on <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN is more like a multi-way handshake <i class='fa fa-random'></i> through randomized nodes <i class='fa fa-cubes'></i> of [Citium](../citium_what_for)**. Users engage indirectly with VPN servers through other user nodes <i class='fa fa-cubes'></i> of Citium until VPN access is authorized. The process shows no significant traffic patterns. In fact, the more popular Citium Client app becomes (i.e. more nodes <i class='fa fa-cubes'></i>), the more indistinguishable the multi-way handshaking traffic <i class='fa fa-random" aria-hidden="true'></i> is from regular Internet traffic. Hence, Internet surfers that use <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN can circumvent even the most stringent censorship system.
+In contrast, <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN users do not use conventional two-way handshake <i class='fa fa-exchange'></i> to communicate with VPN servers. Instead, the users communicate indirectly with VPN servers through the decentralized [Citium](../citium_what_for) network of nodes <i class='fa fa-cubes'></i>. **Authentication on <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN is more like a multi-way handshake <i class='fa fa-random'></i> through randomized nodes <i class='fa fa-cubes'></i> of [Citium](../citium_what_for)**. Users engage indirectly with VPN servers through other user nodes <i class='fa fa-cubes'></i> of Citium until VPN access is authorized. The process shows no significant traffic patterns. In fact, the more popular Citium Client app becomes (i.e. more nodes <i class='fa fa-cubes'></i>), the more indistinguishable the multi-way handshaking traffic <i class='fa fa-random'></i> is from regular Internet traffic. Hence, Internet surfers that use <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN can circumvent even the most stringent censorship system.
 
-### <i class='fa fa-compass" aria-hidden="true'></i> 開天闢地的技術<br>Ground-Breaking Tech
+### <i class='fa fa-compass'></i> 開天闢地的技術<br>Ground-Breaking Tech
 
 <i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN從芸芸最強的加密算法中選擇了合適的算法作為用戶的數據傳輸，可以在特別敏感的社政管理地區繞過萬里的網絡重圍，全自動地幫你選擇最佳服務器，**恍如無間地高速通向所有境外受限內容，更可以避免網絡提供商（ISP）的網速限制**。<i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN整個服務流程百分百完全匿名，絕對不記錄任何用戶個人隱私信息，過程中絕不收取用戶實名電郵或身份證明。用戶只可以通過安全數字證書（“通行證書”） <i class='fa fa-certificate'></i> 申辦和激活服務。
 
 <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN utilizes some of the strongest encryption algorithms to transport user data. It automatically chooses the best server that can circumvent blocking, **bypass restrictive censorship, and avert ISP bandwidth speed throttling**. <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN respects the total privacy of all existing and even prospective users. No private information is ever asked, not to mention recorded. Prospective customers do not need to provide email, name or any kind of identification to use the service. Users can only apply and activate <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN service through secure digital certificates (“CERTs”) <i class='fa fa-certificate'></i>.
 
-## <i class='fa fa-shield" aria-hidden="true'></i> 用戶資訊安全<br>User InfoSec
+## <i class='fa fa-shield'></i> 用戶資訊安全<br>User InfoSec
 
 傳統用戶管理系統依賴中央化服務器的關系型數據庫記錄用戶註冊、推薦人與受薦人之間的關系，安全和匿名程度都比較低。反觀，<i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN的用戶登記和推薦系統是通過數字簽名和數字證書以P2P的形式來綁定的。更具體來說，<i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN不單不記錄任何用戶信息，就連推薦系統都用了推薦人的獨特數字簽名和受薦人持有的簽名數字證書（即，已簽署的《免費通行證書》來安全地、隐蔽地綁定彼此的關系， **不會被記錄在任何第三方關係型數據庫上，有效地防範用戶個人數據洩露與關聯性信息分析於未然**。
 
 Traditional user management systems rely on relational databases on centralized servers to record user registrations and the referral relationships. That regime is prone to security and privacy breach. In contrast, <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN's referral relationships are recorded by securely and privately binding digital signatures and their signed certificates in a peer-to-peer fashion. More specifically, <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN does not ask for or record any user information. A referral relationship in <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN is securely bound based on the unique digital signature of the referrer and the signed digital certificate (i.e. signed CERT <i class='fa fa-certificate' style='color:green'></i>) held by the referred user, **not recorded in any third-party party relational database, effectively preempting user data breach and link analysis**.
 
-### <i class='fa fa-book" aria-hidden="true'></i> 不寫Log政策<br>No Log Policy
+### <i class='fa fa-book'></i> 不寫Log政策<br>No Log Policy
 
 <i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN不記錄任何接來自用戶的網絡接駁來源的信息。<i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN從技術設計上來說，在本質機制上不能記錄也 **不會記錄任何用戶個人信息**。<i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN僅記錄數據使用量，用以確保服務質量，及預防服務被濫用。<i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN的用戶可以安心地使用<i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN，因為每張加密安全證書只可同時用於一台終端，<i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN是 **不允超過一台終端同時使用一張證書** 的。
 
@@ -114,13 +114,13 @@ Lube VPN does not record network routing information, such as originating IP and
 <br><br>
 **GENTLE REMINDER:** Every holder of the signed CERTs is responsible for not losing one's own signed CERT. Be careful **not to accidentally clear the data of the Citium Client app** that stores the signed CERT because it is the only evidence to prove the user registration status, as well as the referral relationship between its user and its signer. If a user loses the signed CERT for any reason (e.g. uninstalls and reinstalls the Citium Client App; loses or replaces the mobile phone, tablet or computer; fails to back up the CERT in advance), the user will no longer be able to log back in, permanently lose access access to service, including everything related to Citium Instant Messenger, such as Contacts list, its chat history and its multimedia contents. <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN's customer service representatives, partnership agents and administrators are under no circumstances able to assist the user to log in, access and use the CERT again, which is the beauty of our security design.
 
-## <i class='fa fa-calendar-plus-o" aria-hidden="true'></i> 通行證書續時 <i class='fa fa-certificate' style='color:DarkKhaki'></i><br>CERT Renewal
+## <i class='fa fa-calendar-plus-o'></i> 通行證書續時 <i class='fa fa-certificate' style='color:DarkKhaki'></i><br>CERT Renewal
 
 <i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN以現收現付的方式向付費通行證書 <i class='fa fa-certificate' style='color:DarkKhaki'></i> 持有者提供VPN服務，因為VPN流量需要我們維護部署在全球多國的VPN服務器。
 
 <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN provided VPN service to the holders of paid CERT <i class='fa fa-certificate' style='color:DarkKhaki'></i> on a pay-as-you-go basis because the sheer traffic volume of VPN require us to maintain multiple servers in different countries around the world.
 
-### <i class='fa fa-clock-o" aria-hidden="true'></i> 續時抵值費率<br>Renewal Rate
+### <i class='fa fa-clock-o'></i> 續時抵值費率<br>Renewal Rate
 
 推廣活動期間，**費率 <i class='fa fa-bar-chart'></i>** 按續時週期收費。一次性**續時週期 <i class='fa fa-calendar'></i>** 越長則折扣優惠越大、可享受**流量配額 <i class='fa fa-signal'></i>** 越大。每個週期的剩餘流量配額 <i class='fa fa-signal'></i> 逾期不留；即，激活起每30天一個週期的流量配額 <i class='fa fa-signal'></i> 如果用不完，不能留待到下一個週期繼續使用。
 
@@ -144,7 +144,7 @@ During our promotion period, **rates <i class='fa fa-bar-chart'></i>** will be b
 Users can use choose from several methods to renew in order to extend the usage of <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN:
 
 {: style='color: DarkRed; font-size: 90%;"}
-| <i class='fa fa-shopping-cart" aria-hidden="true'></i> | 抵值形式<br>Payment<br>Methods
+| <i class='fa fa-shopping-cart'></i> | 抵值形式<br>Payment<br>Methods
 |:--:|:--:|
 | <i class='fa fa-btc'></i> | 加密電子幣<br>Coinbase Coins |
 | <i class='fa fa-jpy'></i> | 中港台法幣<br>Fiat Credits |
@@ -156,7 +156,7 @@ Users can use choose from several methods to renew in order to extend the usage 
 
 Choose a payment method to your liking (mixing different methods is not allowed). After procuring sufficient amount of crypto coins, fiat credits, virtual or physical cards, you can contact our LIVE HELP <i class='fa fa-comments-o'></i> as soon as you finished the payment. You can find <i class='fa fa-comments-o'></i> in the Citium Client app by navigating as follows: <i class='fa fa-gears' style='color:blue'></i> > <i class='fa fa-certificate' style='color:blue'></i> > <i class='fa fa-question-circle' style='color:#ff6d12'></i> > <i class='fa fa-comments-o' style='color:#ff6d12'></i>
 
-### <i class='fa fa-btc" aria-hidden="true'></i> 續時抵值：加密幣<br>By Coinbase Coins
+### <i class='fa fa-btc'></i> 續時抵值：加密幣<br>By Coinbase Coins
 
 ![Acceptable Cryto Coins](/img/coinbase.svg "Acceptable Crypto Coins at Coinbase")
 
@@ -174,7 +174,7 @@ You can renew <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN through
 {: .myButton}
 
 
-### <i class='fa fa-jpy" aria-hidden="true'></i> 續時抵值：中港台會員常用<br>By Fiat Membership Credits
+### <i class='fa fa-jpy'></i> 續時抵值：中港台會員常用<br>By Fiat Membership Credits
 
 ![Fiat Currency Credits](/img/fiat_credits.svg "UnionPay, AliPay, WeChat Pay, VISA, MasterCard, AMEX, JCB, Diners Club, HSBC FPS, HSBC PayMe")
 
@@ -182,7 +182,7 @@ You can renew <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN through
 
 Mainland China, Hong Kong and Taiwan users can use [eTickets.HK](https://etickets.hk/) to renew membership. Please contact our LIVE HELP <i class='fa fa-comments-o'></i> as soon as you finished the payment. You can find <i class='fa fa-comments-o'></i> in the Citium Client app by navigating as follows: <i class='fa fa-gears' style='color:blue'></i> > <i class='fa fa-certificate' style='color:blue'></i> > <i class='fa fa-question-circle' style='color:#ff6d12'></i> > <i class='fa fa-comments-o' style='color:#ff6d12'></i>
 
-[<i class='fa fa-shopping-cart" aria-hidden="true'></i> 30/180/360日的續時抵值](https://etickets.hk/en/project/lubevpn)<br>[<i class='fa fa-shopping-cart" aria-hidden="true'></i> 30/180/360-Day Renewal](https://etickets.hk/en/project/lubevpn)
+[<i class='fa fa-shopping-cart'></i> 30/180/360日的續時抵值](https://etickets.hk/en/project/lubevpn)<br>[<i class='fa fa-shopping-cart'></i> 30/180/360-Day Renewal](https://etickets.hk/en/project/lubevpn)
 {: .myButton}
 
 
@@ -204,7 +204,7 @@ Mainland China, Hong Kong and Taiwan users can use [eTickets.HK](https://eticket
 
 **奈飛單月/半年/全年家庭計劃** 的付款網關由[eTickets.hk](https://etickets.hk/tc/project/lubevpn-netflix/) 提供：
 
-[<i class='fa fa-shopping-cart" aria-hidden="true'></i> Netflix 單月/半年/全年家庭計劃](https://etickets.hk/tc/project/lubevpn-netflix/)
+[<i class='fa fa-shopping-cart'></i> Netflix 單月/半年/全年家庭計劃](https://etickets.hk/tc/project/lubevpn-netflix/)
 {: .myButton}
 
 敬請在支付完成後，[聯繫順道VPN官方客服](../contact_us)，讓我們發送相關奈飛的登錄和使用信息給您。注：<i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN官方客服只經由西蒂姆(Citum)客戶端App內的在線客服 <i class='fa fa-comments-o'></i> 提供咨詢：<i class='fa fa-gears' style='color:blue'></i> > <i class='fa fa-certificate' style='color:blue'></i> > <i class='fa fa-question-circle' style='color:#ff6d12'></i> > <i class='fa fa-comments-o' style='color:#ff6d12'></i>
@@ -222,7 +222,7 @@ All Family Plan offer Netflix Premium Ultra HD (4K) Streaming Service direct fro
 
 Payment gateway of **Netflix Plan Jr./Plus/Jumbo** is offered by [eTickets.hk](https://etickets.hk/en/project/lubevpn-netflix/).
 
-[<i class='fa fa-shopping-cart" aria-hidden="true'></i> Netflix Plan Jr./Plus/Jumbo](https://etickets.hk/en/project/lubevpn-netflix/)
+[<i class='fa fa-shopping-cart'></i> Netflix Plan Jr./Plus/Jumbo](https://etickets.hk/en/project/lubevpn-netflix/)
 {: .myButton}
 
 Please contact our LIVE HELP <i class='fa fa-comments-o'></i> as soon as you finished the payment so that we can send you the usage instructions and login/password combination for Netflix. You can find <i class='fa fa-comments-o'></i> in the Citium Client app by navigating as follows:<br><i class='fa fa-gears' style='color:blue'></i> > <i class='fa fa-certificate' style='color:blue'></i> > <i class='fa fa-question-circle' style='color:#ff6d12'></i> > <i class='fa fa-comments-o' style='color:#ff6d12'></i>
@@ -247,7 +247,7 @@ Please contact our LIVE HELP <i class='fa fa-comments-o'></i> as soon as you fin
 **奈飛單月/半年/全年捆綁家庭計劃** 的付款網關由[eTickets.hk](https://etickets.hk/tc/project/lubevpn-netflix/) 提供：
 
 
-[<i class='fa fa-shopping-cart" aria-hidden="true'></i> Netflix 單月/半年/全年捆綁家庭計劃](https://etickets.hk/tc/project/lubevpn-netflix/)
+[<i class='fa fa-shopping-cart'></i> Netflix 單月/半年/全年捆綁家庭計劃](https://etickets.hk/tc/project/lubevpn-netflix/)
 {: .myButton}
 
 
@@ -267,7 +267,7 @@ If you so happen traveling to China and intend to access Netflix from inside mai
 
 Payment gateway of **Bundled Plan Jr./Plus/Jumbo** is offered by [eTickets.hk](https://etickets.hk/).
 
-[<i class='fa fa-shopping-cart" aria-hidden="true'></i> Bundled Plan Jr./Plus/Jumbo](https://etickets.hk/en/project/lubevpn-netflix/)
+[<i class='fa fa-shopping-cart'></i> Bundled Plan Jr./Plus/Jumbo](https://etickets.hk/en/project/lubevpn-netflix/)
 {: .myButton}
 
 Please contact our LIVE HELP <i class='fa fa-comments-o'></i> as soon as you finished the payment. You can find <i class='fa fa-comments-o'></i> in the Citium Client app by navigating as follows:<br><i class='fa fa-gears' style='color:blue'></i> > <i class='fa fa-certificate' style='color:blue'></i> > <i class='fa fa-question-circle' style='color:#ff6d12'></i> > <i class='fa fa-comments-o' style='color:#ff6d12'></i>
