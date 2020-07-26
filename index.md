@@ -244,26 +244,26 @@ Please contact our LIVE HELP <i class='fa fa-comments-o'></i> as soon as you fin
   - <i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN 360-日 <i class='fa fa-signal'></i> 120 GB
 
 
-  **奈飛單月/半年/全年捆綁家庭計劃** 的付款網關由[eTickets.hk](https://etickets.hk/tc/project/lubevpn-netflix/) 提供：
+**奈飛單月/半年/全年捆綁家庭計劃** 的付款網關由[eTickets.hk](https://etickets.hk/tc/project/lubevpn-netflix/) 提供：
 
 
-  [<i class="fa fa-shopping-cart" aria-hidden="true"></i> Netflix 單月/半年/全年捆綁家庭計劃](https://etickets.hk/tc/project/lubevpn-netflix/)
-  {: .myButton}
+[<i class="fa fa-shopping-cart" aria-hidden="true"></i> Netflix 單月/半年/全年捆綁家庭計劃](https://etickets.hk/tc/project/lubevpn-netflix/)
+{: .myButton}
 
-  
-  敬請在支付完成後，[聯繫順道VPN官方客服](../contact_us)，讓我們發送相關奈飛的登錄和使用信息給您。注：<i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN官方客服只經由西蒂姆(Citum)客戶端App內的在線客服 <i class='fa fa-comments-o'></i> 提供咨詢：<i class='fa fa-gears' style='color:blue'></i> > <i class='fa fa-certificate' style='color:blue'></i> > <i class='fa fa-question-circle' style='color:#ff6d12'></i> > <i class='fa fa-comments-o' style='color:#ff6d12'></i>
+
+敬請在支付完成後，[聯繫順道VPN官方客服](../contact_us)，讓我們發送相關奈飛的登錄和使用信息給您。注：<i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN官方客服只經由西蒂姆(Citum)客戶端App內的在線客服 <i class='fa fa-comments-o'></i> 提供咨詢：<i class='fa fa-gears' style='color:blue'></i> > <i class='fa fa-certificate' style='color:blue'></i> > <i class='fa fa-question-circle' style='color:#ff6d12'></i> > <i class='fa fa-comments-o' style='color:#ff6d12'></i>
 
 If you so happen traveling to China and intend to access Netflix from inside mainland China, please select the Bundled Plan below because Netflix has a [IP Restricted Area Policy](https://help.netflix.com/legal/termsofuse). Each Bundled Plan already includes all service features in the corresponding Plan above. The added <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN service allows you to access Netflix smoothly both from inside mainland China or aboard. Each of them has a 30-Day VPN traffic quota, which is reset on every 30th day since the day of activation. The unused leftover traffic quota will not rollover to the next period.
 
 - **Bundled Plan Jr. (18.45 USD)**:
   - <i class='fa fa-video-camera'></i> Netflix Premium 1 Month
-  - <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN 30-Day (100 GB/30-Day)
+  - <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN 30-Day <i class='fa fa-signal'></i> 100 GB
 - **Bundled Plan Plus (88.70 USD)**:
   - <i class='fa fa-video-camera'></i> Netflix Premium 6 Months
-  - <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN 180-Day (110 GB/30-Day)
+  - <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN 180-Day <i class='fa fa-signal'></i> 110 GB
 - **Bundled Plan Jumbo (148.80 USD)**:
   - <i class='fa fa-video-camera'></i> Netflix Premium 12 Months
-  - <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN 360-Day (120 GB/30-Day)
+  - <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN 360-Day <i class='fa fa-signal'></i> 120 GB
 
 Payment gateway of **Bundled Plan Jr./Plus/Jumbo** is offered by [eTickets.hk](https://etickets.hk/).
 
