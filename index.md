@@ -142,7 +142,7 @@ During our promotion period, **rates <i class='fa fa-bar-chart'></i>** will be b
 
 Users can use choose from several methods to renew in order to extend the usage of <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN:
 
-{: style="color: DarkRed; font-size: 80%;"}
+{: style="color: DarkRed; font-size: 90%;"}
 | <i class="fa fa-shopping-cart" aria-hidden="true"></i> | 抵值形式<br>Payment<br>Methods
 |:--:|:--:|
 | <i class='fa fa-btc'></i> | 加密電子幣<br>Coinbase Coins |
