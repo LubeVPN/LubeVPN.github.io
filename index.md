@@ -229,6 +229,8 @@ Please contact our LIVE HELP <i class='fa fa-comments-o'></i> as soon as you fin
 
 ### <i class='fa fa-mixcloud'></i> 中國大陸境內看奈飛<br><i class='fa fa-video-camera'></i> Netflix + <i class='fa fa-rocket'></i> LubeVPN
 
+![NETFLIX_and_LubeVPN](/img/nl.svg "Netflix + LubeVPN")
+
 如果您旅居中國大陸，希望從內地訪問奈飛，建議您選擇以下捆綁計劃，因為奈飛有[IP限制區域政策](https://help.netflix.com/legal/termsofuse)。
 
 每一個捆綁計劃都已經包含了上面相應計劃中的所有服務功能。新增的 <i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN服務可以讓您在中國大陸境內或境外都能流暢地訪問奈飛流媒服務。每一個捆綁計劃都有30天一個計算週期的VPN流量配額 <i class='fa fa-signal'></i>，自激活之日起，每30天重置一次。未使用的剩余流量配額將不會被轉入下一個30天的計算週期。
