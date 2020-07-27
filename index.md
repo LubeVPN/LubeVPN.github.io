@@ -227,7 +227,7 @@ Payment gateway of **Netflix Plan Jr./Plus/Jumbo** is offered by [eTickets.hk](h
 
 Please contact our LIVE HELP <i class='fa fa-comments-o'></i> as soon as you finished the payment so that we can send you the usage instructions and login/password combination for Netflix. You can find <i class='fa fa-comments-o'></i> in the Citium Client app by navigating as follows:<br><i class='fa fa-gears' style='color:blue'></i> > <i class='fa fa-certificate' style='color:blue'></i> > <i class='fa fa-question-circle' style='color:#ff6d12'></i> > <i class='fa fa-comments-o' style='color:#ff6d12'></i>
 
-### <i class='fa fa-mixcloud'></i> 中國大陸境內看奈飛<br><i class='fa fa-video-camera'></i> Netflix + <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN
+### <i class='fa fa-mixcloud'></i> 中國大陸境內看奈飛<br><i class='fa fa-video-camera'></i> Netflix + <i class='fa fa-rocket'></i> LubeVPN
 
 如果您旅居中國大陸，希望從內地訪問奈飛，建議您選擇以下捆綁計劃，因為奈飛有[IP限制區域政策](https://help.netflix.com/legal/termsofuse)。
 
