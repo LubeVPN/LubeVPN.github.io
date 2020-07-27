@@ -22,15 +22,15 @@ Note: Citium Client app and its Instant Messenger (CIM) <i class='fa fa-envelope
 
 ## <i class='fa fa-spinner'></i> 免費試用 <i class='fa fa-certificate' style='color:orchid'></i><br>FREE TRIAL
 
-前提是，您必須經由現有 <i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN用戶推薦才可獲取免費試用。如果不認識，請您通過西蒂姆(Citium)客戶端App的內置的在線客服 <i class='fa fa-comments-o'></i> 聯絡我們。您可以按以下路徑找到在線客服：<br><i class='fa fa-gears' style='color:blue'></i> > <i class='fa fa-certificate' style='color:blue'></i> > <i class='fa fa-question-circle' style='color:#ff6d12'></i> > <i class='fa fa-comments-o' style='color:#ff6d12'></i>
+前提是，您必須經由現有 <i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN用戶推薦才可獲取免費試用。如果不認識，請您通過西蒂姆(Citium)客戶端App的內置的在線客服 <i class='fa fa-comments-o'></i> 聯絡我們。您可以按以下路徑找到在線客服：<i class='fa fa-gears' style='color:blue'></i> > <i class='fa fa-certificate' style='color:blue'></i> > <i class='fa fa-question-circle' style='color:#ff6d12'></i> > <i class='fa fa-comments-o' style='color:#ff6d12'></i>
 
-Foremost, you need to know someone who's already using <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN to refer you in order to get the FREE TRIAL. If you do not know anyone, please contact our LIVE HELP <i class='fa fa-comments-o'></i>. You can find <i class='fa fa-comments-o'></i> in the Citium Client app by navigating as follows:<br><i class='fa fa-gears' style='color:blue'></i> > <i class='fa fa-certificate' style='color:blue'></i> > <i class='fa fa-question-circle' style='color:#ff6d12'></i> > <i class='fa fa-comments-o' style='color:#ff6d12'></i>
+Foremost, you need to know someone who's already using <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN to refer you in order to get the FREE TRIAL. If you do not know anyone, please contact our LIVE HELP <i class='fa fa-comments-o'></i>. You can find <i class='fa fa-comments-o'></i> in the Citium Client app by navigating as follows: <i class='fa fa-gears' style='color:blue'></i> > <i class='fa fa-certificate' style='color:blue'></i> > <i class='fa fa-question-circle' style='color:#ff6d12'></i> > <i class='fa fa-comments-o' style='color:#ff6d12'></i>
 
 ### <i class='fa fa-wrench'></i> 申辦流程<br>Requisition
 
 找一名持有有效的（即，未逾期的）<i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN《通行證書》<i class='fa fa-certificate' style='color:green'></i> 的好友，例如 Alice。通過頻外密鑰驗證（OOBA）添加她成爲 Citium 即時聊天應用（CIM）<i class='fa fa-envelope-o' style='color:blue'></i> 中的聯絡人。于「通行證書」版面 <i class='fa fa-certificate' style='color:blue'></i> 複製您的《通行證書》<i class='fa fa-certificate' style='color:chocolate'></i> 詳情到設備的剪贴板。在你與 Alice 的聊天對話框中黏貼、發送該詳情給她，然後等待她簽署 <i class='fa fa-pencil-square-o'></i> 它。Alice 簽署完畢後，你會在對話框中收到一個互動信息按鈕。您按下該按鈕後即可完成導入 <i class='fa fa-database'></i> 該已被簽署的《通行證書》<i class='fa fa-certificate' style='color:orchid'></i> 到設備內。在「設定」版面 <i class='fa fa-cogs' style='color:blue'></i>，撥熄再撥亮 <i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN的切換鍵去認證 <i class='fa fa-check-square-o'></i> 已簽署的證書 <i class='fa fa-certificate' style='color:blue'></i>。如果認證成功，切換鍵將會轉成綠色 <i class='fa fa-toggle-on' style='color:green'></i>。
 
-1. <i class='fa fa-envelope-o' style='color:blue'></i> > <i class='fa fa-user-plus" style='color:blue'></i> 加一位 CIM 聯絡人 <i class='fa fa-user' style='color:purple'></i>
+1. <i class='fa fa-envelope-o' style='color:blue'></i> > <i class='fa fa-user-plus' style='color:blue'></i> 加一位 CIM 聯絡人 <i class='fa fa-user' style='color:purple'></i>
 - <i class='fa fa-user' style='color:purple'></i> 必須持有有效通行證書 <i class='fa fa-certificate' style='color:green'></i> †
 - 通過頻外密鑰驗證添加 <i class='fa fa-user' style='color:purple'></i>
 2. <i class='fa fa-cogs' style='color:blue'></i> > <i class='fa fa-certificate' style='color:blue'></i> > <i class='fa fa-files-o' style='color:blue'></i> 複製通行證書 <i class='fa fa-certificate' style='color:chocolate'></i>
@@ -225,7 +225,7 @@ Payment gateway of **Netflix Plan Jr./Plus/Jumbo** is offered by [eTickets.hk](h
 [<i class='fa fa-shopping-cart'></i> Netflix Plan Jr./Plus/Jumbo](https://etickets.hk/en/project/lubevpn-netflix/)
 {: .myButton}
 
-Please contact our LIVE HELP <i class='fa fa-comments-o'></i> as soon as you finished the payment so that we can send you the usage instructions and login/password combination for Netflix. You can find <i class='fa fa-comments-o'></i> in the Citium Client app by navigating as follows:<br><i class='fa fa-gears' style='color:blue'></i> > <i class='fa fa-certificate' style='color:blue'></i> > <i class='fa fa-question-circle' style='color:#ff6d12'></i> > <i class='fa fa-comments-o' style='color:#ff6d12'></i>
+Please contact our LIVE HELP <i class='fa fa-comments-o'></i> as soon as you finished the payment so that we can send you the usage instructions and login/password combination for Netflix. You can find <i class='fa fa-comments-o'></i> in the Citium Client app by navigating as follows: <i class='fa fa-gears' style='color:blue'></i> > <i class='fa fa-certificate' style='color:blue'></i> > <i class='fa fa-question-circle' style='color:#ff6d12'></i> > <i class='fa fa-comments-o' style='color:#ff6d12'></i>
 
 ### <i class='fa fa-mixcloud'></i> 中國大陸境內看奈飛<br><i class='fa fa-video-camera'></i> Netflix + <i class='fa fa-rocket'></i> LubeVPN
 
@@ -272,4 +272,4 @@ Payment gateway of **Bundled Plan Jr./Plus/Jumbo** is offered by [eTickets.hk](h
 [<i class='fa fa-shopping-cart'></i> Bundled Plan Jr./Plus/Jumbo](https://etickets.hk/en/project/lubevpn-netflix/)
 {: .myButton}
 
-Please contact our LIVE HELP <i class='fa fa-comments-o'></i> as soon as you finished the payment. You can find <i class='fa fa-comments-o'></i> in the Citium Client app by navigating as follows:<br><i class='fa fa-gears' style='color:blue'></i> > <i class='fa fa-certificate' style='color:blue'></i> > <i class='fa fa-question-circle' style='color:#ff6d12'></i> > <i class='fa fa-comments-o' style='color:#ff6d12'></i>
+Please contact our LIVE HELP <i class='fa fa-comments-o'></i> as soon as you finished the payment. You can find <i class='fa fa-comments-o'></i> in the Citium Client app by navigating as follows: <i class='fa fa-gears' style='color:blue'></i> > <i class='fa fa-certificate' style='color:blue'></i> > <i class='fa fa-question-circle' style='color:#ff6d12'></i> > <i class='fa fa-comments-o' style='color:#ff6d12'></i>
