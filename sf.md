@@ -38,11 +38,11 @@ The historical strategy performance report is as follows:
 
 #### <i class='fa fa-yen'></i> | <i class='fa fa-cog'></i> | 2004 - 2009
 
-![JPY_Pairs](/img_pr/jpy_0.01_ec_2010_2015.png "JPY Pairs Performance Report")
+![JPY_Pairs](/img_pr/jpy_0.01_ec_2004_2009.png "JPY Pairs Performance Report")
 
-![JPY_Pairs](/img_pr/jpy_0.01_tb_2010_2015.png "JPY Pairs Performance Report")
+![JPY_Pairs](/img_pr/jpy_0.01_tb_2004_2009.png "JPY Pairs Performance Report")
 
-Roughly 1565 trading days are presented from 2010 to July 2015. 26495 trades are made. Average 16.93 positions are opened on every trading day. Profit factor is 1.65. Win rate is 47.55%. Annualized return versus drawdown ratio is 13.46. R-Expectancy is 0.36R.
+Roughly 1305 trading days are presented from 2004 to July 2009. 27583 trades are made. Average 21.14 positions are opened on every trading day. Profit factor is 1.55. Win rate is 48.54%. Annualized return versus drawdown ratio is 9.52. R-Expectancy is 0.30R.
 
 #### <i class='fa fa-yen'></i> | <i class='fa fa-cog'></i> | 2010 - 2015
 
@@ -70,8 +70,10 @@ In this report, all positions are opened with 0.1 [standard lot](https://www.inv
 
 The historical strategy performance report is as follows:
 
+#### <i class='fa fa-pie-chart'></i> | <i class='fa fa-cog'></i> | 2014 - July 2020
+
 ![JPY_Pairs](/img_pr/index_0.1_ec_2014_2020.png "JPY Pairs Performance Report")
 
 ![JPY_Pairs](/img_pr/index_0.1_tb_2014_2020.png "JPY Pairs Performance Report")
 
-Roughly 1200 trading days are presented from 2016 to July 2020. 19676 trades are made. Average 16.40 positions are opened on every trading day. Profit factor is 1.47. Win rate is 46.47%. Annualized return versus drawdown ratio is 5.77. R-Expectancy is 0.27R.
+Roughly 1705 trading days are presented from 2014 to July 2020. 23605 trades are made. Average 13.84 positions are opened on every trading day. Profit factor is 1.70. Win rate is 36.48%. Annualized return versus drawdown ratio is 8.79. R-Expectancy is 0.48R.
