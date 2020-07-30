@@ -119,13 +119,11 @@ In this report, all positions are opened with 0.1 [standard lot](https://www.inv
 
 The historical strategy performance report is as follows:
 
-#### <i class='fa fa-yen'></i> | <i class='fa fa-cog'></i> | 2004 - 2009
-
 #### <i class='fa fa-pie-chart'></i> | <i class='fa fa-cog'></i> | 2014 - July 2020
 
-![Index_Pairs](/img_pr/index_0.1_capitalChart_2014_2020.png "JPY Pairs Performance Report")
-![Index_Pairs](/img_pr/index_0.1_profitColumn_2014_2020.png "JPY Pairs Performance Report")
-![Index_Pairs](/img_pr/index_0.1_monthlyPerformance_2014_2020.png "JPY Pairs Performance Report")
+![Index_Pairs](/img_pr/index_0.1_capitalChart_2014_2020.png "Index Pairs Performance Report")
+![Index_Pairs](/img_pr/index_0.1_profitColumn_2014_2020.png "Index Pairs Performance Report")
+![Index_Pairs](/img_pr/index_0.1_monthlyPerformance_2014_2020.png "Index Pairs Performance Report")
 
 23605 trades are made from 2014 to July 2020. Average 13.84 positions are opened on every trading day.
 
@@ -143,3 +141,16 @@ In the following reports, all positions are opened with <s>0.01 [standard lot](h
 The historical strategy performance report is as follows:
 
 #### <i class='fa fa-pie-chart'></i> | <i class='fa fa-cogs'></i> | 2004 - July 2020
+
+![Index_Pairs](/img_pr/index_%_capitalChart_2014_2020.png "Index Pairs Performance Report")
+![Index_Pairs](/img_pr/index_%_profitColumn_2014_2020.png "Index Pairs Performance Report")
+![Index_Pairs](/img_pr/index_%_monthlyPerformance_2014_2020.png "Index Pairs Performance Report")
+
+23605 trades are made from 2014 to July 2020. Average 13.84 positions are opened on every trading day.
+
+- Profit Factor: 1.76
+- Win Rate: 39.11%
+- Wins/Losses Ratio: 0.64
+- Max Drawdown: -10.3%
+- Largest Win: +598.90%
+- Largest Loss: -145.69%
