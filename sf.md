@@ -6,9 +6,9 @@ bigimg: /img_pr/cyamus_bg.jpg
 googlefonts: ["Roboto Condensed"]
 ---
 
-<i class='fa fa-sun-o' style='color:DimGrey'></i> **Cyamus Capital** ("**Cyamus**") is founded in 2019 by [Terry Li](https://bit.ly/terryli) (ex-VP of [796 Exchange](https://www.796.com), ex-CEO of [TDEx](https://www.tdex.com), and a license distributor of [Trading System Lab](https://www.tradingsystemlab.com) for the greater China region). Founding quant analysts and developers of Cyamus came from reputable software, finance and data analytics firms, such as Google, Deutsche Bank and DataArt. Cyamus focuses on developing mid-frequency trading strategies that trades on the instruments that offer the highest [spread-to-pip potential](https://www.investopedia.com/articles/forex/10/spread-pip-potential-pairs-day-trading.asp):
+<i class='fa fa-sun-o' style='color:DimGrey'></i> **Cyamus Capital** is founded in 2019 by [Terry Li](https://bit.ly/terryli) (ex-VP of [796 Exchange](https://www.796.com), ex-CEO of [TDEx](https://www.tdex.com), and a license distributor of [Trading System Lab](https://www.tradingsystemlab.com) for the greater China region). Founding quant analysts and developers of Cyamus came from reputable software, finance and data analytics firms, such as Google, Deutsche Bank and DataArt. Cyamus focuses on developing mid-frequency trading strategies for the financial instruments that offer the highest [spread-to-pip potential](https://www.investopedia.com/articles/forex/10/spread-pip-potential-pairs-day-trading.asp):
 
-<i class='fa fa-sun-o' style='color:DimGrey'></i> **塞雅瑪斯資本** ("**Cyamus**") 於2019年成立，成員核心成員來軟件、金融和數據分析的馳名企業，例如谷歌、德意志銀行和 DataArt。Cyamus 專注開發中頻交易策略，專注於波動率點差潛力最高的交易工具：
+<i class='fa fa-sun-o' style='color:DimGrey'></i> **塞瑪資本** 於2019年由李明成立（前[796交易所](https://www.796.com)副總裁、前[TDEx交易所](https://www.tdex.com)CEO、[TSL系統](https://www.tradingsystemlab.com)大中華區分銷代理），核心成員來自軟件、金融和數據分析的馳名企業，例如谷歌、德意志銀行和 DataArt。塞瑪資本專注開發中頻交易策略，專注於金融市場中[波動率點差潛力](https://www.investopedia.com/articles/forex/10/spread-pip-potential-pairs-day-trading.asp)最高的交易工具：
 
 - <i class='fa fa-yen'></i> Japanese Yen Pairs<br>日元貨幣對
   - US Dollar to Japanese Yen
@@ -17,7 +17,7 @@ googlefonts: ["Roboto Condensed"]
     - EURJPY
   - Great British Pound to Japanese Yen
     - GBPJPY
-- <i class='fa fa-pie-chart'></i> Stocks Index Pairs<br>股票指數對
+- <i class='fa fa-pie-chart'></i> Stock Index Pairs<br>股票指數對
   - US Dow Jones Industrial Average
     - USA30.IDX/USD
   - Germany DAX 30 Stock Market Index
@@ -105,11 +105,8 @@ The historical strategy performance report is as follows:
 - Largest Win: +4.32%
 - Largest Loss: -1.93%
 
-#### <i class='fa fa-yen'></i> | <i class='fa fa-cogs'></i> | 2010 - 2015
 
-#### <i class='fa fa-yen'></i> | <i class='fa fa-cogs'></i> | 2016 - July 2020
-
-## <i class='fa fa-pie-chart'></i> Index-Pairs<br>股票指數對
+## <i class='fa fa-pie-chart'></i> Stock Index Pairs<br>股票指數對
 
 The second strategy that Cyamus developed is on two (2) stock index pairs: <b>USA30.IDX/USD</b> and <b>DEU.IDX/EUR</b>. It has been traded LIVE since Feb 2019 on [Dukascopy Bank](https://en.wikipedia.org/wiki/Dukascopy_Bank). Two (2) sets of reports are presented below based on different account position sizing techniques: 1. fixed lot; and 2. fixed percentage.
 
