@@ -2,7 +2,7 @@
 layout: page
 title: Cyamus Capital<br>塞雅瑪斯資本
 subtitle: Mid-Frequency Trading
-bigimg: /img_sf/cyamus_bg.jpg
+bigimg: /img_pr/cyamus_bg.jpg
 googlefonts: ["Roboto Condensed"]
 ---
 
