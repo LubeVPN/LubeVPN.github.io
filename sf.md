@@ -42,13 +42,9 @@ In the following reports, fixed percentage is used as the position sizing techni
 
 Position [scaling](https://learn.tradimo.com/dont-go-broke-protect-your-capital/scaling-in-and-out-of-trades) and [hedging](https://www.investopedia.com/ask/answers/forex/forex-hedge-and-currency-hedging-strategy.asp) may happen on an instrument but do not mistaken them as part of the strategy. The strategy merely takes on new position as market opportunity presents itself, i.e. decision making process of opening a new position does not take existing position(s) into consideration.
 
-Period tested from 2004 up to July 2020:
+Period tested from 2004 up to July 2020, the maximum drawdown (MDD) is -7.36%.
 
-- Max Drawdown: -7.36%
-- Largest Win: +4.32%
-- Largest Loss: -1.93%
-
-The historical strategy performance report is as follows:
+The historical strategy performance report is broken down in year as follows:
 
 #### <i class='fa fa-yen'></i> | <i class='fa fa-cogs'></i> | 2020
 
@@ -125,6 +121,8 @@ The historical strategy performance report is as follows:
 - Max Drawdown: -511.93 USD
 - Largest Win: +64.65 USD
 - Largest Loss: -22.08 USD
+- Average Win: +4.39 USD
+- Average Loss: -2.58 USD
 
 #### <i class='fa fa-yen'></i> | <i class='fa fa-cog'></i> | 2010 - 2015
 
@@ -132,7 +130,7 @@ The historical strategy performance report is as follows:
 [![JPY_Pairs](/img_pr/jpy_0.01_capitalChart_2010_2015.png "JPY Pairs Performance Report")](/img_pr/jpy_0.01_capitalChart_2010_2015.png)
 [![JPY_Pairs](/img_pr/jpy_0.01_monthlyPerformance_2010_2015.png "JPY Pairs Performance Report")](/img_pr/jpy_0.01_monthlyPerformance_2010_2015.png)
 
-26495 trades are made from 2010 to July 2015. Average 16.93 positions are opened on every trading day.
+26495 trades are made from 2010 to 2015. Average 16.93 positions are opened on every trading day.
 
 - Profit Factor: 1.65
 - Win Rate: 50.36%
@@ -140,6 +138,8 @@ The historical strategy performance report is as follows:
 - Max Drawdown: -314.30 USD
 - Largest Win: +87.66 USD
 - Largest Loss: -26.84 USD
+- Average Win: +5.61 USD
+- Average Loss: -3.08 USD
 
 #### <i class='fa fa-yen'></i> | <i class='fa fa-cog'></i> | 2004 - 2009
 
@@ -147,7 +147,7 @@ The historical strategy performance report is as follows:
 [![JPY_Pairs](/img_pr/jpy_0.01_capitalChart_2004_2009.png "JPY Pairs Performance Report")](/img_pr/jpy_0.01_capitalChart_2004_2009.png)
 [![JPY_Pairs](/img_pr/jpy_0.01_monthlyPerformance_2004_2009.png "JPY Pairs Performance Report")](/img_pr/jpy_0.01_monthlyPerformance_2004_2009.png)
 
-27583 trades are made from 2004 to July 2009. Average 21.14 positions are opened on every trading day.
+27583 trades are made from 2004 to 2009. Average 21.14 positions are opened on every trading day.
 
 - Profit Factor: 1.55
 - Win Rate: 51.30%
@@ -155,6 +155,8 @@ The historical strategy performance report is as follows:
 - Max Drawdown: -379.47 USD
 - Largest Win: +63.57 USD
 - Largest Loss: -24.42 USD
+- Average Win: +4.98 USD
+- Average Loss: -3.04 USD
 
 ## <i class='fa fa-pie-chart'></i> 股票指數對<br>Stock Index Pairs
 
@@ -176,12 +178,10 @@ The historical strategy performance report is as follows:
 
 23605 trades are made from 2014 to July 2020. Average 13.84 positions are opened on every trading day. **Annualized Reward-to-Risk Ratio** ([CAGR](https://www.investopedia.com/terms/c/cagr.asp) / [MDD](https://www.investopedia.com/terms/m/maximum-drawdown-mdd.asp)) is **12.37**.
 
-- Max Drawdown: -10.30%
-- Largest Win: +598.90%
-- Largest Loss: -145.69%
 - Profit Factor: 1.76
 - Win Rate: 39.11%
 - Win # / Loss #: 0.64
+- Max Drawdown: -10.30%
 
 ### <i class='fa fa-pie-chart'></i> | <i class='fa fa-cog'></i> 固定倉位大小<br>Fixed Lot (0.1)
 
@@ -203,3 +203,5 @@ The historical strategy performance report is as follows:
 - Max Drawdown: -5452.53 USD
 - Largest Win: +1303.12 USD
 - Largest Loss: -551.22 USD
+- Average Win: +82.57 USD
+- Average Loss: -27.89 USD
