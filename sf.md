@@ -1,36 +1,39 @@
 ---
 layout: page
-title: Cyamus Capital<br>塞雅瑪斯資本
-subtitle: Mid-Frequency Trading
+title: 塞瑪資本
+subtitle: Cyamus Capital
 bigimg: /img_pr/cyamus_bg.jpg
 googlefonts: ["Roboto Condensed"]
 ---
 
-<i class='fa fa-sun-o' style='color:DimGrey'></i> **Cyamus Capital** is founded in 2019 by [Terry Li](https://bit.ly/terryli) (ex-VP of [796 Exchange](https://www.796.com), ex-CEO of [TDEx](https://www.tdex.com), and a license distributor of [Trading System Lab](https://www.tradingsystemlab.com) for the greater China region). Founding quant analysts and developers of Cyamus came from reputable software, finance and data analytics firms, such as Google, Deutsche Bank and DataArt. Cyamus focuses on developing mid-frequency trading strategies for the financial instruments that offer the highest [spread-to-pip potential](https://www.investopedia.com/articles/forex/10/spread-pip-potential-pairs-day-trading.asp):
+<i class='fa fa-bar-chart'></i> **塞瑪資本** 於2019年由[李明先生](https://bit.ly/terryli)成立（前[796交易所](https://www.796.com)副總裁、前[TDEx交易所](https://www.tdex.com)CEO、[TSL系統](https://www.tradingsystemlab.com)大中華區分銷代理），核心成員來自軟件、金融和數據分析的馳名企業，例如谷歌、德意志銀行和 DataArt。塞瑪資本專注開發中頻交易策略，專注於金融市場中[波動率點差潛力](https://www.investopedia.com/articles/forex/10/spread-pip-potential-pairs-day-trading.asp)最高的交易工具：
 
-<i class='fa fa-sun-o' style='color:DimGrey'></i> **塞瑪資本** 於2019年由李明成立（前[796交易所](https://www.796.com)副總裁、前[TDEx交易所](https://www.tdex.com)CEO、[TSL系統](https://www.tradingsystemlab.com)大中華區分銷代理），核心成員來自軟件、金融和數據分析的馳名企業，例如谷歌、德意志銀行和 DataArt。塞瑪資本專注開發中頻交易策略，專注於金融市場中[波動率點差潛力](https://www.investopedia.com/articles/forex/10/spread-pip-potential-pairs-day-trading.asp)最高的交易工具：
+<i class='fa fa-bar-chart'></i> **Cyamus Capital** is founded in 2019 by [Terry Li](https://bit.ly/terryli) (ex-VP of [796 Exchange](https://www.796.com), ex-CEO of [TDEx](https://www.tdex.com), and a license distributor of [Trading System Lab](https://www.tradingsystemlab.com) for the greater China region). Founding quant analysts and developers of Cyamus came from reputable software, finance and data analytics firms, such as Google, Deutsche Bank and DataArt. Cyamus focuses on developing mid-frequency trading strategies for the financial instruments that offer the highest [spread-to-pip potential](https://www.investopedia.com/articles/forex/10/spread-pip-potential-pairs-day-trading.asp):
 
-- <i class='fa fa-yen'></i> Japanese Yen Pairs<br>日元貨幣對
+
+- <i class='fa fa-yen'></i> 日元貨幣對<br>Japanese Yen Pairs
   - US Dollar to Japanese Yen
     - USDJPY
   - Euro Dollar to Japanese Yen
     - EURJPY
   - Great British Pound to Japanese Yen
     - GBPJPY
-- <i class='fa fa-pie-chart'></i> Stock Index Pairs<br>股票指數對
+- <i class='fa fa-pie-chart'></i> 股票指數對<br>Stock Index Pairs
   - US Dow Jones Industrial Average
     - USA30.IDX/USD
   - Germany DAX 30 Stock Market Index
     - DEU.IDX/EUR
 
-## <i class='fa fa-yen'></i> JPY-Pairs<br>日元貨幣對
+
+
+## <i class='fa fa-yen'></i> 日元貨幣對<br>JPY-Pairs
 
 The earliest strategy that Cyamus developed is on three (3) Japanese Yen pairs: <b>USDJPY</b>, <b>EURJPY</b> and <b>GBPJPY</b>. It has been traded LIVE since Feb 2019 on [Dukascopy Bank](https://en.wikipedia.org/wiki/Dukascopy_Bank). Two (2) sets of reports are presented below based on different account position sizing techniques:
 
 - <i class='fa fa-cog'></i> <b>fixed lot</b>; and
 - <i class='fa fa-cogs'></i> <b>fixed percentage</b>.
 
-### <i class='fa fa-yen'></i> | <i class='fa fa-cog'></i> Fixed Lot<br>固定倉位大小
+### <i class='fa fa-yen'></i> | <i class='fa fa-cog'></i> 固定倉位大小<br>Fixed Lot (0.01)
 
 In the following reports, all positions are opened with 0.01 [standard lot](https://www.investopedia.com/terms/s/standard-lot.asp). Position [scaling](https://learn.tradimo.com/dont-go-broke-protect-your-capital/scaling-in-and-out-of-trades) and [hedging](https://www.investopedia.com/ask/answers/forex/forex-hedge-and-currency-hedging-strategy.asp) may happen on an instrument but do not mistaken them as part of the strategy. The strategy merely takes on new position as market opportunity presents itself, i.e. decision making process of opening a new position does not take existing position(s) into consideration.
 
@@ -83,7 +86,7 @@ The historical strategy performance report is as follows:
 
 
 
-### <i class='fa fa-yen'></i> | <i class='fa fa-cogs'></i> Fixed Percentage<br>按倉位比例大小建倉
+### <i class='fa fa-yen'></i> | <i class='fa fa-cogs'></i> 按倉位比例大小建倉<br>Fixed Percentage
 
 In the following reports, all positions are opened with <s>0.01 [standard lot](https://www.investopedia.com/terms/s/standard-lot.asp)</s>. Position [scaling](https://learn.tradimo.com/dont-go-broke-protect-your-capital/scaling-in-and-out-of-trades) and [hedging](https://www.investopedia.com/ask/answers/forex/forex-hedge-and-currency-hedging-strategy.asp) may happen on an instrument but do not mistaken them as part of the strategy. The strategy merely takes on new position as market opportunity presents itself, i.e. decision making process of opening a new position does not take existing position(s) into consideration.
 
@@ -106,11 +109,11 @@ The historical strategy performance report is as follows:
 - Largest Loss: -1.93%
 
 
-## <i class='fa fa-pie-chart'></i> Stock Index Pairs<br>股票指數對
+## <i class='fa fa-pie-chart'></i> 股票指數對<br>Stock Index Pairs
 
 The second strategy that Cyamus developed is on two (2) stock index pairs: <b>USA30.IDX/USD</b> and <b>DEU.IDX/EUR</b>. It has been traded LIVE since Feb 2019 on [Dukascopy Bank](https://en.wikipedia.org/wiki/Dukascopy_Bank). Two (2) sets of reports are presented below based on different account position sizing techniques: 1. fixed lot; and 2. fixed percentage.
 
-### <i class='fa fa-pie-chart'></i> Fixed Lot<br>固定倉位大小
+### <i class='fa fa-pie-chart'></i> 固定倉位大小<br>Fixed Lot (0.1)
 
 In this report, all positions are opened with 0.1 [standard lot](https://www.investopedia.com/terms/s/standard-lot.asp). Position [scaling](https://learn.tradimo.com/dont-go-broke-protect-your-capital/scaling-in-and-out-of-trades) and [hedging](https://www.investopedia.com/ask/answers/forex/forex-hedge-and-currency-hedging-strategy.asp) may happen on an instrument but do not mistaken them as part of the strategy. The strategy merely takes on new position as market opportunity presents itself, i.e. decision making process of opening a new position does not take existing position(s) into consideration.
 
@@ -131,7 +134,7 @@ The historical strategy performance report is as follows:
 - Largest Win: +1303.12 USD
 - Largest Loss: -551.22 USD
 
-### <i class='fa fa-pie-chart'></i> | <i class='fa fa-cogs'></i> Fixed Percentage<br>按倉位比例大小建倉
+### <i class='fa fa-pie-chart'></i> | <i class='fa fa-cogs'></i> 按倉位比例大小建倉<br>Fixed Percentage
 
 In the following reports, all positions are opened with <s>0.01 [standard lot](https://www.investopedia.com/terms/s/standard-lot.asp)</s>. Position [scaling](https://learn.tradimo.com/dont-go-broke-protect-your-capital/scaling-in-and-out-of-trades) and [hedging](https://www.investopedia.com/ask/answers/forex/forex-hedge-and-currency-hedging-strategy.asp) may happen on an instrument but do not mistaken them as part of the strategy. The strategy merely takes on new position as market opportunity presents itself, i.e. decision making process of opening a new position does not take existing position(s) into consideration.
 
