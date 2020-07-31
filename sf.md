@@ -35,13 +35,11 @@ Quantitative developers of Cyamus focus on researching and developing mid-freque
     - *DEU.IDX/EUR*
 
 {: .box-note}
-<i class='fa fa-pie-chart'></i> **Cyamus Index Strategy** is historically back-tested since the year 2014 based on bid-n-ask tick data provided by [Dukascopy Bank](https://en.wikipedia.org/wiki/Dukascopy_Bank). The positions signaled by Cyamus Index Strategy *have never* exceeded **14.35:1**, well below the maximum leverage ratio of 50:1 offered by Dukascopy Bank.
+<i class='fa fa-pie-chart'></i> **Cyamus Index Strategy** is historically back-tested since the year 2014 based on bid-n-ask tick data provided by [Dukascopy Bank](https://en.wikipedia.org/wiki/Dukascopy_Bank). The [leverage ratio](https://www.investopedia.com/ask/answers/06/forexleverage.asp) used by Cyamus Index Strategy *have never* exceeded **14.35:1**, which is well below 50:1 (weekday) and 30:1 (weekend) offered by Dukascopy Bank on CFD instruments.
 
 ## <i class='fa fa-bar-chart'></i> 投資用戶成績<br>LIVE Performance
 
-<i class='fa fa-yen'></i> **Cyamus Yen Strategy** and <i class='fa fa-pie-chart'></i> **Cyamus Index Strategy** have traded *LIVE* market since February 2019. Our clients are happy to see that their *LIVE* trading performance resembles historical performance.
-
-Historical performance matches *LIVE* trading results in terms of entry and exit price point but actual results might varies based on clients' individual settings of their **[risk capital](https://www.investopedia.com/terms/r/riskcapital.asp)**.
+<i class='fa fa-yen'></i> **Cyamus Yen Strategy** and <i class='fa fa-pie-chart'></i> **Cyamus Index Strategy** have helped clients trade *LIVE* market since February 2019. Our clients are happy to see that their *LIVE* trading performance resembles historical performance. Note that historical performance resembles *LIVE* trading results in terms of entry and exit price points only. The rates of return on investment vary based on clients' individual taste of **[risk capital](https://www.investopedia.com/terms/r/riskcapital.asp)**.
 
 <a href="/img_pr/Cyamus_Trading.pdf"><i class='fa fa-download'></i> Cyamus Clients' *LIVE* Trading Performance Reports & Testimonials in PDF</a>
 {: .myDownloadButton}
@@ -50,77 +48,62 @@ Historical performance matches *LIVE* trading results in terms of entry and exit
 
 The earliest strategy that Cyamus developed is on three (3) Japanese Yen pairs: <b>USDJPY</b>, <b>EURJPY</b> and <b>GBPJPY</b>. It has been traded *LIVE* since Feb 2019 on [Dukascopy Bank](https://en.wikipedia.org/wiki/Dukascopy_Bank). Two (2) sets of reports are presented below based on different account position sizing techniques:
 
-- <i class='fa fa-cogs'></i> <b>fixed percentage</b>;
-- <i class='fa fa-cog'></i> <b>fixed lot</b>
+- <i class='fa fa-cogs'></i> <b>Dynamic Lot</b>;
+- <i class='fa fa-cog'></i> <b>Fixed Lot</b>
   - 0.01 lot for JPY Pairs
-  - 0.1 lot for Stock Index Pairs
 
+### <i class='fa fa-yen'></i> | <i class='fa fa-cogs'></i> 動態手數<br>Dynamic Lot
 
-
-### <i class='fa fa-yen'></i> | <i class='fa fa-cogs'></i> 按倉位比例大小建倉<br>Fixed Percentage
-
-In the following reports, fixed percentage is used as the position sizing technique. All new positions are sized based on **current account balance** (**CAB**) at time of opening a new position and **[maximum drawdown](https://www.investopedia.com/terms/m/maximum-drawdown-mdd.asp)** (**MDD**). The size of new position is equal to **0.01 * 10% * CAB/MDD**, where the 0.01 is the minimum transaction size on forex currency pairs permissible by [Dukascopy Bank](https://en.wikipedia.org/wiki/Dukascopy_Bank), the 10% is the controlling factor for **[risk capital](https://www.investopedia.com/terms/r/riskcapital.asp)**, and the **MDD** is **-7.36%** based on 2004 to July 2020 historical performance data.
+In the following reports, Dynamic Lot is used as the position sizing technique. All new positions are dynamically sized based on **current account balance** (**CAB**) at time of opening a new position and **[maximum drawdown](https://www.investopedia.com/terms/m/maximum-drawdown-mdd.asp)** (**MDD**). The lot size of new position is equal to **0.01 * 10% * CAB/MDD**, where the 0.01 is the minimum transaction size on forex currency pairs permissible by [Dukascopy Bank](https://en.wikipedia.org/wiki/Dukascopy_Bank), the 10% is the controlling factor for **[risk capital](https://www.investopedia.com/terms/r/riskcapital.asp)**, and the **MDD** is **-7.36%** based on 2004 to July 2020 historical performance data.
 
 Position [scaling](https://learn.tradimo.com/dont-go-broke-protect-your-capital/scaling-in-and-out-of-trades) and [hedging](https://www.investopedia.com/ask/answers/forex/forex-hedge-and-currency-hedging-strategy.asp) may happen on an instrument but do not mistaken them as part of the strategy. The strategy merely takes on new position as market opportunity presents itself, i.e. decision making process of opening a new position does not take existing position(s) into consideration.
 
 The historical strategy performance report is broken down in year as follows:
 
-#### <i class='fa fa-yen'></i> | <i class='fa fa-cogs'></i> | 2020
+#### <i class='fa fa-yen'></i> | <i class='fa fa-cogs'></i> | 2016 - July 2020
 
-**Annualized Reward-to-Risk Ratio** ([CAGR](https://www.investopedia.com/terms/c/cagr.asp) / [MDD](https://www.investopedia.com/terms/m/maximum-drawdown-mdd.asp)) is **2.07**.
+19676 trades are made. 17.21 positions are opened on every trading day on average. **Annualized Reward-to-Risk Ratio** ([CAGR](https://www.investopedia.com/terms/c/cagr.asp) / [MDD](https://www.investopedia.com/terms/m/maximum-drawdown-mdd.asp)) is **6.58**.
 
-[![JPY_Pairs](/img_pr/jpy_percent_capitalChart_2020.png "JPY Pairs Performance Report")](/img_pr/jpy_percent_capitalChart_2020.png)
+- Profit Factor: 1.45
+- Win Rate: 49.27%
+- Win # / Loss #: 0.64
 
-#### <i class='fa fa-yen'></i> | <i class='fa fa-cogs'></i> | 2018 - 2019
+[![JPY_Pairs](/img_pr/jpy_0.01_profitColumn_2016_2020.png "JPY Pairs Performance Report")](/img_pr/jpy_0.01_profitColumn_2016_2020.png)
 
-**Annualized Reward-to-Risk Ratio** ([CAGR](https://www.investopedia.com/terms/c/cagr.asp) / [MDD](https://www.investopedia.com/terms/m/maximum-drawdown-mdd.asp)) is **10.54**.
+[![JPY_Pairs](/img_pr/jpy_percent_capitalChart_2016_2020.png "JPY Pairs Performance Report")](/img_pr/jpy_percent_capitalChart_2016_2020.png)
 
-[![JPY_Pairs](/img_pr/jpy_percent_capitalChart_2018_2019.png "JPY Pairs Performance Report")](/img_pr/jpy_percent_capitalChart_2018_2019.png)
+[![JPY_Pairs](/img_pr/jpy_percent_monthlyPerformance_2016_2020.png "JPY Pairs Performance Report")](/img_pr/jpy_percent_monthlyPerformance_2016_2020.png)
 
-#### <i class='fa fa-yen'></i> | <i class='fa fa-cogs'></i> | 2016 - 2017
+#### <i class='fa fa-yen'></i> | <i class='fa fa-cogs'></i> | 2010 - 2015
 
-**Annualized Reward-to-Risk Ratio** ([CAGR](https://www.investopedia.com/terms/c/cagr.asp) / [MDD](https://www.investopedia.com/terms/m/maximum-drawdown-mdd.asp)) is **14.96**.
+26495 trades are made. 21.06 positions are opened on every trading day on average. **Annualized Reward-to-Risk Ratio** ([CAGR](https://www.investopedia.com/terms/c/cagr.asp) / [MDD](https://www.investopedia.com/terms/m/maximum-drawdown-mdd.asp)) is **18.04**.
 
-[![JPY_Pairs](/img_pr/jpy_percent_capitalChart_2016_2017.png "JPY Pairs Performance Report")](/img_pr/jpy_percent_capitalChart_2016_2017.png)
+- Profit Factor: 1.57
+- Win Rate: 50.36%
+- Win # / Loss #: 1.01
 
-#### <i class='fa fa-yen'></i> | <i class='fa fa-cogs'></i> | 2014 - 2015
+[![JPY_Pairs](/img_pr/jpy_0.01_profitColumn_2010_2015.png "JPY Pairs Performance Report")](/img_pr/jpy_0.01_profitColumn_2010_2015.png)
 
-**Annualized Reward-to-Risk Ratio** ([CAGR](https://www.investopedia.com/terms/c/cagr.asp) / [MDD](https://www.investopedia.com/terms/m/maximum-drawdown-mdd.asp)) is **11.28**.
+[![JPY_Pairs](/img_pr/jpy_percent_capitalChart_2010_2015.png "JPY Pairs Performance Report")](/img_pr/jpy_percent_capitalChart_2010_2015.png)
 
-[![JPY_Pairs](/img_pr/jpy_percent_capitalChart_2014_2015.png "JPY Pairs Performance Report")](/img_pr/jpy_percent_capitalChart_2014_2015.png)
+[![JPY_Pairs](/img_pr/jpy_percent_monthlyPerformance_2010_2015.png "JPY Pairs Performance Report")](/img_pr/jpy_percent_monthlyPerformance_2010_2015.png)
 
-#### <i class='fa fa-yen'></i> | <i class='fa fa-cogs'></i> | 2012 - 2013
+#### <i class='fa fa-yen'></i> | <i class='fa fa-cogs'></i> | 2004 - 2009
 
-**Annualized Reward-to-Risk Ratio** ([CAGR](https://www.investopedia.com/terms/c/cagr.asp) / [MDD](https://www.investopedia.com/terms/m/maximum-drawdown-mdd.asp)) is **15.04**.
+27583 trades are made. 18.23 positions are opened on every trading day on average. **Annualized Reward-to-Risk Ratio** ([CAGR](https://www.investopedia.com/terms/c/cagr.asp) / [MDD](https://www.investopedia.com/terms/m/maximum-drawdown-mdd.asp)) is **12.45**.
 
-[![JPY_Pairs](/img_pr/jpy_percent_capitalChart_2012_2013.png "JPY Pairs Performance Report")](/img_pr/jpy_percent_capitalChart_2012_2013.png)
+- Profit Factor: 1.76
+- Win Rate: 51.23%
+- Win # / Loss #: 1.05
 
-#### <i class='fa fa-yen'></i> | <i class='fa fa-cogs'></i> | 2010 - 2011
+[![JPY_Pairs](/img_pr/jpy_0.01_profitColumn_2004_2009.png "JPY Pairs Performance Report")](/img_pr/jpy_0.01_profitColumn_2004_2009.png)
 
-**Annualized Reward-to-Risk Ratio** ([CAGR](https://www.investopedia.com/terms/c/cagr.asp) / [MDD](https://www.investopedia.com/terms/m/maximum-drawdown-mdd.asp)) is **17.34**.
+[![JPY_Pairs](/img_pr/jpy_percent_capitalChart_2004_2009.png "JPY Pairs Performance Report")](/img_pr/jpy_percent_capitalChart_2004_2009.png)
 
-[![JPY_Pairs](/img_pr/jpy_percent_capitalChart_2010_2011.png "JPY Pairs Performance Report")](/img_pr/jpy_percent_capitalChart_2010_2011.png)
-
-#### <i class='fa fa-yen'></i> | <i class='fa fa-cogs'></i> | 2008 - 2009
-
-**Annualized Reward-to-Risk Ratio** ([CAGR](https://www.investopedia.com/terms/c/cagr.asp) / [MDD](https://www.investopedia.com/terms/m/maximum-drawdown-mdd.asp)) is **15.74**.
-
-[![JPY_Pairs](/img_pr/jpy_percent_capitalChart_2008_2009.png "JPY Pairs Performance Report")](/img_pr/jpy_percent_capitalChart_2008_2009.png)
-
-#### <i class='fa fa-yen'></i> | <i class='fa fa-cogs'></i> | 2006 - 2007
-
-**Annualized Reward-to-Risk Ratio** ([CAGR](https://www.investopedia.com/terms/c/cagr.asp) / [MDD](https://www.investopedia.com/terms/m/maximum-drawdown-mdd.asp)) is **9.14**.
-
-[![JPY_Pairs](/img_pr/jpy_percent_capitalChart_2006_2007.png "JPY Pairs Performance Report")](/img_pr/jpy_percent_capitalChart_2006_2007.png)
-
-#### <i class='fa fa-yen'></i> | <i class='fa fa-cogs'></i> | 2004 - 2005
-
-**Annualized Reward-to-Risk Ratio** ([CAGR](https://www.investopedia.com/terms/c/cagr.asp) / [MDD](https://www.investopedia.com/terms/m/maximum-drawdown-mdd.asp)) is **6.5**.
-
-[![JPY_Pairs](/img_pr/jpy_percent_capitalChart_2004_2005.png "JPY Pairs Performance Report")](/img_pr/jpy_percent_capitalChart_2004_2005.png)
+[![JPY_Pairs](/img_pr/jpy_percent_monthlyPerformance_2004_2009.png "JPY Pairs Performance Report")](/img_pr/jpy_percent_monthlyPerformance_2004_2009.png)
 
 
-### <i class='fa fa-yen'></i> | <i class='fa fa-cog'></i> 固定倉位大小<br>Fixed Lot (0.01)
+### <i class='fa fa-yen'></i> | <i class='fa fa-cog'></i> 固定手數<br>Fixed Lot (0.01)
 
 In the following reports, all positions are opened with 0.01 [standard lot](https://www.investopedia.com/terms/s/standard-lot.asp), which is the minimum transaction size on forex currency pairs permissible by [Dukascopy Bank](https://en.wikipedia.org/wiki/Dukascopy_Bank). Position [scaling](https://learn.tradimo.com/dont-go-broke-protect-your-capital/scaling-in-and-out-of-trades) and [hedging](https://www.investopedia.com/ask/answers/forex/forex-hedge-and-currency-hedging-strategy.asp) may happen on an instrument but do not mistaken them as part of the strategy. The strategy merely takes on new position as market opportunity presents itself, i.e. decision making process of opening a new position does not take existing position(s) into consideration.
 
@@ -132,7 +115,7 @@ The historical strategy performance report is as follows:
 [![JPY_Pairs](/img_pr/jpy_0.01_capitalChart_2016_2020.png "JPY Pairs Performance Report")](/img_pr/jpy_0.01_capitalChart_2016_2020.png)
 [![JPY_Pairs](/img_pr/jpy_0.01_monthlyPerformance_2016_2020.png "JPY Pairs Performance Report")](/img_pr/jpy_0.01_monthlyPerformance_2016_2020.png)
 
-19676 trades are made from 2016 to July 2020. Average 16.40 positions are opened on every trading day.
+19676 trades are made from 2016 to July 2020. 16.40 positions are opened on every trading day on average.
 
 - Profit Factor: 1.47
 - Win Rate: 49.27%
@@ -149,7 +132,7 @@ The historical strategy performance report is as follows:
 [![JPY_Pairs](/img_pr/jpy_0.01_capitalChart_2010_2015.png "JPY Pairs Performance Report")](/img_pr/jpy_0.01_capitalChart_2010_2015.png)
 [![JPY_Pairs](/img_pr/jpy_0.01_monthlyPerformance_2010_2015.png "JPY Pairs Performance Report")](/img_pr/jpy_0.01_monthlyPerformance_2010_2015.png)
 
-26495 trades are made from 2010 to 2015. Average 16.93 positions are opened on every trading day.
+26495 trades are made from 2010 to 2015. 16.93 positions are opened on every trading day on average.
 
 - Profit Factor: 1.65
 - Win Rate: 50.36%
@@ -166,7 +149,7 @@ The historical strategy performance report is as follows:
 [![JPY_Pairs](/img_pr/jpy_0.01_capitalChart_2004_2009.png "JPY Pairs Performance Report")](/img_pr/jpy_0.01_capitalChart_2004_2009.png)
 [![JPY_Pairs](/img_pr/jpy_0.01_monthlyPerformance_2004_2009.png "JPY Pairs Performance Report")](/img_pr/jpy_0.01_monthlyPerformance_2004_2009.png)
 
-27583 trades are made from 2004 to 2009. Average 21.14 positions are opened on every trading day.
+27583 trades are made from 2004 to 2009. 21.14 positions are opened on every trading day on average.
 
 - Profit Factor: 1.55
 - Win Rate: 51.30%
@@ -179,11 +162,15 @@ The historical strategy performance report is as follows:
 
 ## <i class='fa fa-pie-chart'></i> 股票指數對<br>Stock Index Pairs
 
-The second strategy that Cyamus developed is on two (2) stock index pairs: <b>USA30.IDX/USD</b> and <b>DEU.IDX/EUR</b>. It has been traded *LIVE* since Feb 2019 on [Dukascopy Bank](https://en.wikipedia.org/wiki/Dukascopy_Bank). Two (2) sets of reports are presented below based on different account position sizing techniques: 1. fixed lot; and 2. fixed percentage.
+The second strategy that Cyamus developed is on two (2) stock index pairs: <b>USA30.IDX/USD</b> and <b>DEU.IDX/EUR</b>. It has been traded *LIVE* since Feb 2019 on [Dukascopy Bank](https://en.wikipedia.org/wiki/Dukascopy_Bank). Two (2) sets of reports are presented below based on different account position sizing techniques:
 
-### <i class='fa fa-pie-chart'></i> | <i class='fa fa-cogs'></i> 按倉位比例大小建倉<br>Fixed Percentage
+- <i class='fa fa-cogs'></i> <b> Dynamic Lot</b>;
+- <i class='fa fa-cog'></i> <b> Fixed Lot</b>
+  - 0.1 lot for Stock Index Pairs
 
-In the following reports, fixed percentage is used as the position sizing technique. All new positions are sized based on **current account balance** (**CAB**) at time of opening a new position and **[maximum drawdown](https://www.investopedia.com/terms/m/maximum-drawdown-mdd.asp)** (**MDD**). The size of new position is equal to **0.1 * 10% * CAB/MDD**, where the 0.1 is the minimum transaction size on stock index pairs permissible by [Dukascopy Bank](https://en.wikipedia.org/wiki/Dukascopy_Bank), the 10% is the controlling factor for **[risk capital](https://www.investopedia.com/terms/r/riskcapital.asp)**, and the **MDD** is **-10.30%** based on 2014 to July 2020 historical performance data.
+### <i class='fa fa-pie-chart'></i> | <i class='fa fa-cogs'></i> 動態手數<br>Dynamic Lot
+
+In the following reports, Dynamic Lot is used as the position sizing technique. All new positions are dynamically sized based on **current account balance** (**CAB**) at time of opening a new position and **[maximum drawdown](https://www.investopedia.com/terms/m/maximum-drawdown-mdd.asp)** (**MDD**). The size of new position is equal to **0.1 * 10% * CAB/MDD**, where the 0.1 is the minimum transaction size on stock index pairs permissible by [Dukascopy Bank](https://en.wikipedia.org/wiki/Dukascopy_Bank), the 10% is the controlling factor for **[risk capital](https://www.investopedia.com/terms/r/riskcapital.asp)**, and the **MDD** is **-10.30%** based on 2014 to July 2020 historical performance data.
 
 Position [scaling](https://learn.tradimo.com/dont-go-broke-protect-your-capital/scaling-in-and-out-of-trades) and [hedging](https://www.investopedia.com/ask/answers/forex/forex-hedge-and-currency-hedging-strategy.asp) may happen on an instrument but do not mistaken them as part of the strategy. The strategy merely takes on new position as market opportunity presents itself, i.e. decision making process of opening a new position does not take existing position(s) into consideration.
 
@@ -191,17 +178,16 @@ The historical strategy performance report is as follows:
 
 #### <i class='fa fa-pie-chart'></i> | <i class='fa fa-cogs'></i> | 2004 - July 2020
 
-![Index_Pairs](/img_pr/index_percent_profitColumn_2014_2020.png "Index Pairs Performance Report")
 [![Index_Pairs](/img_pr/index_percent_capitalChart_2014_2020.png "Index Pairs Performance Report")](/img_pr/index_percent_capitalChart_2014_2020.png)
 ![Index_Pairs](/img_pr/index_percent_monthlyPerformance_2014_2020.png "Index Pairs Performance Report")
 
-23605 trades are made from 2014 to July 2020. Average 13.84 positions are opened on every trading day. **Annualized Reward-to-Risk Ratio** ([CAGR](https://www.investopedia.com/terms/c/cagr.asp) / [MDD](https://www.investopedia.com/terms/m/maximum-drawdown-mdd.asp)) is **12.37**.
+23605 trades are made from 2014 to July 2020. 13.84 positions are opened on every trading day on average. **Annualized Reward-to-Risk Ratio** ([CAGR](https://www.investopedia.com/terms/c/cagr.asp) / [MDD](https://www.investopedia.com/terms/m/maximum-drawdown-mdd.asp)) is **12.37**.
 
 - Profit Factor: 1.76
 - Win Rate: 39.11%
 - Win # / Loss #: 0.64
 
-### <i class='fa fa-pie-chart'></i> | <i class='fa fa-cog'></i> 固定倉位大小<br>Fixed Lot (0.1)
+### <i class='fa fa-pie-chart'></i> | <i class='fa fa-cog'></i> 固定手數<br>Fixed Lot (0.1)
 
 In this report, all positions are opened with 0.1 [standard lot](https://www.investopedia.com/terms/s/standard-lot.asp), which is the minimum transaction size on stock index pairs permissible by [Dukascopy Bank](https://en.wikipedia.org/wiki/Dukascopy_Bank). Position [scaling](https://learn.tradimo.com/dont-go-broke-protect-your-capital/scaling-in-and-out-of-trades) and [hedging](https://www.investopedia.com/ask/answers/forex/forex-hedge-and-currency-hedging-strategy.asp) may happen on an instrument but do not mistaken them as part of the strategy. The strategy merely takes on new position as market opportunity presents itself, i.e. decision making process of opening a new position does not take existing position(s) into consideration.
 
@@ -213,7 +199,7 @@ The historical strategy performance report is as follows:
 [![Index_Pairs](/img_pr/index_0.1_capitalChart_2014_2020.png "Index Pairs Performance Report")](/img_pr/index_0.1_capitalChart_2014_2020.png)
 [![Index_Pairs](/img_pr/index_0.1_monthlyPerformance_2014_2020.png "Index Pairs Performance Report")](/img_pr/index_0.1_monthlyPerformance_2014_2020.png )
 
-23605 trades are made from 2014 to July 2020. Average 13.84 positions are opened on every trading day.
+23605 trades are made from 2014 to July 2020. 13.84 positions are opened on every trading day on average.
 
 - Profit Factor: 1.70
 - Win Rate: 39.11%
