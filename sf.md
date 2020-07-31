@@ -39,9 +39,9 @@ The historical strategy performance report is as follows:
 
 #### <i class='fa fa-yen'></i> | <i class='fa fa-cog'></i> | 2016 - July 2020
 
-![JPY_Pairs](/img_pr/jpy_0.01_capitalChart_2016_2020.png "JPY Pairs Performance Report")
 ![JPY_Pairs](/img_pr/jpy_0.01_profitColumn_2016_2020.png "JPY Pairs Performance Report")
-![JPY_Pairs](/img_pr/jpy_0.01_monthlyPerformance_2016_2020.png "JPY Pairs Performance Report")
+[]![JPY_Pairs](/img_pr/jpy_0.01_capitalChart_2016_2020.png "JPY Pairs Performance Report")](/img_pr/jpy_0.01_capitalChart_2016_2020.png)
+[![JPY_Pairs](/img_pr/jpy_0.01_monthlyPerformance_2016_2020.png "JPY Pairs Performance Report")](/img_pr/jpy_0.01_monthlyPerformance_2016_2020.png)
 
 19676 trades are made from 2016 to July 2020. Average 16.40 positions are opened on every trading day.
 
@@ -54,9 +54,9 @@ The historical strategy performance report is as follows:
 
 #### <i class='fa fa-yen'></i> | <i class='fa fa-cog'></i> | 2010 - 2015
 
-![JPY_Pairs](/img_pr/jpy_0.01_capitalChart_2010_2015.png "JPY Pairs Performance Report")
 ![JPY_Pairs](/img_pr/jpy_0.01_profitColumn_2010_2015.png "JPY Pairs Performance Report")
-![JPY_Pairs](/img_pr/jpy_0.01_monthlyPerformance_2010_2015.png "JPY Pairs Performance Report")
+[![JPY_Pairs](/img_pr/jpy_0.01_capitalChart_2010_2015.png "JPY Pairs Performance Report")](/img_pr/jpy_0.01_capitalChart_2010_2015.png)
+[![JPY_Pairs](/img_pr/jpy_0.01_monthlyPerformance_2010_2015.png "JPY Pairs Performance Report")](/img_pr/jpy_0.01_monthlyPerformance_2010_2015.png)
 
 26495 trades are made from 2010 to July 2015. Average 16.93 positions are opened on every trading day.
 
@@ -69,9 +69,9 @@ The historical strategy performance report is as follows:
 
 #### <i class='fa fa-yen'></i> | <i class='fa fa-cog'></i> | 2004 - 2009
 
-![JPY_Pairs](/img_pr/jpy_0.01_capitalChart_2004_2009.png "JPY Pairs Performance Report")
 ![JPY_Pairs](/img_pr/jpy_0.01_profitColumn_2004_2009.png "JPY Pairs Performance Report")
-![JPY_Pairs](/img_pr/jpy_0.01_monthlyPerformance_2004_2009.png "JPY Pairs Performance Report")
+[![JPY_Pairs](/img_pr/jpy_0.01_capitalChart_2004_2009.png "JPY Pairs Performance Report")](/img_pr/jpy_0.01_capitalChart_2004_2009.png)
+[![JPY_Pairs](/img_pr/jpy_0.01_monthlyPerformance_2004_2009.png "JPY Pairs Performance Report")](/img_pr/jpy_0.01_monthlyPerformance_2004_2009.png)
 
 27583 trades are made from 2004 to July 2009. Average 21.14 positions are opened on every trading day.
 
@@ -82,8 +82,6 @@ The historical strategy performance report is as follows:
 - Largest Win: +63.57 USD
 - Largest Loss: -24.42 USD
 
-
-
 ### <i class='fa fa-yen'></i> | <i class='fa fa-cogs'></i> 按倉位比例大小建倉<br>Fixed Percentage
 
 In the following reports, all positions are opened with <s>0.01 [standard lot](https://www.investopedia.com/terms/s/standard-lot.asp)</s>. Position [scaling](https://learn.tradimo.com/dont-go-broke-protect-your-capital/scaling-in-and-out-of-trades) and [hedging](https://www.investopedia.com/ask/answers/forex/forex-hedge-and-currency-hedging-strategy.asp) may happen on an instrument but do not mistaken them as part of the strategy. The strategy merely takes on new position as market opportunity presents itself, i.e. decision making process of opening a new position does not take existing position(s) into consideration.
@@ -92,20 +90,19 @@ The historical strategy performance report is as follows:
 
 #### <i class='fa fa-yen'></i> | <i class='fa fa-cogs'></i> | 2004 - July 2020
 
-![JPY_Pairs](/img_pr/jpy_percent_capitalChart_2020.png "JPY Pairs Performance Report")
-![JPY_Pairs](/img_pr/jpy_percent_capitalChart_2018_2019.png "JPY Pairs Performance Report")
-![JPY_Pairs](/img_pr/jpy_percent_capitalChart_2016_2017.png "JPY Pairs Performance Report")
-![JPY_Pairs](/img_pr/jpy_percent_capitalChart_2014_2015.png "JPY Pairs Performance Report")
-![JPY_Pairs](/img_pr/jpy_percent_capitalChart_2012_2013.png "JPY Pairs Performance Report")
-![JPY_Pairs](/img_pr/jpy_percent_capitalChart_2010_2011.png "JPY Pairs Performance Report")
-![JPY_Pairs](/img_pr/jpy_percent_capitalChart_2008_2009.png "JPY Pairs Performance Report")
-![JPY_Pairs](/img_pr/jpy_percent_capitalChart_2006_2007.png "JPY Pairs Performance Report")
-![JPY_Pairs](/img_pr/jpy_percent_capitalChart_2004_2005.png "JPY Pairs Performance Report")
+[![JPY_Pairs](/img_pr/jpy_percent_capitalChart_2020.png "JPY Pairs Performance Report")](/img_pr/jpy_percent_capitalChart_2020.png)
+[![JPY_Pairs](/img_pr/jpy_percent_capitalChart_2018_2019.png "JPY Pairs Performance Report")](/img_pr/jpy_percent_capitalChart_2018_2019.png)
+[![JPY_Pairs](/img_pr/jpy_percent_capitalChart_2016_2017.png "JPY Pairs Performance Report")](/img_pr/jpy_percent_capitalChart_2016_2017.png)
+[![JPY_Pairs](/img_pr/jpy_percent_capitalChart_2014_2015.png "JPY Pairs Performance Report")](/img_pr/jpy_percent_capitalChart_2014_2015.png)
+[![JPY_Pairs](/img_pr/jpy_percent_capitalChart_2012_2013.png "JPY Pairs Performance Report")](/img_pr/jpy_percent_capitalChart_2012_2013.png)
+[![JPY_Pairs](/img_pr/jpy_percent_capitalChart_2010_2011.png "JPY Pairs Performance Report")](/img_pr/jpy_percent_capitalChart_2010_2011.png)
+[![JPY_Pairs](/img_pr/jpy_percent_capitalChart_2008_2009.png "JPY Pairs Performance Report")](/img_pr/jpy_percent_capitalChart_2008_2009.png)
+[![JPY_Pairs](/img_pr/jpy_percent_capitalChart_2006_2007.png "JPY Pairs Performance Report")](/img_pr/jpy_percent_capitalChart_2006_2007.png)
+[![JPY_Pairs](/img_pr/jpy_percent_capitalChart_2004_2005.png "JPY Pairs Performance Report")](/img_pr/jpy_percent_capitalChart_2004_2005.png)
 
 - Max Drawdown: -7.36%
 - Largest Win: +4.32%
 - Largest Loss: -1.93%
-
 
 ## <i class='fa fa-pie-chart'></i> 股票指數對<br>Stock Index Pairs
 
@@ -119,9 +116,9 @@ The historical strategy performance report is as follows:
 
 #### <i class='fa fa-pie-chart'></i> | <i class='fa fa-cog'></i> | 2014 - July 2020
 
-![Index_Pairs](/img_pr/index_0.1_capitalChart_2014_2020.png "Index Pairs Performance Report")
 ![Index_Pairs](/img_pr/index_0.1_profitColumn_2014_2020.png "Index Pairs Performance Report")
-![Index_Pairs](/img_pr/index_0.1_monthlyPerformance_2014_2020.png "Index Pairs Performance Report")
+[![Index_Pairs](/img_pr/index_0.1_capitalChart_2014_2020.png "Index Pairs Performance Report")](/img_pr/index_0.1_capitalChart_2014_2020.png)
+[![Index_Pairs](/img_pr/index_0.1_monthlyPerformance_2014_2020.png "Index Pairs Performance Report")](/img_pr/index_0.1_monthlyPerformance_2014_2020.png )
 
 23605 trades are made from 2014 to July 2020. Average 13.84 positions are opened on every trading day.
 
