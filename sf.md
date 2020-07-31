@@ -6,9 +6,16 @@ bigimg: /img_pr/cyamus_bg.jpg
 googlefonts: ["Roboto Condensed"]
 ---
 
-<i class='fa fa-university'></i> **塞瑪交易科技** （「**塞瑪**」）於2019年由[李明先生](https://bit.ly/terryli)成立（前[796交易所](https://www.796.com)副總裁、前[TDEx交易所](https://www.tdex.com)CEO、[TSL系統](https://www.tradingsystemlab.com)大中華區分銷代理）。塞瑪量化開發人員專注於調研金融市場中[波動率點差潛力](https://www.investopedia.com/articles/forex/10/spread-pip-potential-pairs-day-trading.asp)最高的交易工具：
+<i class='fa fa-university'></i> **塞瑪交易科技** （「**塞瑪**」）於2019年由[李明先生](https://bit.ly/terryli)成立（前[796交易所](https://www.796.com)副總裁、前[TDEx交易所](https://www.tdex.com)CEO、[TSL系統](https://www.tradingsystemlab.com)大中華區分銷代理）。塞碼提供系統化交易信號服務給金融投資客戶。
 
-<i class='fa fa-university'></i> **Cyamus Trading Technology** ("**Cyamus**") is founded in 2019 by [Terry Li](https://bit.ly/terryli) (ex-VP of [796 Exchange](https://www.796.com), ex-CEO of [TDEx](https://www.tdex.com), and a license distributor of [Trading System Lab](https://www.tradingsystemlab.com) for the greater China region). Quantitative developers of Cyamus focus on researching and developing mid-frequency trading strategies for the financial instruments that offer the highest [spread-to-pip potential](https://www.investopedia.com/articles/forex/10/spread-pip-potential-pairs-day-trading.asp):
+塞瑪量化開發人員專注於調研金融市場中[波動率點差潛力](https://www.investopedia.com/articles/forex/10/spread-pip-potential-pairs-day-trading.asp)最高的交易工具：
+
+<i class='fa fa-university'></i> **Cyamus Trading Technology** ("**Cyamus**") is founded in 2019 by [Terry Li](https://bit.ly/terryli) (ex-VP of [796 Exchange](https://www.796.com), ex-CEO of [TDEx](https://www.tdex.com), and a license distributor of [Trading System Lab](https://www.tradingsystemlab.com) for the greater China region). Cyamus offers systematic trading signaling services to investment clients.
+
+{: .box-warning}
+**Disclaimer**: Cyamus do not intended to provide any tax, legal or investment advice, personal recommendation or advising on investments and nothing in this website should be construed or interpreted as an investment advice, an offer to sell or buy, a solicitation of an offer to buy, or a recommendation related to any investment in financial instrument.
+
+Quantitative developers of Cyamus focus on researching and developing mid-frequency trading strategies for the financial instruments that offer the highest [spread-to-pip potential](https://www.investopedia.com/articles/forex/10/spread-pip-potential-pairs-day-trading.asp):
 
 - **Japanese Yen Pairs**
   - US Dollar to Japanese Yen
@@ -32,17 +39,16 @@ googlefonts: ["Roboto Condensed"]
 
 ## <i class='fa fa-bar-chart'></i> 投資用戶成績<br>LIVE Performance
 
-Both <i class='fa fa-yen'></i> Yen Strategy and <i class='fa fa-pie-chart'></i> Index Strategy has gone LIVE since February 2019. You may learn more about how you can benefit from partnering with <i class='fa fa-university'></i> Cyamus by reading the following report that contains the LIVE trading performance data and clients' testimonials:
+<i class='fa fa-yen'></i> **Cyamus Yen Strategy** and <i class='fa fa-pie-chart'></i> **Cyamus Index Strategy** have traded *LIVE* market since February 2019. Our clients are happy to see that their *LIVE* trading performance resembles historical performance.
 
-<a href="/img_pr/Cyamus_Trading.pdf"><i class='fa fa-download'></i> Cyamus Clients' LIVE Trading Performance Reports & Testimonials in PDF</a>
+Historical performance matches *LIVE* trading results in terms of entry and exit price point but actual results might varies based on clients' individual settings of their **[risk capital](https://www.investopedia.com/terms/r/riskcapital.asp)**.
+
+<a href="/img_pr/Cyamus_Trading.pdf"><i class='fa fa-download'></i> Cyamus Clients' *LIVE* Trading Performance Reports & Testimonials in PDF</a>
 {: .myDownloadButton}
-
-{: .box-success}
-Historical performance matches LIVE trading results in terms of entry and exit price point but actual results might varies based on clients' individual settings of their **[risk capital](https://www.investopedia.com/terms/r/riskcapital.asp)**.
 
 ## <i class='fa fa-yen'></i> 日元貨幣對<br>JPY-Pairs
 
-The earliest strategy that Cyamus developed is on three (3) Japanese Yen pairs: <b>USDJPY</b>, <b>EURJPY</b> and <b>GBPJPY</b>. It has been traded LIVE since Feb 2019 on [Dukascopy Bank](https://en.wikipedia.org/wiki/Dukascopy_Bank). Two (2) sets of reports are presented below based on different account position sizing techniques:
+The earliest strategy that Cyamus developed is on three (3) Japanese Yen pairs: <b>USDJPY</b>, <b>EURJPY</b> and <b>GBPJPY</b>. It has been traded *LIVE* since Feb 2019 on [Dukascopy Bank](https://en.wikipedia.org/wiki/Dukascopy_Bank). Two (2) sets of reports are presented below based on different account position sizing techniques:
 
 - <i class='fa fa-cogs'></i> <b>fixed percentage</b>;
 - <i class='fa fa-cog'></i> <b>fixed lot</b>
@@ -173,7 +179,7 @@ The historical strategy performance report is as follows:
 
 ## <i class='fa fa-pie-chart'></i> 股票指數對<br>Stock Index Pairs
 
-The second strategy that Cyamus developed is on two (2) stock index pairs: <b>USA30.IDX/USD</b> and <b>DEU.IDX/EUR</b>. It has been traded LIVE since Feb 2019 on [Dukascopy Bank](https://en.wikipedia.org/wiki/Dukascopy_Bank). Two (2) sets of reports are presented below based on different account position sizing techniques: 1. fixed lot; and 2. fixed percentage.
+The second strategy that Cyamus developed is on two (2) stock index pairs: <b>USA30.IDX/USD</b> and <b>DEU.IDX/EUR</b>. It has been traded *LIVE* since Feb 2019 on [Dukascopy Bank](https://en.wikipedia.org/wiki/Dukascopy_Bank). Two (2) sets of reports are presented below based on different account position sizing techniques: 1. fixed lot; and 2. fixed percentage.
 
 ### <i class='fa fa-pie-chart'></i> | <i class='fa fa-cogs'></i> 按倉位比例大小建倉<br>Fixed Percentage
 
