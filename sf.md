@@ -35,7 +35,9 @@ The earliest strategy that Cyamus developed is on three (3) Japanese Yen pairs: 
 
 ### <i class='fa fa-yen'></i> | <i class='fa fa-cogs'></i> 按倉位比例大小建倉<br>Fixed Percentage
 
-In the following reports, all positions are opened with <s>0.01 [standard lot](https://www.investopedia.com/terms/s/standard-lot.asp)</s>. Position [scaling](https://learn.tradimo.com/dont-go-broke-protect-your-capital/scaling-in-and-out-of-trades) and [hedging](https://www.investopedia.com/ask/answers/forex/forex-hedge-and-currency-hedging-strategy.asp) may happen on an instrument but do not mistaken them as part of the strategy. The strategy merely takes on new position as market opportunity presents itself, i.e. decision making process of opening a new position does not take existing position(s) into consideration.
+In the following reports, fixed percentage is used as the position sizing technique. All new positions are sized based on **current account balance** (**CAB**) at time of opening a new position and **[maximum drawdown](https://www.investopedia.com/terms/m/maximum-drawdown-mdd.asp)** (**MDD**). The size of new position is equal to **0.01 * 10% * CAB/MDD**, where the 0.01 is the minimum transaction size on forex currency pairs permissible by [Dukascopy Bank](https://en.wikipedia.org/wiki/Dukascopy_Bank) and the 10% is the controlling factor for **[risk capital](https://www.investopedia.com/terms/r/riskcapital.asp)**.
+
+Position [scaling](https://learn.tradimo.com/dont-go-broke-protect-your-capital/scaling-in-and-out-of-trades) and [hedging](https://www.investopedia.com/ask/answers/forex/forex-hedge-and-currency-hedging-strategy.asp) may happen on an instrument but do not mistaken them as part of the strategy. The strategy merely takes on new position as market opportunity presents itself, i.e. decision making process of opening a new position does not take existing position(s) into consideration.
 
 Period tested from 2004 up to July 2020:
 
@@ -102,7 +104,7 @@ The historical strategy performance report is as follows:
 
 ### <i class='fa fa-yen'></i> | <i class='fa fa-cog'></i> 固定倉位大小<br>Fixed Lot (0.01)
 
-In the following reports, all positions are opened with 0.01 [standard lot](https://www.investopedia.com/terms/s/standard-lot.asp). Position [scaling](https://learn.tradimo.com/dont-go-broke-protect-your-capital/scaling-in-and-out-of-trades) and [hedging](https://www.investopedia.com/ask/answers/forex/forex-hedge-and-currency-hedging-strategy.asp) may happen on an instrument but do not mistaken them as part of the strategy. The strategy merely takes on new position as market opportunity presents itself, i.e. decision making process of opening a new position does not take existing position(s) into consideration.
+In the following reports, all positions are opened with 0.01 [standard lot](https://www.investopedia.com/terms/s/standard-lot.asp), which is the minimum transaction size on forex currency pairs permissible by [Dukascopy Bank](https://en.wikipedia.org/wiki/Dukascopy_Bank). Position [scaling](https://learn.tradimo.com/dont-go-broke-protect-your-capital/scaling-in-and-out-of-trades) and [hedging](https://www.investopedia.com/ask/answers/forex/forex-hedge-and-currency-hedging-strategy.asp) may happen on an instrument but do not mistaken them as part of the strategy. The strategy merely takes on new position as market opportunity presents itself, i.e. decision making process of opening a new position does not take existing position(s) into consideration.
 
 The historical strategy performance report is as follows:
 
@@ -157,7 +159,9 @@ The second strategy that Cyamus developed is on two (2) stock index pairs: <b>US
 
 ### <i class='fa fa-pie-chart'></i> | <i class='fa fa-cogs'></i> 按倉位比例大小建倉<br>Fixed Percentage
 
-In the following reports, all positions are opened with <s>0.01 [standard lot](https://www.investopedia.com/terms/s/standard-lot.asp)</s>. Position [scaling](https://learn.tradimo.com/dont-go-broke-protect-your-capital/scaling-in-and-out-of-trades) and [hedging](https://www.investopedia.com/ask/answers/forex/forex-hedge-and-currency-hedging-strategy.asp) may happen on an instrument but do not mistaken them as part of the strategy. The strategy merely takes on new position as market opportunity presents itself, i.e. decision making process of opening a new position does not take existing position(s) into consideration.
+In the following reports, fixed percentage is used as the position sizing technique. All new positions are sized based on **current account balance** (**CAB**) at time of opening a new position and **[maximum drawdown](https://www.investopedia.com/terms/m/maximum-drawdown-mdd.asp)** (**MDD**). The size of new position is equal to **0.1 * 10% * CAB/MDD**, where the 0.1 is the minimum transaction size on stock index pairs permissible by [Dukascopy Bank](https://en.wikipedia.org/wiki/Dukascopy_Bank) and the 10% is the controlling factor for **[risk capital](https://www.investopedia.com/terms/r/riskcapital.asp)**.
+
+Position [scaling](https://learn.tradimo.com/dont-go-broke-protect-your-capital/scaling-in-and-out-of-trades) and [hedging](https://www.investopedia.com/ask/answers/forex/forex-hedge-and-currency-hedging-strategy.asp) may happen on an instrument but do not mistaken them as part of the strategy. The strategy merely takes on new position as market opportunity presents itself, i.e. decision making process of opening a new position does not take existing position(s) into consideration.
 
 The historical strategy performance report is as follows:
 
@@ -176,9 +180,9 @@ The historical strategy performance report is as follows:
 - Win Rate: 39.11%
 - Win # / Loss #: 0.64
 
-### <i class='fa fa-pie-chart'></i> 固定倉位大小<br>Fixed Lot (0.1)
+### <i class='fa fa-pie-chart'></i> | <i class='fa fa-cog'></i> 固定倉位大小<br>Fixed Lot (0.1)
 
-In this report, all positions are opened with 0.1 [standard lot](https://www.investopedia.com/terms/s/standard-lot.asp). Position [scaling](https://learn.tradimo.com/dont-go-broke-protect-your-capital/scaling-in-and-out-of-trades) and [hedging](https://www.investopedia.com/ask/answers/forex/forex-hedge-and-currency-hedging-strategy.asp) may happen on an instrument but do not mistaken them as part of the strategy. The strategy merely takes on new position as market opportunity presents itself, i.e. decision making process of opening a new position does not take existing position(s) into consideration.
+In this report, all positions are opened with 0.1 [standard lot](https://www.investopedia.com/terms/s/standard-lot.asp), which is the minimum transaction size on stock index pairs permissible by [Dukascopy Bank](https://en.wikipedia.org/wiki/Dukascopy_Bank). Position [scaling](https://learn.tradimo.com/dont-go-broke-protect-your-capital/scaling-in-and-out-of-trades) and [hedging](https://www.investopedia.com/ask/answers/forex/forex-hedge-and-currency-hedging-strategy.asp) may happen on an instrument but do not mistaken them as part of the strategy. The strategy merely takes on new position as market opportunity presents itself, i.e. decision making process of opening a new position does not take existing position(s) into consideration.
 
 The historical strategy performance report is as follows:
 
