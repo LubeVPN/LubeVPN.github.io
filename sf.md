@@ -137,8 +137,8 @@ The historical strategy performance report is as follows:
 
 #### <i class='fa fa-pie-chart'></i> | <i class='fa fa-cogs'></i> | 2004 - July 2020
 
-[![Index_Pairs](/img_pr/index_percent_capitalChart_2014_2020.png "Index Pairs Performance Report")](/img_pr/index_percent_capitalChart_2014_2020.png)
 ![Index_Pairs](/img_pr/index_percent_profitColumn_2014_2020.png "Index Pairs Performance Report")
+[![Index_Pairs](/img_pr/index_percent_capitalChart_2014_2020.png "Index Pairs Performance Report")](/img_pr/index_percent_capitalChart_2014_2020.png)
 [![Index_Pairs](/img_pr/index_percent_monthlyPerformance_2014_2020.png "Index Pairs Performance Report")](/img_pr/index_percent_monthlyPerformance_2014_2020.png)
 
 23605 trades are made from 2014 to July 2020. Average 13.84 positions are opened on every trading day.
