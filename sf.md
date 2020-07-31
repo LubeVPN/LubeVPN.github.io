@@ -37,23 +37,68 @@ The earliest strategy that Cyamus developed is on three (3) Japanese Yen pairs: 
 
 In the following reports, all positions are opened with <s>0.01 [standard lot](https://www.investopedia.com/terms/s/standard-lot.asp)</s>. Position [scaling](https://learn.tradimo.com/dont-go-broke-protect-your-capital/scaling-in-and-out-of-trades) and [hedging](https://www.investopedia.com/ask/answers/forex/forex-hedge-and-currency-hedging-strategy.asp) may happen on an instrument but do not mistaken them as part of the strategy. The strategy merely takes on new position as market opportunity presents itself, i.e. decision making process of opening a new position does not take existing position(s) into consideration.
 
-The historical strategy performance report is as follows:
-
-#### <i class='fa fa-yen'></i> | <i class='fa fa-cogs'></i> | 2004 - July 2020
-
-[![JPY_Pairs](/img_pr/jpy_percent_capitalChart_2020.png "JPY Pairs Performance Report")](/img_pr/jpy_percent_capitalChart_2020.png)
-[![JPY_Pairs](/img_pr/jpy_percent_capitalChart_2018_2019.png "JPY Pairs Performance Report")](/img_pr/jpy_percent_capitalChart_2018_2019.png)
-[![JPY_Pairs](/img_pr/jpy_percent_capitalChart_2016_2017.png "JPY Pairs Performance Report")](/img_pr/jpy_percent_capitalChart_2016_2017.png)
-[![JPY_Pairs](/img_pr/jpy_percent_capitalChart_2014_2015.png "JPY Pairs Performance Report")](/img_pr/jpy_percent_capitalChart_2014_2015.png)
-[![JPY_Pairs](/img_pr/jpy_percent_capitalChart_2012_2013.png "JPY Pairs Performance Report")](/img_pr/jpy_percent_capitalChart_2012_2013.png)
-[![JPY_Pairs](/img_pr/jpy_percent_capitalChart_2010_2011.png "JPY Pairs Performance Report")](/img_pr/jpy_percent_capitalChart_2010_2011.png)
-[![JPY_Pairs](/img_pr/jpy_percent_capitalChart_2008_2009.png "JPY Pairs Performance Report")](/img_pr/jpy_percent_capitalChart_2008_2009.png)
-[![JPY_Pairs](/img_pr/jpy_percent_capitalChart_2006_2007.png "JPY Pairs Performance Report")](/img_pr/jpy_percent_capitalChart_2006_2007.png)
-[![JPY_Pairs](/img_pr/jpy_percent_capitalChart_2004_2005.png "JPY Pairs Performance Report")](/img_pr/jpy_percent_capitalChart_2004_2005.png)
+Period tested from 2004 up to July 2020:
 
 - Max Drawdown: -7.36%
 - Largest Win: +4.32%
 - Largest Loss: -1.93%
+
+The historical strategy performance report is as follows:
+
+#### <i class='fa fa-yen'></i> | <i class='fa fa-cogs'></i> | 2020
+
+**Risk Return Ratio** ([CAGR](https://www.investopedia.com/terms/c/cagr.asp) / [MDD](https://www.investopedia.com/terms/m/maximum-drawdown-mdd.asp)) is **2.07**.
+
+[![JPY_Pairs](/img_pr/jpy_percent_capitalChart_2020.png "JPY Pairs Performance Report")](/img_pr/jpy_percent_capitalChart_2020.png)
+
+#### <i class='fa fa-yen'></i> | <i class='fa fa-cogs'></i> | 2018 - 2019
+
+**Risk Return Ratio** ([CAGR](https://www.investopedia.com/terms/c/cagr.asp) / [MDD](https://www.investopedia.com/terms/m/maximum-drawdown-mdd.asp)) is **10.54**.
+
+[![JPY_Pairs](/img_pr/jpy_percent_capitalChart_2018_2019.png "JPY Pairs Performance Report")](/img_pr/jpy_percent_capitalChart_2018_2019.png)
+
+#### <i class='fa fa-yen'></i> | <i class='fa fa-cogs'></i> | 2016 - 2017
+
+**Risk Return Ratio** ([CAGR](https://www.investopedia.com/terms/c/cagr.asp) / [MDD](https://www.investopedia.com/terms/m/maximum-drawdown-mdd.asp)) is **14.96**.
+
+[![JPY_Pairs](/img_pr/jpy_percent_capitalChart_2016_2017.png "JPY Pairs Performance Report")](/img_pr/jpy_percent_capitalChart_2016_2017.png)
+
+#### <i class='fa fa-yen'></i> | <i class='fa fa-cogs'></i> | 2014 - 2015
+
+**Risk Return Ratio** ([CAGR](https://www.investopedia.com/terms/c/cagr.asp) / [MDD](https://www.investopedia.com/terms/m/maximum-drawdown-mdd.asp)) is **11.28**.
+
+[![JPY_Pairs](/img_pr/jpy_percent_capitalChart_2014_2015.png "JPY Pairs Performance Report")](/img_pr/jpy_percent_capitalChart_2014_2015.png)
+
+#### <i class='fa fa-yen'></i> | <i class='fa fa-cogs'></i> | 2012 - 2013
+
+**Risk Return Ratio** ([CAGR](https://www.investopedia.com/terms/c/cagr.asp) / [MDD](https://www.investopedia.com/terms/m/maximum-drawdown-mdd.asp)) is **15.04**.
+
+[![JPY_Pairs](/img_pr/jpy_percent_capitalChart_2012_2013.png "JPY Pairs Performance Report")](/img_pr/jpy_percent_capitalChart_2012_2013.png)
+
+#### <i class='fa fa-yen'></i> | <i class='fa fa-cogs'></i> | 2010 - 2011
+
+**Risk Return Ratio** ([CAGR](https://www.investopedia.com/terms/c/cagr.asp) / [MDD](https://www.investopedia.com/terms/m/maximum-drawdown-mdd.asp)) is **17.34**.
+
+[![JPY_Pairs](/img_pr/jpy_percent_capitalChart_2010_2011.png "JPY Pairs Performance Report")](/img_pr/jpy_percent_capitalChart_2010_2011.png)
+
+#### <i class='fa fa-yen'></i> | <i class='fa fa-cogs'></i> | 2008 - 2009
+
+**Risk Return Ratio** ([CAGR](https://www.investopedia.com/terms/c/cagr.asp) / [MDD](https://www.investopedia.com/terms/m/maximum-drawdown-mdd.asp)) is **15.74**.
+
+[![JPY_Pairs](/img_pr/jpy_percent_capitalChart_2008_2009.png "JPY Pairs Performance Report")](/img_pr/jpy_percent_capitalChart_2008_2009.png)
+
+#### <i class='fa fa-yen'></i> | <i class='fa fa-cogs'></i> | 2006 - 2007
+
+**Risk Return Ratio** ([CAGR](https://www.investopedia.com/terms/c/cagr.asp) / [MDD](https://www.investopedia.com/terms/m/maximum-drawdown-mdd.asp)) is **9.14**.
+
+[![JPY_Pairs](/img_pr/jpy_percent_capitalChart_2006_2007.png "JPY Pairs Performance Report")](/img_pr/jpy_percent_capitalChart_2006_2007.png)
+
+#### <i class='fa fa-yen'></i> | <i class='fa fa-cogs'></i> | 2004 - 2005
+
+**Risk Return Ratio** ([CAGR](https://www.investopedia.com/terms/c/cagr.asp) / [MDD](https://www.investopedia.com/terms/m/maximum-drawdown-mdd.asp)) is **6.5**.
+
+[![JPY_Pairs](/img_pr/jpy_percent_capitalChart_2004_2005.png "JPY Pairs Performance Report")](/img_pr/jpy_percent_capitalChart_2004_2005.png)
+
 
 ### <i class='fa fa-yen'></i> | <i class='fa fa-cog'></i> 固定倉位大小<br>Fixed Lot (0.01)
 
@@ -122,7 +167,7 @@ The historical strategy performance report is as follows:
 [![Index_Pairs](/img_pr/index_percent_capitalChart_2014_2020.png "Index Pairs Performance Report")](/img_pr/index_percent_capitalChart_2014_2020.png)
 ![Index_Pairs](/img_pr/index_percent_monthlyPerformance_2014_2020.png "Index Pairs Performance Report")
 
-23605 trades are made from 2014 to July 2020. Average 13.84 positions are opened on every trading day. Averaged Annualized Risk Return Ratio ([CAGR](https://www.investopedia.com/terms/c/cagr.asp)/[MDD](https://www.investopedia.com/terms/m/maximum-drawdown-mdd.asp)) is 12.37.
+23605 trades are made from 2014 to July 2020. Average 13.84 positions are opened on every trading day. **Averaged Annualized Risk Return Ratio** ([CAGR](https://www.investopedia.com/terms/c/cagr.asp) / [MDD](https://www.investopedia.com/terms/m/maximum-drawdown-mdd.asp)) is **12.37**.
 
 - Max Drawdown: -10.30%
 - Largest Win: +598.90%
