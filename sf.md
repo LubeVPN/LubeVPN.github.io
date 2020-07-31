@@ -174,7 +174,7 @@ The historical strategy performance report is as follows:
 [![Index_Pairs](/img_pr/index_percent_capitalChart_2014_2020.png "Index Pairs Performance Report")](/img_pr/index_percent_capitalChart_2014_2020.png)
 ![Index_Pairs](/img_pr/index_percent_monthlyPerformance_2014_2020.png "Index Pairs Performance Report")
 
-23605 trades are made from 2014 to July 2020. Average 13.84 positions are opened on every trading day. **Averaged Annualized Reward-to-Risk Ratio** ([CAGR](https://www.investopedia.com/terms/c/cagr.asp) / [MDD](https://www.investopedia.com/terms/m/maximum-drawdown-mdd.asp)) is **12.37**.
+23605 trades are made from 2014 to July 2020. Average 13.84 positions are opened on every trading day. **Annualized Reward-to-Risk Ratio** ([CAGR](https://www.investopedia.com/terms/c/cagr.asp) / [MDD](https://www.investopedia.com/terms/m/maximum-drawdown-mdd.asp)) is **12.37**.
 
 - Max Drawdown: -10.30%
 - Largest Win: +598.90%
