@@ -71,7 +71,7 @@ The historical strategy performance report is as follows:
 
 - Profit Factor: 1.47
 - Win Rate: 49.27%
-- Wins/Losses Ratio: 0.97
+- Win #/Loss #: 0.97
 - Max Drawdown: -511.93 USD
 - Largest Win: +64.65 USD
 - Largest Loss: -22.08 USD
@@ -86,7 +86,7 @@ The historical strategy performance report is as follows:
 
 - Profit Factor: 1.65
 - Win Rate: 50.36%
-- Wins/Losses Ratio: 1.01
+- Win #/Loss #: 1.01
 - Max Drawdown: -314.30 USD
 - Largest Win: +87.66 USD
 - Largest Loss: -26.84 USD
@@ -101,7 +101,7 @@ The historical strategy performance report is as follows:
 
 - Profit Factor: 1.55
 - Win Rate: 51.30%
-- Wins/Losses Ratio: 1.05
+- Win #/Loss #: 1.05
 - Max Drawdown: -379.47 USD
 - Largest Win: +63.57 USD
 - Largest Loss: -24.42 USD
@@ -120,16 +120,16 @@ The historical strategy performance report is as follows:
 
 ![Index_Pairs](/img_pr/index_percent_profitColumn_2014_2020.png "Index Pairs Performance Report")
 [![Index_Pairs](/img_pr/index_percent_capitalChart_2014_2020.png "Index Pairs Performance Report")](/img_pr/index_percent_capitalChart_2014_2020.png)
-[![Index_Pairs](/img_pr/index_percent_monthlyPerformance_2014_2020.png "Index Pairs Performance Report")](/img_pr/index_percent_monthlyPerformance_2014_2020.png)
+![Index_Pairs](/img_pr/index_percent_monthlyPerformance_2014_2020.png "Index Pairs Performance Report")
 
-23605 trades are made from 2014 to July 2020. Average 13.84 positions are opened on every trading day.
+23605 trades are made from 2014 to July 2020. Average 13.84 positions are opened on every trading day. Averaged Annualized Risk Return Ratio ([CAGR](https://www.investopedia.com/terms/c/cagr.asp)/[MDD](https://www.investopedia.com/terms/m/maximum-drawdown-mdd.asp)) is 12.37.
 
-- Profit Factor: 1.76
-- Win Rate: 39.11%
-- Wins/Losses Ratio: 0.64
-- Max Drawdown: -10.3%
+- Max Drawdown: -10.30%
 - Largest Win: +598.90%
 - Largest Loss: -145.69%
+- Profit Factor: 1.76
+- Win Rate: 39.11%
+- Win # / Loss #: 0.64
 
 ### <i class='fa fa-pie-chart'></i> 固定倉位大小<br>Fixed Lot (0.1)
 
@@ -147,7 +147,7 @@ The historical strategy performance report is as follows:
 
 - Profit Factor: 1.70
 - Win Rate: 39.11%
-- Wins/Losses Ratio: 0.64
+- Wins #/Loss #: 0.64
 - Max Drawdown: -5452.53 USD
 - Largest Win: +1303.12 USD
 - Largest Loss: -551.22 USD
