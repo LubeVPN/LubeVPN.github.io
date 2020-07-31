@@ -10,7 +10,6 @@ googlefonts: ["Roboto Condensed"]
 
 <i class='fa fa-university'></i> **Cyamus Trading Technology** is founded in 2019 by [Terry Li](https://bit.ly/terryli) (ex-VP of [796 Exchange](https://www.796.com), ex-CEO of [TDEx](https://www.tdex.com), and a license distributor of [Trading System Lab](https://www.tradingsystemlab.com) for the greater China region). Analysts and system developers of Cyamus came from reputable software, finance and data analytics firms, such as Google, Deutsche Bank and DataArt. Cyamus focuses on developing mid-frequency trading strategies for the financial instruments that offer the highest [spread-to-pip potential](https://www.investopedia.com/articles/forex/10/spread-pip-potential-pairs-day-trading.asp):
 
-
 - <i class='fa fa-yen'></i> **Japanese Yen Pairs**
   - US Dollar to Japanese Yen
     - *USD/JPY*
@@ -50,11 +49,9 @@ The earliest strategy that Cyamus developed is on three (3) Japanese Yen pairs: 
 
 ### <i class='fa fa-yen'></i> | <i class='fa fa-cogs'></i> 按倉位比例大小建倉<br>Fixed Percentage
 
-In the following reports, fixed percentage is used as the position sizing technique. All new positions are sized based on **current account balance** (**CAB**) at time of opening a new position and **[maximum drawdown](https://www.investopedia.com/terms/m/maximum-drawdown-mdd.asp)** (**MDD**). The size of new position is equal to **0.01 * 10% * CAB/MDD**, where the 0.01 is the minimum transaction size on forex currency pairs permissible by [Dukascopy Bank](https://en.wikipedia.org/wiki/Dukascopy_Bank) and the 10% is the controlling factor for **[risk capital](https://www.investopedia.com/terms/r/riskcapital.asp)**.
+In the following reports, fixed percentage is used as the position sizing technique. All new positions are sized based on **current account balance** (**CAB**) at time of opening a new position and **[maximum drawdown](https://www.investopedia.com/terms/m/maximum-drawdown-mdd.asp)** (**MDD**). The size of new position is equal to **0.01 * 10% * CAB/MDD**, where the 0.01 is the minimum transaction size on forex currency pairs permissible by [Dukascopy Bank](https://en.wikipedia.org/wiki/Dukascopy_Bank), the 10% is the controlling factor for **[risk capital](https://www.investopedia.com/terms/r/riskcapital.asp)**, and the **MDD** is **-7.36%** based on 2004 to July 2020 historical performance data.
 
 Position [scaling](https://learn.tradimo.com/dont-go-broke-protect-your-capital/scaling-in-and-out-of-trades) and [hedging](https://www.investopedia.com/ask/answers/forex/forex-hedge-and-currency-hedging-strategy.asp) may happen on an instrument but do not mistaken them as part of the strategy. The strategy merely takes on new position as market opportunity presents itself, i.e. decision making process of opening a new position does not take existing position(s) into consideration.
-
-Period tested from 2004 up to July 2020, the maximum drawdown (MDD) is -7.36%.
 
 The historical strategy performance report is broken down in year as follows:
 
@@ -176,7 +173,7 @@ The second strategy that Cyamus developed is on two (2) stock index pairs: <b>US
 
 ### <i class='fa fa-pie-chart'></i> | <i class='fa fa-cogs'></i> 按倉位比例大小建倉<br>Fixed Percentage
 
-In the following reports, fixed percentage is used as the position sizing technique. All new positions are sized based on **current account balance** (**CAB**) at time of opening a new position and **[maximum drawdown](https://www.investopedia.com/terms/m/maximum-drawdown-mdd.asp)** (**MDD**). The size of new position is equal to **0.1 * 10% * CAB/MDD**, where the 0.1 is the minimum transaction size on stock index pairs permissible by [Dukascopy Bank](https://en.wikipedia.org/wiki/Dukascopy_Bank) and the 10% is the controlling factor for **[risk capital](https://www.investopedia.com/terms/r/riskcapital.asp)**.
+In the following reports, fixed percentage is used as the position sizing technique. All new positions are sized based on **current account balance** (**CAB**) at time of opening a new position and **[maximum drawdown](https://www.investopedia.com/terms/m/maximum-drawdown-mdd.asp)** (**MDD**). The size of new position is equal to **0.1 * 10% * CAB/MDD**, where the 0.1 is the minimum transaction size on stock index pairs permissible by [Dukascopy Bank](https://en.wikipedia.org/wiki/Dukascopy_Bank), the 10% is the controlling factor for **[risk capital](https://www.investopedia.com/terms/r/riskcapital.asp)**, and the **MDD** is **-10.30%** based on 2014 to July 2020 historical performance data.
 
 Position [scaling](https://learn.tradimo.com/dont-go-broke-protect-your-capital/scaling-in-and-out-of-trades) and [hedging](https://www.investopedia.com/ask/answers/forex/forex-hedge-and-currency-hedging-strategy.asp) may happen on an instrument but do not mistaken them as part of the strategy. The strategy merely takes on new position as market opportunity presents itself, i.e. decision making process of opening a new position does not take existing position(s) into consideration.
 
@@ -193,7 +190,6 @@ The historical strategy performance report is as follows:
 - Profit Factor: 1.76
 - Win Rate: 39.11%
 - Win # / Loss #: 0.64
-- Max Drawdown: -10.30%
 
 ### <i class='fa fa-pie-chart'></i> | <i class='fa fa-cog'></i> 固定倉位大小<br>Fixed Lot (0.1)
 
