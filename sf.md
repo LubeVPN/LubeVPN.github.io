@@ -6,9 +6,9 @@ bigimg: /img_pr/cyamus_bg.jpg
 googlefonts: ["Roboto Condensed"]
 ---
 
-<i class='fa fa-grav'></i> **塞瑪交易科技** 於2019年由[李明先生](https://bit.ly/terryli)成立（前[796交易所](https://www.796.com)副總裁、前[TDEx交易所](https://www.tdex.com)CEO、[TSL系統](https://www.tradingsystemlab.com)大中華區分銷代理），核心成員來自軟件、金融和數據分析的馳名企業，例如谷歌、德意志銀行和 DataArt。塞瑪資本專注開發中頻交易策略，專注於金融市場中[波動率點差潛力](https://www.investopedia.com/articles/forex/10/spread-pip-potential-pairs-day-trading.asp)最高的交易工具：
+<i class='fa fa-university'></i> **塞瑪交易科技** 於2019年由[李明先生](https://bit.ly/terryli)成立（前[796交易所](https://www.796.com)副總裁、前[TDEx交易所](https://www.tdex.com)CEO、[TSL系統](https://www.tradingsystemlab.com)大中華區分銷代理），核心成員來自軟件、金融和數據分析的馳名企業，例如谷歌、德意志銀行和 DataArt。塞瑪資本專注開發中頻交易策略，專注於金融市場中[波動率點差潛力](https://www.investopedia.com/articles/forex/10/spread-pip-potential-pairs-day-trading.asp)最高的交易工具：
 
-<i class='fa fa-grav'></i> **Cyamus Trading Technology** is founded in 2019 by [Terry Li](https://bit.ly/terryli) (ex-VP of [796 Exchange](https://www.796.com), ex-CEO of [TDEx](https://www.tdex.com), and a license distributor of [Trading System Lab](https://www.tradingsystemlab.com) for the greater China region). Analysts and system developers of Cyamus came from reputable software, finance and data analytics firms, such as Google, Deutsche Bank and DataArt. Cyamus focuses on developing mid-frequency trading strategies for the financial instruments that offer the highest [spread-to-pip potential](https://www.investopedia.com/articles/forex/10/spread-pip-potential-pairs-day-trading.asp):
+<i class='fa fa-university'></i> **Cyamus Trading Technology** is founded in 2019 by [Terry Li](https://bit.ly/terryli) (ex-VP of [796 Exchange](https://www.796.com), ex-CEO of [TDEx](https://www.tdex.com), and a license distributor of [Trading System Lab](https://www.tradingsystemlab.com) for the greater China region). Analysts and system developers of Cyamus came from reputable software, finance and data analytics firms, such as Google, Deutsche Bank and DataArt. Cyamus focuses on developing mid-frequency trading strategies for the financial instruments that offer the highest [spread-to-pip potential](https://www.investopedia.com/articles/forex/10/spread-pip-potential-pairs-day-trading.asp):
 
 
 - <i class='fa fa-yen'></i> 日元貨幣對<br>Japanese Yen Pairs
