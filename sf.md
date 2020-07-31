@@ -19,7 +19,7 @@ googlefonts: ["Roboto Condensed"]
   - Great British Pound to Japanese Yen
     - *GBP/JPY*
 
-<i class='fa fa-yen'></i> Yen strategy is historically back-tested since the year 2004 based on bid-n-ask tick data provided by [Dukascopy Bank](https://en.wikipedia.org/wiki/Dukascopy_Bank). Maximum leverage used *has never exceeded* **7.42X**; therefore most brokers may accommodate the strategy.
+<i class='fa fa-yen'></i> Yen Strategy is historically back-tested since the year 2004 based on bid-n-ask tick data provided by [Dukascopy Bank](https://en.wikipedia.org/wiki/Dukascopy_Bank). Maximum leverage used *has never exceeded* **7.42X**; therefore most brokers may accommodate the strategy.
 
 - <i class='fa fa-pie-chart'></i> **Stock Index Pairs**
   - US Dow Jones Industrial Average
@@ -27,7 +27,11 @@ googlefonts: ["Roboto Condensed"]
   - Germany DAX 30 Stock Market Index
     - *DEU.IDX/EUR*
 
-<i class='fa fa-pie-chart'></i> Index strategy is historically back-tested since the year 2014 based on bid-n-ask tick data provided by [Dukascopy Bank](https://en.wikipedia.org/wiki/Dukascopy_Bank). Maximum leverage used *has never exceeded* **14.35X**; therefore most brokers may accommodate the strategy.
+<i class='fa fa-pie-chart'></i> Index Strategy is historically back-tested since the year 2014 based on bid-n-ask tick data provided by [Dukascopy Bank](https://en.wikipedia.org/wiki/Dukascopy_Bank). Maximum leverage used *has never exceeded* **14.35X**; therefore most brokers may accommodate the strategy.
+
+## <i class='fa fa-bar-chart'></i> 投資用戶成績<br>LIVE Performance
+
+Both <i class='fa fa-yen'></i> Yen Strategy and <i class='fa fa-pie-chart'></i> Index Strategy has gone LIVE since February 2019. You may learn more about how you can benefit from partnering with <i class='fa fa-university'></i> Cyamus by reading the following report that contains the LIVE trading performance data and clients' testimonials:
 
 <a href="/img_pr/Cyamus_Trading.pdf"><i class='fa fa-download'></i> Cyamus Clients' LIVE Trading Performance Reports & Testimonials in PDF</a>
 {: .myDownloadButton}
