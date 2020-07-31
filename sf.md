@@ -26,7 +26,7 @@ Quantitative developers of Cyamus focus on researching and developing mid-freque
     - *GBP/JPY*
 
 {: .box-note}
-<i class='fa fa-yen'></i> **Cyamus Yen Strategy** is historically back-tested since the year 2004 based on bid-n-ask tick data provided by [Dukascopy Bank](https://en.wikipedia.org/wiki/Dukascopy_Bank). Maximum leverage used *has never exceeded* **7.42X**; therefore most brokers may accommodate the strategy.
+<i class='fa fa-yen'></i> **Cyamus Yen Strategy** is historically back-tested since the year 2004 based on bid-n-ask tick data provided by [Dukascopy Bank](https://en.wikipedia.org/wiki/Dukascopy_Bank). Forex brokerage industry is trending toward offering higher and higher [leverage ratio](https://www.investopedia.com/ask/answers/06/forexleverage.asp), sometimes up to 200:1 but the positions signaled by Cyamus Yen Strategy *have never* exceeded **7.42:1**. Therefore, our clients can take comfort in knowing that most of the forex brokers that they have been using for years are most likely to be compatible with Cyamus Yen Strategy.
 
 - **Stock Index Pairs**
   - US Dow Jones Industrial Average
@@ -35,7 +35,7 @@ Quantitative developers of Cyamus focus on researching and developing mid-freque
     - *DEU.IDX/EUR*
 
 {: .box-note}
-<i class='fa fa-pie-chart'></i> **Cyamus Index Strategy** is historically back-tested since the year 2014 based on bid-n-ask tick data provided by [Dukascopy Bank](https://en.wikipedia.org/wiki/Dukascopy_Bank). Maximum leverage used *has never exceeded* **14.35X**; therefore most brokers may accommodate the strategy.
+<i class='fa fa-pie-chart'></i> **Cyamus Index Strategy** is historically back-tested since the year 2014 based on bid-n-ask tick data provided by [Dukascopy Bank](https://en.wikipedia.org/wiki/Dukascopy_Bank). The positions signaled by Cyamus Index Strategy *have never* exceeded **14.35:1**, well below the maximum leverage ratio of 50:1 offered by Dukascopy Bank.
 
 ## <i class='fa fa-bar-chart'></i> 投資用戶成績<br>LIVE Performance
 
