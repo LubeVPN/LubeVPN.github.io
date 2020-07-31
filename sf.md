@@ -11,18 +11,18 @@ googlefonts: ["Roboto Condensed"]
 <i class='fa fa-university'></i> **Cyamus Trading Technology** is founded in 2019 by [Terry Li](https://bit.ly/terryli) (ex-VP of [796 Exchange](https://www.796.com), ex-CEO of [TDEx](https://www.tdex.com), and a license distributor of [Trading System Lab](https://www.tradingsystemlab.com) for the greater China region). Analysts and system developers of Cyamus came from reputable software, finance and data analytics firms, such as Google, Deutsche Bank and DataArt. Cyamus focuses on developing mid-frequency trading strategies for the financial instruments that offer the highest [spread-to-pip potential](https://www.investopedia.com/articles/forex/10/spread-pip-potential-pairs-day-trading.asp):
 
 
-- <i class='fa fa-yen'></i> 日元貨幣對<br>Japanese Yen Pairs
+- <i class='fa fa-yen'></i> **Japanese Yen Pairs**
   - US Dollar to Japanese Yen
-    - USDJPY
+    - *USD/JPY*
   - Euro Dollar to Japanese Yen
-    - EURJPY
+    - *EUR/JPY*
   - Great British Pound to Japanese Yen
-    - GBPJPY
-- <i class='fa fa-pie-chart'></i> 股票指數對<br>Stock Index Pairs
+    - *GBP/JPY*
+- <i class='fa fa-pie-chart'></i> **Stock Index Pairs**
   - US Dow Jones Industrial Average
-    - USA30.IDX/USD
+    - *USA30.IDX/USD*
   - Germany DAX 30 Stock Market Index
-    - DEU.IDX/EUR
+    - *DEU.IDX/EUR*
 
 <a href="/img_pr/Cyamus_Trading.pdf"><i class='fa fa-download'></i> Cyamus Clients' Performance Reports & Testimonials in PDF</a>
 {: .myDownloadButton}
