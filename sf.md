@@ -12,6 +12,7 @@ googlefonts: ["Roboto Condensed"]
 
 
 - <i class='fa fa-yen'></i> **Japanese Yen Pairs**
+  Historically back-tested since the year 2004 based on bid-n-ask tick data provided by [Dukascopy Bank](https://en.wikipedia.org/wiki/Dukascopy_Bank):
   - US Dollar to Japanese Yen
     - *USD/JPY*
   - Euro Dollar to Japanese Yen
@@ -19,6 +20,7 @@ googlefonts: ["Roboto Condensed"]
   - Great British Pound to Japanese Yen
     - *GBP/JPY*
 - <i class='fa fa-pie-chart'></i> **Stock Index Pairs**
+  Historically back-tested since the year 2014 based on bid-n-ask tick data provided by [Dukascopy Bank](https://en.wikipedia.org/wiki/Dukascopy_Bank):
   - US Dow Jones Industrial Average
     - *USA30.IDX/USD*
   - Germany DAX 30 Stock Market Index
