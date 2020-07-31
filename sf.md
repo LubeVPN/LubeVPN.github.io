@@ -24,8 +24,11 @@ googlefonts: ["Roboto Condensed"]
   - Germany DAX 30 Stock Market Index
     - *DEU.IDX/EUR*
 
-<a href="/img_pr/Cyamus_Trading.pdf"><i class='fa fa-download'></i> Cyamus Clients' Performance Reports & Testimonials in PDF</a>
+<a href="/img_pr/Cyamus_Trading.pdf"><i class='fa fa-download'></i> Cyamus Clients' LIVE Trading Performance Reports & Testimonials in PDF</a>
 {: .myDownloadButton}
+
+{: .box-success}
+Historical performance matches LIVE trading results in terms of entry and exit price point but actual results might varies based on clients' individual settings of their **[risk capital](https://www.investopedia.com/terms/r/riskcapital.asp)**.
 
 ## <i class='fa fa-yen'></i> 日元貨幣對<br>JPY-Pairs
 
