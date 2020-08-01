@@ -58,45 +58,46 @@ In the following reports, Dynamic Lot is used as the position sizing technique. 
 
 Position [scaling](https://learn.tradimo.com/dont-go-broke-protect-your-capital/scaling-in-and-out-of-trades) and [hedging](https://www.investopedia.com/ask/answers/forex/forex-hedge-and-currency-hedging-strategy.asp) may happen on an instrument but do not mistaken them as part of the strategy. The strategy merely takes on new position as market opportunity presents itself, i.e. decision making process of opening a new position does not take existing position(s) into consideration.
 
-The historical strategy performance report is broken down in year as follows:
+The historical strategy performance report is broken down in three (3) timeframe:
 
-#### <i class='fa fa-yen'></i> | <i class='fa fa-cogs'></i> | 2016 - July 2020
+- Timeframe C
+  - 2016 to July 2020
+- Timeframe B
+  - 2010 to 2015
+- Timeframe A
+  - 2004 to 2009
 
-19676 trades are made. 17.21 positions are opened on every trading day on average. **Annualized Reward-to-Risk Ratio** ([CAGR](https://www.investopedia.com/terms/c/cagr.asp) / [MDD](https://www.investopedia.com/terms/m/maximum-drawdown-mdd.asp)) is **6.58**.
+#### <i class='fa fa-yen'></i> | <i class='fa fa-cogs'></i> | 2016 - July 2020 (C)
+
+During Timeframe C, 19676 trades are made and roughly 17.21 positions are opened on every trading day. **Annualized Reward-to-Risk Ratio** ([CAGR](https://www.investopedia.com/terms/c/cagr.asp) / [MDD](https://www.investopedia.com/terms/m/maximum-drawdown-mdd.asp)) is **6.58**.
 
 - Profit Factor: 1.45
 - Win Rate: 49.27%
 - Win # / Loss #: 0.64
 
-[![JPY_Pairs](/img_pr/jpy_0.01_profitColumn_2016_2020.png "JPY Pairs Performance Report")](/img_pr/jpy_0.01_profitColumn_2016_2020.png)
-
 [![JPY_Pairs](/img_pr/jpy_percent_capitalChart_2016_2020.png "JPY Pairs Performance Report")](/img_pr/jpy_percent_capitalChart_2016_2020.png)
 
 [![JPY_Pairs](/img_pr/jpy_percent_monthlyPerformance_2016_2020.png "JPY Pairs Performance Report")](/img_pr/jpy_percent_monthlyPerformance_2016_2020.png)
 
-#### <i class='fa fa-yen'></i> | <i class='fa fa-cogs'></i> | 2010 - 2015
+#### <i class='fa fa-yen'></i> | <i class='fa fa-cogs'></i> | 2010 - 2015 (B)
 
-26495 trades are made. 21.06 positions are opened on every trading day on average. **Annualized Reward-to-Risk Ratio** ([CAGR](https://www.investopedia.com/terms/c/cagr.asp) / [MDD](https://www.investopedia.com/terms/m/maximum-drawdown-mdd.asp)) is **18.04**.
+During Timeframe B, 26495 trades are made. Roughly 21.06 positions are opened on every trading day. **Annualized Reward-to-Risk Ratio** ([CAGR](https://www.investopedia.com/terms/c/cagr.asp) / [MDD](https://www.investopedia.com/terms/m/maximum-drawdown-mdd.asp)) is **18.04**.
 
 - Profit Factor: 1.57
 - Win Rate: 50.36%
 - Win # / Loss #: 1.01
 
-[![JPY_Pairs](/img_pr/jpy_0.01_profitColumn_2010_2015.png "JPY Pairs Performance Report")](/img_pr/jpy_0.01_profitColumn_2010_2015.png)
-
 [![JPY_Pairs](/img_pr/jpy_percent_capitalChart_2010_2015.png "JPY Pairs Performance Report")](/img_pr/jpy_percent_capitalChart_2010_2015.png)
 
 [![JPY_Pairs](/img_pr/jpy_percent_monthlyPerformance_2010_2015.png "JPY Pairs Performance Report")](/img_pr/jpy_percent_monthlyPerformance_2010_2015.png)
 
-#### <i class='fa fa-yen'></i> | <i class='fa fa-cogs'></i> | 2004 - 2009
+#### <i class='fa fa-yen'></i> | <i class='fa fa-cogs'></i> | 2004 - 2009 (A)
 
-27583 trades are made. 18.23 positions are opened on every trading day on average. **Annualized Reward-to-Risk Ratio** ([CAGR](https://www.investopedia.com/terms/c/cagr.asp) / [MDD](https://www.investopedia.com/terms/m/maximum-drawdown-mdd.asp)) is **12.45**.
+During Timeframe A, 27583 trades are made. Roughly 18.23 positions are opened on every trading day. **Annualized Reward-to-Risk Ratio** ([CAGR](https://www.investopedia.com/terms/c/cagr.asp) / [MDD](https://www.investopedia.com/terms/m/maximum-drawdown-mdd.asp)) is **12.45**.
 
 - Profit Factor: 1.76
 - Win Rate: 51.23%
 - Win # / Loss #: 1.05
-
-[![JPY_Pairs](/img_pr/jpy_0.01_profitColumn_2004_2009.png "JPY Pairs Performance Report")](/img_pr/jpy_0.01_profitColumn_2004_2009.png)
 
 [![JPY_Pairs](/img_pr/jpy_percent_capitalChart_2004_2009.png "JPY Pairs Performance Report")](/img_pr/jpy_percent_capitalChart_2004_2009.png)
 
@@ -109,13 +110,13 @@ In the following reports, all positions are opened with 0.01 [standard lot](http
 
 The historical strategy performance report is as follows:
 
-#### <i class='fa fa-yen'></i> | <i class='fa fa-cog'></i> | 2016 - July 2020
+#### <i class='fa fa-yen'></i> | <i class='fa fa-cog'></i> | 2016 - July 2020 (C)
 
 ![JPY_Pairs](/img_pr/jpy_0.01_profitColumn_2016_2020.png "JPY Pairs Performance Report")
 [![JPY_Pairs](/img_pr/jpy_0.01_capitalChart_2016_2020.png "JPY Pairs Performance Report")](/img_pr/jpy_0.01_capitalChart_2016_2020.png)
 [![JPY_Pairs](/img_pr/jpy_0.01_monthlyPerformance_2016_2020.png "JPY Pairs Performance Report")](/img_pr/jpy_0.01_monthlyPerformance_2016_2020.png)
 
-19676 trades are made from 2016 to July 2020. 16.40 positions are opened on every trading day on average.
+During Timeframe C, 19676 trades are made from 2016 to July 2020. 17.21 positions are opened on every trading day.
 
 - Profit Factor: 1.47
 - Win Rate: 49.27%
@@ -126,13 +127,13 @@ The historical strategy performance report is as follows:
 - Average Win: +4.39 USD
 - Average Loss: -2.58 USD
 
-#### <i class='fa fa-yen'></i> | <i class='fa fa-cog'></i> | 2010 - 2015
+#### <i class='fa fa-yen'></i> | <i class='fa fa-cog'></i> | 2010 - 2015 (B)
 
 ![JPY_Pairs](/img_pr/jpy_0.01_profitColumn_2010_2015.png "JPY Pairs Performance Report")
 [![JPY_Pairs](/img_pr/jpy_0.01_capitalChart_2010_2015.png "JPY Pairs Performance Report")](/img_pr/jpy_0.01_capitalChart_2010_2015.png)
 [![JPY_Pairs](/img_pr/jpy_0.01_monthlyPerformance_2010_2015.png "JPY Pairs Performance Report")](/img_pr/jpy_0.01_monthlyPerformance_2010_2015.png)
 
-26495 trades are made from 2010 to 2015. 16.93 positions are opened on every trading day on average.
+During Timeframe B, 26495 trades are made from 2010 to 2015. Roughly, 21.06 positions are opened on every trading day.
 
 - Profit Factor: 1.65
 - Win Rate: 50.36%
@@ -143,13 +144,13 @@ The historical strategy performance report is as follows:
 - Average Win: +5.61 USD
 - Average Loss: -3.08 USD
 
-#### <i class='fa fa-yen'></i> | <i class='fa fa-cog'></i> | 2004 - 2009
+#### <i class='fa fa-yen'></i> | <i class='fa fa-cog'></i> | 2004 - 2009 (A)
 
 ![JPY_Pairs](/img_pr/jpy_0.01_profitColumn_2004_2009.png "JPY Pairs Performance Report")
 [![JPY_Pairs](/img_pr/jpy_0.01_capitalChart_2004_2009.png "JPY Pairs Performance Report")](/img_pr/jpy_0.01_capitalChart_2004_2009.png)
 [![JPY_Pairs](/img_pr/jpy_0.01_monthlyPerformance_2004_2009.png "JPY Pairs Performance Report")](/img_pr/jpy_0.01_monthlyPerformance_2004_2009.png)
 
-27583 trades are made from 2004 to 2009. 21.14 positions are opened on every trading day on average.
+During Timeframe A, 27583 trades are made from 2004 to 2009. Roughly, 18.23 positions are opened on every trading day.
 
 - Profit Factor: 1.55
 - Win Rate: 51.30%
