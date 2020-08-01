@@ -49,7 +49,7 @@ We believe that spectacular *LIVE* trading results and satisfactory clients are 
 
 All the performance measures presented below have factored in the transaction costs, such as spread, commissions and broker interest charges. In other words, you would have experienced the same impressive results if you manage to travel back in time.
 
-#### <i class='fa fa-yen'></i> 日元貨幣策略<br>Cyamus Yen Strategy
+#### <i class='fa fa-yen'></i> 塞瑪日元策略<br>Cyamus Yen Strategy
 
 The earliest strategy that Cyamus developed is on three (3) Japanese Yen pairs: <b>USDJPY</b>, <b>EURJPY</b> and <b>GBPJPY</b>. It has been traded *LIVE* since Feb 2019 on [Dukascopy Bank](https://en.wikipedia.org/wiki/Dukascopy_Bank). Two (2) sets of historical strategy backtesting reports are presented below based on different account position sizing techniques:
 
@@ -57,7 +57,7 @@ The earliest strategy that Cyamus developed is on three (3) Japanese Yen pairs: 
 - <i class='fa fa-cog'></i> <b>Fixed Lot</b>
   - 0.01 lot for JPY Pairs
 
-#### <i class='fa fa-pie-chart'></i> 股票指數對<br>Stock Index Pairs
+#### <i class='fa fa-pie-chart'></i> 塞瑪股指策略<br>Cyamus Index Strategy
 
 The second strategy that Cyamus developed is on two (2) stock index pairs: <b>USA30.IDX/USD</b> and <b>DEU.IDX/EUR</b>. It has been traded *LIVE* since Feb 2019 on [Dukascopy Bank](https://en.wikipedia.org/wiki/Dukascopy_Bank). Two (2) sets of historical strategy backtesting reports are presented below based on different account position sizing techniques:
 
