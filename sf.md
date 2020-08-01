@@ -45,17 +45,27 @@ Note that <i class='fa fa-yen'></i> **Cyamus Yen Strategy** and <i class='fa fa-
 
 We believe that spectacular *LIVE* trading results and satisfactory clients are only the electrifying parts our trading strategies. You should also analyze our historical trading performance matrices in order to decide for yourselves if our strategy can compliment your existing investment style. In the following, we highlight some of the major performance measures, such as **[maximum drawdown](https://www.investopedia.com/terms/m/maximum-drawdown-mdd.asp)** and **Annualized [Risk Return Ratio](https://en.wikipedia.org/wiki/Risk_return_ratio)** to help you work out your [risk capital](https://www.investopedia.com/terms/r/riskcapital.asp) allocation if you decide to partner with us.
 
-## <i class='fa fa-bar-chart'></i> 交易績效度量<br>Performance Measures
+### <i class='fa fa-bar-chart'></i> 交易績效度量<br>Performance Measures
 
 All the performance measures presented below have factored in the transaction costs, such as spread, commissions and broker interest charges. In other words, you would have experienced the same impressive results if you manage to travel back in time.
 
-### <i class='fa fa-yen'></i> 日元貨幣策略<br>Cyamus Yen Strategy
+#### <i class='fa fa-yen'></i> 日元貨幣策略<br>Cyamus Yen Strategy
 
 The earliest strategy that Cyamus developed is on three (3) Japanese Yen pairs: <b>USDJPY</b>, <b>EURJPY</b> and <b>GBPJPY</b>. It has been traded *LIVE* since Feb 2019 on [Dukascopy Bank](https://en.wikipedia.org/wiki/Dukascopy_Bank). Two (2) sets of historical strategy backtesting reports are presented below based on different account position sizing techniques:
 
 - <i class='fa fa-cogs'></i> <b>Dynamic Lot</b>;
 - <i class='fa fa-cog'></i> <b>Fixed Lot</b>
   - 0.01 lot for JPY Pairs
+
+#### <i class='fa fa-pie-chart'></i> 股票指數對<br>Stock Index Pairs
+
+The second strategy that Cyamus developed is on two (2) stock index pairs: <b>USA30.IDX/USD</b> and <b>DEU.IDX/EUR</b>. It has been traded *LIVE* since Feb 2019 on [Dukascopy Bank](https://en.wikipedia.org/wiki/Dukascopy_Bank). Two (2) sets of historical strategy backtesting reports are presented below based on different account position sizing techniques:
+
+- <i class='fa fa-cogs'></i> <b> Dynamic Lot</b>;
+- <i class='fa fa-cog'></i> <b> Fixed Lot</b>
+  - 0.1 lot for Stock Index Pairs
+
+All the numbers presented below have factored in the transaction costs, such as spread, commissions and broker interest charges. In other words, you would have experienced the same results if you manage to travel back in time to trade <i class='fa fa-yen'></i> **Cyamus Yen Strategy** and <i class='fa fa-yen'></i> **Cyamus Index Strategy** *LIVE*.
 
 ### <i class='fa fa-yen'></i> | <i class='fa fa-cogs'></i> 動態手數<br>Dynamic Lot
 
@@ -160,16 +170,6 @@ During Timeframe A, 27583 trades are made from 2004 to 2009. Roughly, 18.23 posi
 - Largest Loss: -24.42 USD
 - Average Win: +4.98 USD
 - Average Loss: -3.04 USD
-
-## <i class='fa fa-pie-chart'></i> 股票指數對<br>Stock Index Pairs
-
-The second strategy that Cyamus developed is on two (2) stock index pairs: <b>USA30.IDX/USD</b> and <b>DEU.IDX/EUR</b>. It has been traded *LIVE* since Feb 2019 on [Dukascopy Bank](https://en.wikipedia.org/wiki/Dukascopy_Bank). Two (2) sets of historical strategy backtesting reports are presented below based on different account position sizing techniques:
-
-- <i class='fa fa-cogs'></i> <b> Dynamic Lot</b>;
-- <i class='fa fa-cog'></i> <b> Fixed Lot</b>
-  - 0.1 lot for Stock Index Pairs
-
-All the numbers presented below have factored in the transaction costs, such as spread, commissions and broker interest charges. In other words, you would have experienced the same results if you manage to travel back in time to trade the <i class='fa fa-yen'></i> **Cyamus Index Strategy** *LIVE*.
 
 ### <i class='fa fa-pie-chart'></i> | <i class='fa fa-cogs'></i> 動態手數<br>Dynamic Lot
 
