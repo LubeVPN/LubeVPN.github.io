@@ -36,7 +36,7 @@ Our quantitative developers focus on researching and developing mid-frequency tr
 
 Note that <i class='fa fa-yen'></i> **Cyamus Yen Strategy** and <i class='fa fa-pie-chart'></i> **Cyamus Index Strategy** take on new position as market opportunity presents itself, i.e. decision making process of opening a new position does not take existing position(s) into consideration. Therefore, position [scaling](https://learn.tradimo.com/dont-go-broke-protect-your-capital/scaling-in-and-out-of-trades) and [hedging](https://www.investopedia.com/ask/answers/forex/forex-hedge-and-currency-hedging-strategy.asp) may happen but they are not inherit part of the strategy.
 
-## <i class='fa fa-bar-chart'></i> 交易策略績效<br>Trade Performance
+## <i class='fa fa-university'></i> Cyamus Strategies<br>
 
 <i class='fa fa-yen'></i> **Cyamus Yen Strategy** and <i class='fa fa-pie-chart'></i> **Cyamus Index Strategy** have helped clients trade *LIVE* market since February 2019. Our clients are happy to see that their *LIVE* trading performance resembles historical performance. Note that historical performance resembles *LIVE* trading results in terms of entry and exit price points only. The rates of return on investment vary based on clients' individual [risk tolerance](https://www.investopedia.com/terms/r/risktolerance.asp).
 
@@ -45,16 +45,17 @@ Note that <i class='fa fa-yen'></i> **Cyamus Yen Strategy** and <i class='fa fa-
 
 We believe that spectacular *LIVE* trading results and satisfactory clients are only the electrifying parts our trading strategies. You should also analyze our historical trading performance matrices in order to decide for yourselves if our strategy can compliment your existing investment style. In the following, we highlight some of the major performance measures, such as **[maximum drawdown](https://www.investopedia.com/terms/m/maximum-drawdown-mdd.asp)** and **Annualized [Risk Return Ratio](https://en.wikipedia.org/wiki/Risk_return_ratio)** to help you work out your [risk capital](https://www.investopedia.com/terms/r/riskcapital.asp) allocation if you decide to partner with us.
 
+## <i class='fa fa-bar-chart'></i> 交易績效度量<br>Performance Measures
+
 All the performance measures presented below have factored in the transaction costs, such as spread, commissions and broker interest charges. In other words, you would have experienced the same impressive results if you manage to travel back in time.
 
-## <i class='fa fa-yen'></i> 日元貨幣對<br>JPY-Pairs
+### <i class='fa fa-yen'></i> 日元貨幣策略<br>Cyamus Yen Strategy
 
 The earliest strategy that Cyamus developed is on three (3) Japanese Yen pairs: <b>USDJPY</b>, <b>EURJPY</b> and <b>GBPJPY</b>. It has been traded *LIVE* since Feb 2019 on [Dukascopy Bank](https://en.wikipedia.org/wiki/Dukascopy_Bank). Two (2) sets of historical strategy backtesting reports are presented below based on different account position sizing techniques:
 
 - <i class='fa fa-cogs'></i> <b>Dynamic Lot</b>;
 - <i class='fa fa-cog'></i> <b>Fixed Lot</b>
   - 0.01 lot for JPY Pairs
-
 
 ### <i class='fa fa-yen'></i> | <i class='fa fa-cogs'></i> 動態手數<br>Dynamic Lot
 
