@@ -6,7 +6,7 @@ bigimg: /img_pr/cyamus_bg.jpg
 googlefonts: ["Roboto Condensed"]
 ---
 
-<i class='fa fa-university'></i> **塞瑪交易科技** （「**塞瑪**」）於2019年由[李明先生](https://bit.ly/terryli)成立（前[796交易所](https://www.796.com)副總裁、前[TDEx交易所](https://www.tdex.com)CEO、[TSL系統](https://www.tradingsystemlab.com)大中華區分銷代理）。塞碼提供系統化交易和數據分析服務給金融機構。
+<i class='fa fa-university'></i> **塞瑪交易科技** （「**塞瑪**」）於2019年由[李明先生](https://bit.ly/terryli)成立（前[796交易所](https://www.796.com)副總裁、前[TDEx交易所](https://www.tdex.com)CEO、[TSL系統](https://www.tradingsystemlab.com)大中華區分銷代理）。塞碼提供系統化交易和數據分析服務給機構客戶。
 
 塞瑪量化開發人員專注於調研金融市場中[波動率點差潛力](https://www.investopedia.com/articles/forex/10/spread-pip-potential-pairs-day-trading.asp)最高的交易工具：
 
