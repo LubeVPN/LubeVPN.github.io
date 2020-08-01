@@ -69,7 +69,7 @@ The historical strategy performance report is broken down in three (3) timeframe
 
 #### <i class='fa fa-yen'></i> | <i class='fa fa-cogs'></i> | 2016 - July 2020 (C)
 
-During Timeframe C, 19676 trades are made and roughly 17.21 positions are opened on every trading day. **Annualized Reward-to-Risk Ratio** ([CAGR](https://www.investopedia.com/terms/c/cagr.asp) / [MDD](https://www.investopedia.com/terms/m/maximum-drawdown-mdd.asp)) is **6.58**, where CAGR is 48.61% and MDD is 7.39%.
+During Timeframe C, 19676 trades are made and roughly 17.21 positions are opened on every trading day. **Annualized [Risk Return Ratio](https://en.wikipedia.org/wiki/Risk_return_ratio)** ([CAGR](https://www.investopedia.com/terms/c/cagr.asp) / [MDD](https://www.investopedia.com/terms/m/maximum-drawdown-mdd.asp)) is **6.58**, where CAGR is 48.61% and MDD is 7.39%.
 
 - Profit Factor: 1.45
 - Win Rate: 49.27%
@@ -81,7 +81,7 @@ During Timeframe C, 19676 trades are made and roughly 17.21 positions are opened
 
 #### <i class='fa fa-yen'></i> | <i class='fa fa-cogs'></i> | 2010 - 2015 (B)
 
-During Timeframe B, 26495 trades are made. Roughly 21.06 positions are opened on every trading day. **Annualized Reward-to-Risk Ratio** ([CAGR](https://www.investopedia.com/terms/c/cagr.asp) / [MDD](https://www.investopedia.com/terms/m/maximum-drawdown-mdd.asp)) is **18.04**, where CAGR is 85.31% and MDD is 4.73%.
+During Timeframe B, 26495 trades are made. Roughly 21.06 positions are opened on every trading day. **Annualized [Risk Return Ratio](https://en.wikipedia.org/wiki/Risk_return_ratio)** ([CAGR](https://www.investopedia.com/terms/c/cagr.asp) / [MDD](https://www.investopedia.com/terms/m/maximum-drawdown-mdd.asp)) is **18.04**, where CAGR is 85.31% and MDD is 4.73%.
 
 - Profit Factor: 1.57
 - Win Rate: 50.36%
@@ -93,7 +93,7 @@ During Timeframe B, 26495 trades are made. Roughly 21.06 positions are opened on
 
 #### <i class='fa fa-yen'></i> | <i class='fa fa-cogs'></i> | 2004 - 2009 (A)
 
-During Timeframe A, 27583 trades are made. Roughly 18.23 positions are opened on every trading day. **Annualized Reward-to-Risk Ratio** ([CAGR](https://www.investopedia.com/terms/c/cagr.asp) / [MDD](https://www.investopedia.com/terms/m/maximum-drawdown-mdd.asp)) is **12.45**, where CAGR is 68.6% and MDD is 5.51%.
+During Timeframe A, 27583 trades are made. Roughly 18.23 positions are opened on every trading day. **Annualized [Risk Return Ratio](https://en.wikipedia.org/wiki/Risk_return_ratio)** ([CAGR](https://www.investopedia.com/terms/c/cagr.asp) / [MDD](https://www.investopedia.com/terms/m/maximum-drawdown-mdd.asp)) is **12.45**, where CAGR is 68.6% and MDD is 5.51%.
 
 - Profit Factor: 1.76
 - Win Rate: 51.23%
@@ -182,7 +182,7 @@ The historical strategy performance report is as follows:
 [![Index_Pairs](/img_pr/index_percent_capitalChart_2014_2020.png "Index Pairs Performance Report")](/img_pr/index_percent_capitalChart_2014_2020.png)
 ![Index_Pairs](/img_pr/index_percent_monthlyPerformance_2014_2020.png "Index Pairs Performance Report")
 
-23605 trades are made from 2014 to July 2020. 13.84 positions are opened on every trading day on average. **Annualized Reward-to-Risk Ratio** ([CAGR](https://www.investopedia.com/terms/c/cagr.asp) / [MDD](https://www.investopedia.com/terms/m/maximum-drawdown-mdd.asp)) is **12.37**, where CAGR is 127.38% and MDD is 10.3%.
+23605 trades are made from 2014 to July 2020. 13.84 positions are opened on every trading day on average. **Annualized [Risk Return Ratio](https://en.wikipedia.org/wiki/Risk_return_ratio)** ([CAGR](https://www.investopedia.com/terms/c/cagr.asp) / [MDD](https://www.investopedia.com/terms/m/maximum-drawdown-mdd.asp)) is **12.37**, where CAGR is 127.38% and MDD is 10.3%.
 
 - Profit Factor: 1.76
 - Win Rate: 39.11%
