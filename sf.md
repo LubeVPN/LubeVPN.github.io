@@ -71,24 +71,29 @@ All the performance measures presented below have factored in the transaction co
 
 The earliest trading system that Cyamus developed is on three (3) Japanese Yen pairs: <b>USDJPY</b>, <b>EURJPY</b> and <b>GBPJPY</b>. It has been traded *LIVE* since Feb 2019 on [Dukascopy Bank](https://en.wikipedia.org/wiki/Dukascopy_Bank).
 
-塞雅瑪开发的另一个交易系统是在两个（2）股指对上：<b>USA30.IDX/USD</b> 和 <b>DEU.IDX/EUR</b>。自2019年2月以来，它已经在[杜高斯貝银行](https://en.wikipedia.org/wiki/Dukascopy_Bank)上进行了實盤交易。
+塞雅瑪开发的另一个交易系统是在两个（2）股指对上：<b>USA30.IDX/USD</b> 和 <b>DEU.IDX/EUR</b>。自2019年2月以来，它已经在[杜高斯貝银行](https://en.wikipedia.org/wiki/Dukascopy_Bank)上进行了實盤交易：
 
 The other trading system that Cyamus developed is on two (2) stock index pairs: <b>USA30.IDX/USD</b> and <b>DEU.IDX/EUR</b>. It has been traded *LIVE* since Feb 2019 on [Dukascopy Bank](https://en.wikipedia.org/wiki/Dukascopy_Bank).
-
-#### <i class='fa fa-cogs'></i> 動態手數 | <i class='fa fa-cog'></i> 固定手數<br> Dynamic Lot | Fixed Lot
 
 下面介绍該两套（2）交易系统的歷史回测报告。它们共享相同的仓位进入设置和退出。它们只是基于不同的仓位大小技术而构建，以便您可以更清楚地了解交易系统的表现。
 
 Historical backtesting reports of the two trading systems are presented below. They share the same position entry setup and exit. They are simply constructed based on different position sizing techniques so that you can have a clearer picture of how the trading systems perform:
 
-- <i class='fa fa-cogs'></i> <b>Dynamic Lot</b>
-  - All new positions are dynamically sized based on **current account balance** (**CAB**) at time of opening a new position and **[maximum drawdown](https://www.investopedia.com/terms/m/maximum-drawdown-mdd.asp)** (**MDD**).
-  - <i class='fa fa-yen'></i> **Cyamus Yen Trading System**: The lot size of new *Yen Pairs* position is equal to **0.01 * 10% * CAB/MDD**, where the 0.01 is the minimum transaction size on forex currency pairs permissible by [Dukascopy Bank](https://en.wikipedia.org/wiki/Dukascopy_Bank), the 10% is the controlling factor for **[risk capital](https://www.investopedia.com/terms/r/riskcapital.asp)**, and the **MDD** is **-7.36%** based on 2004 to July 2020 historical performance data.
-  - <i class='fa fa-pie-chart'></i> **Cyamus Index Trading System**: The size of new *Index Pairs* position is equal to **0.1 * 10% * CAB/MDD**, where the 0.1 is the minimum transaction size on stock index pairs permissible by [Dukascopy Bank](https://en.wikipedia.org/wiki/Dukascopy_Bank), the 10% is the controlling factor for **[risk capital](https://www.investopedia.com/terms/r/riskcapital.asp)**, and the **MDD** is **-10.30%** based on 2014 to July 2020 historical performance data.
-- <i class='fa fa-cog'></i> <b>Fixed Lot</b>
-  - All new position sizes are the same.
-  - <i class='fa fa-yen'></i> **Cyamus Yen Trading System**: All positions are opened with **0.01** [standard lot](https://www.investopedia.com/terms/s/standard-lot.asp), which is the minimum transaction size on forex currency pairs permissible by [Dukascopy Bank](https://en.wikipedia.org/wiki/Dukascopy_Bank) on forex currency pairs.
-  - <i class='fa fa-pie-chart'></i> **Cyamus Index Trading System**: All positions are opened with **0.1** [standard lot](https://www.investopedia.com/terms/s/standard-lot.asp), which is the minimum transaction size on forex currency pairs permissible by [Dukascopy Bank](https://en.wikipedia.org/wiki/Dukascopy_Bank) on stock index [CFD](https://www.investopedia.com/articles/stocks/09/trade-a-cfd.asp)s.
+#### <i class='fa fa-cogs'></i> 動態手數<br>Fixed Lot
+
+- All new positions are dynamically sized based on **current account balance** (**CAB**) at time of opening a new position and **[maximum drawdown](https://www.investopedia.com/terms/m/maximum-drawdown-mdd.asp)** (**MDD**).
+- <i class='fa fa-yen'></i> **Cyamus Yen Trading System**:
+  - The lot size of new *Yen Pairs* position is equal to **0.01 * 10% * CAB/MDD**, where the 0.01 is the minimum transaction size on forex currency pairs permissible by [Dukascopy Bank](https://en.wikipedia.org/wiki/Dukascopy_Bank), the 10% is the controlling factor for **[risk capital](https://www.investopedia.com/terms/r/riskcapital.asp)**, and the **MDD** is **-7.36%** based on 2004 to July 2020 historical performance data.
+- <i class='fa fa-pie-chart'></i> **Cyamus Index Trading System**:
+  - The size of new *Index Pairs* position is equal to **0.1 * 10% * CAB/MDD**, where the 0.1 is the minimum transaction size on stock index pairs permissible by [Dukascopy Bank](https://en.wikipedia.org/wiki/Dukascopy_Bank), the 10% is the controlling factor for **[risk capital](https://www.investopedia.com/terms/r/riskcapital.asp)**, and the **MDD** is **-10.30%** based on 2014 to July 2020 historical performance data.
+
+#### <i class='fa fa-cog'></i> 固定手數<br>Dynamic Lot
+
+- All new position sizes are the same.
+- <i class='fa fa-yen'></i> **Cyamus Yen Trading System**:
+  - All positions are opened with **0.01** [standard lot](https://www.investopedia.com/terms/s/standard-lot.asp), which is the minimum transaction size on forex currency pairs permissible by [Dukascopy Bank](https://en.wikipedia.org/wiki/Dukascopy_Bank) on forex currency pairs.
+- <i class='fa fa-pie-chart'></i> **Cyamus Index Trading System**:
+  - All positions are opened with **0.1** [standard lot](https://www.investopedia.com/terms/s/standard-lot.asp), which is the minimum transaction size on forex currency pairs permissible by [Dukascopy Bank](https://en.wikipedia.org/wiki/Dukascopy_Bank) on stock index [CFD](https://www.investopedia.com/articles/stocks/09/trade-a-cfd.asp)s.
 
 Throughout this page, we will continue to use <i class='fa fa-cogs'></i> to denote <b>Dynamic Lot</b>; and to use <i class='fa fa-cog'></i> to denote <b>Fixed Lot</b> for clarity and shortness.
 
