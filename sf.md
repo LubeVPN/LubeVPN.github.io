@@ -8,14 +8,12 @@ googlefonts: ["Roboto Condensed"]
 
 <i class='fa fa-university'></i> **塞瑪交易科技** （「**塞瑪**」）於2019年由[李明先生](https://bit.ly/terryli)成立（前[796交易所](https://www.796.com)副總裁、前[TDEx交易所](https://www.tdex.com)CEO、[TSL系統](https://www.tradingsystemlab.com)大中華區分銷代理）。塞碼提供系統化交易和數據分析服務給機構客戶。
 
-塞瑪量化開發人員專注於調研金融市場中[波動率點差潛力](https://www.investopedia.com/articles/forex/10/spread-pip-potential-pairs-day-trading.asp)最高的交易工具：
-
 <i class='fa fa-university'></i> **Cyamus Trading Technology** ("**Cyamus**") is founded in 2019 by [Terry Li](https://bit.ly/terryli) (ex-VP of [796 Exchange](https://www.796.com), ex-CEO of [TDEx](https://www.tdex.com), and a license distributor of [Trading System Lab](https://www.tradingsystemlab.com) for the greater China region). Cyamus offers systematic trading and data analysis services to institutional clients.
 
 {: .box-warning}
 **免责声明**：塞瑪提供任何税务、法律或投资意见、个人建议或投资建议。塞瑪无意提供任何税务、法律或投资建议、个人推荐或投资建议，本网站的任何内容都不应被解释或诠释为投资建议、出售或购买要约、购买要约的邀约或与任何金融工具投资有关的建议。<br>**Disclaimer**: Cyamus does not provide any tax, legal or investment advice, personal recommendation or advising on investments and nothing in this website should be construed or interpreted as an investment advice, an offer to sell or buy, a solicitation of an offer to buy, or a recommendation related to any investment in financial instrument.
 
-我们的量化开发人员专注于研究和开发中频交易策略，为市场上提供最高点差潜力的金融工具。
+塞瑪量化開發人員專注於調研金融市場中[波動率點差潛力](https://www.investopedia.com/articles/forex/10/spread-pip-potential-pairs-day-trading.asp)最高的交易工具：
 
 Our quantitative developers focus on researching and developing mid-frequency trading strategies for the financial instruments that offer the highest [spread-to-pip potential](https://www.investopedia.com/articles/forex/10/spread-pip-potential-pairs-day-trading.asp) in the market:
 
