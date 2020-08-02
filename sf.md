@@ -15,26 +15,26 @@ googlefonts: ["Roboto Condensed"]
 
 塞瑪量化開發人員專注於調研金融市場中[波動率點差潛力](https://www.investopedia.com/articles/forex/10/spread-pip-potential-pairs-day-trading.asp)最高的交易工具：
 
-Our quantitative developers focus on researching and developing mid-frequency trading strategies for the financial instruments that offer the highest [spread-to-pip potential](https://www.investopedia.com/articles/forex/10/spread-pip-potential-pairs-day-trading.asp) in the market:
+Our quantitative developers focus on researching and developing mid-frequency trading systems for the financial instruments that offer the highest [spread-to-pip potential](https://www.investopedia.com/articles/forex/10/spread-pip-potential-pairs-day-trading.asp) in the market:
 
-- **Japanese Yen Pairs**
+- **日元貨幣對 Japanese Yen Pairs**
   - US Dollar to Japanese Yen
     - *USD/JPY*
   - Euro Dollar to Japanese Yen
     - *EUR/JPY*
   - Great British Pound to Japanese Yen
     - *GBP/JPY*
-- **Stock Index Pairs**
+- **股票指數對 Stock Index Pairs**
   - US Dow Jones Industrial Average
     - *USA30.IDX/USD*
   - Germany DAX 30 Stock Market Index
     - *DEU.IDX/EUR*
 
-<i class='fa fa-yen'></i> **塞瑪日元交易系统**自2004年起根据[杜卡斯貝银行](https://en.wikipedia.org/wiki/Dukascopy_Bank)提供的买入卖出逐筆数据进行历史回溯测试。外汇经纪行业的趋势是提供越来越高的[杠杆比率](https://www.investopedia.com/ask/answers/06/forexleverage.asp),有时高达200:1,但塞瑪日元交易系统发出的建倉信号从未超过**7.42:1**。因此，我们的客户可以放心地知道，他们多年来一直使用的大多数外汇经纪商很可能与塞瑪日日元交易系统兼容。
+<i class='fa fa-yen'></i> **塞瑪日元交易系统**自2004年起根据[杜高斯貝银行](https://en.wikipedia.org/wiki/Dukascopy_Bank)提供的买入卖出逐筆数据进行历史回溯测试。外汇经纪行业的趋势是提供越来越高的[杠杆比率](https://www.investopedia.com/ask/answers/06/forexleverage.asp),有时高达200:1,但塞瑪日元交易系统发出的建倉信号从未超过**7.42:1**。因此，我们的客户可以放心地知道，他们多年来一直使用的大多数外汇经纪商很可能与塞瑪日日元交易系统兼容。
 
 <i class='fa fa-yen'></i> **Cyamus Yen Trading System** is historically back-tested since the year 2004 based on bid-n-ask tick data provided by [Dukascopy Bank](https://en.wikipedia.org/wiki/Dukascopy_Bank). Forex brokerage industry is trending toward offering higher and higher [leverage ratio](https://www.investopedia.com/ask/answers/06/forexleverage.asp), sometimes up to 200:1 but the entry signaled by Cyamus Yen Trading System *have never* exceeded **7.42:1**. Therefore, our clients can take comfort in knowing that most of the forex brokers that they have been using for years are most likely to be compatible with Cyamus Yen Trading System.
 
-<i class='fa fa-pie-chart'></i> **塞瑪指数交易系统**自2014年以来，根据[杜卡斯貝银行](https://en.wikipedia.org/wiki/Dukascopy_Bank)提供的买入卖出逐筆数据进行历史回测。塞瑪指数交易系统使用的[杠杆比率](https://www.investopedia.com/ask/answers/06/forexleverage.asp)从未超过**14.35:1**,远低于杜卡斯貝银行提供的50:1(工作日)和30:1(周末)的差价合约工具。
+<i class='fa fa-pie-chart'></i> **塞瑪指数交易系统**自2014年以来，根据[杜高斯貝银行](https://en.wikipedia.org/wiki/Dukascopy_Bank)提供的买入卖出逐筆数据进行历史回测。塞瑪指数交易系统使用的[杠杆比率](https://www.investopedia.com/ask/answers/06/forexleverage.asp)从未超过**14.35:1**,远低于杜高斯貝银行提供的50:1(工作日)和30:1(周末)的差价合约工具。
 
 <i class='fa fa-pie-chart'></i> **Cyamus Index Trading System** is historically back-tested since the year 2014 based on bid-n-ask tick data provided by [Dukascopy Bank](https://en.wikipedia.org/wiki/Dukascopy_Bank). The [leverage ratio](https://www.investopedia.com/ask/answers/06/forexleverage.asp) used by Cyamus Index Trading System *have never* exceeded **14.35:1**, which is well below 50:1 (weekday) and 30:1 (weekend) offered by Dukascopy Bank on CFD instruments.
 
@@ -42,7 +42,7 @@ Our quantitative developers focus on researching and developing mid-frequency tr
 
 Note that <i class='fa fa-yen'></i> **Cyamus Yen Trading System** and <i class='fa fa-pie-chart'></i> **Cyamus Index Trading System** take on new position as market opportunity presents itself, i.e. decision making process of opening a new position does not take existing position(s) into consideration. Therefore, position [scaling](https://learn.tradimo.com/dont-go-broke-protect-your-capital/scaling-in-and-out-of-trades) and [hedging](https://www.investopedia.com/ask/answers/forex/forex-hedge-and-currency-hedging-strategy.asp) may happen but they are not inherit part of the trading system.
 
-## <i class='fa fa-university'></i> 塞瑪交易系統<br>Cyamus' Strategies<br>
+## <i class='fa fa-university'></i> 塞瑪交易系統<br>Cyamus' Trading Systems<br>
 
 <i class='fa fa-yen'></i> **塞瑪日元交易系统** 和 <i class='fa fa-pie-chart'></i> **塞瑪指数交易系统**自2019年2月起帮助客户交易實盤市场。我们的客户很高兴地看到，他们的實盤交易表现与历史表现相似。需要注意的是，历史业绩与實盤交易结果相似，仅在入场和出场价位方面。投资回报率根据客户个人[风险承受能力](https://www.investopedia.com/terms/r/risktolerance.asp)而有所不同。
 
@@ -51,27 +51,42 @@ Note that <i class='fa fa-yen'></i> **Cyamus Yen Trading System** and <i class='
 <a href="/img_pr/Cyamus_Trading.pdf"><i class='fa fa-download'></i> Cyamus Clients' *LIVE* Trading Performance Reports & Testimonials in PDF</a>
 {: .myDownloadButton}
 
-We believe that spectacular *LIVE* trading results and satisfactory clients are only the electrifying parts our trading strategies. You should also analyze our historical trading performance matrices in order to decide for yourselves if our trading system can compliment your existing investment style. In the following, we highlight some of the major performance measures:
+我们相信，壮观的實盤交易结果和令人满意的客户仅仅是我们交易系統中令人振奋的部分，我们还应该分析我们的历史交易业绩矩阵，以决定我们的交易系统是否能与您现有的投资风格相得益彰。您还应该分析我们的历史交易业绩矩阵，以便您自己决定我们的交易系统是否能与您现有的投资风格相得益彰。下面，我们将重点介绍一些主要的业绩指标：
+
+- **[最大回撤(MDD)](https://www.investopedia.com/terms/m/maximum-drawdown-mdd.asp)** 和 **年化[风险收益率](https://en.wikipedia.org/wiki/Risk_return_ratio)** 将帮助您计算出您的[风险资本](https://www.investopedia.com/terms/r/riskcapital.asp)在时间范围内的配置。
+- **R-预期** = 所有交易的净利润 ÷ 交易总数 ÷ 每笔亏损交易的平均损失 = 每笔交易的平均利润率（APPT）÷ 每笔亏损交易的平均损失（R）。它将帮助您评估每笔交易的回报风险比。换句话说，它可以让您了解从我们的交易系统中可以得到的平均预期（即每一美元的风险）。
+
+We believe that spectacular *LIVE* trading results and satisfactory clients are only the electrifying parts our trading systems. You should also analyze our historical trading performance matrices in order to decide for yourselves if our trading system can compliment your existing investment style. In the following, we highlight some of the major performance measures:
 
 - **[Maximum Drawdown (MDD)](https://www.investopedia.com/terms/m/maximum-drawdown-mdd.asp)** and **Annualized [Risk Return Ratio](https://en.wikipedia.org/wiki/Risk_return_ratio)** will help you work out your [risk capital](https://www.investopedia.com/terms/r/riskcapital.asp) allocation on a time horizon scale.
-- **R-Expectancy** = Net Profit of All Trades / Total Number of Trades / Average Loss per Losing Trade = Average Profitability per Trade (APPT) / Average Loss per Losing Trade (R). It will help you evaluate reward-to-risk ratio on a per trade level. In other words, it gives you an idea of what to expect from our trading systems on the average (i.e. per dollar risked).
+- **R-Expectancy** = Net Profit of All Trades ÷ Total Number of Trades ÷ Average Loss per Losing Trade = Average Profitability per Trade (APPT) ÷ Average Loss per Losing Trade (R). It will help you evaluate reward-to-risk ratio on a per trade level. In other words, it gives you an idea of what to expect from our trading systems on the average (i.e. per dollar risked).
 
 ### <i class='fa fa-bar-chart'></i> 交易績效度量<br>Performance Measures
 
+下面介绍的所有业绩衡量标准都已经考虑到了交易成本，如点差、佣金和经纪人利息费用。换句话说，如果你设法回到过去，你也会经历同样令人印象深刻的结果。
+
 All the performance measures presented below have factored in the transaction costs, such as spread, commissions and broker interest charges. In other words, you would have experienced the same impressive results if you manage to travel back in time.
+
+最早的交易系统是塞瑪开发的三对日元交易系统：<b>USDJPY</b>、<b>EURJPY</b> 和 <b>GBPJPY</b>。自2019年2月起在[杜高斯貝银行](https://en.wikipedia.org/wiki/Dukascopy_Bank)上进行實盤交易。
 
 The earliest trading system that Cyamus developed is on three (3) Japanese Yen pairs: <b>USDJPY</b>, <b>EURJPY</b> and <b>GBPJPY</b>. It has been traded *LIVE* since Feb 2019 on [Dukascopy Bank](https://en.wikipedia.org/wiki/Dukascopy_Bank).
 
+塞瑪开发的另一个交易系统是在两个（2）股指对上：<b>USA30.IDX/USD</b> 和 <b>DEU.IDX/EUR</b>。自2019年2月以来，它已经在[杜高斯貝银行](https://en.wikipedia.org/wiki/Dukascopy_Bank)上进行了實盤交易。
+
 The other trading system that Cyamus developed is on two (2) stock index pairs: <b>USA30.IDX/USD</b> and <b>DEU.IDX/EUR</b>. It has been traded *LIVE* since Feb 2019 on [Dukascopy Bank](https://en.wikipedia.org/wiki/Dukascopy_Bank).
 
-Two (2) sets of historical trading system backtesting reports are presented below. They share the same position entry setup and exit. They are simply constructed based on different position sizing techniques so that you can have a clearer picture of how the trading systems perform:
+#### <i class='fa fa-cogs'></i> 動態手數 | <i class='fa fa-cog'></i> 固定手數<br> Dynamic Lot | Fixed Lot
+
+下面介绍該两套（2）交易系统的歷史回测报告。它们共享相同的仓位进入设置和退出。它们只是基于不同的仓位大小技术而构建，以便您可以更清楚地了解交易系统的表现。
+
+Historical backtesting reports of the two trading systems are presented below. They share the same position entry setup and exit. They are simply constructed based on different position sizing techniques so that you can have a clearer picture of how the trading systems perform:
 
 - <i class='fa fa-cogs'></i> <b>Dynamic Lot</b>
   - All new positions are dynamically sized based on **current account balance** (**CAB**) at time of opening a new position and **[maximum drawdown](https://www.investopedia.com/terms/m/maximum-drawdown-mdd.asp)** (**MDD**).
   - <i class='fa fa-yen'></i> **Cyamus Yen Trading System**: The lot size of new *Yen Pairs* position is equal to **0.01 * 10% * CAB/MDD**, where the 0.01 is the minimum transaction size on forex currency pairs permissible by [Dukascopy Bank](https://en.wikipedia.org/wiki/Dukascopy_Bank), the 10% is the controlling factor for **[risk capital](https://www.investopedia.com/terms/r/riskcapital.asp)**, and the **MDD** is **-7.36%** based on 2004 to July 2020 historical performance data.
   - <i class='fa fa-pie-chart'></i> **Cyamus Index Trading System**: The size of new *Index Pairs* position is equal to **0.1 * 10% * CAB/MDD**, where the 0.1 is the minimum transaction size on stock index pairs permissible by [Dukascopy Bank](https://en.wikipedia.org/wiki/Dukascopy_Bank), the 10% is the controlling factor for **[risk capital](https://www.investopedia.com/terms/r/riskcapital.asp)**, and the **MDD** is **-10.30%** based on 2014 to July 2020 historical performance data.
 - <i class='fa fa-cog'></i> <b>Fixed Lot</b>
-  - All new position size are the same.
+  - All new position sizes are the same.
   - <i class='fa fa-yen'></i> **Cyamus Yen Trading System**: All positions are opened with **0.01** [standard lot](https://www.investopedia.com/terms/s/standard-lot.asp), which is the minimum transaction size on forex currency pairs permissible by [Dukascopy Bank](https://en.wikipedia.org/wiki/Dukascopy_Bank) on forex currency pairs.
   - <i class='fa fa-pie-chart'></i> **Cyamus Index Trading System**: All positions are opened with **0.1** [standard lot](https://www.investopedia.com/terms/s/standard-lot.asp), which is the minimum transaction size on forex currency pairs permissible by [Dukascopy Bank](https://en.wikipedia.org/wiki/Dukascopy_Bank) on stock index [CFD](https://www.investopedia.com/articles/stocks/09/trade-a-cfd.asp)s.
 
