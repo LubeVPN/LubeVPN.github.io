@@ -126,7 +126,7 @@ The historical trading system performance report is broken down in three (3) tim
 #### <i class='fa fa-cogs'></i> 動態手數<br>Dynamic Lot
 
 - <i class='fa fa-cogs'></i>: <i class='fa fa-line-chart'></i> [Equity Curve <i class='fa fa-percent'></i>](/img_pr/jpy_percent_capitalChart_2010_2015.png)
-- <i class='fa fa-cogs'></i>: <i class='fa fa-line-chart'></i> <i class='fa fa-calendar'></i> [Monthly Profit-and-Loss <i class='fa fa-percent'></i>](/img_pr/jpy_percent_monthlyPerformance_2010_2015.png)
+- <i class='fa fa-cogs'></i>: <i class='fa fa-calendar'></i> [Monthly Profit-and-Loss <i class='fa fa-percent'></i>](/img_pr/jpy_percent_monthlyPerformance_2010_2015.png)
 - <i class='fa fa-cogs'></i>: **Annualized Risk Return Ratio** (CAGR / MDD) is **18.04**, where CAGR is 85.31% and MDD is 4.73%. <i class='fa fa-cogs'></i>: Profit Factor: 1.57; Win Rate: 50.36%; Win # / Loss #: 1.01
 
 #### <i class='fa fa-cog'></i> 固定手數<br>Fixed Lot
