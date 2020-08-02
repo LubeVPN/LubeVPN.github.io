@@ -79,7 +79,7 @@ The other trading system that Cyamus developed is on two (2) stock index pairs: 
 
 Historical backtesting reports of the two trading systems are presented below. They share the same position entry setup and exit. They are simply constructed based on different position sizing techniques so that you can have a clearer picture of how the trading systems perform:
 
-#### <i class='fa fa-cogs'></i> 動態手數<br>Fixed Lot
+#### <i class='fa fa-cogs'></i> 動態手數<br>Dynamic Lot
 
 - All new positions are dynamically sized based on **current account balance** (**CAB**) at time of opening a new position and **[maximum drawdown](https://www.investopedia.com/terms/m/maximum-drawdown-mdd.asp)** (**MDD**).
 - <i class='fa fa-yen'></i> **Cyamus Yen Trading System**:
@@ -87,7 +87,7 @@ Historical backtesting reports of the two trading systems are presented below. T
 - <i class='fa fa-pie-chart'></i> **Cyamus Index Trading System**:
   - The size of new *Index Pairs* position is equal to **0.1 * 10% * CAB/MDD**, where the 0.1 is the minimum transaction size on stock index pairs permissible by [Dukascopy Bank](https://en.wikipedia.org/wiki/Dukascopy_Bank), the 10% is the controlling factor for **[risk capital](https://www.investopedia.com/terms/r/riskcapital.asp)**, and the **MDD** is **-10.30%** based on 2014 to July 2020 historical performance data.
 
-#### <i class='fa fa-cog'></i> 固定手數<br>Dynamic Lot
+#### <i class='fa fa-cog'></i> 固定手數<br>Fixed Lot
 
 - All new position sizes are the same.
 - <i class='fa fa-yen'></i> **Cyamus Yen Trading System**:
@@ -99,54 +99,75 @@ Throughout this page, we will continue to use <i class='fa fa-cogs'></i> to deno
 
 All the numbers presented below have factored in the transaction costs, such as spread, commissions and broker interest charges. In other words, you would have experienced the same results if you manage to travel back in time to trade <i class='fa fa-yen'></i> **Cyamus Yen Trading System** and <i class='fa fa-yen'></i> **Cyamus Index Trading System** *LIVE*.
 
-### <i class='fa fa-yen'></i> / <i class='fa fa-bar-chart'></i> 日元策略績效<br>Yen System Performance
+## <i class='fa fa-yen'></i> / <i class='fa fa-bar-chart'></i> 日元策略績效<br>Yen System Performance
 
 The historical trading system performance report is broken down in three (3) timeframes (**C**, **B**, **A**), where **C** is the most recent and **A** stretches as back as historical data allows:
 
-#### **C**: 2016 to July 2020
+### **C**: 2016 to July 2020
 
 19676 trades are made and roughly 17.21 positions are opened on every trading day.
+
+#### <i class='fa fa-cogs'></i> 動態手數<br>Dynamic Lot
 
 - <i class='fa fa-cogs'></i>: <i class='fa fa-line-chart'></i> [Equity Curve <i class='fa fa-percent'></i>](/img_pr/jpy_percent_capitalChart_2016_2020.png)
 <i class='fa fa-cogs'></i>: <i class='fa fa-calendar'></i> [Monthly Profit-and-Loss <i class='fa fa-percent'></i>](/img_pr/jpy_percent_monthlyPerformance_2016_2020.png)
 - <i class='fa fa-cogs'></i>: **Annualized Risk Return Ratio** (CAGR / MDD) is **6.58**, where CAGR is 48.61% and MDD is 7.39%. Profit Factor: 1.45; Win Rate: 49.27%; Win # / Loss #: 0.64
+
+#### <i class='fa fa-cog'></i> 固定手數<br>Fixed Lot
+
 - <i class='fa fa-cog'></i>: <i class='fa fa-line-chart'></i> [Equity Curve <i class='fa fa-dollar'></i>](/img_pr/jpy_0.01_capitalChart_2016_2020.png)
 - <i class='fa fa-cog'></i>: <i class='fa fa-calendar'></i> [Monthly Profit-and-Loss <i class='fa fa-dollar'></i>](/img_pr/jpy_0.01_monthlyPerformance_2016_2020.png)
 - <i class='fa fa-cog'></i>: **R-Expectancy** (APPT / R) is  **0.2405R**, where the APPT is 0.69486938402 USD and the R is 2.88968440036 USD.
 
-#### **B**: 2010 to 2015
+### **B**: 2010 to 2015
 
 26495 trades are made. Roughly 21.06 positions are opened on every trading day.
+
+#### <i class='fa fa-cogs'></i> 動態手數<br>Dynamic Lot
 
 - <i class='fa fa-cogs'></i>: <i class='fa fa-line-chart'></i> [Equity Curve <i class='fa fa-percent'></i>](/img_pr/jpy_percent_capitalChart_2010_2015.png)
 - <i class='fa fa-cogs'></i>: <i class='fa fa-line-chart'></i> <i class='fa fa-calendar'></i> [Monthly Profit-and-Loss <i class='fa fa-percent'></i>](/img_pr/jpy_percent_monthlyPerformance_2010_2015.png)
 - <i class='fa fa-cogs'></i>: **Annualized Risk Return Ratio** (CAGR / MDD) is **18.04**, where CAGR is 85.31% and MDD is 4.73%. <i class='fa fa-cogs'></i>: Profit Factor: 1.57; Win Rate: 50.36%; Win # / Loss #: 1.01
+
+#### <i class='fa fa-cog'></i> 固定手數<br>Fixed Lot
+
 - <i class='fa fa-cog'></i>: <i class='fa fa-line-chart'></i> [Equity Curve <i class='fa fa-dollar'></i>](/img_pr/jpy_0.01_capitalChart_2010_2015.png)
 - <i class='fa fa-cog'></i>: <i class='fa fa-calendar'></i> [Monthly Profit-and-Loss <i class='fa fa-dollar'></i>](/img_pr/jpy_0.01_monthlyPerformance_2010_2015.png)
 - <i class='fa fa-cog'></i>: **R-Expectancy** (APPT / R) is  **0.3241R**, where the APPT is 1.11580373655 USD and the R is 3.44271725082 USD.
 
-#### **A**: 2004 to 2009
+### **A**: 2004 to 2009
 
 27583 trades are made. Roughly 18.23 positions are opened on every trading day.
+
+#### <i class='fa fa-cogs'></i> 動態手數<br>Dynamic Lot
 
 - <i class='fa fa-cogs'></i>: <i class='fa fa-line-chart'></i> [Equity Curve <i class='fa fa-percent'></i>](/img_pr/jpy_percent_capitalChart_2004_2009.png)
 - <i class='fa fa-cogs'></i>: <i class='fa fa-calendar'></i> [Monthly Profit-and-Loss <i class='fa fa-percent'></i>](/img_pr/jpy_percent_monthlyPerformance_2004_2009.png)
 - <i class='fa fa-cogs'></i>: **Annualized Risk Return Ratio** (CAGR / MDD) is **12.45**, where CAGR is 68.6% and MDD is 5.51%. <i class='fa fa-cogs'></i>: Profit Factor: 1.76; Win Rate: 51.23%; Win # / Loss #: 1.05
+
+#### <i class='fa fa-cog'></i> 固定手數<br>Fixed Lot
+
 - <i class='fa fa-cog'></i>: <i class='fa fa-line-chart'></i> [Equity Curve <i class='fa fa-dollar'></i>](/img_pr/jpy_0.01_capitalChart_2004_2009.png)
 - <i class='fa fa-cog'></i>: <i class='fa fa-calendar'></i> [Monthly Profit-and-Loss <i class='fa fa-dollar'></i>](/img_pr/jpy_0.01_monthlyPerformance_2004_2009.png)
 - <i class='fa fa-cog'></i>: **R-Expectancy** (APPT / R) is  **0.2673R**, where the APPT is 0.90578979806 USD and the R is 3.38926598675 USD.
 
 
-### <i class='fa fa-pie-chart'></i> / <i class='fa fa-bar-chart'></i> 股指策略績效<br>Index System Performance
+## <i class='fa fa-pie-chart'></i> / <i class='fa fa-bar-chart'></i> 股指策略績效<br>Index System Performance
 
 The historical trading system performance report is as follows:
 
-#### 2014 to July 2020
+### 2014 to July 2020
 
-- 23605 trades are made and roughly 13.84 positions are opened on every trading day.
+23605 trades are made and roughly 13.84 positions are opened on every trading day.
+
+#### <i class='fa fa-cogs'></i> 動態手數<br>Dynamic Lot
+
 - <i class='fa fa-cogs'></i>: <i class='fa fa-line-chart'></i> [Equity Curve <i class='fa fa-percent'></i>](/img_pr/index_percent_capitalChart_2014_2020.png)
 - <i class='fa fa-cogs'></i>: <i class='fa fa-calendar'></i> [Monthly Profit-and-Loss <i class='fa fa-percent'></i>](/img_pr/index_percent_monthlyPerformance_2014_2020.png)
 - <i class='fa fa-cogs'></i>: **Annualized Risk Return Ratio** (CAGR / MDD) is **12.37**, where CAGR is 127.38% and MDD is 10.3%.
+
+#### <i class='fa fa-cog'></i> 固定手數<br>Fixed Lot
+
 - <i class='fa fa-cogs'></i>: Profit Factor: 1.76; Win Rate: 39.11%; Win # / Loss #: 0.64
 - <i class='fa fa-cog'></i>: <i class='fa fa-line-chart'></i> [Equity Curve <i class='fa fa-dollar'></i>](/img_pr/index_0.1_capitalChart_2014_2020.png)
 - <i class='fa fa-cog'></i>: <i class='fa fa-calendar'></i> [Monthly Profit-and-Loss <i class='fa fa-dollar'></i>](/img_pr/index_0.1_monthlyPerformance_2014_2020.png)
