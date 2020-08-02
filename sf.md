@@ -1,19 +1,19 @@
 ---
 layout: page
-title: 塞瑪交易科技
+title: 塞雅瑪交易科技
 subtitle: Cyamus Trading Technology
 bigimg: /img_pr/cyamus_bg.jpg
 googlefonts: ["Roboto Condensed"]
 ---
 
-<i class='fa fa-university'></i> **塞瑪交易科技** （「**塞瑪**」）於2019年由[李明先生](https://bit.ly/terryli)成立（前[796交易所](https://www.796.com)副總裁、前[TDEx交易所](https://www.tdex.com)CEO、[TSL系統](https://www.tradingsystemlab.com)大中華區分銷代理）。塞碼提供系統化交易和數據分析服務給機構客戶。
+<i class='fa fa-university'></i> **塞雅瑪交易科技** （「**塞雅瑪**」）於2019年由[李明先生](https://bit.ly/terryli)成立（前[796交易所](https://www.796.com)副總裁、前[TDEx交易所](https://www.tdex.com)CEO、[TSL系統](https://www.tradingsystemlab.com)大中華區分銷代理）。塞碼提供系統化交易和數據分析服務給機構客戶。
 
 <i class='fa fa-university'></i> **Cyamus Trading Technology** ("**Cyamus**") is founded in 2019 by [Terry Li](https://bit.ly/terryli) (ex-VP of [796 Exchange](https://www.796.com), ex-CEO of [TDEx](https://www.tdex.com), and a license distributor of [Trading System Lab](https://www.tradingsystemlab.com) for the greater China region). Cyamus offers systematic trading and data analysis services to institutional clients.
 
 {: .box-warning}
-**免责声明**：塞瑪不提供任何税务、法律或投资意见、个人建议或投资建议。塞瑪也不提供任何税务、法律或投资建议、个人推荐或投资建议，本网站的任何内容都不应被解释或诠释为投资建议、出售或购买要约、购买要约的邀约或与任何金融工具投资有关的建议。<br>**Disclaimer**: Cyamus does not provide any tax, legal or investment advice, personal recommendation or advising on investments and nothing in this website should be construed or interpreted as an investment advice, an offer to sell or buy, a solicitation of an offer to buy, or a recommendation related to any investment in financial instrument.
+**免责声明**：塞雅瑪不提供任何税务、法律或投资意见、个人建议或投资建议。塞雅瑪也不提供任何税务、法律或投资建议、个人推荐或投资建议，本网站的任何内容都不应被解释或诠释为投资建议、出售或购买要约、购买要约的邀约或与任何金融工具投资有关的建议。<br>**Disclaimer**: Cyamus does not provide any tax, legal or investment advice, personal recommendation or advising on investments and nothing in this website should be construed or interpreted as an investment advice, an offer to sell or buy, a solicitation of an offer to buy, or a recommendation related to any investment in financial instrument.
 
-塞瑪量化開發人員專注於調研金融市場中[波動率點差潛力](https://www.investopedia.com/articles/forex/10/spread-pip-potential-pairs-day-trading.asp)最高的交易工具：
+塞雅瑪量化開發人員專注於調研金融市場中[波動率點差潛力](https://www.investopedia.com/articles/forex/10/spread-pip-potential-pairs-day-trading.asp)最高的交易工具：
 
 Our quantitative developers focus on researching and developing mid-frequency trading systems for the financial instruments that offer the highest [spread-to-pip potential](https://www.investopedia.com/articles/forex/10/spread-pip-potential-pairs-day-trading.asp) in the market:
 
@@ -30,21 +30,21 @@ Our quantitative developers focus on researching and developing mid-frequency tr
   - Germany DAX 30 Stock Market Index
     - *DEU.IDX/EUR*
 
-<i class='fa fa-yen'></i> **塞瑪日元交易系统**自2004年起根据[杜高斯貝银行](https://en.wikipedia.org/wiki/Dukascopy_Bank)提供的买入卖出逐筆数据进行历史回溯测试。外汇经纪行业的趋势是提供越来越高的[杠杆比率](https://www.investopedia.com/ask/answers/06/forexleverage.asp),有时高达200:1,但塞瑪日元交易系统发出的建倉信号从未超过**7.42:1**。因此，我们的客户可以放心地知道，他们多年来一直使用的大多数外汇经纪商很可能与塞瑪日日元交易系统兼容。
+<i class='fa fa-yen'></i> **塞雅瑪日元交易系统**自2004年起根据[杜高斯貝银行](https://en.wikipedia.org/wiki/Dukascopy_Bank)提供的买入卖出逐筆数据进行历史回溯测试。外汇经纪行业的趋势是提供越来越高的[杠杆比率](https://www.investopedia.com/ask/answers/06/forexleverage.asp),有时高达200:1,但塞雅瑪日元交易系统发出的建倉信号从未超过**7.42:1**。因此，我们的客户可以放心地知道，他们多年来一直使用的大多数外汇经纪商很可能与塞雅瑪日日元交易系统兼容。
 
 <i class='fa fa-yen'></i> **Cyamus Yen Trading System** is historically back-tested since the year 2004 based on bid-n-ask tick data provided by [Dukascopy Bank](https://en.wikipedia.org/wiki/Dukascopy_Bank). Forex brokerage industry is trending toward offering higher and higher [leverage ratio](https://www.investopedia.com/ask/answers/06/forexleverage.asp), sometimes up to 200:1 but the entry signaled by Cyamus Yen Trading System *have never* exceeded **7.42:1**. Therefore, our clients can take comfort in knowing that most of the forex brokers that they have been using for years are most likely to be compatible with Cyamus Yen Trading System.
 
-<i class='fa fa-pie-chart'></i> **塞瑪指数交易系统**自2014年以来，根据[杜高斯貝银行](https://en.wikipedia.org/wiki/Dukascopy_Bank)提供的买入卖出逐筆数据进行历史回测。塞瑪指数交易系统使用的[杠杆比率](https://www.investopedia.com/ask/answers/06/forexleverage.asp)从未超过**14.35:1**，远低于杜高斯貝银行提供的50:1(工作日)和30:1(周末)的差价合约工具。
+<i class='fa fa-pie-chart'></i> **塞雅瑪指数交易系统**自2014年以来，根据[杜高斯貝银行](https://en.wikipedia.org/wiki/Dukascopy_Bank)提供的买入卖出逐筆数据进行历史回测。塞雅瑪指数交易系统使用的[杠杆比率](https://www.investopedia.com/ask/answers/06/forexleverage.asp)从未超过**14.35:1**，远低于杜高斯貝银行提供的50:1(工作日)和30:1(周末)的差价合约工具。
 
 <i class='fa fa-pie-chart'></i> **Cyamus Index Trading System** is historically back-tested since the year 2014 based on bid-n-ask tick data provided by [Dukascopy Bank](https://en.wikipedia.org/wiki/Dukascopy_Bank). The [leverage ratio](https://www.investopedia.com/ask/answers/06/forexleverage.asp) used by Cyamus Index Trading System *have never* exceeded **14.35:1**，which is well below 50:1 (weekday) and 30:1 (weekend) offered by Dukascopy Bank on CFD instruments.
 
-请注意，<i class='fa fa-yen'></i> **塞瑪日元交易系统**和<i class='fa fa-pie-chart'></i> **塞瑪指数交易系统**会随着市场机会的出现而建立新仓位，即建立新仓位的决策过程不考虑现有仓位。因此，仓位[缩减](https://learn.tradimo.com/dont-go-broke-protect-your-capital/scaling-in-and-out-of-trades)和[对冲](https://www.investopedia.com/ask/answers/forex/forex-hedge-and-currency-hedging-strategy.asp)可能发生，但它们不是交易系统的固有部分。
+请注意，<i class='fa fa-yen'></i> **塞雅瑪日元交易系统**和<i class='fa fa-pie-chart'></i> **塞雅瑪指数交易系统**会随着市场机会的出现而建立新仓位，即建立新仓位的决策过程不考虑现有仓位。因此，仓位[缩减](https://learn.tradimo.com/dont-go-broke-protect-your-capital/scaling-in-and-out-of-trades)和[对冲](https://www.investopedia.com/ask/answers/forex/forex-hedge-and-currency-hedging-strategy.asp)可能发生，但它们不是交易系统的固有部分。
 
 Note that <i class='fa fa-yen'></i> **Cyamus Yen Trading System** and <i class='fa fa-pie-chart'></i> **Cyamus Index Trading System** take on new position as market opportunity presents itself, i.e. decision making process of opening a new position does not take existing position(s) into consideration. Therefore, position [scaling](https://learn.tradimo.com/dont-go-broke-protect-your-capital/scaling-in-and-out-of-trades) and [hedging](https://www.investopedia.com/ask/answers/forex/forex-hedge-and-currency-hedging-strategy.asp) may happen but they are not inherit part of the trading system.
 
-## <i class='fa fa-university'></i> 塞瑪交易系統<br>Cyamus' Trading Systems<br>
+## <i class='fa fa-university'></i> 塞雅瑪交易系統<br>Cyamus' Trading Systems<br>
 
-<i class='fa fa-yen'></i> **塞瑪日元交易系统** 和 <i class='fa fa-pie-chart'></i> **塞瑪指数交易系统**自2019年2月起帮助客户交易實盤市场。我们的客户很高兴地看到，他们的實盤交易表现与历史表现相似。需要注意的是，历史业绩与實盤交易结果相似，仅在入场和出场价位方面。投资回报率根据客户个人[风险承受能力](https://www.investopedia.com/terms/r/risktolerance.asp)而有所不同。
+<i class='fa fa-yen'></i> **塞雅瑪日元交易系统** 和 <i class='fa fa-pie-chart'></i> **塞雅瑪指数交易系统**自2019年2月起帮助客户交易實盤市场。我们的客户很高兴地看到，他们的實盤交易表现与历史表现相似。需要注意的是，历史业绩与實盤交易结果相似，仅在入场和出场价位方面。投资回报率根据客户个人[风险承受能力](https://www.investopedia.com/terms/r/risktolerance.asp)而有所不同。
 
 <i class='fa fa-yen'></i> **Cyamus Yen Trading System** and <i class='fa fa-pie-chart'></i> **Cyamus Index Trading System** have helped clients trade *LIVE* market since February 2019. Our clients are happy to see that their *LIVE* trading performance resembles historical performance. Note that historical performance resembles *LIVE* trading results in terms of entry and exit price points only. The rates of return on investment vary based on clients' individual [risk tolerance](https://www.investopedia.com/terms/r/risktolerance.asp).
 
@@ -67,11 +67,11 @@ We believe that spectacular *LIVE* trading results and satisfactory clients are 
 
 All the performance measures presented below have factored in the transaction costs, such as spread, commissions and broker interest charges. In other words, you would have experienced the same impressive results if you manage to travel back in time.
 
-最早的交易系统是塞瑪开发的三对日元交易系统：<b>USDJPY</b>、<b>EURJPY</b> 和 <b>GBPJPY</b>。自2019年2月起在[杜高斯貝银行](https://en.wikipedia.org/wiki/Dukascopy_Bank)上进行實盤交易。
+最早的交易系统是塞雅瑪开发的三对日元交易系统：<b>USDJPY</b>、<b>EURJPY</b> 和 <b>GBPJPY</b>。自2019年2月起在[杜高斯貝银行](https://en.wikipedia.org/wiki/Dukascopy_Bank)上进行實盤交易。
 
 The earliest trading system that Cyamus developed is on three (3) Japanese Yen pairs: <b>USDJPY</b>, <b>EURJPY</b> and <b>GBPJPY</b>. It has been traded *LIVE* since Feb 2019 on [Dukascopy Bank](https://en.wikipedia.org/wiki/Dukascopy_Bank).
 
-塞瑪开发的另一个交易系统是在两个（2）股指对上：<b>USA30.IDX/USD</b> 和 <b>DEU.IDX/EUR</b>。自2019年2月以来，它已经在[杜高斯貝银行](https://en.wikipedia.org/wiki/Dukascopy_Bank)上进行了實盤交易。
+塞雅瑪开发的另一个交易系统是在两个（2）股指对上：<b>USA30.IDX/USD</b> 和 <b>DEU.IDX/EUR</b>。自2019年2月以来，它已经在[杜高斯貝银行](https://en.wikipedia.org/wiki/Dukascopy_Bank)上进行了實盤交易。
 
 The other trading system that Cyamus developed is on two (2) stock index pairs: <b>USA30.IDX/USD</b> and <b>DEU.IDX/EUR</b>. It has been traded *LIVE* since Feb 2019 on [Dukascopy Bank](https://en.wikipedia.org/wiki/Dukascopy_Bank).
 
