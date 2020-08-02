@@ -56,7 +56,7 @@ The earliest trading system that Cyamus developed is on three (3) Japanese Yen p
 
 The other trading system that Cyamus developed is on two (2) stock index pairs: <b>USA30.IDX/USD</b> and <b>DEU.IDX/EUR</b>. It has been traded *LIVE* since Feb 2019 on [Dukascopy Bank](https://en.wikipedia.org/wiki/Dukascopy_Bank).
 
-Two (2) sets of historical trading system backtesting reports are presented below based on different account position sizing techniques:
+Two (2) sets of historical trading system backtesting reports are presented below. They share the same position entry setup and exit. They are simply constructed based on different position sizing techniques so that you can have a clearer picture of how the trading systems perform:
 
 - <i class='fa fa-cogs'></i> <b>Dynamic Lot</b>
   - All new positions are dynamically sized based on **current account balance** (**CAB**) at time of opening a new position and **[maximum drawdown](https://www.investopedia.com/terms/m/maximum-drawdown-mdd.asp)** (**MDD**).
@@ -67,6 +67,7 @@ Two (2) sets of historical trading system backtesting reports are presented belo
   - <i class='fa fa-yen'></i> **Cyamus Yen Trading System**: All positions are opened with **0.01** [standard lot](https://www.investopedia.com/terms/s/standard-lot.asp), which is the minimum transaction size on forex currency pairs permissible by [Dukascopy Bank](https://en.wikipedia.org/wiki/Dukascopy_Bank) on forex currency pairs.
   - <i class='fa fa-pie-chart'></i> **Cyamus Index Trading System**: All positions are opened with **0.1** [standard lot](https://www.investopedia.com/terms/s/standard-lot.asp), which is the minimum transaction size on forex currency pairs permissible by [Dukascopy Bank](https://en.wikipedia.org/wiki/Dukascopy_Bank) on stock index [CFD](https://www.investopedia.com/articles/stocks/09/trade-a-cfd.asp)s.
 
+Throughout this page, we will continue to use <i class='fa fa-cogs'></i> to denote <b>Dynamic Lot</b>; and to use <i class='fa fa-cog'></i> to denote <b>Fixed Lot</b> for clarity and shortness.
 
 All the numbers presented below have factored in the transaction costs, such as spread, commissions and broker interest charges. In other words, you would have experienced the same results if you manage to travel back in time to trade <i class='fa fa-yen'></i> **Cyamus Yen Trading System** and <i class='fa fa-yen'></i> **Cyamus Index Trading System** *LIVE*.
 
