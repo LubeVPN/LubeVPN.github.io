@@ -77,24 +77,24 @@ The historical trading system performance report is broken down in three (3) tim
 
 - **C**: 2016 to July 2020
   - 19676 trades are made and roughly 17.21 positions are opened on every trading day.
-  - <i class='fa fa-cogs'></i>: <i class='fa fa-line-chart'></i> [Equity Curve (%)](/img_pr/jpy_percent_capitalChart_2016_2020.png) || <i class='fa fa-calendar'></i> [Monthly Profit-and-Loss (%)](/img_pr/jpy_percent_monthlyPerformance_2016_2020.png)
+  - <i class='fa fa-cogs'></i>: <i class='fa fa-line-chart'></i> [Equity Curve (%)](/img_pr/jpy_percent_capitalChart_2016_2020.png) // <i class='fa fa-calendar'></i> [Monthly Profit-and-Loss (%)](/img_pr/jpy_percent_monthlyPerformance_2016_2020.png)
   - <i class='fa fa-cogs'></i>: **Annualized Risk Return Ratio** (CAGR / MDD) is **6.58**, where CAGR is 48.61% and MDD is 7.39%.
   - <i class='fa fa-cogs'></i>: Profit Factor: 1.45; Win Rate: 49.27%; Win # / Loss #: 0.64
-  - <i class='fa fa-cog'></i>: <i class='fa fa-line-chart'></i> [Equity Curve (<i class='fa fa-dollar'></i>)](/img_pr/jpy_0.01_capitalChart_2016_2020.png) || <i class='fa fa-calendar'></i> [Monthly Profit-and-Loss (<i class='fa fa-dollar'></i>)](/img_pr/jpy_0.01_monthlyPerformance_2016_2020.png)
+  - <i class='fa fa-cog'></i>: <i class='fa fa-line-chart'></i> [Equity Curve (<i class='fa fa-dollar'></i>)](/img_pr/jpy_0.01_capitalChart_2016_2020.png) // <i class='fa fa-calendar'></i> [Monthly Profit-and-Loss (<i class='fa fa-dollar'></i>)](/img_pr/jpy_0.01_monthlyPerformance_2016_2020.png)
   - <i class='fa fa-cog'></i>: **R-Expectancy** (APPT / R) is  **0.2405R**, where the APPT is 0.69486938402 USD and the R is 2.88968440036 USD.
 - **B**: 2010 to 2015
   - 26495 trades are made. Roughly 21.06 positions are opened on every trading day.
-  - <i class='fa fa-cogs'></i>: <i class='fa fa-line-chart'></i> [Equity Curve (%)](/img_pr/jpy_percent_capitalChart_2010_2015.png) || <i class='fa fa-calendar'></i> [Monthly Profit-and-Loss (%)](/img_pr/jpy_percent_monthlyPerformance_2010_2015.png)
+  - <i class='fa fa-cogs'></i>: <i class='fa fa-line-chart'></i> [Equity Curve (%)](/img_pr/jpy_percent_capitalChart_2010_2015.png) // <i class='fa fa-calendar'></i> [Monthly Profit-and-Loss (%)](/img_pr/jpy_percent_monthlyPerformance_2010_2015.png)
   - <i class='fa fa-cogs'></i>: **Annualized Risk Return Ratio** (CAGR / MDD) is **18.04**, where CAGR is 85.31% and MDD is 4.73%.
   - <i class='fa fa-cogs'></i>: Profit Factor: 1.57; Win Rate: 50.36%; Win # / Loss #: 1.01
-  - <i class='fa fa-cog'></i>: <i class='fa fa-line-chart'></i> [Equity Curve (<i class='fa fa-dollar'></i>)](/img_pr/jpy_0.01_capitalChart_2010_2015.png) || <i class='fa fa-calendar'></i> [Monthly Profit-and-Loss (<i class='fa fa-dollar'></i>)](/img_pr/jpy_0.01_monthlyPerformance_2010_2015.png)
+  - <i class='fa fa-cog'></i>: <i class='fa fa-line-chart'></i> [Equity Curve (<i class='fa fa-dollar'></i>)](/img_pr/jpy_0.01_capitalChart_2010_2015.png) // <i class='fa fa-calendar'></i> [Monthly Profit-and-Loss (<i class='fa fa-dollar'></i>)](/img_pr/jpy_0.01_monthlyPerformance_2010_2015.png)
   - <i class='fa fa-cog'></i>: **R-Expectancy** (APPT / R) is  **0.3241R**, where the APPT is 1.11580373655 USD and the R is 3.44271725082 USD.
 - **A**: 2004 to 2009
   - 27583 trades are made. Roughly 18.23 positions are opened on every trading day.
-  - <i class='fa fa-cogs'></i>: <i class='fa fa-line-chart'></i> [Equity Curve (%)](/img_pr/jpy_percent_capitalChart_2004_2009.png) || <i class='fa fa-calendar'></i> [Monthly Profit-and-Loss (%)](/img_pr/jpy_percent_monthlyPerformance_2004_2009.png)
+  - <i class='fa fa-cogs'></i>: <i class='fa fa-line-chart'></i> [Equity Curve (%)](/img_pr/jpy_percent_capitalChart_2004_2009.png) // <i class='fa fa-calendar'></i> [Monthly Profit-and-Loss (%)](/img_pr/jpy_percent_monthlyPerformance_2004_2009.png)
   - <i class='fa fa-cogs'></i>: **Annualized Risk Return Ratio** (CAGR / MDD) is **12.45**, where CAGR is 68.6% and MDD is 5.51%.
   - <i class='fa fa-cogs'></i>: Profit Factor: 1.76; Win Rate: 51.23%; Win # / Loss #: 1.05
-  - <i class='fa fa-cog'></i>: <i class='fa fa-line-chart'></i> [Equity Curve (<i class='fa fa-dollar'></i>)](/img_pr/jpy_0.01_capitalChart_2004_2009.png) || <i class='fa fa-calendar'></i> [Monthly Profit-and-Loss (<i class='fa fa-dollar'></i>)](/img_pr/jpy_0.01_monthlyPerformance_2004_2009.png)
+  - <i class='fa fa-cog'></i>: <i class='fa fa-line-chart'></i> [Equity Curve (<i class='fa fa-dollar'></i>)](/img_pr/jpy_0.01_capitalChart_2004_2009.png) // <i class='fa fa-calendar'></i> [Monthly Profit-and-Loss (<i class='fa fa-dollar'></i>)](/img_pr/jpy_0.01_monthlyPerformance_2004_2009.png)
   - <i class='fa fa-cog'></i>: **R-Expectancy** (APPT / R) is  **0.2673R**, where the APPT is 0.90578979806 USD and the R is 3.38926598675 USD.
 
 
