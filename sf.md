@@ -91,7 +91,7 @@ The historical trading system performance report is broken down in three (3) tim
   - <i class='fa fa-cog'></i>: **R-Expectancy** (APPT / R) is  **0.3241R**, where the APPT is 1.11580373655 USD and the R is 3.44271725082 USD.
 - **A**: 2004 to 2009
   - 27583 trades are made. Roughly 18.23 positions are opened on every trading day.
-  - <i class='fa fa-cogs'></i>: <i class='fa fa-line-chart'></i> [Equity Curve](/img_pr/jpy_percent_capitalChart_2004_2009.png) || <i class='fa fa-calendar'></i> [Monthly Profit-and-Loss (%)](/img_pr/jpy_percent_monthlyPerformance_2004_2009.png)
+  - <i class='fa fa-cogs'></i>: <i class='fa fa-line-chart'></i> [Equity Curve (%)](/img_pr/jpy_percent_capitalChart_2004_2009.png) || <i class='fa fa-calendar'></i> [Monthly Profit-and-Loss (%)](/img_pr/jpy_percent_monthlyPerformance_2004_2009.png)
   - <i class='fa fa-cogs'></i>: **Annualized Risk Return Ratio** (CAGR / MDD) is **12.45**, where CAGR is 68.6% and MDD is 5.51%.
   - <i class='fa fa-cogs'></i>: Profit Factor: 1.76; Win Rate: 51.23%; Win # / Loss #: 1.05
   - <i class='fa fa-cog'></i>: <i class='fa fa-line-chart'></i> [Equity Curve (<i class='fa fa-dollar'></i>)](/img_pr/jpy_0.01_capitalChart_2004_2009.png) || <i class='fa fa-calendar'></i> [Monthly Profit-and-Loss (<i class='fa fa-dollar'></i>)](/img_pr/jpy_0.01_monthlyPerformance_2004_2009.png)
@@ -104,7 +104,7 @@ The historical trading system performance report is as follows:
 
 - 2014 to July 2020
   - 23605 trades are made and roughly 13.84 positions are opened on every trading day.
-  - <i class='fa fa-cogs'></i>: <i class='fa fa-line-chart'></i> [Equity Curve](/img_pr/index_percent_capitalChart_2014_2020.png) || <i class='fa fa-calendar'></i> [Monthly Profit-and-Loss (%)](/img_pr/index_percent_monthlyPerformance_2014_2020.png)
+  - <i class='fa fa-cogs'></i>: <i class='fa fa-line-chart'></i> [Equity Curve (%)](/img_pr/index_percent_capitalChart_2014_2020.png) || <i class='fa fa-calendar'></i> [Monthly Profit-and-Loss (%)](/img_pr/index_percent_monthlyPerformance_2014_2020.png)
   - <i class='fa fa-cogs'></i>: **Annualized Risk Return Ratio** (CAGR / MDD) is **12.37**, where CAGR is 127.38% and MDD is 10.3%.
   - <i class='fa fa-cogs'></i>: Profit Factor: 1.76; Win Rate: 39.11%; Win # / Loss #: 0.64
   - <i class='fa fa-cog'></i>: <i class='fa fa-line-chart'></i> [Equity Curve (<i class='fa fa-dollar'></i>)](/img_pr/index_0.1_capitalChart_2014_2020.png) || <i class='fa fa-calendar'></i> [Monthly Profit-and-Loss (<i class='fa fa-dollar'></i>)](/img_pr/index_0.1_monthlyPerformance_2014_2020.png)
