@@ -71,41 +71,41 @@ Throughout this page, we will continue to use <i class='fa fa-cogs'></i> to deno
 
 All the numbers presented below have factored in the transaction costs, such as spread, commissions and broker interest charges. In other words, you would have experienced the same results if you manage to travel back in time to trade <i class='fa fa-yen'></i> **Cyamus Yen Trading System** and <i class='fa fa-yen'></i> **Cyamus Index Trading System** *LIVE*.
 
-### <i class='fa fa-yen'></i> | <i class='fa fa-bar-chart'></i> 日元策略績效<br>Yen System Performance
+### <i class='fa fa-yen'></i> / <i class='fa fa-bar-chart'></i> 日元策略績效<br>Yen System Performance
 
 The historical trading system performance report is broken down in three (3) timeframes (**C**, **B**, **A**), where **C** is the most recent and **A** stretches as back as historical data allows:
 
 - **C**: 2016 to July 2020
   - 19676 trades are made and roughly 17.21 positions are opened on every trading day.
-  - <i class='fa fa-cogs'></i> | <i class='fa fa-line-chart'></i> [Equity Curve](/img_pr/jpy_percent_capitalChart_2016_2020.png) | <i class='fa fa-calendar'></i> [Monthly Return](/img_pr/jpy_percent_monthlyPerformance_2016_2020.png)
-  - <i class='fa fa-cogs'></i> | **Annualized Risk Return Ratio** (CAGR / MDD) is **6.58**, where CAGR is 48.61% and MDD is 7.39%.
-  - <i class='fa fa-cogs'></i> | Profit Factor: 1.45; Win Rate: 49.27%; Win # / Loss #: 0.64
-  - <i class='fa fa-cog'></i> | <i class='fa fa-line-chart'></i> [Equity Curve](/img_pr/jpy_0.01_capitalChart_2016_2020.png) | <i class='fa fa-calendar'></i> [Monthly Return](/img_pr/jpy_0.01_monthlyPerformance_2016_2020.png)
-  - <i class='fa fa-cog'></i> | **R-Expectancy** (Average Profitability per Trade (APPT) / Average Loss per Losing Trade (R)) is **0.2405R**, where the APPT is 0.69486938402 USD and the R is 2.88968440036 USD.
+  - <i class='fa fa-cogs'></i> / <i class='fa fa-line-chart'></i> [Equity Curve](/img_pr/jpy_percent_capitalChart_2016_2020.png) / <i class='fa fa-calendar'></i> [Monthly Return](/img_pr/jpy_percent_monthlyPerformance_2016_2020.png)
+  - <i class='fa fa-cogs'></i> / **Annualized Risk Return Ratio** (CAGR / MDD) is **6.58**, where CAGR is 48.61% and MDD is 7.39%.
+  - <i class='fa fa-cogs'></i> / Profit Factor: 1.45; Win Rate: 49.27%; Win # / Loss #: 0.64
+  - <i class='fa fa-cog'></i> / <i class='fa fa-line-chart'></i> [Equity Curve](/img_pr/jpy_0.01_capitalChart_2016_2020.png) / <i class='fa fa-calendar'></i> [Monthly Return](/img_pr/jpy_0.01_monthlyPerformance_2016_2020.png)
+  - <i class='fa fa-cog'></i> / **R-Expectancy** (Average Profitability per Trade (APPT) / Average Loss per Losing Trade (R)) is **0.2405R**, where the APPT is 0.69486938402 USD and the R is 2.88968440036 USD.
 - **B**: 2010 to 2015
   - 26495 trades are made. Roughly 21.06 positions are opened on every trading day.
-  - <i class='fa fa-cogs'></i> | <i class='fa fa-line-chart'></i> [Equity Curve](/img_pr/jpy_percent_capitalChart_2010_2015.png) | <i class='fa fa-calendar'></i> [Monthly Return](/img_pr/jpy_percent_monthlyPerformance_2010_2015.png)
-  - <i class='fa fa-cogs'></i> | **Annualized Risk Return Ratio** (CAGR / MDD) is **18.04**, where CAGR is 85.31% and MDD is 4.73%.
-  - <i class='fa fa-cogs'></i> | Profit Factor: 1.57; Win Rate: 50.36%; Win # / Loss #: 1.01
-  - <i class='fa fa-cog'></i> | <i class='fa fa-line-chart'></i> [Equity Curve](/img_pr/jpy_0.01_capitalChart_2010_2015.png) | <i class='fa fa-calendar'></i> [Monthly Return](/img_pr/jpy_0.01_monthlyPerformance_2010_2015.png)
-  - <i class='fa fa-cog'></i> | **R-Expectancy** (Average Profitability per Trade (APPT) / Average Loss per Losing Trade (R)) is **0.3241R**, where the APPT is 1.11580373655 USD and the R is 3.44271725082 USD.
+  - <i class='fa fa-cogs'></i> / <i class='fa fa-line-chart'></i> [Equity Curve](/img_pr/jpy_percent_capitalChart_2010_2015.png) / <i class='fa fa-calendar'></i> [Monthly Return](/img_pr/jpy_percent_monthlyPerformance_2010_2015.png)
+  - <i class='fa fa-cogs'></i> / **Annualized Risk Return Ratio** (CAGR / MDD) is **18.04**, where CAGR is 85.31% and MDD is 4.73%.
+  - <i class='fa fa-cogs'></i> / Profit Factor: 1.57; Win Rate: 50.36%; Win # / Loss #: 1.01
+  - <i class='fa fa-cog'></i> / <i class='fa fa-line-chart'></i> [Equity Curve](/img_pr/jpy_0.01_capitalChart_2010_2015.png) / <i class='fa fa-calendar'></i> [Monthly Return](/img_pr/jpy_0.01_monthlyPerformance_2010_2015.png)
+  - <i class='fa fa-cog'></i> / **R-Expectancy** (Average Profitability per Trade (APPT) / Average Loss per Losing Trade (R)) is **0.3241R**, where the APPT is 1.11580373655 USD and the R is 3.44271725082 USD.
 - **A**: 2004 to 2009
   - 27583 trades are made. Roughly 18.23 positions are opened on every trading day.
-  - <i class='fa fa-cogs'></i> | <i class='fa fa-line-chart'></i> [Equity Curve](/img_pr/jpy_percent_capitalChart_2004_2009.png) | <i class='fa fa-calendar'></i> [Monthly Return](/img_pr/jpy_percent_monthlyPerformance_2004_2009.png)
-  - <i class='fa fa-cogs'></i> | **Annualized Risk Return Ratio** (CAGR / MDD) is **12.45**, where CAGR is 68.6% and MDD is 5.51%.
-  - <i class='fa fa-cogs'></i> | Profit Factor: 1.76; Win Rate: 51.23%; Win # / Loss #: 1.05
-  - <i class='fa fa-cog'></i> | <i class='fa fa-line-chart'></i> [Equity Curve](/img_pr/jpy_0.01_capitalChart_2004_2009.png) | <i class='fa fa-calendar'></i> [Monthly Return](/img_pr/jpy_0.01_monthlyPerformance_2004_2009.png)
-  - <i class='fa fa-cog'></i> | **R-Expectancy** (Average Profitability per Trade (APPT) / Average Loss per Losing Trade (R)) is **0.2673R**, where the APPT is 0.90578979806 USD and the R is 3.38926598675 USD.
+  - <i class='fa fa-cogs'></i> / <i class='fa fa-line-chart'></i> [Equity Curve](/img_pr/jpy_percent_capitalChart_2004_2009.png) / <i class='fa fa-calendar'></i> [Monthly Return](/img_pr/jpy_percent_monthlyPerformance_2004_2009.png)
+  - <i class='fa fa-cogs'></i> / **Annualized Risk Return Ratio** (CAGR / MDD) is **12.45**, where CAGR is 68.6% and MDD is 5.51%.
+  - <i class='fa fa-cogs'></i> / Profit Factor: 1.76; Win Rate: 51.23%; Win # / Loss #: 1.05
+  - <i class='fa fa-cog'></i> / <i class='fa fa-line-chart'></i> [Equity Curve](/img_pr/jpy_0.01_capitalChart_2004_2009.png) / <i class='fa fa-calendar'></i> [Monthly Return](/img_pr/jpy_0.01_monthlyPerformance_2004_2009.png)
+  - <i class='fa fa-cog'></i> / **R-Expectancy** (Average Profitability per Trade (APPT) / Average Loss per Losing Trade (R)) is **0.2673R**, where the APPT is 0.90578979806 USD and the R is 3.38926598675 USD.
 
 
-### <i class='fa fa-pie-chart'></i> | <i class='fa fa-bar-chart'></i> 股指策略績效<br>Index System Performance
+### <i class='fa fa-pie-chart'></i> / <i class='fa fa-bar-chart'></i> 股指策略績效<br>Index System Performance
 
 The historical trading system performance report is as follows:
 
 - 2014 to July 2020
   - 23605 trades are made and roughly 13.84 positions are opened on every trading day.
-  - <i class='fa fa-cogs'></i> | <i class='fa fa-line-chart'></i> [Equity Curve](/img_pr/index_percent_capitalChart_2014_2020.png) | <i class='fa fa-calendar'></i> [Monthly Return](/img_pr/index_percent_monthlyPerformance_2014_2020.png)
-  - <i class='fa fa-cogs'></i> | **Annualized Risk Return Ratio** (CAGR / MDD) is **12.37**, where CAGR is 127.38% and MDD is 10.3%.
-  - <i class='fa fa-cogs'></i> | Profit Factor: 1.76; Win Rate: 39.11%; Win # / Loss #: 0.64
-  - <i class='fa fa-cog'></i> | <i class='fa fa-line-chart'></i> [Equity Curve](/img_pr/index_0.1_capitalChart_2014_2020.png) | <i class='fa fa-calendar'></i> [Monthly Return](/img_pr/index_0.1_monthlyPerformance_2014_2020.png)
-  - <i class='fa fa-cog'></i> | **R-Expectancy** (Average Profitability per Trade (APPT) / Average Loss per Losing Trade (R)) is **0.4261R**, where the APPT is 13.30 USD and the R is 31.20 USD.
+  - <i class='fa fa-cogs'></i> / <i class='fa fa-line-chart'></i> [Equity Curve](/img_pr/index_percent_capitalChart_2014_2020.png) / <i class='fa fa-calendar'></i> [Monthly Return](/img_pr/index_percent_monthlyPerformance_2014_2020.png)
+  - <i class='fa fa-cogs'></i> / **Annualized Risk Return Ratio** (CAGR / MDD) is **12.37**, where CAGR is 127.38% and MDD is 10.3%.
+  - <i class='fa fa-cogs'></i> / Profit Factor: 1.76; Win Rate: 39.11%; Win # / Loss #: 0.64
+  - <i class='fa fa-cog'></i> / <i class='fa fa-line-chart'></i> [Equity Curve](/img_pr/index_0.1_capitalChart_2014_2020.png) / <i class='fa fa-calendar'></i> [Monthly Return](/img_pr/index_0.1_monthlyPerformance_2014_2020.png)
+  - <i class='fa fa-cog'></i> / **R-Expectancy** (Average Profitability per Trade (APPT) / Average Loss per Losing Trade (R)) is **0.4261R**, where the APPT is 13.30 USD and the R is 31.20 USD.
