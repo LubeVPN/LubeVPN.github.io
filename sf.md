@@ -51,7 +51,7 @@ Note that <i class='fa fa-yen'></i> **Cyamus Yen Trading System** and <i class='
 <a href="/img_pr/Cyamus_Trading.pdf"><i class='fa fa-download'></i> Cyamus Clients' *LIVE* Trading Performance Reports & Testimonials in PDF</a>
 {: .myDownloadButton}
 
-我们相信，壮观的實盤交易结果和令人满意的客户仅仅是我们交易系統中令人振奋的部分，我们还应该分析我们的历史交易业绩矩阵，以决定我们的交易系统是否能与您现有的投资风格相得益彰。您还应该分析我们的历史交易业绩矩阵，以便您自己决定我们的交易系统是否能与您现有的投资风格相得益彰。下面，我们将重点介绍一些主要的业绩指标：
+我们相信，成績優異的實盤交易结果和稱心滿意的客户分享仅仅是我们交易系統中令人振奋的部分；您应该分析我们的历史交易业绩矩阵，以决定我们的交易系统是否能与您现有的投资风格相得益彰。下面，我们将重点介绍一些主要的业绩指标：
 
 - **[最大回撤(MDD)](https://www.investopedia.com/terms/m/maximum-drawdown-mdd.asp)** 和 **年化[风险收益率](https://en.wikipedia.org/wiki/Risk_return_ratio)** 将帮助您计算出您的[风险资本](https://www.investopedia.com/terms/r/riskcapital.asp)在时间范围内的配置。
 - **R-预期** = 所有交易的净利润 ÷ 交易总数 ÷ 每笔亏损交易的平均损失 = 每笔交易的平均利润率（APPT）÷ 每笔亏损交易的平均损失（R）。它将帮助您评估每笔交易的回报风险比。换句话说，它可以让您了解从我们的交易系统中可以得到的平均预期（即每一美元的风险）。
