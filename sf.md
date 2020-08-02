@@ -13,7 +13,9 @@ googlefonts: ["Roboto Condensed"]
 <i class='fa fa-university'></i> **Cyamus Trading Technology** ("**Cyamus**") is founded in 2019 by [Terry Li](https://bit.ly/terryli) (ex-VP of [796 Exchange](https://www.796.com), ex-CEO of [TDEx](https://www.tdex.com), and a license distributor of [Trading System Lab](https://www.tradingsystemlab.com) for the greater China region). Cyamus offers systematic trading and data analysis services to institutional clients.
 
 {: .box-warning}
-**Disclaimer**: Cyamus does not intended to provide any tax, legal or investment advice, personal recommendation or advising on investments and nothing in this website should be construed or interpreted as an investment advice, an offer to sell or buy, a solicitation of an offer to buy, or a recommendation related to any investment in financial instrument.
+**免责声明**：塞瑪提供任何税务、法律或投资意见、个人建议或投资建议。塞瑪无意提供任何税务、法律或投资建议、个人推荐或投资建议，本网站的任何内容都不应被解释或诠释为投资建议、出售或购买要约、购买要约的邀约或与任何金融工具投资有关的建议。<br>**Disclaimer**: Cyamus does not provide any tax, legal or investment advice, personal recommendation or advising on investments and nothing in this website should be construed or interpreted as an investment advice, an offer to sell or buy, a solicitation of an offer to buy, or a recommendation related to any investment in financial instrument.
+
+我们的量化开发人员专注于研究和开发中频交易策略，为市场上提供最高点差潜力的金融工具。
 
 Our quantitative developers focus on researching and developing mid-frequency trading strategies for the financial instruments that offer the highest [spread-to-pip potential](https://www.investopedia.com/articles/forex/10/spread-pip-potential-pairs-day-trading.asp) in the market:
 
@@ -30,13 +32,21 @@ Our quantitative developers focus on researching and developing mid-frequency tr
   - Germany DAX 30 Stock Market Index
     - *DEU.IDX/EUR*
 
-<i class='fa fa-yen'></i> **Cyamus Yen Trading System** is historically back-tested since the year 2004 based on bid-n-ask tick data provided by [Dukascopy Bank](https://en.wikipedia.org/wiki/Dukascopy_Bank). Forex brokerage industry is trending toward offering higher and higher [leverage ratio](https://www.investopedia.com/ask/answers/06/forexleverage.asp), sometimes up to 200:1 but the positions signaled by Cyamus Yen Trading System *have never* exceeded **7.42:1**. Therefore, our clients can take comfort in knowing that most of the forex brokers that they have been using for years are most likely to be compatible with Cyamus Yen Trading System.
+<i class='fa fa-yen'></i> **塞瑪日元交易系统**自2004年起根据[杜卡斯貝银行](https://en.wikipedia.org/wiki/Dukascopy_Bank)提供的买入卖出逐筆数据进行历史回溯测试。外汇经纪行业的趋势是提供越来越高的[杠杆比率](https://www.investopedia.com/ask/answers/06/forexleverage.asp),有时高达200:1,但塞瑪日元交易系统发出的建倉信号从未超过**7.42:1**。因此，我们的客户可以放心地知道，他们多年来一直使用的大多数外汇经纪商很可能与塞瑪日日元交易系统兼容。
+
+<i class='fa fa-yen'></i> **Cyamus Yen Trading System** is historically back-tested since the year 2004 based on bid-n-ask tick data provided by [Dukascopy Bank](https://en.wikipedia.org/wiki/Dukascopy_Bank). Forex brokerage industry is trending toward offering higher and higher [leverage ratio](https://www.investopedia.com/ask/answers/06/forexleverage.asp), sometimes up to 200:1 but the entry signaled by Cyamus Yen Trading System *have never* exceeded **7.42:1**. Therefore, our clients can take comfort in knowing that most of the forex brokers that they have been using for years are most likely to be compatible with Cyamus Yen Trading System.
+
+<i class='fa fa-pie-chart'></i> **塞瑪指数交易系统**自2014年以来，根据[杜卡斯貝银行](https://en.wikipedia.org/wiki/Dukascopy_Bank)提供的买入卖出逐筆数据进行历史回测。塞瑪指数交易系统使用的[杠杆比率](https://www.investopedia.com/ask/answers/06/forexleverage.asp)从未超过**14.35:1**,远低于杜卡斯貝银行提供的50:1(工作日)和30:1(周末)的差价合约工具。
 
 <i class='fa fa-pie-chart'></i> **Cyamus Index Trading System** is historically back-tested since the year 2014 based on bid-n-ask tick data provided by [Dukascopy Bank](https://en.wikipedia.org/wiki/Dukascopy_Bank). The [leverage ratio](https://www.investopedia.com/ask/answers/06/forexleverage.asp) used by Cyamus Index Trading System *have never* exceeded **14.35:1**, which is well below 50:1 (weekday) and 30:1 (weekend) offered by Dukascopy Bank on CFD instruments.
+
+请注意，<i class='fa fa-yen'></i> **塞瑪日元交易系统**和<i class='fa fa-pie-chart'></i> **塞瑪指数交易系统**会随着市场机会的出现而建立新仓位，即建立新仓位的决策过程不考虑现有仓位。因此，仓位[缩减](https://learn.tradimo.com/dont-go-broke-protect-your-capital/scaling-in-and-out-of-trades)和[对冲](https://www.investopedia.com/ask/answers/forex/forex-hedge-and-currency-hedging-strategy.asp)可能发生，但它们不是交易系统的固有部分。
 
 Note that <i class='fa fa-yen'></i> **Cyamus Yen Trading System** and <i class='fa fa-pie-chart'></i> **Cyamus Index Trading System** take on new position as market opportunity presents itself, i.e. decision making process of opening a new position does not take existing position(s) into consideration. Therefore, position [scaling](https://learn.tradimo.com/dont-go-broke-protect-your-capital/scaling-in-and-out-of-trades) and [hedging](https://www.investopedia.com/ask/answers/forex/forex-hedge-and-currency-hedging-strategy.asp) may happen but they are not inherit part of the trading system.
 
 ## <i class='fa fa-university'></i> 塞瑪交易系統<br>Cyamus' Strategies<br>
+
+<i class='fa fa-yen'></i> **塞瑪日元交易系统** 和 <i class='fa fa-pie-chart'></i> **塞瑪指数交易系统**自2019年2月起帮助客户交易實盤市场。我们的客户很高兴地看到，他们的實盤交易表现与历史表现相似。需要注意的是，历史业绩与實盤交易结果相似，仅在入场和出场价位方面。投资回报率根据客户个人[风险承受能力](https://www.investopedia.com/terms/r/risktolerance.asp)而有所不同。
 
 <i class='fa fa-yen'></i> **Cyamus Yen Trading System** and <i class='fa fa-pie-chart'></i> **Cyamus Index Trading System** have helped clients trade *LIVE* market since February 2019. Our clients are happy to see that their *LIVE* trading performance resembles historical performance. Note that historical performance resembles *LIVE* trading results in terms of entry and exit price points only. The rates of return on investment vary based on clients' individual [risk tolerance](https://www.investopedia.com/terms/r/risktolerance.asp).
 
@@ -77,24 +87,24 @@ The historical trading system performance report is broken down in three (3) tim
 
 - **C**: 2016 to July 2020
   - 19676 trades are made and roughly 17.21 positions are opened on every trading day.
-  - <i class='fa fa-cogs'></i>: <i class='fa fa-line-chart'></i> [Equity Curve (%)](/img_pr/jpy_percent_capitalChart_2016_2020.png) // <i class='fa fa-calendar'></i> [Monthly Profit-and-Loss (%)](/img_pr/jpy_percent_monthlyPerformance_2016_2020.png)
+  - <i class='fa fa-cogs'></i>: <i class='fa fa-line-chart'></i> [Equity Curve <i class='fa fa-percent'></i>](/img_pr/jpy_percent_capitalChart_2016_2020.png) // <i class='fa fa-calendar'></i> [Monthly Profit-and-Loss <i class='fa fa-percent'></i>](/img_pr/jpy_percent_monthlyPerformance_2016_2020.png)
   - <i class='fa fa-cogs'></i>: **Annualized Risk Return Ratio** (CAGR / MDD) is **6.58**, where CAGR is 48.61% and MDD is 7.39%.
   - <i class='fa fa-cogs'></i>: Profit Factor: 1.45; Win Rate: 49.27%; Win # / Loss #: 0.64
-  - <i class='fa fa-cog'></i>: <i class='fa fa-line-chart'></i> [Equity Curve (<i class='fa fa-dollar'></i>)](/img_pr/jpy_0.01_capitalChart_2016_2020.png) // <i class='fa fa-calendar'></i> [Monthly Profit-and-Loss (<i class='fa fa-dollar'></i>)](/img_pr/jpy_0.01_monthlyPerformance_2016_2020.png)
+  - <i class='fa fa-cog'></i>: <i class='fa fa-line-chart'></i> [Equity Curve <i class='fa fa-dollar'></i>](/img_pr/jpy_0.01_capitalChart_2016_2020.png) // <i class='fa fa-calendar'></i> [Monthly Profit-and-Loss <i class='fa fa-dollar'></i>](/img_pr/jpy_0.01_monthlyPerformance_2016_2020.png)
   - <i class='fa fa-cog'></i>: **R-Expectancy** (APPT / R) is  **0.2405R**, where the APPT is 0.69486938402 USD and the R is 2.88968440036 USD.
 - **B**: 2010 to 2015
   - 26495 trades are made. Roughly 21.06 positions are opened on every trading day.
-  - <i class='fa fa-cogs'></i>: <i class='fa fa-line-chart'></i> [Equity Curve (%)](/img_pr/jpy_percent_capitalChart_2010_2015.png) // <i class='fa fa-calendar'></i> [Monthly Profit-and-Loss (%)](/img_pr/jpy_percent_monthlyPerformance_2010_2015.png)
+  - <i class='fa fa-cogs'></i>: <i class='fa fa-line-chart'></i> [Equity Curve <i class='fa fa-percent'></i>](/img_pr/jpy_percent_capitalChart_2010_2015.png) // <i class='fa fa-calendar'></i> [Monthly Profit-and-Loss <i class='fa fa-percent'></i>](/img_pr/jpy_percent_monthlyPerformance_2010_2015.png)
   - <i class='fa fa-cogs'></i>: **Annualized Risk Return Ratio** (CAGR / MDD) is **18.04**, where CAGR is 85.31% and MDD is 4.73%.
   - <i class='fa fa-cogs'></i>: Profit Factor: 1.57; Win Rate: 50.36%; Win # / Loss #: 1.01
-  - <i class='fa fa-cog'></i>: <i class='fa fa-line-chart'></i> [Equity Curve (<i class='fa fa-dollar'></i>)](/img_pr/jpy_0.01_capitalChart_2010_2015.png) // <i class='fa fa-calendar'></i> [Monthly Profit-and-Loss (<i class='fa fa-dollar'></i>)](/img_pr/jpy_0.01_monthlyPerformance_2010_2015.png)
+  - <i class='fa fa-cog'></i>: <i class='fa fa-line-chart'></i> [Equity Curve <i class='fa fa-dollar'></i>](/img_pr/jpy_0.01_capitalChart_2010_2015.png) // <i class='fa fa-calendar'></i> [Monthly Profit-and-Loss <i class='fa fa-dollar'></i>](/img_pr/jpy_0.01_monthlyPerformance_2010_2015.png)
   - <i class='fa fa-cog'></i>: **R-Expectancy** (APPT / R) is  **0.3241R**, where the APPT is 1.11580373655 USD and the R is 3.44271725082 USD.
 - **A**: 2004 to 2009
   - 27583 trades are made. Roughly 18.23 positions are opened on every trading day.
-  - <i class='fa fa-cogs'></i>: <i class='fa fa-line-chart'></i> [Equity Curve (%)](/img_pr/jpy_percent_capitalChart_2004_2009.png) // <i class='fa fa-calendar'></i> [Monthly Profit-and-Loss (%)](/img_pr/jpy_percent_monthlyPerformance_2004_2009.png)
+  - <i class='fa fa-cogs'></i>: <i class='fa fa-line-chart'></i> [Equity Curve <i class='fa fa-percent'></i>](/img_pr/jpy_percent_capitalChart_2004_2009.png) // <i class='fa fa-calendar'></i> [Monthly Profit-and-Loss <i class='fa fa-percent'></i>](/img_pr/jpy_percent_monthlyPerformance_2004_2009.png)
   - <i class='fa fa-cogs'></i>: **Annualized Risk Return Ratio** (CAGR / MDD) is **12.45**, where CAGR is 68.6% and MDD is 5.51%.
   - <i class='fa fa-cogs'></i>: Profit Factor: 1.76; Win Rate: 51.23%; Win # / Loss #: 1.05
-  - <i class='fa fa-cog'></i>: <i class='fa fa-line-chart'></i> [Equity Curve (<i class='fa fa-dollar'></i>)](/img_pr/jpy_0.01_capitalChart_2004_2009.png) // <i class='fa fa-calendar'></i> [Monthly Profit-and-Loss (<i class='fa fa-dollar'></i>)](/img_pr/jpy_0.01_monthlyPerformance_2004_2009.png)
+  - <i class='fa fa-cog'></i>: <i class='fa fa-line-chart'></i> [Equity Curve <i class='fa fa-dollar'></i>](/img_pr/jpy_0.01_capitalChart_2004_2009.png) // <i class='fa fa-calendar'></i> [Monthly Profit-and-Loss <i class='fa fa-dollar'></i>](/img_pr/jpy_0.01_monthlyPerformance_2004_2009.png)
   - <i class='fa fa-cog'></i>: **R-Expectancy** (APPT / R) is  **0.2673R**, where the APPT is 0.90578979806 USD and the R is 3.38926598675 USD.
 
 
@@ -104,8 +114,8 @@ The historical trading system performance report is as follows:
 
 - 2014 to July 2020
   - 23605 trades are made and roughly 13.84 positions are opened on every trading day.
-  - <i class='fa fa-cogs'></i>: <i class='fa fa-line-chart'></i> [Equity Curve (%)](/img_pr/index_percent_capitalChart_2014_2020.png) || <i class='fa fa-calendar'></i> [Monthly Profit-and-Loss (%)](/img_pr/index_percent_monthlyPerformance_2014_2020.png)
+  - <i class='fa fa-cogs'></i>: <i class='fa fa-line-chart'></i> [Equity Curve <i class='fa fa-percent'></i>](/img_pr/index_percent_capitalChart_2014_2020.png) // <i class='fa fa-calendar'></i> [Monthly Profit-and-Loss <i class='fa fa-percent'></i>](/img_pr/index_percent_monthlyPerformance_2014_2020.png)
   - <i class='fa fa-cogs'></i>: **Annualized Risk Return Ratio** (CAGR / MDD) is **12.37**, where CAGR is 127.38% and MDD is 10.3%.
   - <i class='fa fa-cogs'></i>: Profit Factor: 1.76; Win Rate: 39.11%; Win # / Loss #: 0.64
-  - <i class='fa fa-cog'></i>: <i class='fa fa-line-chart'></i> [Equity Curve (<i class='fa fa-dollar'></i>)](/img_pr/index_0.1_capitalChart_2014_2020.png) || <i class='fa fa-calendar'></i> [Monthly Profit-and-Loss (<i class='fa fa-dollar'></i>)](/img_pr/index_0.1_monthlyPerformance_2014_2020.png)
+  - <i class='fa fa-cog'></i>: <i class='fa fa-line-chart'></i> [Equity Curve <i class='fa fa-dollar'></i>](/img_pr/index_0.1_capitalChart_2014_2020.png) // <i class='fa fa-calendar'></i> [Monthly Profit-and-Loss <i class='fa fa-dollar'></i>](/img_pr/index_0.1_monthlyPerformance_2014_2020.png)
   - <i class='fa fa-cog'></i>: **R-Expectancy** (APPT / R) is **0.4261R**, where the APPT is 13.30 USD and the R is 31.20 USD.
