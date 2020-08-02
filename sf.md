@@ -46,7 +46,7 @@ Note that <i class='fa fa-yen'></i> **Cyamus Yen Trading System** and <i class='
 We believe that spectacular *LIVE* trading results and satisfactory clients are only the electrifying parts our trading strategies. You should also analyze our historical trading performance matrices in order to decide for yourselves if our trading system can compliment your existing investment style. In the following, we highlight some of the major performance measures:
 
 - **[Maximum Drawdown (MDD)](https://www.investopedia.com/terms/m/maximum-drawdown-mdd.asp)** and **Annualized [Risk Return Ratio](https://en.wikipedia.org/wiki/Risk_return_ratio)** will help you work out your [risk capital](https://www.investopedia.com/terms/r/riskcapital.asp) allocation on a time horizon scale.
-- **R-Expectancy** = Net Profit of All Trades / Total Number of Trades / Average Loss per Losing Trade. It will help you evaluate reward-to-risk ratio on a per trade level. In other words, it gives you an idea of what to expect from our trading systems on the average (i.e. per dollar risked).
+- **R-Expectancy** = Net Profit of All Trades / Total Number of Trades / Average Loss per Losing Trade = Average Profitability per Trade (APPT) / Average Loss per Losing Trade (R). It will help you evaluate reward-to-risk ratio on a per trade level. In other words, it gives you an idea of what to expect from our trading systems on the average (i.e. per dollar risked).
 
 ### <i class='fa fa-bar-chart'></i> 交易績效度量<br>Performance Measures
 
