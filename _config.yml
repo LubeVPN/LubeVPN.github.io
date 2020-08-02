@@ -189,7 +189,7 @@ paginate_path: "/blog/page:num/"
 kramdown:
   input: GFM
   footnote_nr: 1
-  hard_wrap: false
+  hard_wrap: true
 
 # Default YAML values (more information on Jekyll's site)
 defaults:
