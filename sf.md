@@ -16,7 +16,7 @@ googlefonts: ["Roboto Condensed"]
 <i class='fa fa-university'></i> **Cyamus Trading Technology** ("**Cyamus**") is founded in 2019 by [Terry Li](https://bit.ly/terryli) (ex-VP of [796 Exchange](https://www.796.com), ex-CEO of [TDEx](https://www.tdex.com), and a license distributor of [Trading System Lab](https://www.tradingsystemlab.com) for the greater China region). Cyamus offers systematic trading and data analysis services to institutional clients who actively [seek asymmetric returns](https://en.wikipedia.org/wiki/Asymmetric_payoff). In fact, we do not offer any trading system which **Annualized [Risk Return Ratio](https://en.wikipedia.org/wiki/Risk_return_ratio)** ([CAGR](https://www.investopedia.com/terms/c/cagr.asp) / [MDD](https://www.investopedia.com/terms/m/maximum-drawdown-mdd.asp)) is lower than 6.
 
 
-塞雅瑪量化開發人員專注於調研金融市場中[波動率點差潛力](https://www.investopedia.com/articles/forex/10/spread-pip-potential-pairs-day-trading.asp)最高的交易工具。目前，我们于如下三个市场分類中開發對應的交易系統：1、**日元貨幣對**；2、**股票指數對**；3、**加密幣對**。其中，針對「日元貨幣對」和「股票指數對」的交易系統已經自2019年2月以来投入實盤交易（*LIVE*）；而針對「加密幣對」市場个市场的交易系統依然在内部测试階段，快將邀約客戶加入實盤交易。
+塞雅瑪量化開發人員專注於調研金融市場中[波動率點差潛力](https://www.investopedia.com/articles/forex/10/spread-pip-potential-pairs-day-trading.asp)最高的交易工具。目前，我们于如下三个市场分類中開發對應的交易系統：1、**日元貨幣對**；2、**股票指數對**；3、**加密幣對**。其中，針對「日元貨幣對」和「股票指數對」品類的交易系統已經自2019年2月以来投入實盤交易（*LIVE*）；而針對「加密幣對」品類的交易系統依然在内部测试階段，快將邀約客戶加入實盤交易。
 
 
 Our quantitative developers focus on researching and developing mid-frequency trading systems for the financial instruments that offer the highest [spread-to-pip potential](https://www.investopedia.com/articles/forex/10/spread-pip-potential-pairs-day-trading.asp). We develop trading systems to trade the instruments that belong to these three categories: 1) **Japanese Yen Pairs**; 2) **Stock Index Pairs**; and 3) **Crypto Pairs**. The strategies that trade on the *Japanese Yen Pairs* and *Stock Index Pairs* have gone *LIVE* trading real money since February 2019; and the one that trade on the *Crypto Pairs* is still being tested in-house sooner become available for invited clients to trade *LIVE*:
@@ -72,7 +72,7 @@ We believe that spectacular *LIVE* trading results and satisfactory clients are 
 
 ### <i class='fa fa-bar-chart'></i> 交易績效度量辦法<br>Performance Measures
 
-我們最先開發的的交易系统是針對 **日元貨幣對** (<b>USDJPY</b>, <b>EURJPY</b> and <b>GBPJPY</b>) 的 <i class='fa fa-yen'></i> **塞雅瑪日元交易系统** .我們開發的第二套交易系统是基於 **股票指數對** (<b>USA30.IDX/USD</b> 和 <b>DEU.IDX/EUR</b>) 的 <i class='fa fa-yen'></i> **塞雅瑪日元交易系统**。它們都自2019年2月起在[杜高斯貝银行](https://en.wikipedia.org/wiki/Dukascopy_Bank)上进行實盤交易。
+我們最先開發的的交易系统是針對 **日元貨幣對** (<b>USDJPY</b>, <b>EURJPY</b> and <b>GBPJPY</b>) 的 <i class='fa fa-yen'></i> **塞雅瑪日元交易系统**；後來開發的第二套交易系统是基於 **股票指數對** (<b>USA30.IDX/USD</b> 和 <b>DEU.IDX/EUR</b>) 的 <i class='fa fa-yen'></i> **塞雅瑪股指交易系统**。它們都自2019年2月起在[杜高斯貝银行](https://en.wikipedia.org/wiki/Dukascopy_Bank)上进行實盤交易。
 
 The earliest trading system that we developed is on *Japanese Yen Pairs* (<b>USDJPY</b>, <b>EURJPY</b> and <b>GBPJPY</b>) are <i class='fa fa-yen'></i> **Cyamus Yen Trading System**. The other trading system that Cyamus developed is on two (2) stock index pairs: <b>USA30.IDX/USD</b> and <b>DEU.IDX/EUR</b>. They have been traded *LIVE* since Feb 2019 on [Dukascopy Bank](https://en.wikipedia.org/wiki/Dukascopy_Bank).
 
@@ -84,18 +84,27 @@ Historical backtesting reports of the two trading systems are presented below. T
 
 - 所有的新仓位都是根据开立新仓位时的**账户余额**(**CAB**)和**[最大回撤](https://www.investopedia.com/terms/m/maximum-drawdown-mdd.asp)**(**MDD**)动态调整大小。
 All new positions are dynamically sized based on **current account balance** (**CAB**) at time of opening a new position and **[maximum drawdown](https://www.investopedia.com/terms/m/maximum-drawdown-mdd.asp)** (**MDD**).
-- <i class='fa fa-yen'></i> **Cyamus Yen Trading System**:
-  - The lot size of new *Yen Pairs* position is equal to **0.01 * 10% * CAB/MDD**, where the 0.01 is the minimum transaction size on forex currency pairs permissible by [Dukascopy Bank](https://en.wikipedia.org/wiki/Dukascopy_Bank), the 10% is the controlling factor for **[risk capital](https://www.investopedia.com/terms/r/riskcapital.asp)**, and the **MDD** is **-7.36%** based on 2004 to July 2020 historical performance data.
-- <i class='fa fa-pie-chart'></i> **Cyamus Index Trading System**:
-  - The size of new *Index Pairs* position is equal to **0.1 * 10% * CAB/MDD**, where the 0.1 is the minimum transaction size on stock index pairs permissible by [Dukascopy Bank](https://en.wikipedia.org/wiki/Dukascopy_Bank), the 10% is the controlling factor for **[risk capital](https://www.investopedia.com/terms/r/riskcapital.asp)**, and the **MDD** is **-10.30%** based on 2014 to July 2020 historical performance data.
+- <i class='fa fa-yen'></i> **塞雅瑪日元交易系统**
+<i class='fa fa-yen'></i> **Cyamus Yen Trading System**
+  - 新建立的仓位规模等于 **0.01 x 10% x CAB/MDD**，其中 0.01 为[杜高斯貝银行](https://en.wikipedia.org/wiki/Dukascopy_Bank)允许的外汇货币对最低交易规模，10% 为 **[风险资本](https://www.investopedia.com/terms/r/riskcapital.asp)** 的控制因素，**MDD** 为 **-7.36%**，以2004年至2020年7月的历史业绩数据为准。
+  Newly established position size equals to **0.01 x 10% x CAB/MDD**, where the 0.01 is the minimum transaction size on forex currency pairs permissible by [Dukascopy Bank](https://en.wikipedia.org/wiki/Dukascopy_Bank), the 10% is the controlling factor for **[risk capital](https://www.investopedia.com/terms/r/riskcapital.asp)**, and the **MDD** is **-7.36%** based on 2004 to July 2020 historical performance data.
+- <i class='fa fa-yen'></i> **塞雅瑪股指交易系统**
+<i class='fa fa-pie-chart'></i> **Cyamus Index Trading System**:
+  - 新建立的仓位规模等于 **0.1 x 10% x CAB/MDD**，其中 0.1 为[杜高斯貝银行](https://en.wikipedia.org/wiki/Dukascopy_Bank)允许的差價合約对最低交易規模，10% 为 **[风险资本](https://www.investopedia.com/terms/r/riskcapital.asp)** 的控制因素，**MDD** 为 **-10.30%**，以2014年至2020年7月的历史业绩数据为准。
+  Newly established position size equal to **0.1 x 10% x CAB/MDD**, where the 0.1 is the minimum transaction size on stock index pairs permissible by [Dukascopy Bank](https://en.wikipedia.org/wiki/Dukascopy_Bank), the 10% is the controlling factor for **[risk capital](https://www.investopedia.com/terms/r/riskcapital.asp)**, and the **MDD** is **-10.30%** based on 2014 to July 2020 historical performance data.
 
 #### <i class='fa fa-cog'></i> 固定手數<br>Fixed Lot
 
-- All new position sizes are the same.
+- 所有新建倉位的都是同一大小的。
+All new position sizes are the same.
 - <i class='fa fa-yen'></i> **Cyamus Yen Trading System**:
-  - All positions are opened with **0.01** [standard lot](https://www.investopedia.com/terms/s/standard-lot.asp), which is the minimum transaction size on forex currency pairs permissible by [Dukascopy Bank](https://en.wikipedia.org/wiki/Dukascopy_Bank) on forex currency pairs.
+  - 所有头寸均以 **0.01** [标准手](https://www.investopedia.com/terms/s/standard-lot.asp)开仓，这是[杜高斯貝银行](https://en.wikipedia.org/wiki/Dukascopy_Bank)在外汇货币对上允许的最低交易规模。
+  All positions are opened with **0.01** [standard lot](https://www.investopedia.com/terms/s/standard-lot.asp), which is the minimum transaction size on forex currency pairs permissible by [Dukascopy Bank](https://en.wikipedia.org/wiki/Dukascopy_Bank) on forex currency pairs.
 - <i class='fa fa-pie-chart'></i> **Cyamus Index Trading System**:
-  - All positions are opened with **0.1** [standard lot](https://www.investopedia.com/terms/s/standard-lot.asp), which is the minimum transaction size on forex currency pairs permissible by [Dukascopy Bank](https://en.wikipedia.org/wiki/Dukascopy_Bank) on stock index [CFD](https://www.investopedia.com/articles/stocks/09/trade-a-cfd.asp)s.
+  - 所有头寸均以 **0.1** [标准手](https://www.investopedia.com/terms/s/standard-lot.asp)开仓，这是[杜高斯貝银行](https://en.wikipedia.org/wiki/Dukascopy_Bank)在差價合約上允许的最低交易规模。
+  All positions are opened with **0.1** [standard lot](https://www.investopedia.com/terms/s/standard-lot.asp), which is the minimum transaction size on forex currency pairs permissible by [Dukascopy Bank](https://en.wikipedia.org/wiki/Dukascopy_Bank) on stock index [CFD](https://www.investopedia.com/articles/stocks/09/trade-a-cfd.asp)s.
+
+接下來，我們將會繼續用 <i class='fa fa-cogs'></i> 去標示 **動態手數**，與及用 <i class='fa fa-cog'></i> 去代表 **固定手數** 去分析
 
 Throughout this page, we will continue to use <i class='fa fa-cogs'></i> to denote <b>Dynamic Lot</b>; and to use <i class='fa fa-cog'></i> to denote <b>Fixed Lot</b> for clarity and shortness.
 
