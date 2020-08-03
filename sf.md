@@ -72,21 +72,13 @@ We believe that spectacular *LIVE* trading results and satisfactory clients are 
 
 ### <i class='fa fa-bar-chart'></i> 交易績效度量辦法<br>Performance Measures
 
-下面介绍的所有业绩衡量标准都已经考虑到了交易成本，如点差、佣金和经纪人利息费用。换句话说，如果你能穿越時空回到過去，你也会经历如此令人讚歎的结果。
+我們最先開發的的交易系统是針對 **日元貨幣對** (<b>USDJPY</b>, <b>EURJPY</b> and <b>GBPJPY</b>) 的 <i class='fa fa-yen'></i> **塞雅瑪日元交易系统** .我們開發的第二套交易系统是基於 **股票指數對** (<b>USA30.IDX/USD</b> 和 <b>DEU.IDX/EUR</b>) 的 <i class='fa fa-yen'></i> **塞雅瑪日元交易系统**。它們都自2019年2月起在[杜高斯貝银行](https://en.wikipedia.org/wiki/Dukascopy_Bank)上进行實盤交易。
 
-All the performance measures presented below have factored in the transaction costs, such as spread, commissions and broker interest charges. In other words, you would have experienced the same impressive results if you manage to travel back in time.
+The earliest trading system that we developed is on *Japanese Yen Pairs* (<b>USDJPY</b>, <b>EURJPY</b> and <b>GBPJPY</b>) are <i class='fa fa-yen'></i> **Cyamus Yen Trading System**. The other trading system that Cyamus developed is on two (2) stock index pairs: <b>USA30.IDX/USD</b> and <b>DEU.IDX/EUR</b>. They have been traded *LIVE* since Feb 2019 on [Dukascopy Bank](https://en.wikipedia.org/wiki/Dukascopy_Bank).
 
-我們最先開發的的交易系统是針對 **日元貨幣對** (<b>USDJPY</b>, <b>EURJPY</b> and <b>GBPJPY</b>) 的 <i class='fa fa-yen'></i> **塞雅瑪日元交易系统** ，並自2019年2月起在[杜高斯貝银行](https://en.wikipedia.org/wiki/Dukascopy_Bank)上进行實盤交易：。
+下面介绍該两套（2）交易系统的歷史回测报告。它们共享相同的仓位进入设置和退出。它们只是基于不同的仓位管理技巧而构建，以便您可以更清楚地了解它們的特征。下面介绍的所有业绩衡量标准都已经考虑到了交易成本，如点差、佣金和经纪人利息费用。换句话说，如果你设法回到过去，你也会经历同样令人印象深刻的结果。
 
-The earliest trading system that we developed is on *Japanese Yen Pairs* (<b>USDJPY</b>, <b>EURJPY</b> and <b>GBPJPY</b>) are <i class='fa fa-yen'></i> **Cyamus Yen Trading System**. It has been traded *LIVE* since Feb 2019 on [Dukascopy Bank](https://en.wikipedia.org/wiki/Dukascopy_Bank).
-
-我們開發的第二套交易系统是基於 **股票指數對** (<b>USA30.IDX/USD</b> 和 <b>DEU.IDX/EUR</b>) 的 <i class='fa fa-yen'></i> **塞雅瑪日元交易系统**。自2019年2月以来，它已经在[杜高斯貝银行](https://en.wikipedia.org/wiki/Dukascopy_Bank)上进行了實盤交易：
-
-The other trading system that Cyamus developed is on two (2) stock index pairs: <b>USA30.IDX/USD</b> and <b>DEU.IDX/EUR</b>. It has been traded *LIVE* since Feb 2019 on [Dukascopy Bank](https://en.wikipedia.org/wiki/Dukascopy_Bank).
-
-下面介绍該两套（2）交易系统的歷史回测报告。它们共享相同的仓位进入设置和退出。它们只是基于不同的仓位大小技术而构建，以便您可以更清楚地了解交易系统的表现。
-
-Historical backtesting reports of the two trading systems are presented below. They share the same position entry setup and exit. They are simply constructed based on different position sizing techniques so that you can have a clearer picture of how the trading systems perform:
+Historical backtesting reports of the two trading systems are presented below. They share the same position entry setup and exit. They are simply constructed based on different position sizing techniques so that you can have a clearer picture of how the trading systems perform. All the performance measures presented below have factored in the transaction costs, such as spread, commissions and broker interest charges. In other words, you would have experienced the same impressive results if you manage to travel back in time.
 
 #### <i class='fa fa-cogs'></i> 動態手數<br>Dynamic Lot
 
