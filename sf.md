@@ -63,12 +63,12 @@ Note that <i class='fa fa-yen'></i> **Cyamus Yen Trading System** and <i class='
 我们相信，成績優異的實盤交易结果和稱心滿意的客户分享仅仅是我们交易系統中令人振奋的部分；您应该分析我们的历史交易业绩矩阵，以决定我们的交易系统是否能与您现有的投资风格相得益彰。下面，我们将重点介绍一些主要的业绩指标：
 
 - **[最大回撤(MDD)](https://www.investopedia.com/terms/m/maximum-drawdown-mdd.asp)** 和 **年化[风险收益率](https://en.wikipedia.org/wiki/Risk_return_ratio)** 将帮助您计算出您的[风险资本](https://www.investopedia.com/terms/r/riskcapital.asp)在时间范围内的配置。
-- **R-预期** = 所有交易的净利润 ÷ 交易总数 ÷ 每笔亏损交易的平均损失 = 每笔交易的平均利润率（APPT）÷ 每笔亏损交易的平均损失（R）。它将帮助您评估每笔交易的回报风险比。换句话说，它可以让您了解从我们的交易系统中可以得到的平均预期（即每一美元的风险）。
+- **R-预期** = 所有交易的净利润 ÷ 交易总数 ÷ 每笔亏损交易的平均损失 = 每笔交易的平均利润率（APPT）÷ 每笔亏损交易的平均损失（R）。它将帮助您评估每笔交易的回报风险比。换句话说，它可以让您了解从我们的交易系统，從每一美元冒的风险中可以獲得的平均预期回報。
 
 We believe that spectacular *LIVE* trading results and satisfactory clients are only the electrifying parts our trading systems. You should also analyze our historical trading performance matrices in order to decide for yourselves if our trading system can compliment your existing investment style. In the following, we highlight some of the major performance measures:
 
 - **[Maximum Drawdown (MDD)](https://www.investopedia.com/terms/m/maximum-drawdown-mdd.asp)** and **Annualized [Risk Return Ratio](https://en.wikipedia.org/wiki/Risk_return_ratio)** will help you work out your [risk capital](https://www.investopedia.com/terms/r/riskcapital.asp) allocation on a time horizon scale.
-- **R-Expectancy** = Net Profit of All Trades ÷ Total Number of Trades ÷ Average Loss per Losing Trade = Average Profitability per Trade (APPT) ÷ Average Loss per Losing Trade (R). It will help you evaluate reward-to-risk ratio on a per trade level. In other words, it gives you an idea of what to expect from our trading systems on the average (i.e. per dollar risked).
+- **R-Expectancy** = Net Profit of All Trades ÷ Total Number of Trades ÷ Average Loss per Losing Trade = Average Profitability per Trade (APPT) ÷ Average Loss per Losing Trade (R). It will help you evaluate reward-to-risk ratio on a per trade level. In other words, it gives you an idea of the return that you can expect from our trading systems on the average per dollar risked.
 
 ### <i class='fa fa-bar-chart'></i> 交易績效度量辦法<br>Performance Measures
 
