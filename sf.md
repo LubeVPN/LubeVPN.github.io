@@ -82,9 +82,9 @@ Historical backtesting reports of the two trading systems are presented below. T
 
 #### <i class='fa fa-cogs'></i> 動態手數<br>Dynamic Lot
 
-使用动态手作为管理仓位大小的技术，可以帮助您了解您的投资在一段时间内可能会多少以百分比的形式增长，有效地消除了风险资本分配的因素。也就是说，无论您最初配置多少资金来交易系统，业绩衡量标准仍然可以适用。
+动态手數为管理仓位大小的技巧，可以帮助您了解您的投资在一段时间内可能会以多少以百分比增长，有效地消除了风险资本分配的因素差異。也就是说，无论您最初配置多少资金来交易系统，业绩衡量标准仍然可以适用。
 
-Using Dynamic Lot as position sizing technique help you understand how your investment may grow in time in percentage terms, effectively eliminating the factor of risk capital allocation. That is, no matter how much money you allocate to trade the systems initially, the performance measures can still be applicable.
+Dynamic Lot as position sizing technique helps you understand how your investment may grow in time in percentage terms, effectively eliminating the factor of risk capital allocation. That is, no matter how much money you allocate to trade the systems initially, the performance measures can still be applicable.
 
 - 所有的新仓位都是根据开立新仓位时的**账户余额**(**CAB**)和**[最大回撤](https://www.investopedia.com/terms/m/maximum-drawdown-mdd.asp)**(**MDD**)动态调整大小。
 All new positions are dynamically sized based on **current account balance** (**CAB**) at time of opening a new position and **[maximum drawdown](https://www.investopedia.com/terms/m/maximum-drawdown-mdd.asp)** (**MDD**).
@@ -92,12 +92,14 @@ All new positions are dynamically sized based on **current account balance** (**
 <i class='fa fa-yen'></i> **Cyamus Yen Trading System**
   - 新建立的仓位规模等于 **0.01 x 10% x CAB/MDD**，其中 0.01 为[杜高斯貝银行](https://en.wikipedia.org/wiki/Dukascopy_Bank)允许的外汇货币对最低交易规模，10% 为 **[风险资本](https://www.investopedia.com/terms/r/riskcapital.asp)** 的控制因素，**MDD** 为 **-7.36%**，以2004年至2020年7月的历史业绩数据为准。
   Newly established position size equals to **0.01 x 10% x CAB/MDD**, where the 0.01 is the minimum transaction size on forex currency pairs permissible by [Dukascopy Bank](https://en.wikipedia.org/wiki/Dukascopy_Bank), the 10% is the controlling factor for **[risk capital](https://www.investopedia.com/terms/r/riskcapital.asp)**, and the **MDD** is **-7.36%** based on 2004 to July 2020 historical performance data.
-- <i class='fa fa-yen'></i> **塞雅瑪股指交易系统**
+- <i class='fa fa-pie-chart'></i> **塞雅瑪股指交易系统**
 <i class='fa fa-pie-chart'></i> **Cyamus Index Trading System**:
   - 新建立的仓位规模等于 **0.1 x 10% x CAB/MDD**，其中 0.1 为[杜高斯貝银行](https://en.wikipedia.org/wiki/Dukascopy_Bank)允许的差價合約对最低交易規模，10% 为 **[风险资本](https://www.investopedia.com/terms/r/riskcapital.asp)** 的控制因素，**MDD** 为 **-10.30%**，以2014年至2020年7月的历史业绩数据为准。
   Newly established position size equal to **0.1 x 10% x CAB/MDD**, where the 0.1 is the minimum transaction size on stock index pairs permissible by [Dukascopy Bank](https://en.wikipedia.org/wiki/Dukascopy_Bank), the 10% is the controlling factor for **[risk capital](https://www.investopedia.com/terms/r/riskcapital.asp)**, and the **MDD** is **-10.30%** based on 2014 to July 2020 historical performance data.
 
 #### <i class='fa fa-cog'></i> 固定手數<br>Fixed Lot
+
+Use
 
 - 所有新建倉位的都是同一大小的。
 All new position sizes are the same.
