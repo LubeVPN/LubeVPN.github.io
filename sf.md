@@ -82,12 +82,10 @@ Historical backtesting reports of the two trading systems are presented below. T
 
 #### <i class='fa fa-cogs'></i> 動態手數<br>Dynamic Lot
 
-动态手數为管理仓位大小的技巧，可以帮助您了解您的投资在一段时间内可能会以多少以百分比增长，有效地消除了风险资本分配的因素差異。也就是说，无论您最初配置多少资金来交易系统，业绩衡量标准仍然可以适用。
+动态手數为管理仓位大小的技巧，可以帮助您了解您的投资在一段时间内可能会以多少以百分比增长，有效地消除了风险资本分配的因素差異。也就是说，无论您最初配置多少资金来交易系统，业绩衡量标准仍然可以适用，因為所有的新仓位都是根据开立新仓位时的**账户余额**(**CAB**)和**[最大回撤](https://www.investopedia.com/terms/m/maximum-drawdown-mdd.asp)**(**MDD**)动态调整大小。
 
-Dynamic Lot as position sizing technique helps you understand how your investment may grow in time in percentage terms, effectively eliminating the factor of risk capital allocation. That is, no matter how much money you allocate to trade the systems initially, the performance measures can still be applicable.
+Dynamic Lot as position sizing technique helps you understand how your investment may grow in time in percentage terms, effectively eliminating the factor of risk capital allocation. That is, no matter how much money you allocate to trade the systems initially, the performance measures can still be applicable because all new positions are dynamically sized based on **current account balance** (**CAB**) at time of opening a new position and **[maximum drawdown](https://www.investopedia.com/terms/m/maximum-drawdown-mdd.asp)** (**MDD**).
 
-- 所有的新仓位都是根据开立新仓位时的**账户余额**(**CAB**)和**[最大回撤](https://www.investopedia.com/terms/m/maximum-drawdown-mdd.asp)**(**MDD**)动态调整大小。
-All new positions are dynamically sized based on **current account balance** (**CAB**) at time of opening a new position and **[maximum drawdown](https://www.investopedia.com/terms/m/maximum-drawdown-mdd.asp)** (**MDD**).
 - <i class='fa fa-yen'></i> **塞雅瑪日元交易系统**
 <i class='fa fa-yen'></i> **Cyamus Yen Trading System**
   - 新建立的仓位规模等于 **0.01 x 10% x CAB/MDD**，其中 0.01 为[杜高斯貝银行](https://en.wikipedia.org/wiki/Dukascopy_Bank)允许的外汇货币对最低交易规模，10% 为 **[风险资本](https://www.investopedia.com/terms/r/riskcapital.asp)** 的控制因素，**MDD** 为 **-7.36%**，以2004年至2020年7月的历史业绩数据为准。
@@ -99,25 +97,27 @@ All new positions are dynamically sized based on **current account balance** (**
 
 #### <i class='fa fa-cog'></i> 固定手數<br>Fixed Lot
 
-Use
+固定手数作为管理仓位大小技巧，使我们能够给您展示一個公平合理的 **R-预期**。它将帮助您评估每笔交易的回报风险比。换句话说，它能让您了解从我们的交易系统中可以得到的平均预期（即每一美元的风险）。
+
+Fixed Lot as position sizing technique allows us give you a fair and reasonable presentation of the **R-Expectancy**. It will help you evaluate reward-to-risk ratio on a per trade level. In other words, it gives you an idea of what to expect from our trading systems on the average (i.e. per dollar risked).
 
 - 所有新建倉位的都是同一大小的。
 All new position sizes are the same.
-- <i class='fa fa-yen'></i> **Cyamus Yen Trading System**:
+- <i class='fa fa-yen'></i> **Cyamus Yen Trading System**
   - 所有头寸均以 **0.01** [标准手](https://www.investopedia.com/terms/s/standard-lot.asp)开仓，这是[杜高斯貝银行](https://en.wikipedia.org/wiki/Dukascopy_Bank)在外汇货币对上允许的最低交易规模。
   All positions are opened with **0.01** [standard lot](https://www.investopedia.com/terms/s/standard-lot.asp), which is the minimum transaction size on forex currency pairs permissible by [Dukascopy Bank](https://en.wikipedia.org/wiki/Dukascopy_Bank) on forex currency pairs.
-- <i class='fa fa-pie-chart'></i> **Cyamus Index Trading System**:
+- <i class='fa fa-pie-chart'></i> **Cyamus Index Trading System**
   - 所有头寸均以 **0.1** [标准手](https://www.investopedia.com/terms/s/standard-lot.asp)开仓，这是[杜高斯貝银行](https://en.wikipedia.org/wiki/Dukascopy_Bank)在差價合約上允许的最低交易规模。
   All positions are opened with **0.1** [standard lot](https://www.investopedia.com/terms/s/standard-lot.asp), which is the minimum transaction size on forex currency pairs permissible by [Dukascopy Bank](https://en.wikipedia.org/wiki/Dukascopy_Bank) on stock index [CFD](https://www.investopedia.com/articles/stocks/09/trade-a-cfd.asp)s.
 
 {: .box-note}
 接下來，為了簡短篇幅，我們將會用 <i class='fa fa-cogs'></i> 去標示 **動態手數**，與及用 <i class='fa fa-cog'></i> 去代表 **固定手數**。<br>Throughout this page, we will continue to use <i class='fa fa-cogs'></i> to denote <b>Dynamic Lot</b>; and to use <i class='fa fa-cog'></i> to denote <b>Fixed Lot</b> for clarity and shortness.
 
-## <i class='fa fa-yen'></i> / <i class='fa fa-bar-chart'></i> 日元策略績效<br>Yen System Performance
-
 以下所有的績效數值都已经考虑到了交易成本的負面衝擊，如点差、佣金和经纪商利息费用。换句话说，如果您能時光倒流回到過去實盤交易 <i class='fa fa-yen'></i> **塞雅瑪日元交易系统** 和 <i class='fa fa-yen'></i> **塞雅瑪指数交易系统**，您亦能体验到同样的结果。
 
 All the numbers presented below have factored in negative impact of the transaction costs, such as spread, commissions and broker interest charges. In other words, you would have experienced the same results if you manage to travel back in time to trade <i class='fa fa-yen'></i> **Cyamus Yen Trading System** and <i class='fa fa-yen'></i> **Cyamus Index Trading System** *LIVE*.
+
+## <i class='fa fa-yen'></i> / <i class='fa fa-bar-chart'></i> 日元策略績效<br>Yen System Performance
 
 历史交易系统业绩报告分为三个时间段（**C**、**B**、**A**），其中**C**是最近的，而**A**则是在历史数据允许的情况下进行延伸。
 
