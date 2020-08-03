@@ -39,7 +39,7 @@ Our quantitative developers focus on researching and developing mid-frequency tr
     - Ether
       - *ETH/USD*
 
-<i class='fa fa-yen'></i> **塞雅瑪日元交易系统** 自2004年起根据[杜高斯貝银行](https://en.wikipedia.org/wiki/Dukascopy_Bank)提供的买入卖出逐筆数据进行历史回溯测试。外汇经纪行业的趋势是提供越来越高的[杠杆比率](https://www.investopedia.com/ask/answers/06/forexleverage.asp),有时高达200:1,但塞雅瑪日元交易系统发出的建倉信号从未超过**7.42:1**。因此，我们的客户可以放心地知道，他们多年来一直使用的大多数外汇经纪商很可能与塞雅瑪日日元交易系统兼容。
+<i class='fa fa-yen'></i> **塞雅瑪日元交易系统** 自2004年起根据[杜高斯貝银行](https://en.wikipedia.org/wiki/Dukascopy_Bank)提供的买入卖出逐筆数据进行历史回溯测试。外汇经纪行业的趋势是提供越来越高的[杠杆比率](https://www.investopedia.com/ask/answers/06/forexleverage.asp),有时高达200:1,但塞雅瑪日元交易系统发出的建倉信号从未超过**7.42:1**。因此，我们的客户大多可以放心，因為他们多年来一直在使用的外汇经纪商高幾率能与塞雅瑪日元交易系统兼容。
 
 <i class='fa fa-yen'></i> **Cyamus Yen Trading System** is historically back-tested since the year 2004 based on bid-n-ask tick data provided by [Dukascopy Bank](https://en.wikipedia.org/wiki/Dukascopy_Bank). Forex brokerage industry is trending toward offering higher and higher [leverage ratio](https://www.investopedia.com/ask/answers/06/forexleverage.asp), sometimes up to 200:1 but the entry signaled by Cyamus Yen Trading System *have never* exceeded **7.42:1**. Therefore, our clients can take comfort in knowing that most of the forex brokers that they have been using for years are most likely to be compatible with Cyamus Yen Trading System.
 
