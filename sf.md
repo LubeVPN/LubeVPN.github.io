@@ -113,82 +113,80 @@ All new position sizes are the same.
 {: .box-note}
 接下來，為了簡短篇幅，我們將會用 <i class='fa fa-cogs'></i> 去標示 **動態手數**，與及用 <i class='fa fa-cog'></i> 去代表 **固定手數**。<br>Throughout this page, we will continue to use <i class='fa fa-cogs'></i> to denote <b>Dynamic Lot</b>; and to use <i class='fa fa-cog'></i> to denote <b>Fixed Lot</b> for clarity and shortness.
 
-以下所有的績效數值都已经考虑到了交易成本的負面衝擊，如点差、佣金和经纪商利息费用。换句话说，如果您能時光倒流回到過去實盤交易 <i class='fa fa-yen'></i> **塞雅瑪日元交易系统** 和 <i class='fa fa-yen'></i> **塞雅瑪指数交易系统**，您亦能体验到同样的结果。
+以下所有的績效數值都已经考虑到了交易成本的負面衝擊，如点差、佣金和经纪商利息费用。换句话说，如果您能時光倒流回到過去實盤交易 <i class='fa fa-yen'></i> **塞雅瑪日元交易系统** 和 <i class='fa fa-yen'></i> **塞雅瑪指数交易系统**，您亦能体验到同样的结果。您也可以点击 <i class='fa fa-line-chart'></i> 链接直观地查看交易系統的权益增长情况；点击 <i class='fa fa-calendar'></i> 链接去查看 <i class='fa fa-percent'></i> 模型中以 <i class='fa fa-cogs'></i> 百分比为单位的月度权益增长，或 <i class='fa fa-dollar'></i> 模型中以 <i class='fa fa-cog'></i> 美元为单位的月度权益增长。
 
-All the numbers presented below have factored in negative impact of the transaction costs, such as spread, commissions and broker interest charges. In other words, you would have experienced the same results if you manage to travel back in time to trade <i class='fa fa-yen'></i> **Cyamus Yen Trading System** and <i class='fa fa-yen'></i> **Cyamus Index Trading System** *LIVE*.
+All the numbers presented below have factored in negative impact of the transaction costs, such as spread, commissions and broker interest charges. In other words, you would have experienced the same results if you manage to travel back in time to trade <i class='fa fa-yen'></i> **Cyamus Yen Trading System** and <i class='fa fa-yen'></i> **Cyamus Index Trading System** *LIVE*. You can also click on the <i class='fa fa-line-chart'></i> link to visually examine the equity growth of the trading system; and click on the <i class='fa fa-calendar'></i> link to see the month-to-month equity growth in <i class='fa fa-percent'></i> percentage in the <i class='fa fa-cogs'></i> model or in <i class='fa fa-dollar'></i> dollar in the <i class='fa fa-cog'></i> model.
 
 ## <i class='fa fa-yen'></i> / <i class='fa fa-bar-chart'></i> 日元策略績效<br>Yen System Performance
 
-历史交易系统业绩报告分为三个时间段（**C**、**B**、**A**），其中**C**是最近的，而**A**则是在历史数据允许的情况下进行延伸。
-
-The historical trading system performance report is broken down in three (3) timeframes (**C**, **B**, **A**), where **C** is the most recent and **A** stretches as back as historical data allows:
+历史交易系统业绩报告分为三个时间段（**C**、**B**、**A**），其中**C**是最近的，而**A**则是在历史数据允许的情况下进行延伸：<br>The historical trading system performance report is broken down in three (3) timeframes (**C**, **B**, **A**), where **C** is the most recent and **A** stretches as back as historical data allows:
 
 ### **C**: 2016 to July 2020
 
-19676 trades are made and roughly 17.21 positions are opened on every trading day.
+共進行了19676次交易，每个交易日大概开仓17.21次。<br>Total 19676 trades are made and roughly 17.21 positions are opened on every trading day.
 
 #### <i class='fa fa-cogs'></i> 動態手數<br>Dynamic Lot
 
-- <i class='fa fa-cogs'></i>: <i class='fa fa-line-chart'></i> [Equity Curve <i class='fa fa-percent'></i>](/img_pr/jpy_percent_capitalChart_2016_2020.png)
-- <i class='fa fa-cogs'></i>: <i class='fa fa-calendar'></i> [Monthly Profit-and-Loss <i class='fa fa-percent'></i>](/img_pr/jpy_percent_monthlyPerformance_2016_2020.png)
+- <i class='fa fa-cogs'></i>: [<i class='fa fa-line-chart'></i> Equity Curve <i class='fa fa-percent'></i>](/img_pr/jpy_percent_capitalChart_2016_2020.png)
+- <i class='fa fa-cogs'></i>: [<i class='fa fa-calendar'></i> Monthly Profit-and-Loss <i class='fa fa-percent'></i>](/img_pr/jpy_percent_monthlyPerformance_2016_2020.png)
 - <i class='fa fa-cogs'></i>: **Annualized Risk Return Ratio** (CAGR / MDD) is **6.58**, where CAGR is 48.61% and MDD is 7.39%. Profit Factor: 1.45; Win Rate: 49.27%; Win # / Loss #: 0.64
 
 #### <i class='fa fa-cog'></i> 固定手數<br>Fixed Lot
 
-- <i class='fa fa-cog'></i>: <i class='fa fa-line-chart'></i> [Equity Curve <i class='fa fa-dollar'></i>](/img_pr/jpy_0.01_capitalChart_2016_2020.png)
-- <i class='fa fa-cog'></i>: <i class='fa fa-calendar'></i> [Monthly Profit-and-Loss <i class='fa fa-dollar'></i>](/img_pr/jpy_0.01_monthlyPerformance_2016_2020.png)
+- <i class='fa fa-cog'></i>: [<i class='fa fa-line-chart'></i> Equity Curve <i class='fa fa-dollar'></i>](/img_pr/jpy_0.01_capitalChart_2016_2020.png)
+- <i class='fa fa-cog'></i>: [<i class='fa fa-calendar'></i> Monthly Profit-and-Loss <i class='fa fa-dollar'></i>](/img_pr/jpy_0.01_monthlyPerformance_2016_2020.png)
 - <i class='fa fa-cog'></i>: **R-Expectancy** (APPT / R) is  **0.2405R**, where the APPT is 0.69486938402 USD and the R is 2.88968440036 USD.
 
 ### **B**: 2010 to 2015
 
-26495 trades are made. Roughly 21.06 positions are opened on every trading day.
+共进行了26495次交易。大概每个交易日开仓21.06次。<br>Total 26495 trades are made. Roughly 21.06 positions are opened on every trading day.
 
 #### <i class='fa fa-cogs'></i> 動態手數<br>Dynamic Lot
 
-- <i class='fa fa-cogs'></i>: <i class='fa fa-line-chart'></i> [Equity Curve <i class='fa fa-percent'></i>](/img_pr/jpy_percent_capitalChart_2010_2015.png)
-- <i class='fa fa-cogs'></i>: <i class='fa fa-calendar'></i> [Monthly Profit-and-Loss <i class='fa fa-percent'></i>](/img_pr/jpy_percent_monthlyPerformance_2010_2015.png)
+- <i class='fa fa-cogs'></i>: [<i class='fa fa-line-chart'></i> Equity Curve <i class='fa fa-percent'></i>](/img_pr/jpy_percent_capitalChart_2010_2015.png)
+- <i class='fa fa-cogs'></i>: [<i class='fa fa-calendar'></i> Monthly Profit-and-Loss <i class='fa fa-percent'></i>](/img_pr/jpy_percent_monthlyPerformance_2010_2015.png)
 - <i class='fa fa-cogs'></i>: **Annualized Risk Return Ratio** (CAGR / MDD) is **18.04**, where CAGR is 85.31% and MDD is 4.73%. <i class='fa fa-cogs'></i>: Profit Factor: 1.57; Win Rate: 50.36%; Win # / Loss #: 1.01
 
 #### <i class='fa fa-cog'></i> 固定手數<br>Fixed Lot
 
-- <i class='fa fa-cog'></i>: <i class='fa fa-line-chart'></i> [Equity Curve <i class='fa fa-dollar'></i>](/img_pr/jpy_0.01_capitalChart_2010_2015.png)
-- <i class='fa fa-cog'></i>: <i class='fa fa-calendar'></i> [Monthly Profit-and-Loss <i class='fa fa-dollar'></i>](/img_pr/jpy_0.01_monthlyPerformance_2010_2015.png)
+- <i class='fa fa-cog'></i>: [<i class='fa fa-line-chart'></i> Equity Curve <i class='fa fa-dollar'></i>](/img_pr/jpy_0.01_capitalChart_2010_2015.png)
+- <i class='fa fa-cog'></i>: [<i class='fa fa-calendar'></i> Monthly Profit-and-Loss <i class='fa fa-dollar'></i>](/img_pr/jpy_0.01_monthlyPerformance_2010_2015.png)
 - <i class='fa fa-cog'></i>: **R-Expectancy** (APPT / R) is  **0.3241R**, where the APPT is 1.11580373655 USD and the R is 3.44271725082 USD.
 
 ### **A**: 2004 to 2009
 
-27583 trades are made. Roughly 18.23 positions are opened on every trading day.
+共进行27583次交易。每个交易日大约开仓18.23次。<br>Total 27583 trades are made. Roughly 18.23 positions are opened on every trading day.
 
 #### <i class='fa fa-cogs'></i> 動態手數<br>Dynamic Lot
 
-- <i class='fa fa-cogs'></i>: <i class='fa fa-line-chart'></i> [Equity Curve <i class='fa fa-percent'></i>](/img_pr/jpy_percent_capitalChart_2004_2009.png)
-- <i class='fa fa-cogs'></i>: <i class='fa fa-calendar'></i> [Monthly Profit-and-Loss <i class='fa fa-percent'></i>](/img_pr/jpy_percent_monthlyPerformance_2004_2009.png)
+- <i class='fa fa-cogs'></i>: [<i class='fa fa-line-chart'></i> Equity Curve <i class='fa fa-percent'></i>](/img_pr/jpy_percent_capitalChart_2004_2009.png)
+- <i class='fa fa-cogs'></i>: [<i class='fa fa-calendar'></i> Monthly Profit-and-Loss <i class='fa fa-percent'></i>](/img_pr/jpy_percent_monthlyPerformance_2004_2009.png)
 - <i class='fa fa-cogs'></i>: **Annualized Risk Return Ratio** (CAGR / MDD) is **12.45**, where CAGR is 68.6% and MDD is 5.51%. <i class='fa fa-cogs'></i>: Profit Factor: 1.76; Win Rate: 51.23%; Win # / Loss #: 1.05
 
 #### <i class='fa fa-cog'></i> 固定手數<br>Fixed Lot
 
-- <i class='fa fa-cog'></i>: <i class='fa fa-line-chart'></i> [Equity Curve <i class='fa fa-dollar'></i>](/img_pr/jpy_0.01_capitalChart_2004_2009.png)
-- <i class='fa fa-cog'></i>: <i class='fa fa-calendar'></i> [Monthly Profit-and-Loss <i class='fa fa-dollar'></i>](/img_pr/jpy_0.01_monthlyPerformance_2004_2009.png)
+- <i class='fa fa-cog'></i>: [<i class='fa fa-line-chart'></i> Equity Curve <i class='fa fa-dollar'></i>](/img_pr/jpy_0.01_capitalChart_2004_2009.png)
+- <i class='fa fa-cog'></i>: [<i class='fa fa-calendar'></i> Monthly Profit-and-Loss <i class='fa fa-dollar'></i>](/img_pr/jpy_0.01_monthlyPerformance_2004_2009.png)
 - <i class='fa fa-cog'></i>: **R-Expectancy** (APPT / R) is  **0.2673R**, where the APPT is 0.90578979806 USD and the R is 3.38926598675 USD.
 
 
 ## <i class='fa fa-pie-chart'></i> / <i class='fa fa-bar-chart'></i> 股指策略績效<br>Index System Performance
 
-The historical trading system performance report is as follows:
+历史交易系统业绩报告如下：<br>The historical trading system performance report is as follows:
 
 ### 2014 to July 2020
 
-23605 trades are made and roughly 13.84 positions are opened on every trading day.
+总共交易23605笔，每个交易日大概开仓13.84笔。<br>Total 23605 trades are made and roughly 13.84 positions are opened on every trading day.
 
 #### <i class='fa fa-cogs'></i> 動態手數<br>Dynamic Lot
 
-- <i class='fa fa-cogs'></i>: <i class='fa fa-line-chart'></i> [Equity Curve <i class='fa fa-percent'></i>](/img_pr/index_percent_capitalChart_2014_2020.png)
-- <i class='fa fa-cogs'></i>: <i class='fa fa-calendar'></i> [Monthly Profit-and-Loss <i class='fa fa-percent'></i>](/img_pr/index_percent_monthlyPerformance_2014_2020.png)
+- <i class='fa fa-cogs'></i>: [<i class='fa fa-line-chart'></i> Equity Curve <i class='fa fa-percent'></i>](/img_pr/index_percent_capitalChart_2014_2020.png)
+- <i class='fa fa-cogs'></i>: [<i class='fa fa-calendar'></i> Monthly Profit-and-Loss <i class='fa fa-percent'></i>](/img_pr/index_percent_monthlyPerformance_2014_2020.png)
 - <i class='fa fa-cogs'></i>: **Annualized Risk Return Ratio** (CAGR / MDD) is **12.37**, where CAGR is 127.38% and MDD is 10.3%.
 
 #### <i class='fa fa-cog'></i> 固定手數<br>Fixed Lot
 
 - <i class='fa fa-cogs'></i>: Profit Factor: 1.76; Win Rate: 39.11%; Win # / Loss #: 0.64
-- <i class='fa fa-cog'></i>: <i class='fa fa-line-chart'></i> [Equity Curve <i class='fa fa-dollar'></i>](/img_pr/index_0.1_capitalChart_2014_2020.png)
-- <i class='fa fa-cog'></i>: <i class='fa fa-calendar'></i> [Monthly Profit-and-Loss <i class='fa fa-dollar'></i>](/img_pr/index_0.1_monthlyPerformance_2014_2020.png)
+- <i class='fa fa-cog'></i>: [<i class='fa fa-line-chart'></i> Equity Curve <i class='fa fa-dollar'></i>](/img_pr/index_0.1_capitalChart_2014_2020.png)
+- <i class='fa fa-cog'></i>: [<i class='fa fa-calendar'></i> Monthly Profit-and-Loss <i class='fa fa-dollar'></i>](/img_pr/index_0.1_monthlyPerformance_2014_2020.png)
 - <i class='fa fa-cog'></i>: **R-Expectancy** (APPT / R) is **0.4261R**, where the APPT is 13.30 USD and the R is 31.20 USD.
