@@ -6,12 +6,12 @@ bigimg: /img_pr/cyamus_bg.jpg
 googlefonts: ["Roboto Condensed"]
 ---
 
+{: .box-warning}
+**免责声明**：塞雅瑪不提供任何税务、法律或投资意见、个人建议或投资建议。塞雅瑪也不提供任何税务、法律或投资建议、个人推荐或投资建议，本网站的任何内容都不应被解释或诠释为投资建议、出售或购买要约、购买要约的邀约或与任何金融工具投资有关的建议。<br>**Disclaimer**: Cyamus does not provide any tax, legal or investment advice, personal recommendation or advising on investments and nothing in this website should be construed or interpreted as an investment advice, an offer to sell or buy, a solicitation of an offer to buy, or a recommendation related to any investment in financial instrument.
+
 致 对新兴及另類投資市場管理人、组合型基金、孵化平台、家族办公室、高净值个人和捐赠基金：
 
 To emerging/alternative investment market managers, funds of funds, seeding/incubator platforms, family offices, high-net-worth individuals and endowments:
-
-{: .box-warning}
-**免责声明**：塞雅瑪不提供任何税务、法律或投资意见、个人建议或投资建议。塞雅瑪也不提供任何税务、法律或投资建议、个人推荐或投资建议，本网站的任何内容都不应被解释或诠释为投资建议、出售或购买要约、购买要约的邀约或与任何金融工具投资有关的建议。<br>**Disclaimer**: Cyamus does not provide any tax, legal or investment advice, personal recommendation or advising on investments and nothing in this website should be construed or interpreted as an investment advice, an offer to sell or buy, a solicitation of an offer to buy, or a recommendation related to any investment in financial instrument.
 
 
 <i class='fa fa-university'></i> **塞雅瑪交易科技** （「**塞雅瑪**」）於2019年由[李明先生](https://bit.ly/terryli)成立（前[796交易所](https://www.796.com)副總裁、前[TDEx交易所](https://www.tdex.com)總裁、[TSL系統](https://www.tradingsystemlab.com)大中華區分銷代理）。塞雅瑪为积极[寻求非对称回报](https://en.wikipedia.org/wiki/Asymmetric_payoff)的机构客户提供系统化交易和数据分析服务。事实上，我们不提供任何**年化[风险回报率](https://en.wikipedia.org/wiki/Risk_return_ratio)**([CAGR](https://www.investopedia.com/terms/c/cagr.asp)/[MDD](https://www.investopedia.com/terms/m/maximum-drawdown-mdd.asp))低于6的交易系统。我们不采用[「2和20」的收费安排](https://www.investopedia.com/terms/t/two_and_twenty.asp)。我们的收费安排是「0和30」。我们的大多数投资者都喜欢这种收费结构，只有在我们的交易系统表現良好时才需支付費用。
