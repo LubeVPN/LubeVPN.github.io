@@ -1,7 +1,7 @@
 ---
 layout: page
-title: 塞雅瑪交易科技
-subtitle: Cyamus Trading Technology
+title: 塞雅瑪交易成績匯總
+subtitle: Cyamus Trading Tear Sheet
 bigimg: /img_pr/cyamus_bg.jpg
 googlefonts: ["Roboto Condensed"]
 ---
@@ -13,7 +13,7 @@ googlefonts: ["Roboto Condensed"]
 <i class='fa fa-university'></i> **塞雅瑪交易科技** （「**塞雅瑪**」）於2019年由[李明先生](https://bit.ly/terryli)成立（前[796交易所](https://www.796.com)副總裁、前[TDEx交易所](https://www.tdex.com)總裁、[TSL系統](https://www.tradingsystemlab.com)大中華區分銷代理）。塞雅瑪为积极[寻求非对称回报](https://en.wikipedia.org/wiki/Asymmetric_payoff)的机构客户提供系统化交易和数据分析服务。事实上，我们不提供任何**年化[风险回报率](https://en.wikipedia.org/wiki/Risk_return_ratio)**([CAGR](https://www.investopedia.com/terms/c/cagr.asp)/[MDD](https://www.investopedia.com/terms/m/maximum-drawdown-mdd.asp))低于6的交易系统。我们不采用[「2和20」的收费安排](https://www.investopedia.com/terms/t/two_and_twenty.asp)。我们的收费安排是「0和30」。我们的大多数投资者都喜欢这种收费结构，只有在我们的交易系统表現良好时才需支付費用。
 
 
-<i class='fa fa-university'></i> **Cyamus Trading Technology** ("**Cyamus**") is founded in 2019 by [Terry Li](https://bit.ly/terryli) (ex-VP of [796 Exchange](https://www.796.com), ex-CEO of [TDEx](https://www.tdex.com), and a license distributor of [Trading System Lab](https://www.tradingsystemlab.com) for the greater China region). Cyamus offers systematic trading and data analysis services to institutional clients who actively [seek asymmetric returns](https://en.wikipedia.org/wiki/Asymmetric_payoff). In fact, we do not offer any trading system which **Annualized [Risk Return Ratio](https://en.wikipedia.org/wiki/Risk_return_ratio)** ([CAGR](https://www.investopedia.com/terms/c/cagr.asp) / [MDD](https://www.investopedia.com/terms/m/maximum-drawdown-mdd.asp)) is lower than 6. We do not use the [two and twenty (or "2 and 20") fee arrangement](https://www.investopedia.com/terms/t/two_and_twenty.asp). Ours is "0 and 30". Most of our investors prefer this fee structure, only paying if our trading system performs.
+<i class='fa fa-university'></i> **Cyamus Trading** ("**Cyamus**") is founded in 2019 by [Terry Li](https://bit.ly/terryli) (ex-VP of [796 Exchange](https://www.796.com), ex-CEO of [TDEx](https://www.tdex.com), and a license distributor of [Trading System Lab](https://www.tradingsystemlab.com) for the greater China region). Cyamus offers systematic trading and data analysis services to institutional clients who actively [seek asymmetric returns](https://en.wikipedia.org/wiki/Asymmetric_payoff). In fact, we do not offer any trading system which **Annualized [Risk Return Ratio](https://en.wikipedia.org/wiki/Risk_return_ratio)** ([CAGR](https://www.investopedia.com/terms/c/cagr.asp) / [MDD](https://www.investopedia.com/terms/m/maximum-drawdown-mdd.asp)) is lower than 6. We do not use the [two and twenty (or "2 and 20") fee arrangement](https://www.investopedia.com/terms/t/two_and_twenty.asp). Ours is "0 and 30". Most of our investors prefer this fee structure, only paying if our trading system performs.
 
 
 塞雅瑪量化開發人員專注於調研金融市場中[波動率點差潛力](https://www.investopedia.com/articles/forex/10/spread-pip-potential-pairs-day-trading.asp)最高的交易工具。目前，我们于如下三个市场分類中開發對應的交易系統：1、**日元貨幣對**；2、**股票指數對**；3、**加密幣對**。其中，針對「日元貨幣對」和「股票指數對」品類的交易系統已經自2019年2月以来投入實盤交易（*LIVE*）；而針對「加密幣對」品類的交易系統依然在内部测试階段，快將邀約客戶加入實盤交易：
