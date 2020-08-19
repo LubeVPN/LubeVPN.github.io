@@ -6,9 +6,9 @@ bigimg: /img_pr/cyamus_bg.jpg
 googlefonts: ["Roboto Condensed"]
 ---
 
-致 对新兴市場管理人、组合型基金、孵化平台、家族办公室、高净值个人和捐赠基金：
+致 对新兴及另類投資市場管理人、组合型基金、孵化平台、家族办公室、高净值个人和捐赠基金：
 
-To emerging market managers, funds of funds, seeding/incubator platforms, family offices, high-net-worth individuals and endowments:
+To emerging/alternative investment market managers, funds of funds, seeding/incubator platforms, family offices, high-net-worth individuals and endowments:
 
 {: .box-warning}
 **免责声明**：塞雅瑪不提供任何税务、法律或投资意见、个人建议或投资建议。塞雅瑪也不提供任何税务、法律或投资建议、个人推荐或投资建议，本网站的任何内容都不应被解释或诠释为投资建议、出售或购买要约、购买要约的邀约或与任何金融工具投资有关的建议。<br>**Disclaimer**: Cyamus does not provide any tax, legal or investment advice, personal recommendation or advising on investments and nothing in this website should be construed or interpreted as an investment advice, an offer to sell or buy, a solicitation of an offer to buy, or a recommendation related to any investment in financial instrument.
