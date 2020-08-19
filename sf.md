@@ -1,7 +1,7 @@
 ---
 layout: page
-title: 塞雅瑪交易成績匯總
-subtitle: Cyamus Trading Tear Sheet
+title: 塞雅瑪交易優勢匯總
+subtitle: Cyamus Trading Pitchbook
 bigimg: /img_pr/cyamus_bg.jpg
 googlefonts: ["Roboto Condensed"]
 ---
