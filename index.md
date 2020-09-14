@@ -6,14 +6,14 @@ bigimg: /img/rain3.jpg
 googlefonts: ["Roboto Condensed"]
 ---
 
-<i class='fa fa-rocket' style='color:DimGrey'></i> **順道VPN** 是基於開源及完全去中心化的[__西蒂姆(Citum)__](../citium_what_for)開發的 **突破網絡審查（陸：翻墻、科學上網）的VPN工具**。它把坊間流行的VPN系統作出了比較重大的改良和升級，幫助用戶克服了重大應用[技術疼點](#-%E5%82%B3%E7%B5%B1vpn%E6%8A%80%E8%A1%93%E7%96%BC%E9%BB%9Etechnical-pain-point)。<i class='fa fa-rocket' style='color:DimGrey'></i> **順道VPN** 用戶以安全數碼證書（**“通行證書”**）<i class='fa fa-certificate'></i> 間接地通過[西蒂姆(Citum)](../citium_what_for)的去中心化網絡節點 <i class='fa fa-cubes'></i> 獲取用戶身份認證 <i class='fa fa-check-square-o'></i>，而不是使用用戶名及密碼組合在VPN服務器上直接進行認證。
+<i class='fa fa-rocket' style='color:DimGrey'></i> **順道VPN** 是基於開源及完全去中心化的[__西蒂姆(Citum)__](../citium_what_for)開發的 **突破網絡審查（陸：翻墻、科學上網）的VPN工具**。它把坊間流行的VPN系統作出了比較重大的改良和升級，幫助用戶克服了重大應用[技術疼點](#-%E5%82%B3%E7%B5%B1vpn%E6%8A%80%E8%A1%93%E7%96%BC%E9%BB%9Etechnical-pain-point)。數碼證書被認為比密碼身份驗證更安全，因為數碼證書消除了任何形式的、用戶憑據重置策略的必要性。<i class='fa fa-rocket' style='color:DimGrey'></i> **順道VPN** 用戶以安全數碼證書（**“通行證書”**）<i class='fa fa-certificate'></i> 間接地通過[西蒂姆(Citum)](../citium_what_for)的去中心化網絡節點 <i class='fa fa-cubes'></i> 獲取用戶身份認證 <i class='fa fa-check-square-o'></i>，而不是使用用戶名及密碼組合在VPN服務器上直接進行認證。
 
 <a href="https://www.unicorn001.tk/uploads/citium.apk"><i class='fa fa-download'></i> 西蒂姆客戶端 安卓apk</a>
 {: .myDownloadButton}
 
 注：西蒂姆(Citium)客戶端App和其內置的即時聊天工具(CIM) <i class='fa fa-envelope-o' style='color:blue'></i> 對所有人開源及永久免費使用。
 
-<i class='fa fa-rocket' style='color:DimGrey'></i> **LubeVPN is a VPN Internet censorship circumvention application** built on an open-source and fully decentralized technology: [__Citium__](../citium_what_for). It is a radical departure and upgrade from all the popular VPN systems in the open marketspace, resolving a major [technical pain point](#-%E5%82%B3%E7%B5%B1vpn%E6%8A%80%E8%A1%93%E7%96%BC%E9%BB%9Etechnical-pain-point). <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN users authenticate indirectly through [__Citium__](../citium_what_for) decentralized network of nodes <i class='fa fa-cubes'></i> using their secure digital certificates (**“CERT”**) <i class='fa fa-certificate'></i> instead of directly through the VPN servers using username/password combinations.
+<i class='fa fa-rocket' style='color:DimGrey'></i> **LubeVPN is a VPN Internet censorship circumvention application** built on an open-source and fully decentralized technology: [__Citium__](../citium_what_for). It is a radical departure and upgrade from all the popular VPN systems in the open marketspace, resolving a major [technical pain point](#-%E5%82%B3%E7%B5%B1vpn%E6%8A%80%E8%A1%93%E7%96%BC%E9%BB%9Etechnical-pain-point). Digital certificates is regarded as a more secure regime than password authentication because certificates eliminate the necessity of any sort of credential reset policy. <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN users authenticate indirectly through [__Citium__](../citium_what_for) decentralized network of nodes <i class='fa fa-cubes'></i> using their secure digital certificates (**“CERT”**) <i class='fa fa-certificate'></i> instead of directly through the VPN servers using username/password combinations.
 
 <a href="https://www.unicorn001.tk/uploads/citium.apk"><i class='fa fa-download'></i> Citium Client Android apk</a>
 {: .myDownloadButton}
