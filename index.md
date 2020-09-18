@@ -158,7 +158,7 @@ Choose a payment method to your liking (mixing different methods is not allowed)
 
 ### <i class='fa fa-btc'></i> 續時抵值：加密幣<br>By Coinbase Coins
 
-![Acceptable Cryto Coins](/img/coinbase.svg "Acceptable Crypto Coins at Coinbase")
+![Acceptable Cryto Coins](/img/coinbase1.svg "Acceptable Crypto Coins at Coinbase")
 
 <i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN通過國際知名的 [Coinbase Commerce](https://commerce.coinbase.com/) 加密幣充值接口和錢包接受抵值。接受的各種流行加密幣種有 <i class='fa fa-btc'></i> Bitcoin、Bitcoin Cash、Dai、Ethereum、Litecoin 和 USD Coin。請按您希望抵值的續時週期點擊進入 Coinbase Commerce 充值購買所需的等值。敬請在支付完成後，[聯繫順道VPN官方客服](../contact_us)，讓我們協助您完成續時抵值的餘下手續。注：<i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN官方客服只經由西蒂姆(Citum)客戶端App內的在線客服 <i class='fa fa-comments-o'></i> 提供咨詢：<i class='fa fa-gears' style='color:blue'></i> > <i class='fa fa-certificate' style='color:blue'></i> > <i class='fa fa-question-circle' style='color:#ff6d12'></i> > <i class='fa fa-comments-o' style='color:#ff6d12'></i>
 
