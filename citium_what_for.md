@@ -6,7 +6,11 @@ bigimg: /img/node.jpg
 googlefonts: ["Roboto Condensed"]
 ---
 
-**為什麼要使用西蒂姆(Citium)？** 眾所周知，訴諸中央化權威性和新穎性是謬誤的思維。但不幸的是，這種認知不曾妨礙看似值得信賴的中心化管理機構和自詡的專家持續向用戶兜售更新穎的資訊安全技術。可惜這些技術屢屢發生意外，例如：
+**What are the design premises of Citium?** All popular and even seemingly innovative encryption algorithms and features (e.g. AES, forward secrecy) in the hope of preventing man-in-the-middle (MITM) and cryptanalysis is elusive if not futile because any belief in anti-MITM technology is unfalsifiable, not to mention that none of them can withstand attacks by quantum computers and/or coercions. We can only wish those who have faith in anti-MITM technologies good luck while we take the design premises of Citium to extremes because traditional data security assumptions have not served well especially to those who communicate sensitive information online and are overpowered by adversaries (i.e. threat actors) in terms of resources and determinations. One cannot fathom the extent of MITM that some resourceful and patient threat actors will go until it is too late. One can never know when state level intelligence agencies start using quantum computers to decrypt archived data transmission, so whatever you feel secure today is no guarantee of not getting back at you by more powerful cryptanalysis technology tomorrow. Last but not the least, unless your body is as nimble as Ethan Hunt and James Bond or your mind is as ingenious as Keyser Söze, at the point of being coerced to divulge password to secure communications, you are doomed. On the other hand, if you have used Citium to communicate secure information, technically feasible/plausible deniability will defend you from being a sitting duck.
+
+## 為什麼要使用西蒂姆？<br>Why Use Citium?
+
+眾所周知，訴諸中央化權威性和新穎性是謬誤的思維。但不幸的是，這種認知不曾妨礙看似值得信賴的中心化管理機構和自詡的專家持續向用戶兜售更新穎的資訊安全技術。可惜這些技術屢屢發生意外，例如：
 
   - [瑞士Crypto公司的安全漏洞機器](https://en.wikipedia.org/wiki/Crypto_AG#Compromised_machines)
   - [Skype的竊聽後門](https://en.wikipedia.org/wiki/Skype_security#Eavesdropping_by_design)
