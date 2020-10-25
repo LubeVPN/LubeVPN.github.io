@@ -58,6 +58,12 @@ In view of these repeated incidents, Citium proposes three (3) pessimistic yet s
 
 In face of an intruder successfully uncovering private data in Citium through **1. inciting defection**; **2. power abuse;** or **3. ciphertext hack**, Citium users can still justifiably deny that they have ever been involved because all security forensics are futile, no matter how extensive and meticulous they are. Citium inevitably makes the data source obscured and inadmissible. Besides, **Deniability, as an InfoSec feature, greatly reduces the desire of any competitor or judicial authority to investigate or obtain evidence against users of Citium**.
 
+## 应用功能<br>Application Features
+
+西蒂姆應用允許你在任何地方與任何不受審查甚至是受審查（或被防火墻）的地區的人進行安全和可抵賴（可以被合理推諉）的交流，例如中國、俄羅斯等。你可以通過1對1和群組聊天界面與其他西蒂姆用戶進行安全的文字、語音片段、圖像和視頻信息交流。「災難控制」按鈕可以在緊急情況下抹去你所有的通訊記錄。除了西蒂姆應用程序，我們還提供了一個不受影響的安卓手機（iOS即將推出），它的攝像頭和麥克風被物理學（而不是軟件）屏蔽，以保持設備的完整性。（*這裏查看捆綁包*）。我們還會發送給用戶不附加任何個人身份識別的全球漫遊SIM卡；附贈壹個法拉第手機包，它可以物理屏蔽所有的手機信號（如2G到5G、WiFi、GPS、藍牙和NFC），為你的隱私增加多一層額外的安全保障，讓你更加放心。
+
+Citium app allows you to communicate securely and deniably from anywhere with anyone in uncensored or even in censored (or firewall-ed) regions, such as, China, Russian and more. You can communicate with other Citium users in secure text, voice clip, image and video message through 1-on-1 and group chat interfaces. A disaster control button can wipe out all your communications records in case of emergency. Apart from the Citium app, we also provide an untempered Android phone (with iOS coming soon) with camera and mic blocked by physics (not by software) to upkeep the integrity of your device. (*Check out the bundle pack here*). We also send out global roaming SIM cards without any personal identifier attached. It will come with a Faraday phone bag that blocks all phone signals (e.g. 2G to 5G, WiFi, GPS, bluetooth, and NFC) to add an extra layer of security for your privacy and to ease your mind.
+
 ## 資訊安全功能<br>InfoSec Features
 
 傳統來說，為了方便用戶使用密碼系統，折衷起見，中心化的系統的「權益持份者」(stakeholders)持有用戶的賬戶ID、密碼和個人信息授權訪問和服務。但往往這些折衷辦法都會引致無可挽回的副作用，例如數據洩露、強迫和勒索攻擊。幸運的是，現代密碼學技術賦予了設計者空間創造更優質的密碼系統：既可以祛除這些傳統常規的權利和權力，同時又不影響密碼系統的整體可用性！
