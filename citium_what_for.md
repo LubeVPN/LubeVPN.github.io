@@ -128,7 +128,7 @@ Historically, only organizations with very valuable secrets, such as certificate
 
 In Citium, not only the key, but also the ciphertext (i.e. encrypted message) itself are divided into n slices along with the  n shares of the key. The shared ciphertexts are distributed indiscriminately to as many Citium nodes <i class='fa fa-cubes'></i> (i.e. service & user nodes). In doing so, all contents are benign to the owner of all nodes <i class='fa fa-cubes'></i>. No one is needed to be held responsible for any message distributed. No one knows what/whence/to whom they are distributing on their nodes <i class='fa fa-cubes'></i>. In the Citium's threshold cryptosystem, it is designed that k = n. It means all n shares have to be collected and combined. It is the most stringent InfoSec setting on the threshold cryptosystem.
 
-## 資訊安全功能<br>InfoSec Features
+## 資訊安全總結<br>InfoSec Summary
 
 以下是一個西蒂姆(Citum)的資訊安全（有時簡稱為InfoSec）功能列表。資訊安全是一種通過減輕信息風險來保護信息的應用功能實踐。 它是信息風險管理的一部分。 它通常涉及防止或至少減少未經授權/不當訪問，使用，披露、破壞、刪除/銷毀、損壞、修改、檢查、記錄或貶值的可能性，也可能涉及減少事件如果不幸發生後的不利影響，例如「__强制性披露__」 (__force disclosure__) / 「__強制性密鑰披露__」 ([__mandatory key disclosure__](https://en.wikipedia.org/wiki/Key_disclosure_law))。
 
