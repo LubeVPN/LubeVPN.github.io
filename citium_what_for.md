@@ -10,6 +10,7 @@ googlefonts: ["Roboto Condensed"]
 A recent decision by the US District Court for the Northern District of California notes the importance of using ephemeral communication tools as early as possible to avoid being accused of spoliation of evidence:
 
 > WeRide Corp. v. Huang, 2020 WL 1967209, 9, 11 (N.D. Cal., Apr. 24, 2020), presents what the court described as a “staggering” amount of spoliation, “so sweeping that [the] case [could not] be resolved on its merits.”  One of the spoliation factors the court considered was senior management’s specific direction to use ephemeral messaging months after the litigation was filled – apparently in an attempt to evade discovery. Ultimately, the court ordered terminating sanctions under Fed. R. Civ. P. 37(b) and (e).
+
 ### 西蒂姆是什麼？<br>What is Citium?
 
 **西蒂姆是一个 DICES 即時通訊平臺**。DICES 是一個英語縮寫，代表「可抵賴」**D**eniable、「抗毀」**I**mpervious、「繞行」**C**ircumventive、「瞬逝」**E**phemeral、「安全」**S**ecure。
