@@ -15,7 +15,7 @@ A recent decision by the US District Court for the Northern District of Californ
 
 **西蒂姆是一个個安全的、限時即焚的即時通訊平臺**。在西蒂姆上傳達的信息，從客戶端應用到整個去中心化網絡都是被限時只作短暫存留而不留備份的。
 
-**Citium is a *DICES* instant messaging platform**, where *DICES* stands for *Deniable*, *Impervious*, *Circumventive*, , *Ephemeral*, and *Secure*.
+**Citium is a *DICES* instant messaging platform**, where *DICES* stands for *Deniable*, *Impervious*, *Circumventive*, *Ephemeral*, and *Secure*.
 
 - *Deniable*: The last line of defense of Citium is its technically feasible/plausible deniability, which preempts coercion, eavesdropping, such as man-in-the-middle (MITM) attack, and post-quantum computing cryptanalysis of archived surveillance data.
 - *Impervious*: Service availability of Citium is impervious to server takedown.
