@@ -21,7 +21,7 @@ A recent decision by the US District Court for the Northern District of Californ
 - __*E*__「**瞬逝**」。西蒂姆網絡和客戶端默認銷毀信息預防用戶被執法機構指控「銷毀證據」。
 - __*S*__「**安全**」。**第一道防線**是用經久歷練和已經被證明資訊安全的加密標準去確保保密性。
 
-**Citium is a *DICES* instant messaging platform**, where *DICES* is a mnemonic that stands for *Deniable*, *Impervious*, *Circumventive*, *Ephemeral*, and *Secure*.
+**Citium is a *DICES* instant messaging platform**, where *DICES* is a mnemonic that stands for __*D*__*eniable*, __*I*__*mpervious*, __*C*__*ircumventive*, __*E*__*phemeral*, and __*S*__*ecure*.
 
 - __*Deniable*__. The last line of defense of communicating on Citium is its technically feasible/plausible deniability, which preempts coercion, eavesdropping, such as man-in-the-middle (MITM) attack, and post-quantum computing cryptanalysis of archived surveillance data.
 - __*Impervious*__. Service availability of Citium is impervious to any server takedown or even all nodes removed. 
