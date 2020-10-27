@@ -13,7 +13,7 @@ A recent decision by the US District Court for the Northern District of Californ
 
 ### 西蒂姆是什麼？<br>What is Citium?
 
-**西蒂姆是一个 DICES 即時通訊平臺**。DICES 是一個英語縮寫，代表「可抵賴」**D**eniable、「抗毀」**I**mpervious、「繞行」**C**ircumventive、「瞬逝」**E**phemeral、「安全」**S**ecure。
+**西蒂姆是一个 DICES 即時通訊平臺**，而 DICES 則是一個英語助记符代表「可抵賴」**D**eniable、「抗毀」**I**mpervious、「繞行」**C**ircumventive、「瞬逝」**E**phemeral、「安全」**S**ecure。
 
 - __*D*__「**可抵賴**」。西蒂姆資訊安全的**最後一道防線**，是讓用戶掌握從技術層面來說可行及有理由地否認曾經參與過的互聯互通的信息。只有這樣才可以防範於未然【暴力】脅逼、「中間人攻擊」(MITM) 類似的竊聽行爲、和被「後量子密碼攻擊」已經被歸檔的監控數據被秋後算賬。
 - __*I*__「**抗毀**」。西蒂姆在任何服務器或哪怕全部節點被強行撤下後都能繼續維持正常服務。
@@ -21,7 +21,7 @@ A recent decision by the US District Court for the Northern District of Californ
 - __*E*__「**瞬逝**」。西蒂姆網絡和客戶端默認銷毀信息預防用戶被執法機構指控「銷毀證據」。
 - __*S*__「**安全**」。**第一道防線**是用經久歷練和已經被證明資訊安全的加密標準去確保保密性。
 
-**Citium** is a *DICES* instant messaging platform**, where *DICES* stands for *Deniable*, *Impervious*, *Circumventive*, *Ephemeral*, and *Secure*.
+**Citium** is a *DICES* instant messaging platform**, where *DICES* is a mnemonic that stands for *Deniable*, *Impervious*, *Circumventive*, *Ephemeral*, and *Secure*.
 
 - __*Deniable*__. The last line of defense of communicating on Citium is its technically feasible/plausible deniability, which preempts coercion, eavesdropping, such as man-in-the-middle (MITM) attack, and post-quantum computing cryptanalysis of archived surveillance data.
 - __*Impervious*__. Service availability of Citium is impervious to any server takedown or even all nodes removed. 
