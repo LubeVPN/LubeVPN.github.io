@@ -13,13 +13,13 @@ A recent decision by the US District Court for the Northern District of Californ
 
 ### 西蒂姆是什麼？<br>What is Citium?
 
-**西蒂姆是一个「可抵賴」「抗毀」「繞行」「瞬逝」和「安全」 的即時通訊平臺**：
+**西蒂姆是一个「可抵賴」「抗毀」「繞行」「瞬逝」和「安全」 的即時通訊平臺**，英文助記符是DICES：
 
-- 「**可抵賴**」。西蒂姆資訊安全的**最後一道防線**，是讓用戶掌握從技術層面來說可行及有理由地否認曾經參與過的互聯互通的信息。只有這樣才可以防範於未然【暴力】脅逼、「中間人攻擊」(MITM) 類似的竊聽行爲、和被「後量子密碼攻擊」已經被歸檔的監控數據被秋後算賬。
-- 「**抗毀**」。任何服務器、甚至全部節點被強行撤下後都能繼續維持正常服務。
-- 「**繞行**」。用戶不受哪怕最嚴峻地區的互聯網審查機制阻礙，暢享互聯互通。
-- 「**瞬逝**」。限時即焚信息預防「銷毀證據」的指控或設備被盜後的資訊泄露。
-- 「**安全**」。採用開源高淨值比特幣社區證明有效保護資訊安全的加密算法。
+- __*D*__「**可抵賴**」。西蒂姆資訊安全的**最後一道防線**，是讓用戶掌握從技術層面來說可行及有理由地否認曾經參與過的互聯互通的信息；因爲只有這樣才可以防範於未然的【暴力】脅逼、「中間人攻擊」(MITM) 類似的竊聽行爲、和被「後量子密碼攻擊」揭發監控數據的歷史檔案（被秋後算賬）。
+- __*I*__「**抗毀**」。任何服務器、甚至全部節點被強行撤下後都能繼續維持正常服務。
+- __*C*__「**繞行**」。用戶不受哪怕最嚴峻地區的互聯網審查機制阻礙，暢享互聯互通。
+- __*E*__「**瞬逝**」。限時即焚信息預防「銷毀證據」的指控或設備被盜後的資訊泄露。
+- __*S*__「**安全**」。採用開源高淨值比特幣社區證明有效保護資訊安全的加密算法。
 
 **Citium is a *DICES* instant messaging platform**, where *DICES* is a mnemonic that stands for __*D*__*eniable*, __*I*__*mpervious*, __*C*__*ircumventive*, __*E*__*phemeral*, and __*S*__*ecure*.
 
@@ -30,11 +30,10 @@ A recent decision by the US District Court for the Northern District of Californ
 - __*Secure*__. Use time-tested and provably secure encryptions that are used in open-source high-stakes asset finance, namely Bitcoin, to ensure confidentiality.
 
 
-
-
 ### 系統設計前設<br>System Design Premises
 
-切勿被它平平無奇的誤導讓你以爲西蒂姆只是一款未完善的軟件。事實上，西蒂姆的功能非常強大，因爲它可以保障通信私密並具有「量子抗性」等級的安全，並且傳輸資訊可以被「合理推諉」。眾所周知，創新的系統設計往往會引入新的系統毛病。然而，盡管如此，大多數系統設計者還是喜歡搞創新，因為解決各種疑難雜癥是人的天性。不幸的是，很多時候這些善意的創新都會引起各種新毛病，比如安全漏洞。而且隨著覆雜度越高，越容易出錯。因此，西蒂姆的設計理念，首先是降低系統覆雜度。當一些覆雜的加密算法的使用不可避免和不可被再簡化時，我們就會將其劃分為模塊化組件。考慮到模塊化設計在出現問題時容易出現故障，而這些問題又是劃分的橋梁，西蒂姆確保這些故障不過是以犧牲速度為代價的可接受成本。這一切聽起來可能過於抽象，所以讓我們用更具體的術語和例子來說明這些。
+切勿被它平平無奇的界面設計誤導讓你以爲西蒂姆只是一款未完善的軟件。事實上，西蒂姆的功能非常強大，因爲它可以保障通信私密並具有「量子抗性」等級的安全，並且傳輸資訊可以被「合理推諉」。眾所周知，創新的系統設計往往會引入新的系統毛病。然而，盡管如此，大多數系統設計者還是喜歡搞創新，因為解決各種疑難雜癥是人的天性。不幸的是，很多時候這些善意的創新都會引起各種新毛病，比如安全漏洞。而且隨著覆雜度越高，越容易出錯。因此，西蒂姆的設計理念，首先是降低系統覆雜度。當一些覆雜的加密算法的使用不可避免和不可被再簡化時，我們就會將其劃分為模塊化組件。考慮到模塊化設計在出現問題時容易出現故障，而這些問題又是劃分的橋梁，西蒂姆確保這些故障不過是以犧牲速度為代價的可接受成本。這一切聽起來可能過於抽象，所以讓我們用更具體的術語和例子來說明這些。
+
 
 Don't let its blandly designed client app interface mislead you into thinking that Citium is an underdeveloped software. In fact, it is so powerful that it guarantees the communications with your intended contacts are **quantum-resistant** and **plausibly deniable**. It is well-known that innovative system design often introduces new forms of failure. And yet, despite that, most system designers embrace innovation because it is human nature to resolve recurring annoyances. Sadly, more often than not, the well-meaning changes in secure communication systems create unexpected failures, such as security vulnerabilities. The higher the complexity, the more error-prone they are. Therefore, the design philosophy of Citium is, foremost, to reduce system complexity. When the use of some complex encryption algorithms is irreducible, we compartmentalize them into modular components. Given that modular designs become susceptible to failure when issues arise that bridge the divisions, Citium makes sure those failures are nothing but acceptable cost at the expense of speed. It might all sound too abstract so let us put these in more concrete terms and examples.
 
