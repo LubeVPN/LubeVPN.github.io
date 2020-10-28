@@ -15,11 +15,11 @@ A recent decision by the US District Court for the Northern District of Californ
 
 **西蒂姆是一个「可抵賴」「抗毀」「繞行」「瞬逝」和「安全」 的即時通訊平臺**，英文助記符是DICES：
 
-- __*D*__*eniable*「**可抵賴**」。西蒂姆資訊安全的**最後一道防線**，是讓用戶掌握從技術層面來說可行及有理由地否認曾經參與過的互聯互通的信息。只有這樣才可以防範於未然【暴力】脅逼、「中間人攻擊」(MITM) 類似的竊聽行爲、和被「後量子密碼攻擊」已經被歸檔的監控數據被秋後算賬。
-- __*I*__*mpervious*「**抗毀**」。西蒂姆在任何服務器或哪怕全部節點被強行撤下後都能繼續維持正常服務。
-- __*C*__*ircumventive*「**繞行**」。西蒂姆用戶不受即便是最嚴峻地區或國家的互聯網審查機制阻礙互聯互通。
-- __*E*__*phemeral*「**瞬逝**」。西蒂姆徹底限時即焚信息預防「銷毀證據」的指控或設備被盜後的資訊泄露。
-- __*S*__*ecure*「**安全**」。**第一道防線**是用經久歷練和已經被證明資訊安全的加密標準去確保保密性。
+- __*D*__「**可抵賴**」。西蒂姆資訊安全的**最後一道防線**，是讓用戶掌握從技術層面來說可行及有理由地否認曾經參與過的互聯互通的信息。只有這樣才可以防範於未然【暴力】脅逼、「中間人攻擊」(MITM) 類似的竊聽行爲、和被「後量子密碼攻擊」已經被歸檔的監控數據被秋後算賬。
+- __*I*__「**抗毀**」。任何服務器、甚至全部節點被強行撤下後都能繼續維持正常服務。
+- __*C*__「**繞行**」。用戶不受哪怕最嚴峻地區的互聯網審查機制阻礙，暢享互聯互通。
+- __*E*__「**瞬逝**」。限時即焚信息預防「銷毀證據」的指控或設備被盜後的資訊泄露。
+- __*S*__「**安全**」。採用開源高淨值比特幣社區證明有效保護資訊安全的加密算法。
 
 **Citium is a *DICES* instant messaging platform**, where *DICES* is a mnemonic that stands for __*D*__*eniable*, __*I*__*mpervious*, __*C*__*ircumventive*, __*E*__*phemeral*, and __*S*__*ecure*.
 
@@ -27,7 +27,8 @@ A recent decision by the US District Court for the Northern District of Californ
 - __*Impervious*__. Service availability of Citium is impervious to any server takedown or even all nodes removed. 
 - __*Circumventive*__. Citium can circumvent even the most stringent kinds of Internet censorship. 
 - __*Ephemeral*__. The messages communicated on Citium are decidedly short-lived (i.e. self-destructing messages) to preempt spoliation claims or data breach due to devices fallen into the wrong hands.
-- __*Secure*__. The first line of defense of Citium against data breach is by using time-tested and provably secure encryption standards to ensure confidentiality.
+- __*Secure*__. Use time-tested and provably secure encryptions that are used in open-source high-stakes asset finance, namely Bitcoin, to ensure confidentiality.
+
 
 
 
