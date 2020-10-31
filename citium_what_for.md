@@ -72,6 +72,7 @@ Can Citium free users from eavesdropping and surveillance? No, because eavesdrop
 
 眾所周知，訴諸中央化權威性和新穎性是謬誤的思維。但不幸的是，這種認知不曾妨礙看似值得信賴的中心化管理機構和自詡的專家持續向用戶兜售更新穎的資訊安全技術。可惜這些技術屢屢發生意外，例如：
 
+  - [美國國家安全局《稜鏡計畫》](https://zh.wikipedia.org/wiki/%E7%A8%9C%E9%8F%A1%E8%A8%88%E7%95%AB)
   - [瑞士Crypto公司的安全漏洞機器](https://en.wikipedia.org/wiki/Crypto_AG#Compromised_machines)
   - [Skype的竊聽後門](https://en.wikipedia.org/wiki/Skype_security#Eavesdropping_by_design)
   - [破譯EncroChat](https://en.wikipedia.org/wiki/EncroChat)
@@ -90,6 +91,7 @@ Can Citium free users from eavesdropping and surveillance? No, because eavesdrop
 
 As we all know, it is fallacious thinking to appeal to centralized authority and novelty. But unfortunately, this knowledge cannot prevent seemingly trustworthy centralized governing bodies and self-proclaimed experts from peddling ever fancier InfoSec technologies to their users. A laundry list of disappointments has been blindsiding these users, such as
 
+  - [US NSA PRISM surveillance program](https://en.wikipedia.org/wiki/PRISM_(surveillance_program))
   - [Swiss Crypto AG's compromised machines](https://en.wikipedia.org/wiki/Crypto_AG#Compromised_machines)
   - [Skype's eavesdropping by design](https://en.wikipedia.org/wiki/Skype_security#Eavesdropping_by_design)
   - [Crackdown on EncroChat](https://en.wikipedia.org/wiki/EncroChat)
