@@ -115,7 +115,7 @@ Can someone use an unimaginably large amount of resources to attack Citium so th
 
 
 
-### 資訊安全亮點<br>InfoSec Highlights
+## 資訊安全亮點<br>InfoSec Highlights
 
 傳統來說，為了方便用戶使用密碼系統，折衷起見，中心化的系統的「權益持份者」(stakeholders)持有用戶的賬戶ID、密碼和個人信息授權訪問和服務。但往往這些折衷辦法都會引致無可挽回的副作用，例如數據洩露、強迫和勒索攻擊。幸運的是，現代密碼學技術賦予了設計者空間創造更優質的密碼系統：既可以祛除這些傳統常規的權利和權力，同時又不影響密碼系統的整體可用性！
 
