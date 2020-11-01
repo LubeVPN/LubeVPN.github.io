@@ -29,7 +29,7 @@ A recent decision by the US District Court for the Northern District of Californ
 - __*Circumventive*__. Citium can circumvent even the most stringent kinds of Internet censorship.
 - __*Impervious*__. Communication service availability of Citium is impervious to any server takedown or even all nodes removed.
 - __*Ephemeral*__. The messages communicated on Citium are decidedly short-lived (i.e. self-destructing messages) to preempt spoliation claims or data breach due to devices fallen into the wrong hands.
-- __*Deniable*__. The *last line of defense* of communicating on Citium is its technically feasible/plausible deniability, which preempts coercion, eavesdropping, such as man-in-the-middle (MITM) attack, and post-quantum computing cryptanalysis of archived surveillance data.
+- __*Deniable*__. The **last line of defense** of communicating on Citium is its technically feasible/plausible deniability, which preempts coercion, eavesdropping, such as man-in-the-middle (MITM) attack, and post-quantum computing cryptanalysis of archived surveillance data.
 
 
 
