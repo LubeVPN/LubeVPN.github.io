@@ -19,7 +19,7 @@ A recent decision by the US District Court for the Northern District of Californ
 - __*P*__「**借乘**」。西蒂姆通訊數據兼容借乘P2P (BitTorrent/比特幣) 網絡傳輸全球。
 - __*I*__「**抗毀**」。任何服務節點、甚至全部節點被強行撤下後依然能維持通訊服務。
 - __*C*__「**繞行**」。用戶不受哪怕最嚴峻地區的互聯網審查機制阻礙，暢享互聯互通。
-- __*E*__「**瞬逝**」。限時即焚信息預防被檢控「銷毀證據」或設備被盜後的資訊泄露。
+- __*E*__「**瞬逝**」。限時即焚信息預防被檢控「[銷毀證據](https://en.wikipedia.org/wiki/Spoliation_of_evidence)」或設備被盜後的資訊泄露。
 - __*D*__「**可抵賴**」。西蒂姆資訊安全的**最後一道防線**，是讓用戶掌握從技術層面來說可行、理直氣壯地否認曾經參與過的互聯網通訊行爲；因爲只有這樣才可以防範於未然用戶被【暴力】脅逼、「中間人攻擊」(MITM) 類似的竊聽行爲、和被「後量子密碼攻擊」揭發監控歷史檔案數據造成的秋後算賬。
 
 **Citium is a *SPICED* instant messaging platform**, where *SPICED* is a mnemonic that stands for __*S*__*ecure*, __*P*__*iggybacking*, __*I*__*mpervious*, __*C*__*ircumventive*, __*E*__*phemeral*, and __*D*__*eniable*.
@@ -28,8 +28,9 @@ A recent decision by the US District Court for the Northern District of Californ
 - __*Piggybacking*__. Citium can inconspicuously transmit data through P2P networks (i.e. BitTorrent & Bitcoin).
 - __*Impervious*__. Communication service availability of Citium is impervious to any server takedown or even all nodes removed.
 - __*Circumventive*__. Citium can circumvent even the most stringent kinds of Internet censorship.
-- __*Ephemeral*__. The messages communicated on Citium are decidedly short-lived (i.e. self-destructing messages) to preempt spoliation claims or data breach due to devices fallen into the wrong hands.
+- __*Ephemeral*__. The messages communicated on Citium are decidedly short-lived (i.e. self-destructing messages) to preempt [spoliation of evidence](https://en.wikipedia.org/wiki/Spoliation_of_evidence) or data breach due to devices fallen into the wrong hands.
 - __*Deniable*__. The **last line of defense** of communicating on Citium is its technically feasible/plausible deniability, which preempts coercion, eavesdropping, such as man-in-the-middle (MITM) attack, and post-quantum computing cryptanalysis of archived surveillance data.
+
 
 ### 系統設計前設<br>System Design Premises
 
