@@ -22,12 +22,13 @@ A recent decision by the US District Court for the Northern District of Californ
 - __*E*__「**瞬逝**」。限時即焚信息預防被檢控「[銷毀證據](https://en.wikipedia.org/wiki/Spoliation_of_evidence)」或設備被盜後的資訊泄露。
 - __*D*__「**可抵賴**」。西蒂姆資訊安全的**最後一道防線**，是讓用戶掌握從技術層面來說可行、理直氣壯地否認曾經參與過的互聯網通訊行爲；因爲只有這樣才可以防範於未然用戶被【暴力】脅逼、「中間人攻擊」(MITM) 類似的竊聽行爲、和被「後量子密碼攻擊」揭發監控歷史檔案數據造成的秋後算賬。
 
-**Citium is a *SPICED* instant messaging platform**, where *SPICED* is a mnemonic that stands for __*S*__*ecure*, __*P*__*iggybacking*, __*I*__*mpervious*, __*C*__*ircumventive*, __*E*__*phemeral*, and __*D*__*eniable*.
+**Citium is an *SPICED* instant messaging platform**, where *SPICED* is a mnemonic that stands for __*S*__*ecure*, __*P*__*iggybacking*, __*I*__*mpervious*, __*C*__*ircumventive*, __*E*__*phemeral*, and __*D*__*eniable*:
+
 - __*Secure*__. Messages are encrypted on your own device with ECDSA, BLOWFISH, and XXTEA, which are time-tested and [provably secure algorithms](https://en.wikipedia.org/wiki/Provable_security) in the open source community.
 - __*Piggybacking*__. A unique feature that enables inconspicuous transmission of data through BitTorrent and Bitcoin networks, which are the world's most popular [P2P protocols](https://en.wikipedia.org/wiki/List_of_P2P_protocols) with millions of active nodes.
 - __*Impervious*__. You can send and receive messages even if all Citium nodes are removed. Service availability of Citium is impervious to [takedown](https://en.wikipedia.org/wiki/Notice_and_take_down). 
 - __*Circumventive*__. No one can stop you and your contacts from communicating even if you are in [the most pervasive level of Internet censorship](https://en.wikipedia.org/wiki/Internet_censorship_and_surveillance_by_country).
-- __*Ephemeral*__. Cleartext messages self-destruct, which preempts [spoliation of evidence](https://en.wikipedia.org/wiki/Spoliation_of_evidence) and data breach due to devices fallen into the wrong hands.
+- __*Ephemeral*__. [Cleartext](https://simple.wikipedia.org/wiki/Cleartext) messages self-destruct, which preempts [spoliation of evidence](https://en.wikipedia.org/wiki/Spoliation_of_evidence) and data breach due to devices fallen into the wrong hands.
 - __*Deniable*__. The **last line of defense** of communicating on Citium is its technically feasible/plausible deniability, which preempts coercion, eavesdropping, such as man-in-the-middle (MITM) attack, and post-quantum computing cryptanalysis of [archived surveillance data by government mass surveillance projects](https://en.wikipedia.org/wiki/List_of_government_mass_surveillance_projects).
 
 ### 系統設計前設<br>System Design Premises
