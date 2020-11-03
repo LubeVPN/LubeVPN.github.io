@@ -28,7 +28,7 @@ A recent decision by the US District Court for the Northern District of Californ
 - __*Piggybacking*__. A unique feature not made available by anyone else yet. It enables inconspicuous transmission of data through BitTorrent and Bitcoin networks, which are the world's most popular [P2P protocols](https://en.wikipedia.org/wiki/List_of_P2P_protocols) with millions of active nodes.
 - __*Impervious*__. You can send and receive messages even if all Citium nodes are removed. Service availability of Citium is impervious to [takedown](https://en.wikipedia.org/wiki/Notice_and_take_down). 
 - __*Circumventive*__. No one can stop you and your contacts from communicating even if you are in [the most pervasive level of Internet censorship](https://en.wikipedia.org/wiki/Internet_censorship_and_surveillance_by_country).
-- __*Ephemeral*__. The messages communicated on Citium are decidedly short-lived (i.e. self-destructing messages) to preempt [spoliation of evidence](https://en.wikipedia.org/wiki/Spoliation_of_evidence) or data breach due to devices fallen into the wrong hands.
+- __*Ephemeral*__. Plaintext messages self-destruct, which preempts [spoliation of evidence](https://en.wikipedia.org/wiki/Spoliation_of_evidence) or data breach due to devices fallen into the wrong hands.
 - __*Deniable*__. The **last line of defense** of communicating on Citium is its technically feasible/plausible deniability, which preempts coercion, eavesdropping, such as man-in-the-middle (MITM) attack, and post-quantum computing cryptanalysis of [archived surveillance data by government mass surveillance projects](https://en.wikipedia.org/wiki/List_of_government_mass_surveillance_projects).
 
 ### 系統設計前設<br>System Design Premises
