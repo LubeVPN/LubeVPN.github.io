@@ -29,7 +29,7 @@ A recent decision by the US District Court for the Northern District of Californ
 - __*Impervious*__. You can send and receive messages even if all Citium nodes are removed. Service availability of Citium is impervious to [takedown](https://en.wikipedia.org/wiki/Notice_and_take_down). 
 - __*Circumventive*__. No one can stop you and your contacts from communicating even if you are in [the most pervasive level of Internet censorship](https://en.wikipedia.org/wiki/Internet_censorship_and_surveillance_by_country).
 - __*Ephemeral*__. [Cleartext](https://simple.wikipedia.org/wiki/Cleartext) messages self-destruct, which preempts [spoliation of evidence](https://en.wikipedia.org/wiki/Spoliation_of_evidence) and data breach due to devices fallen into the wrong hands.
-- __*Deniable*__. The **last line of defense** of communicating on Citium is its technically feasible/plausible deniability, which preempts coercion, eavesdropping, such as man-in-the-middle (MITM) attack, and post-quantum computing cryptanalysis of [archived surveillance data by government mass surveillance projects](https://en.wikipedia.org/wiki/List_of_government_mass_surveillance_projects).
+- __*Deniable*__. The **last line of defense** is its technically feasible/plausible deniability, which preempts coercion, eavesdropping, such as man-in-the-middle (MITM) attack, and post-quantum computing cryptanalysis of [archived surveillance data by government mass surveillance projects](https://en.wikipedia.org/wiki/List_of_government_mass_surveillance_projects).
 
 ### 系統設計前設<br>System Design Premises
 
