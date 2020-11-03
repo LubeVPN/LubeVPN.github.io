@@ -24,13 +24,12 @@ A recent decision by the US District Court for the Northern District of Californ
 
 **Citium is a *SPICED* instant messaging platform**, where *SPICED* is a mnemonic that stands for __*S*__*ecure*, __*P*__*iggybacking*, __*I*__*mpervious*, __*C*__*ircumventive*, __*E*__*phemeral*, and __*D*__*eniable*.
 
-- __*Secure*__. Use time-tested and provably secure encryptions that are used in open-source high-stakes asset finance, namely Bitcoin, to ensure confidentiality.
-- __*Piggybacking*__. Citium can inconspicuously transmit data through P2P networks (i.e. BitTorrent & Bitcoin).
-- __*Impervious*__. Communication service availability of Citium is impervious to any [server takedown](https://en.wikipedia.org/wiki/Notice_and_take_down) or even all nodes removed.
+- __*Secure*__. Messages are encrypted on your own device with ECDSA, BLOWFISH, and XXTEA, which are time-tested and [provably secure algorithms](https://en.wikipedia.org/wiki/Provable_security) in the open source community.
+- __*Piggybacking*__. Transmit data inconspicuously through BitTorrent and Bitcoin, which are two of the world's most popular [P2P protocols](https://en.wikipedia.org/wiki/List_of_P2P_protocols). 
+- __*Impervious*__. Service availability is impervious to [takedown](https://en.wikipedia.org/wiki/Notice_and_take_down). You can send and receive messages even if all Citium nodes are removed.
 - __*Circumventive*__. Citium can circumvent even [the most pervasive level of Internet censorship](https://en.wikipedia.org/wiki/Internet_censorship_and_surveillance_by_country).
 - __*Ephemeral*__. The messages communicated on Citium are decidedly short-lived (i.e. self-destructing messages) to preempt [spoliation of evidence](https://en.wikipedia.org/wiki/Spoliation_of_evidence) or data breach due to devices fallen into the wrong hands.
 - __*Deniable*__. The **last line of defense** of communicating on Citium is its technically feasible/plausible deniability, which preempts coercion, eavesdropping, such as man-in-the-middle (MITM) attack, and post-quantum computing cryptanalysis of [archived surveillance data by government mass surveillance projects](https://en.wikipedia.org/wiki/List_of_government_mass_surveillance_projects).
-
 
 ### 系統設計前設<br>System Design Premises
 
