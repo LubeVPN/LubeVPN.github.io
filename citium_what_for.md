@@ -20,7 +20,7 @@ A recent decision by the US District Court for the Northern District of Californ
 - __*I*__「**抗毀**」。任何服務節點、甚至全部節點被強行撤下後依然能維持通訊服務。
 - __*C*__「**繞行**」。用戶不受哪怕[最嚴峻地區的互聯網審查](https://en.wikipedia.org/wiki/Internet_censorship_and_surveillance_by_country)機制阻礙，暢享互聯互通。
 - __*E*__「**瞬逝**」。限時即焚信息預防被檢控「[銷毀證據](https://en.wikipedia.org/wiki/Spoliation_of_evidence)」或設備被盜後的資訊泄露。
-- __*D*__「**可抵賴**」。西蒂姆資訊安全的**最後一道防線**，是讓用戶掌握從技術層面來說可行、理直氣壯地否認曾經參與過的互聯網通訊行爲；因爲只有這樣才可以防範於未然用戶被【暴力】脅逼、「中間人攻擊」(MITM) 類似的竊聽行爲、和被「後量子密碼攻擊」揭發監控歷史檔案數據造成的秋後算賬。
+- __*D*__「**可抵賴**」。西蒂姆資訊安全的**最後一道防線**，是讓用戶掌握從技術層面來說可行、理直氣壯地否認曾經參與過的互聯網通訊行爲；因爲只有這樣才可以防範於未然用戶被【暴力】脅逼、「中間人攻擊」(MITM) 類似的竊聽行爲、和被「後量子密碼攻擊」揭發的[大規模監控](https://zh.wikipedia.org/wiki/%E7%BE%8E%E5%9B%BD%E7%9A%84%E5%A4%A7%E8%A7%84%E6%A8%A1%E7%9B%91%E6%8E%A7)歷史檔案數據造成的秋後算賬。
 
 **Citium is an *SPICED* instant messaging platform**, where *SPICED* is a mnemonic that stands for __*S*__*ecure*, __*P*__*iggybacking*, __*I*__*mpervious*, __*C*__*ircumventive*, __*E*__*phemeral*, and __*D*__*eniable*:
 
