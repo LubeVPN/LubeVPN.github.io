@@ -16,7 +16,7 @@ A recent decision by the US District Court for the Northern District of Californ
 **西蒂姆是一个「安全」「借乘」「繞行」「抗毀」「瞬逝」和「可抵賴」的即時通訊平臺**：
 
 - __*S*__「**安全**」。採用受到了開源社區監督的、比特幣網絡也採用的加密算法。
-- __*P*__「**借乘**」。西蒂姆通訊數據兼容借乘P2P (BitTorrent/比特幣) 網絡傳輸全球。
+- __*P*__「**借乘**」。西蒂姆通訊數據兼容借乘[对等网络P2P](https://zh.wikipedia.org/wiki/%E5%B0%8D%E7%AD%89%E7%B6%B2%E8%B7%AF) (BitTorrent/比特幣) 網絡傳輸全球。
 - __*I*__「**抗毀**」。任何服務節點、甚至全部節點被強行撤下後依然能維持通訊服務。
 - __*C*__「**繞行**」。用戶不受哪怕[最嚴峻地區的互聯網審查](https://en.wikipedia.org/wiki/Internet_censorship_and_surveillance_by_country)機制阻礙，暢享互聯互通。
 - __*E*__「**瞬逝**」。限時即焚信息預防被檢控「[銷毀證據](https://en.wikipedia.org/wiki/Spoliation_of_evidence)」或設備被盜後的資訊泄露。
